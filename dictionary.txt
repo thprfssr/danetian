@@ -1,0 +1,1696 @@
+barda	(f)
+	ety	From PIE {bʰardʰéh₂}
+	def	beard
+
+befrus	(m)
+	ety	From PIE {bʰébʰrus}
+	def	beaver
+
+bados	(f)
+	ety	From PIE {bʰeh₂ǵos}
+	def	beech
+
+badus	(m)
+	ety	From PIE {bʰeh₂ǵʰús}
+	def	arm
+
+berdos	(m)
+	ety	From PIE {bʰerHǵós}
+	def	birch
+
+bertis	(f)
+	gen-sg	bartjes
+	ety	From PIE {bʰértis}
+	def	the act of carrying, bearing
+
+bor	(m)
+	gen-sg	bres
+	abl-pl	barmos
+	ety	From PIE {bʰṓr}
+	def	thief
+
+brevan	(n)
+	gen-sg	bravens
+	abl-pl	brunamos
+	ety	From PIE {bʰréh₁wr̥}
+	def	well, spring, source
+
+brater	(m)
+	ety	From PIE {bʰréh₂tēr}
+	def	brother
+
+bufmén	(m)
+	gen-sg	bufnes
+	abl-pl	budanmos
+	ety	From PIE {bʰudʰmḗn}
+	def	bottom
+
+buga	(f)
+	ety	From PIE {bʰugéh₂}
+	def	flight, escape
+
+dakru	(n)
+	ety	From PIE {dáḱru}
+	def	tear (in the eyes)
+
+daitis	(f)
+	ety	From PIE {déh₂itis}
+	def	time
+
+danu	(n)
+	ety	From PIE {déh₂nu}
+	def	river
+
+donom	(n)
+	ety	From PIE {déh₃nom}
+	def	gift
+
+dotis	(f)
+	gen-sg	datjes
+	ety	From PIE {déh₃tis}
+	def	act of giving
+
+dotor	(m)
+	gen-sg	datres
+	ety	From PIE {déh₃tōr}
+	def	giver
+
+desos	(n)
+	ety	From PIE {déḱos}
+	def	that which is proper
+
+denspotis	(m)
+	ety	From PIE {déms pótis}
+	def	master of the house
+
+divos	(m)
+	ety	From PIE {deywós}
+	def	god
+
+danva	(f)
+	ety	From PIE {dn̥ǵʰwéh₂s}
+	def	tongue
+	def	language
+
+dom	(m)
+	gen-sg	dens
+	dat-sg	demei
+	ety	From PIE {dṓm}
+	def	house, home
+
+doru	(n)
+	gen-sg	drus
+	dat-sg	drevei
+	abl-pl	drumos
+	ety	From PIE {dóru}
+	def	tree
+
+djus	(m)
+	gen-sg	dives
+	abl-pl	djumos
+	ety	From PIE {dyḗws}
+	def	sky, heaven
+
+fedóm	(f)
+	gen-sg	fames
+	ety	From PIE {dʰéǵʰōm}
+	def	earth
+
+feman	(n)
+	gen-sg	famens
+	ety	From PIE {dʰéh₁mn̥}
+	def	abode, dwelling
+	def	state, order
+	def	manner, mode, form
+
+fetis	(f)
+	gen-sg	fatjes
+	ety	From PIE {dʰéh₁tis}
+	def	act of putting, placement
+
+fitis	(f)
+	ety	From PIE {dʰgʷʰéytis}
+	def	decay, destruction
+
+fomos	(m)
+	ety	From PIE {dʰóh₁mos}
+	def	that which is put, placed
+	def	judgement
+
+fona	(f)
+	ety	From PIE {dʰoHnéh₂}
+	def	bread
+
+fraks	(m)
+	acc-sg	fragam
+	ety	From PIE {dʰrā́ks}
+	def	dregs, sediment (of wine, oil, fat)
+
+frugos	(m)
+	ety	From PIE {dʰrówgʰos}
+	def	a deception, falsehood, lie
+
+fugater	(f)
+	gen-sg	fugtres
+	ety	From PIE {dʰugh₂tḗr}
+	def	daughter
+
+fumos	(m)
+	ety	From PIE {dʰuh₂mós}
+	def	smoke
+
+fuor	(m)
+	gen-sg	fures
+	abl-pl	fuarmos
+	ety	From PIE {dʰwṓr}
+	def	door
+
+delus	(m)
+	ety	From PIE {ǵelu-}
+	def	leech
+
+denaman	(n)
+	gen-sg	danamens
+	ety	From PIE {ǵénh₁mn̥}
+	def	offspring, seed
+	def	(genealogical) generation
+
+denos	(n)
+	ety	From PIE {ǵénh₁os}
+	def	race, lineage
+
+denatis	(f)
+	gen-sg	danatjes
+	ety	From PIE {ǵénh₁tis}
+	def	birth
+	def	production
+
+denator	(m)
+	gen-sg	danatres
+	ety	From PIE {ǵénh₁tōr}
+	def	one who begets
+	def	one who produces
+	def	parent
+
+denus	(f)
+	gen-sg	danves
+	abl-pl	danumos
+	ety	From PIE {ǵénus}
+	def	cheek
+	def	jaw
+	def	chin
+
+dustus	(m)
+	ety	From PIE {ǵéwstus}
+	def	taste
+
+donfos	(m)
+	ety	From PIE {ǵómbʰos}
+	def	number
+
+donos	(m)
+	ety	From PIE {ǵónh₁os}
+	def	offspring
+
+donu	(n)
+	gen-sg	danves
+	abl-pl	danumos
+	ety	From PIE {ǵónu}
+	def	knee
+
+dranom	(n)
+	ety	From PIE {ǵr̥h₂nóm}
+	def	grain
+
+fer	(m)
+	ety	From PIE {ǵʰḗr}
+	def	hedgehog
+
+fesor	(f)
+	ety	From PIE {ǵʰésōr}
+	def	hand
+
+fejóm	(f)
+	gen-sg	fimes
+	ety	From PIE {ǵʰéyōm}
+	def	winter
+	cat	seasons
+
+brasmos	(m)
+	ety	From PIE {semh₂-}
+	def	summer
+	cat	seasons
+
+sosna	(f)
+	ety	From PIE {(s)h₁es-}
+	def	autumn
+	cat	seasons
+
+vosan	(n)
+	gen-sg	vesens
+	dat-sg	vesnei
+	ety	From PIE {wósr̥}
+	def	spring
+	cat	seasons
+
+famón	(m)
+	gen-sg	famnes
+	abl-pl	famanmos
+	ety	From PIE {ǵʰm̥nés}
+	def	earthling
+
+fortos	(m)
+	ety	From PIE {ǵʰórtos}
+	def	enclosure
+
+gerán	(m)
+	gen-sg	granes
+	abl-pl	granmos
+	ety	From PIE {gerh₂ḗn}
+	def	crane, heron
+
+glis	(m)
+	gen-sg	glajes
+	abl-sg	glimos
+	ety	From PIE {gl̥h₁éys}
+	def	weasel
+
+hostis	(m)
+	ety	From PIE {gʰóstis}
+	def	guest
+
+bentis	(f)
+	gen-sg	bantjes
+	ety	From PIE {gʷémtis}
+	def	step, act of walking
+
+bena	(f)
+	ety	From PIE {gʷḗn}
+	def	woman
+
+beru	(n)
+	gen-sg	brus
+	dat-sg	brevei
+	abl-pl	brumos
+	ety	From PIE {gʷéru}
+	def	spear
+
+bos	(m)
+	nom-pl	boves
+	acc-pl	bovans
+	gen-sg	bus
+	dat-sg	bevei
+	abl-pl	bumos
+	ety	From PIE {gʷṓws}
+	def	cattle
+
+bravón	(m)
+	gen-sg	brunes
+	abl-pl	bravanmos
+	ety	From PIE {gʷréh₂wō}
+	def	quern, millstone
+
+beros	(n)
+	ety	From PIE {gʷʰéros}
+	def	heat
+	def	warm weather
+
+bentis	(f)
+	ety	From PIE {gʷʰn̥téys}
+	def	striking, killing
+
+briva	(f)
+	ety	From PIE {gʷriHwéh₂}
+	def	mane, nape
+	def	neck, thoat
+	def	estuary, mouth of an inlet
+
+amnos	(m)
+	ety	From PIE {h₂egʷnós}
+	def	lamb
+
+agos	(n)
+	ety	From PIE {h₂égʰos}
+	def	(emotional) distress
+
+adros	(m)
+	ety	From PIE {h₂éǵros}
+	def	field
+
+abol	(m)
+	gen-sg	bles
+	abl-pl	balmos
+	ety	From PIE {h₂ébōl}
+	def	apple
+
+videva	(f)
+	ety	From PIE {h₁widʰéwh₂}
+	def	widow
+
+rebos	(n)
+	ety	From PIE {h₁régʷos}
+	def	darkness
+
+oitos	(m)
+	ety	From PIE {h₁óytos}
+	def	oath
+
+udan	(n)
+	ety	From PIE {h₁ówdʰr̥}
+	def	udder
+
+ombol	(m)
+	ety	From PIE {h₂óngʷōl}
+	def	charcoal
+
+olos	(m)
+	ety	From PIE {h₁ólos}
+	def	awl
+
+os	(n)
+	nom-pl	osa
+	ety	From PIE {h₁óh₃s}
+	def	mouth
+
+noman	(n)
+	gen-sg	nemens
+	ety	From PIE {h₁nómn̥}
+	def	name
+
+ludis	(m)
+	ety	From PIE {h₁léwdʰis}
+	def	people
+
+itan	(n)
+	ety	From PIE {h₁éytr̥}
+	def	way, course
+
+esan	(n)
+	gen-sg	sens
+	abl-pl	sanmos
+	ety	From PIE {h₁ésh₂r̥}
+	def	(flowing) blood
+
+esvos	(m)
+	ety	From PIE {h₁éḱwos}
+	def	horse, stallion
+
+fans	(f)
+	ety	From PIE {ǵʰh₂éns}
+	def	goose
+
+asmón	(m)
+	gen-sg	samnes
+	abl-pl	smanmos
+	ety	From PIE {h₂éḱmō}
+	def	stone
+
+alfit	(n)
+	nom-pl	alfita
+	abl-pl	alfitmos
+	ety	From PIE {h₂élbʰit}
+	def	barley
+
+alisa	(f)
+	ety	From PIE {h₂élis-}
+	def	alder
+
+anfos	(n)
+	ety	From PIE {h₂éndʰos}
+	def	bloom
+
+anfis	(m)
+	ety	From PIE {h₂éngʷʰis}
+	def	snake
+
+anamos	(m)
+	ety	From PIE {h₂enh₁mos}
+	def	breath
+
+anats	(f)
+	acc-sg	anatam
+	abl-pl	anatmos
+	ety	From PIE {h₂énh₂ts}
+	def	duck
+
+ankos	(n)
+	ety	From PIE {h₂énkos}
+	def	curve, bend
+
+antjos	(m)
+	ety	From PIE {h₂entíos}
+	def	front
+	def	forehead
+
+artrom	(n)
+	ety	From PIE {h₂érh₃trom}
+	def	plough, ard
+
+avis	(f)
+	gen-sg	ujes
+	abl-pl	vimos
+	ety	From PIE {h₂éwis}
+	def	bird
+
+ausós	(f)
+	gen-sg	uses
+	ety	From PIE {h₂éwsōs}
+	def	dawn
+
+ajos	(n)
+	ety	From PIE {h₂éyos}
+	def	copper
+	cat	elements
+
+ner	(m)
+	gen-sg	andres
+	abl-pl	narmos
+	ety	From PIE {h₂nḗr}
+	def	power, force, vital energy
+
+okris	(f)
+	gen-sg	ekris
+	ety	From PIE {h₂óḱris}
+	def	top, protrusion
+	def	sharp edge, corner
+
+ons	(m)
+	acc-sg	omam
+	gen-sg	ames
+	ety	From PIE {h₂ṓms}
+	def	shoulder
+
+onkos	(m)
+	ety	From PIE {h₂ónkos}
+	def	bend, turn
+
+ost	(n)
+	gen-sg	astes
+	ety	From PIE {h₂óst}
+	def	bone
+
+ovis	(f)
+	gen-sg	avjes
+	ety	From PIE {h₂ówis}
+	def	sheep
+
+us	(n)
+	gen-sg	auses
+	nom-pl	usa
+	ety	From PIE {h₂ṓws}
+	def	ear
+
+ojom	(n)
+	ety	From PIE {h₂ōwyóm}
+	def	egg
+
+oju	(n)
+	gen-sg	jus
+	dat-sg	juvei
+	abl-pl	jumos
+	ety	From PIE {h₂óyu}
+	def	long life, lifetime
+
+ardantom	(n)
+	ety	From PIE {h₂r̥ǵn̥tóm}
+	def	silver
+	cat	elements
+
+artos	(m)
+	ety	From PIE {h₂ŕ̥tḱos}
+	def	bear
+
+ster	(m)
+	ety	From PIE {h₂stḗr}
+	def	star
+
+lana	(f)
+	ety	From PIE {h₂wĺ̥h₁neh₂}
+	def	wool
+
+vostu	(n)
+	ety	From PIE {h₂wóstu}
+	def	home, dwelling
+
+junta	(f)
+	ety	From PIE {h₂yuHn̥téh₂}
+	def	youth
+
+brus	(f)
+	gen-sg	brus
+	dat-sg	bruvei
+	abl-pl	brumos
+	ety	From PIE {h₃bʰrúHs}
+	def	eyebrow
+
+donts	(m)
+	acc-sg	dontam
+	gen-sg	dantes
+	ety	From PIE {h₃dónts}
+	def	tooth
+
+odés	(m)
+	ety	From PIE {h₃edʰḗs}
+	def	adze, axe, hatchet
+
+omban	(n)
+	gen-sg	ambens
+	ety	From PIE {h₃éngʷn̥}
+	def	fat, butter
+
+onos	(n)
+	ety	From PIE {h₃énh₂os}
+	def	load, burden
+
+orón	(m)
+	gen-sg	arnes
+	abl-pl	ranmos
+	ety	From PIE {h₃érō}
+	def	eagle
+
+mihla	(f)
+	ety	From PIE {h₃migʰleh₂}
+	def	mist, fog
+
+nofilos	(m)
+	ety	From PIE {h₃nobʰilos}
+	def	navel
+
+noks	(m)
+	acc-sg	nogam
+	gen-sg	neges
+	ety	From PIE {h₃nṓgʰs}
+	def	nail (of the finger or toe)
+
+ops	(n)
+	nom-pl	opsa
+	gen-sg	opes
+	abl-pl	opsmos
+	ety	From PIE {h₃ókʷs}
+
+orfos	(m)
+	ety	From PIE {h₃órbʰos}
+	def	orphan
+	def	servant, slave, worker
+
+osdos	(m)
+	ety	From PIE {h₃ósdos}
+	def	branch
+
+reds	(m)
+	acc-sg	redam
+	ety	From PIE {h₃rḗǵs}
+	def	king, ruler
+
+isus	(m)
+	ety	From PIE {(H)ísus}
+	def	arrow
+
+ordis	(m)
+	ety	From PIE {h₄órǵʰis}
+	def	testicle
+
+ser	(n)
+	nom-pl	serda
+	gen-sg	sardes
+	ety	From PIE {ḱḗr}
+	def	heart
+
+sersón	(m)
+	gen-sg	krasnes
+	abl-pl	krasanmos
+	ety	From PIE {ḱérh₂sō}
+	def	head, skull
+
+slevos	(n)
+	ety	From PIE {ḱléwos}
+	def	fame
+
+slita	(f)
+	ety	From PIE {ḱléyteh₂}
+	def	slope, incline
+
+slitra	(f)
+	ety	From PIE {ḱléytreh₂}
+	def	shelter, covering
+
+slunis	(f)
+	ety	From PIE {ḱlównis}
+	def	buttocks, kip
+
+sopos	(m)
+	ety	From PIE {ḱoph₂ós}
+	def	hoof
+
+sarsos	(m)
+	ety	From PIE {ḱr̥sós}
+	def	vehicle
+
+svon	(m)
+	gen-sg	sunes
+	abl-pl	svanmos
+	ety	From PIE {ḱwṓ}
+	def	dog
+
+kagjom	(n)
+	ety	From PIE {kagʰyóm}
+	def	enclosure, hedge
+
+kapros	(m)
+	ety	From PIE {kápros}
+	def	goat
+
+kaput	(n)
+	ety	From PIE {káput}
+	def	head
+
+kotus	(m)
+	gen-sg	katves
+	ety	From PIE {kéh₃tus}
+	def	fight
+
+koksa	(f)
+	ety	From PIE {kóḱs-}
+	def	(anatomy) joint
+
+peplos	(m)
+	ety	From PIE {kʷékʷlos}
+	def	wheel
+	def	circle
+
+poina	(f)
+	ety	From PIE {kʷoynéh₂}
+	def	payment
+	def	punishment, vengeance
+
+parmis	(m)
+	ety	From PIE {kʷŕ̥mis}
+	def	worm
+
+lokus	(m)
+	gen-sg	alkves
+	ety	From PIE {lókus}
+	def	pond, pool
+	def	lake
+
+luksna	(f)
+	ety	From PIE {lówksneh₂}
+	def	moon
+
+loisa	(f)
+	ety	From PIE {lóyseh₂}
+	def	following, track
+	def	(agriculture) furrow
+
+mens	(m)
+	ety	From PIE {mḗh₁n̥s}
+	def	moon
+	def	month
+
+mater	(f)
+	ety	From PIE {méh₂tēr}
+	def	mother
+
+melit	(n)
+	gen-sg	malites
+	ety	From PIE {mélit}
+	def	honey
+
+mens	(n)
+	ety	From PIE {mḗms}
+	def	flesh, meat
+
+menos	(n)
+	ety	From PIE {ménos}
+	def	mind
+
+mentis	(f)
+	gen-sg	mantjes
+	ety	From PIE {méntis}
+	def	thought
+
+mertis	(f)
+	gen-sg	martjes
+	ety	From PIE {mértis}
+	def	death
+
+misdos	(m)
+	ety	From PIE {misdʰós}
+	def	reward, prize
+	def	wages, payment
+
+mori	(n)
+	gen-sg	marjes
+	nom-pl	morja
+	ety	From PIE {móri}
+	def	sea
+
+morvis	(f)
+	gen-sg	marvjes
+	ety	From PIE {morwi-}
+	def	ant
+
+mosgos	(m)
+	ety	From PIE {mosgʰós}
+	def	marrow
+	def	brain
+
+mus	(m)
+	gen-sg	musam
+	ety	From PIE {múh₂s}
+	def	mouse
+
+mutrom	(n)
+	ety	From PIE {múHtrom}
+	def	excrement, urine
+	def	filth, sediment
+
+anfros	(m)
+	ety	From PIE {n̥bʰrós}
+	def	rain-cloud
+	def	rain
+
+nefos	(n)
+	ety	From PIE {nébʰos}
+	def	cloud
+
+nefros	(m)
+	ety	From PIE {negʷʰrós}
+	def	kidney
+
+nas	(f)
+	ety	From PIE {néh₂s}
+	def	nose
+
+nemos	(n)
+	ety	From PIE {némos}
+	def	sacrifice
+	def	worship
+
+nisdos	(m)
+	ety	From PIE {nisdós}
+	def	nest
+
+nops	(f)
+	acc-sg	noptam
+	gen-sg	neptes
+	ety	From PIE {nókʷts}
+	def	night
+
+pavan	(n)
+	ety	From PIE {péh₂wr̥}
+	def	bonfire
+
+pesu	(n)
+	gen-sg	pasves
+	ety	From PIE {péḱu}
+	def	livestock
+
+persus	(f)
+	gen-sg	parsves
+	ety	From PIE {pérḱus}
+	def	chest
+	def	rib
+
+perkus	(m)
+	gen-sg	parkves
+	ety	From PIE {pérkus}
+	def	oak
+
+pertus	(m)
+	gen-sg	partves
+	ety	From PIE {pértus}
+	def	crossing
+
+pervan	(n)
+	gen-sg	parvens
+	abl-pl	prumos
+	ety	From PIE {pérwr̥}
+	def	ford, crossing
+
+petan	(n)
+	gen-sg	patens
+	ety	From PIE {péth₂r̥}
+	def	wing
+
+pater	(m)
+	ety	From PIE {ph₂tḗr}
+	def	father
+
+pisda	(f)
+	ety	From PIE {písdeh₂}
+	def	vulva
+
+plotus	(m)
+	gen-sg	platves
+	ety	From PIE {pléh₃tus}
+	def	flood
+
+pletos	(n)
+	ety	From PIE {pléth₂os}
+	def	breadth
+
+plumón	(m)
+	gen-sg	palvamnes
+	abl-pl	plumanmos
+	ety	From PIE {pléwmō}
+	def	lung
+
+pluksna	(f)
+	ety	From PIE {plúnksneh₂}
+	def	feather
+
+plusis	(f)
+	ety	From PIE {plúsis}
+	def	flea
+
+numan	(n)
+	abl-pl	panvamnes
+	ety	From PIE {pnéwmn̥}
+	def	breath
+	def	spirit, soul
+
+panstis	(f)
+	ety	From PIE {pn̥kʷstis}
+	def	fist
+
+pods	(m)
+	acc-sg	podam
+	gen-sg	pedes
+	ety	From PIE {pṓds}
+	def	foot
+
+ponts	(m)
+	acc-sg	pontam
+	gen-sg	pantes
+	ety	From PIE {póntoh₁s}
+	def	path
+
+porsos	(m)
+	ety	From PIE {pórḱos}
+	def	pig, piglet, hog, swine
+
+pornom	(n)
+	ety	From PIE {pornóm}
+	def	fern, leaf
+
+potis	(m)
+	ety	From PIE {pótis}
+	def	master, ruler
+	def	husband
+	def	lord
+
+sten	(m)
+	gen-sg	stanes
+	ety	From PIE {pstḗn}
+	def	breast, teat
+
+puros	(m)
+	ety	From PIE {puHrós}
+	def	wheat
+
+rugis	(m)
+	ety	From PIE {rúgʰis}
+	def	rye
+
+sedos	(n)
+	ety	From PIE {séǵʰos}
+	def	power, strength
+
+seman	(n)
+	gen-sg	samens
+	ety	From PIE {séh₁mn̥}
+	def	seed
+	def	semen
+
+sals	(m)
+	acc-sg	salam
+	ety	From PIE {séh₂ls}
+	def	salt
+
+selos	(n)
+	ety	From PIE {sélos}
+	def	marsh
+
+soia	(f)
+	ety	From PIE {(s)ḱeh₃ih₂}
+	def	shadow, shade
+
+spalos	(m)
+	ety	From PIE {(s)kʷálos}
+	def	large fish
+	def	sheatfish
+
+smerus	(m)
+	gen-sg	smarves
+	ety	From PIE {smérus}
+	def	grease
+
+snevan	(n)
+	gen-sg	snavens
+	ety	From PIE {snéh₁wr̥}
+	def	sinew, tendon
+
+snetan	(n)
+	gen-sg	snatens
+	ety	From PIE {(s)néHtr̥}
+	def	adder (type of snake)
+
+snoifos	(m)
+	ety	From PIE {snóygʷʰos}
+	def	snow
+
+sovan	(n)
+	gen-sg	savens
+	ety	From PIE {sóh₂wl̥}
+	def	sun
+
+sosan	(n)
+	gen-sg	sens
+	ety	From PIE {sóḱr̥}
+	def	dung, excrement
+
+sopos	(m)
+	ety	From PIE {sokʷos}
+	def	juice
+
+soitos	(m)
+	ety	From PIE {soytós}
+	def	magic
+
+speks	(m)
+	acc-sg	spesam
+	gen-sg	spases
+	ety	From PIE {spéḱs}
+	def	watcher
+	def	spy
+
+sper	(m)
+	ety	From PIE {spḗr}
+	def	sparrow
+
+streps	(f)
+	acc-sg	strefam
+	gen-sg	strafes
+	ety	From PIE {(s)rḗps}
+	def	turnip, rape, cabbage
+
+staman	(n)
+	ety	From PIE {stéh₂mn̥}
+	def	that which stands, stature
+
+statis	(f)
+	ety	From PIE {stéh₂tis}
+	def	standing, position
+
+stoigos	(m)
+	ety	From PIE {stóygʰos}
+	def	path, way
+
+sunus	(m)
+	ety	From PIE {suHnús}
+	def	son
+
+svennos	(m)
+	ety	From PIE {supnós}
+	def	sleep, slumber
+
+svesor	(f)
+	gen-sg	sustres
+	abl-pl	susarmos
+	ety	From PIE {swésōr}
+	def	sister
+
+tauros	(m)
+	ety	From PIE {táwros}
+	def	bull
+
+tenos	(n)
+	ety	From PIE {ténos}
+	def	extension
+
+tentis	(f)
+	gen-sg	tantjes
+	ety	From PIE {téntis}
+	def	extension
+
+tepos	(n)
+	ety	From PIE {tépos}
+	def	warmth, heat
+
+terman	(n)
+	gen-sg	tarmens
+	ety	From PIE {térmn̥}
+	def	boundary, end
+
+tektón	(m)
+	gen-sg	tasnes
+	abl-pl	tasanmos
+	ety	From PIE {tétḱō}
+	def	carpenter
+
+tuta	(f)
+	ety	From PIE {tewtéh₂}
+	def	people, tribe
+
+tonos	(m)
+	ety	From PIE {tónos}
+	def	chord, fiber, string
+
+persna	(f)
+	ety	From PIE {tpḗrsneh₂}
+	def	heel, upper thigh
+
+uderos	(m)
+	ety	From PIE {úderos}
+	def	abdomen, stomach
+
+viman	(n)
+	ety	From PIE {wéh₁imn̥}
+	def	that which is twisted, plaiting
+
+vitis	(f)
+	ety	From PIE {wéh₁itis}
+	def	that which twines or bends
+	def	branch, switch
+
+veksperos	(m)
+	ety	From PIE {wek(ʷ)speros}
+	def	evening
+
+verdom	(n)
+	ety	From PIE {werdʰh₁om}
+	def	word
+
+verdom	(n)
+	ety	From PIE {wérǵom}
+	def	work
+
+verna	(f)
+	ety	From PIE {wern-}
+	def	alder
+
+vestis	(f)
+	gen-sg	ustjes
+	ety	From PIE {wéstis}
+	def	the act of dressing
+	def	clothing
+
+vistor	(m)
+	ety	From PIE {wéydtōr}
+	def	one who has seen, one who knows
+	def	witness
+
+viros	(m)
+	ety	From PIE {wiHrós}
+	def	man
+	def	husband
+	def	warrior, hero
+
+vispotis	(m)
+	ety	From PIE {wiḱpótis}
+	def	clan chief
+	def	lord
+
+valpos	(m)
+	ety	From PIE {wĺ̥kʷos}
+	def	wolf
+
+vodan	(n)
+	gen-sg	vedens
+	ety	From PIE {wódr̥}
+	def	water
+
+vops	(f)
+	acc-sg	vopam
+	ety	From PIE {wṓkʷs}
+	def	voice, speech
+
+rads	(f)
+	acc-sg	radam
+	ety	From PIE {wréh₂ds}
+	def	root
+
+Ren	(m)
+	gen-sg	Ranes
+	ety	From PIE {wr̥h₁ḗn}
+	def	Aries
+	cat	constellations
+
+jemos	(m)
+	ety	From PIE {yémHos}
+	def	twin
+
+jugos	(n)
+	ety	From PIE {yéwgos}
+	def	team
+	def	pair of yoked animals
+
+somjugos	(n)
+	ety	From Danetian {jugos}
+	def	union
+
+somjugestos	(adj)
+	ety	From Danetian {somjugos}
+	def	united
+
+djolet	(m)
+	ety	From a Turkic language; compare Uyghur {dölet} and Uzbek {davlat}
+	def	(political) state
+
+sovietiskos	(adj)
+	ety	From Russian {сове́т}
+	def	Soviet (pertaining to the Soviet Union)
+
+Sovietiskom Somjugos	(n)
+	def	Soviet Union
+	cat	countries
+
+Somjugos Sovietiskóm Socialistiskóm Respublicóm	(n)
+	def	Union of Soviet Socialist Republics
+	cat	countries
+
+socialistiskos	(adj)
+	ety	From French {socialiste}
+	def	socialist
+
+respublica	(f)
+	ety	From Latin {rēspūblica}
+	def	republic
+
+America	(f)
+	ety	From Latin {America}
+	def	America
+	cat	countries
+
+Somjugestói Djoletes Americas	(m)
+	def	United States of America
+	cat	countries
+
+jevos	(n)
+	ety	From PIE {yéwos}
+	def	cereal, grain
+	def	barley, spelt
+
+jeros	(m)
+	ety	From PIE {yóh₁r̥}
+	def	year
+
+jopan	(n)
+	gen-sg	jepens
+	ety	From PIE {yókʷr̥}
+	def	liver
+
+jugom	(n)
+	ety	From PIE {yugóm}
+	def	yoke
+
+spesa	(f)
+	ety	From PIE {spéh₁s}
+	def	prosperity, success
+
+reja	(f)
+	ety	From PIE {reh₁is}
+	def	wealth, goods, riches
+
+naus	(f)
+	gen-sg	naves
+	abl-pl	naumos
+	ety	From PIE {néh₂us}
+	def	boat, ship
+
+lus	(m)
+	acc-sg	lusam
+	ety	From PIE {lewH-}
+	def	louse
+
+kreva	(f)
+	ety	From PIE {kréwh₂s}
+	def	(raw) blood
+
+Rossia	(f)
+	ety	From Byzantine Greek {Ῥωσία}
+	def	Russia
+	cat	countries
+
+rossiskos	(adj)
+	ety	From Danetian {Rossia}
+	def	Russian
+
+Rossiska Foideracion	(f)
+	def	Russian Federation
+	cat	countries
+
+palaciom	(n)
+	ety	From Latin {palātium}
+	def	palace
+
+palacials	(adj)
+	ety	From French {palatial}
+	def	palatial, pertaining to palaces
+
+foideracion	(f)
+	ety	From Latin {foederatio}
+	def	federation
+
+buftos	(adj)
+	ety	From PIE {bʰudʰtós}
+	def	aware
+
+brunos	(adj)
+	ety	From PIE {bʰruHnós}
+	def	brown
+	cat	colors
+
+bosos	(adj)
+	ety	From PIE {bʰosós}
+	def	bare, barefoot
+
+biftos	(adj)
+	ety	From PIE {bʰidʰtós}
+	def	trusted, trustworthy
+
+bistos	(adj)
+	ety	From PIE {bʰidtós}
+	def	split, cloven
+
+bardátos	(adj)
+	ety	From PIE {bʰardʰéh₂tos}
+	def	bearded
+
+alfos	(adj)
+	ety	From PIE {albʰós}
+	def	white
+	cat	colors
+
+fufnos	(adj)
+	ety	From PIE {dʰubʰrós}
+	def	deep
+
+fjesteros	(adj)
+	ety	From PIE {dʰǵʰyésteros}
+	def	pertaining to yesterday
+
+fjestere	(adv)
+	ety	From Danetian {fjesteros}
+	def	yesterday
+
+dusmenés	(adj)
+	ety	From PIE {dusmenḗs}
+	def	good-minded, good-willed, kind
+
+lonhos	(adj)
+	ety	From PIE {dlongʰos}
+	def	long
+
+divjos	(adj)
+	ety	From PIE {diwyós}
+	def	heavenly
+
+datos	(adj)
+	ety	From PIE {dh₃tós}
+	def	given
+
+svadus	(adj)
+	ety	From PIE {swéh₂dus}
+	def	sweet
+
+benfus	(adj)
+	ety	From PIE {bʰénǵʰus}
+	def	dense, thick
+
+berdonts	(adj)
+	gen-sg	berdantes
+	ety	From PIE {bʰérǵʰonts}
+	def	high
+
+bantos	(adj)
+	ety	From PIE {gʷm̥tós}
+	def	passable
+
+bivos	(adj)
+	ety	From PIE {gʷih₃wós}
+	def	alive, living
+
+graftos	(adj)
+	ety	From PIE {gr̥bʰtós}
+	def	carved
+	def	written
+
+futos	(adj)
+	ety	From PIE {ǵʰutós}
+	def	poured
+
+natos	(adj)
+	ety	From PIE {ǵn̥h₃tós}
+	def	known, recognizable
+
+natos	(adj)
+	ety	From PIE {ǵn̥h₁tós}
+	def	begotten, produced
+
+deronts	(adj)
+	ety	From PIE {ǵérh₂onts}
+	def	old
+
+restos	(adj)
+	ety	From PIE {h₃reǵtós}
+	def	straightened, right, upright
+
+onostos	(adj)
+	ety	From PIE {h₃enh₂ostos}
+	def	loaded; burdened
+
+junsos	(adj)
+	ety	From PIE {h₂yuHn̥ḱós}
+	def	young
+
+moldus	(adj)
+	ety	From PIE {(h₂)moldus}
+	def	soft, weak
+
+anfus	(adj)
+	ety	From PIE {h₂énǵʰus}
+	def	narrow, tight
+
+amos	(adj)
+	ety	From PIE {h₂eh₃mós}
+	def	raw, uncooked
+	def	bitter
+
+adrjos	(adj)
+	ety	From PIE {h₂éǵr̥yos}
+	def	campestral, pertaining to fields
+
+vesus	(adj)
+	ety	From PIE {h₁wésus}
+	def	good, excellent
+
+verus	(adj)
+	ety	From PIE {h₁wérus}
+	def	broad
+
+rufros	(adj)
+	ety	From PIE {h₁rudʰrós}
+	def	red
+	cat	colors
+
+lanfros	(adj)
+	ety	From PIE {h₁ln̥gʷʰrós}
+	def	lightweight
+
+itos	(adj)
+	ety	From PIE {h₁itós}
+	def	passable
+
+enteros	(adj)
+	ety	From PIE {h₁énteros}
+	def	inside, within
+
+juktos	(adj)
+	ety	From PIE {yugtós}
+	def	yoked, joined
+
+varstos	(adj)
+	ety	From PIE {wr̥ǵtós}
+	def	worked, fashioned
+
+vistos	(adj)
+	ety	From PIE {widtós}
+	def	seen, known
+
+veros	(adj)
+	ety	From PIE {weh₁ros}
+	def	true
+
+usteros	(adj)
+	ety	From PIE {údteros}
+	def	higher, outer
+
+udros	(adj)
+	ety	From PIE {udrós}
+	def	of water, aquatic
+
+tarnos	(adj)
+	ety	From PIE {tr̥nós}
+	def	sharp, stiff
+
+tantos	(adj)
+	ety	From PIE {tn̥tós}
+	def	stretched, extended
+
+latos	(adj)
+	ety	From PIE {tl̥h₂tós}
+	def	lifted
+
+tenus	(adj)
+	ety	From PIE {ténh₂us}
+	def	thin
+
+tegus	(adj)
+	ety	From PIE {tégus}
+	def	thick
+
+suros	(adj)
+	ety	From PIE {súHros}
+	def	sour, acidic
+
+stratos	(m)
+	ety	From PIE {str̥h₃tós}
+	def	valley
+
+statos	(adj)
+	ety	From PIE {sth₂tós}
+	def	placed, standing
+
+senos	(adj)
+	ety	From PIE {sénos}
+	def	old
+
+sestos	(adj)
+	ety	From PIE {sedtós}
+	def	seated
+
+prios	(adj)
+	ety	From PIE {priHós}
+	def	dear, beloved
+	def	happy, free
+
+plutos	(adj)
+	ety	From PIE {plutós}
+	def	washed
+	def	floated
+
+paltanos	(adj)
+	ety	From PIE {pl̥th₂enós}
+	def	wide, broad
+
+planos	(adj)
+	ety	From PIE {pl̥h₁nós}
+	def	full
+
+pletus	(adj)
+	ety	From PIE {pléth₂us}
+	def	flat, broad
+
+pletia	(adj)
+	ety	From Danetian {pletus}
+	def	square, plaza
+
+martos	(adj)
+	ety	From PIE {mr̥tós}
+	def	dead
+	def	mortal
+
+nevos	(adj)
+	ety	From PIE {néwos}
+	def	new
+
+nesus	(adj)
+	ety	From PIE {néḱus}
+	def	dead
+	def	mortal
+
+mardus	(adj)
+	ety	From PIE {mr̥ǵʰús}
+	def	short
+	def	brief
+
+makros	(adj)
+	ety	From PIE {mh₂ḱrós}
+	def	lean, meager
+
+medjos	(adj)
+	ety	From PIE {médʰyos}
+	def	middle
+
+kruros	(adj)
+	ety	From PIE {kruh₂rós}
+	def	bloody
+
+karsnos	(adj)
+	ety	From PIE {kr̥snós}
+	def	black
+	def	dark, dusky
+
+kaikos	(adj)
+	ety	From PIE {káykos}
+	def	blind
+
+kaptos	(adj)
+	ety	From PIE {kaptós}
+	def	seized, held
+
+slivos	(adj)
+	ety	From PIE {ḱleywós}
+	def	sloped, curved
+
+slitos	(adj)
+	ety	From PIE {ḱlitós}
+	def	covered, sheltered
+
+slutos	(adj)
+	ety	From PIE {ḱlutós}
+	def	heard, listened
+	def	known, famous
+
+medanos	(adj)
+	ety	From PIE {méǵh₂s}
+	def	big, great
+
+urusj	(m)
+	ety	From a Turkic language; compare Uzbek {urush} and Turkmen {uruş}
+	def	war
+
+kros	(adj)
+	ety	From PIE {h₂ḱrós}
+	def	sharp
+
+vents	(m)
+	acc-sg	ventam
+	gen-sg	vantes
+	ety	From PIE {h₂wéh₁n̥ts}
+	def	wind
+
+kentis	(f)
+	gen-sg	kantes
+	ety	From PIE {ken-}
+	def	beginning, start
+
+redia	(f)
+	ety	From PIE {h₃reǵ-}
+	def	law
+	def	(law) right
+
+sonfis	(m)
+	ety	From PIE {som-dʰh₁-is}, from {dʰeh₁-}
+	def	judge
+
+podsjolik	(m)
+	ety	From a Turkic language; compare Uzbek {podsholik}
+	def	kingdom
+
+ullimmanos	(adj)
+	ety	From Danetian {linepti}
+	def	omitted; forgotten
+
+praisident	(m)
+	ety	From Latin {praesidēns}
+	def	president
+
+oiconomia	(f)
+	ety	From Latin {oeconomia}, from Ancient Greek {οἰκονομία}
+	def	economy
+
+Aigyptos	(f)
+	ety	From Latin {Aegyptus}, from Ancient Greek {Αἴγυπτος}, from Egyptian {ḥwt-kꜣ-ptḥ}
+	def	Egypt
+
+schola	(f)
+	ety	From Latin {schola}, from Ancient Greek {σχολή}
+	def	school
+
+tjómir	(m)
+	ety	From a Turkic language; compare Uzbek {temir}, Turkmen {demir}, Uyghur {tömür}, and Kazakh {темір}
+	def	iron
+	cat	elements
+
+simap	(m)
+	ety	From a Turkic language; compare Uzbek {simob}, Uyghur {simab}, and Turkmen {simap}
+	def	mercury (element)
+	cat	elements
+
+metrom	(n)
+	ety	From French {mètre}, from Ancient Greek {μέτρον}
+	def	meter (unit of measurement)
+	cat	units-of-measurement
+
+secundom	(n)
+	ety	From Latin {secundum}
+	def	second (unit of measurement)
+	cat	units-of-measurement
+
+grammom	(n)
+	ety	From French {gramme}, from Ancient Greek {γράμμα}
+	def	gram (unit of measurement)
+	cat	units-of-measurements
+
+oinika	(f)
+	ety	From Danetian {oinos}
+	def	unit
+
+encyclopaidia	(f)
+	ety	From New Latin {encyclopaedīa}
+	def	encyclopedia
+
+doctor	(m)
+	ety	From Latin {doctor}
+	def	doctor
+
+physica	(f)
+	ety	From Latin {physica}, from Ancient Greek {φυσική}
+	def	physics
+
+oinos	(num)
+	ety	From PIE {*óynos}
+	def	one
+
+dvo	(num)
+	ety	From PIE {*dwóh₁}
+	def	two
+
+tres	(num)
+	ety	From PIE {*tréyes}
+	def	three
+
+petvores	(num)
+	ety	From PIE {*kʷetwóres}
+	def	four
+
+pempe	(num)
+	ety	From PIE {*pénkʷe}
+	def	five
+
+sveks	(num)
+	ety	From PIE {*swéḱs}
+	def	six
+
+septam	(num)
+	ety	From PIE {*septḿ̥}
+	def	seven
+
+okto	(num)
+	ety	From PIE {*oḱtṓw}
+	def	eight
+
+nevan	(num)
+	ety	From PIE {*h₁néwn̥}
+	def	nine
+
+desam	(num)
+	ety	From PIE {*déḱm̥}
+	def	ten
+
+vidsanti	(num)
+	ety	From PIE {*wídḱm̥ti}
+	def	twenty

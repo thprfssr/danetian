@@ -1694,3 +1694,11 @@ desam	(num)
 vidsanti	(num)
 	ety	From PIE {*wídḱm̥ti}
 	def	twenty
+
+sventos	(adj)
+	ety	From PIE {*ḱwen-}
+	def	holy, sacred
+
+svenseti	(v)
+	ety	From PIE {*ḱwen-}
+	def	to make holy, to hallow, to make sacred, to sanctify

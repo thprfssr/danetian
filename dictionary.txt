@@ -1586,7 +1586,7 @@ sonfis	(m)
 	ety	From PIE {som-dʰh₁-is}, from {dʰeh₁-}
 	def	judge
 
-podsjolik	(m)
+potsjolik	(m)
 	ety	From a Turkic language; compare Uzbek {podsholik}
 	def	kingdom
 
@@ -1706,3 +1706,44 @@ svenseti	(v)
 iti	(v)
 	ety	From PIE {*h₁éyti}, with some inflectional forms suppleted by {*gʷem-}
 	def	to go
+
+en	(prep)
+	ety	From PIE {*h₁en}
+	def	(loc) in
+	def	(acc) into
+
+upo	(prep)
+	ety	From PIE {*upó}
+	def	(loc) under
+	def	(ins) according to
+
+uper	(prep)
+	ety	From PIE {*upér}
+	def	(loc) over
+	def	(dat) on behalf of, for the sake of
+	def	(gen) because of
+	def	(ins) about, concerning
+	def	(acc) over, beyond
+	def	(acc) above, exceeding in quantity, upwards of
+
+medi	(prep)
+	ety	From PIE {*médʰyos}
+	def	(ins) between, among
+
+som	(prep)
+	ety	From PIE {*ḱóm}
+	def	(ins) with
+
+opi	(prep)
+	ety	From PIE {*h₁opi}
+	def	(ins) near, by
+	def	(loc) on, upon, on the upper surface of
+	def	(gen) before (in the presence of)
+
+apo	(prep)
+	ety	From PIE {*h₂epó}
+	def	(abl) off, away, from
+
+opiti	(v)
+	ety	From Danetian {opi} and {iti}
+	def	to come

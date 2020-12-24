@@ -1702,3 +1702,7 @@ sventos	(adj)
 svenseti	(v)
 	ety	From PIE {*ḱwen-}
 	def	to make holy, to hallow, to make sacred, to sanctify
+
+iti	(v)
+	ety	From PIE {*h₁éyti}, with some inflectional forms suppleted by {*gʷem-}
+	def	to go

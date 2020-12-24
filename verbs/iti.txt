@@ -1,0 +1,59 @@
+Active
+	Indicative
+		Present
+			edo	imi
+			tu	isi
+			ino	iti
+			vi	imos
+			ju	ite
+			inoi	jenti
+		Imperfect
+			edo	em
+			tu	is
+			ino	it
+			vi	ime
+			ju	ite
+			inoi	jent
+		Perfect
+			edo	bem
+			tu	bens
+			ino	bent
+			vi	bamme
+			ju	bante
+			inoi	bament
+	Subjunctive
+		Present
+			edo	jem
+			tu	jes
+			ino	jet
+			vi	ime
+			ju	ite
+			inoi	jent
+		Imperfect
+			edo	bamjém
+			tu	bamjés
+			ino	bamjét
+			vi	bamíme
+			ju	bamíte
+			inoi	bamínt
+		Perfect
+			edo	bebamjém
+			tu	bebamjés
+			ino	bebamjét
+			vi	bebamíme
+			ju	bebamíte
+			inoi	bebamínt
+		Present Perfect
+			edo	beboma
+			tu	bebonta
+			ino	bebome
+			vi	bebamme
+			ju	bemme
+			inoi	bemmer
+	Imperative
+		Present
+			tu	bem
+			ju	bante
+		Perfect
+			tu	bebom
+			ju	bebante

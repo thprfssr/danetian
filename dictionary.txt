@@ -1747,3 +1747,7 @@ apo	(prep)
 opiti	(v)
 	ety	From Danetian {opi} and {iti}
 	def	to come
+
+jehania	(f)
+	ety	From a Turkic language, and ultimately from Middle Persian {gēhān}; compare Bashkir {йыһан}
+	def	world, universe, cosmos

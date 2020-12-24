@@ -45,6 +45,12 @@ bufmén	(m)
 	ety	From PIE {bʰudʰmḗn}
 	def	bottom
 
+nebufmén	(m)
+	gen-sg	nebufnes
+	abl-pl	nebudanmos
+	ety	From Danetian {ne + bufmén}
+	def	abyss, bottomless pit
+
 buga	(f)
 	ety	From PIE {bʰugéh₂}
 	def	flight, escape
@@ -1751,3 +1757,24 @@ opiti	(v)
 jehania	(f)
 	ety	From a Turkic language, and ultimately from Middle Persian {gēhān}; compare Bashkir {йыһан}
 	def	world, universe, cosmos
+
+nevidmos	(adj)
+	ety	From Danetian {voide}
+	def	unseen
+
+nuti	(prep)
+	ety	Unknown
+	def	(abl) without
+
+ops	(n)
+	gen-sg	opes
+	ety	From PIE {*h₃ókʷs}
+	def	eye
+
+pretiops	(n)
+	ety	From PIE {*préti + *h₃ókʷs}
+	def	face
+
+nutipretiopés	(adj)
+	ety	From Danetian {nuti + pretiops}
+	def	faceless, formless, shapeless

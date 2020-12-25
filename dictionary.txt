@@ -1303,7 +1303,7 @@ fjestere	(adv)
 
 dusmenés	(adj)
 	ety	From PIE {dusmenḗs}
-	def	good-minded, good-willed, kind
+	def	ill-disposed, wicked
 
 lonhos	(adj)
 	ety	From PIE {dlongʰos}

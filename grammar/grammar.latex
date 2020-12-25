@@ -1,0 +1,608 @@
+\documentclass{article}
+\title{Grammar of the Danetian Language}
+\author{Javier Castro}
+\date{\today}
+
+
+% Number each paragraph in the style of the Real Academia Española
+\renewcommand{\theparagraph}{\S\arabic{paragraph}}
+\setcounter{secnumdepth}{4}
+
+% For two-column lists
+\usepackage{multicol}
+
+% For roman-numeral enumerated lists
+\usepackage{enumerate}
+
+% For linguistic abbreviations
+\usepackage{leipzig}
+
+% Use a linguistics font under the appropriate environment
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\newfontfamily\ipafont{CharisSIL}
+\newcommand{\lan}[1]{{\ipafont \textit{#1}}}
+\newcommand{\ipa}[1]{{\ipafont #1}}
+
+% Set main font to be the linguistics font
+\setmainfont{CharisSIL}
+
+
+\begin{document}
+\maketitle
+
+\section*{Introduction}
+
+
+
+
+\newpage
+\section*{Nouns}
+
+\paragraph{General properties}
+Nouns inflect according to three genders (\textit{masculine},
+\textit{feminine}, and \textit{neuter}), two
+numbers (\textit{singular} and \textit{plural}), and seven cases
+(\textit{nominative}, \textit{accusative}, \textit{genitive},
+\textit{ablative}, \textit{dative}, \textit{locative},
+and \textit{instrumental}). However, gender is a property that is inherent
+to a noun. Therefore, an inflection table for a noun should have $2\times 7$
+entries.
+
+\paragraph{Case}
+
+\paragraph{Strong and weak cases}
+The seven cases can be divided into two types: the strong cases ({\Nom} and
+\Acc), and the weak cases (\Gen, \Abl, \Dat, \Loc, and \Ins). There are two
+main reasons for this.
+\begin{enumerate}[i]
+	\item For neuter nouns, the strong cases are always identical, while
+		for all other nouns, the strong cases are always distinct.
+		Thus, it makes sense to group the strong cases together. For
+		example,
+
+		\begin{center}
+		\begin{tabular}{l|lll}
+			\hline\hline
+			~ & gift (\N) & man (\M) & woman (\F) \\
+			\hline
+			\Nom & \lan{donom} & \lan{viros} & \lan{bena} \\
+			\Acc & \lan{donom} & \lan{virom} & \lan{benam} \\
+			\hline\hline
+		\end{tabular}
+		\end{center}
+
+	\item There are some nouns that use one stem for the strong cases, and
+		a different stem for the weak cases:
+
+		\begin{center}
+		\begin{tabular}{l|lll}
+			\hline\hline
+			~ & thought & dog & lake \\
+			\hline
+			\Nom & \lan{mentis} & \lan{svon} & \lan{lokus} \\
+			\Gen & \lan{manties} & \lan{sunes} & \lan{alkves} \\
+			\hline\hline
+		\end{tabular}
+		\end{center}
+\end{enumerate}
+
+
+\paragraph{Inflection classes}
+By examining how each noun inflects, we can come up with several broad
+categories:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \textbf{I}: \lan{a}-stem nouns
+	\item \textbf{II}: \lan{o}-stem nouns
+	\item \textbf{III-i}: \lan{i}-stem nouns
+	\item \textbf{III-u}: \lan{u}-stem nouns
+	\item \textbf{III-s}: \lan{es}-stem nouns
+	\item \textbf{III-n}: \lan{en}-stem nouns
+	\item \textbf{III-L}: liquid-stem nouns
+	\item \textbf{III-F}: fleeting \lan{s} nouns
+	\item \textbf{III-C}: consonant-stem nouns
+\end{itemize}
+\end{multicols}
+
+Historically, these categories have been grouped into the \textit{first
+declension} (\textbf{I}), \textit{second declension} (\textbf{II}), and
+\textit{third declension} (\textbf{III}). As can be seen from the list above,
+the third declension contains many subcategories.
+
+\paragraph{\lan{a}-stem nouns}
+
+Another of the biggest classes of nouns are the \lan{a}-stems. The vast
+majority of these are feminine, but there are some masculines here and there.
+Some familiar examples include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{barda} (\F): beard
+	\item \lan{bena} (\F): woman
+	\item \lan{danva} (\F): tongue; language
+	\item \lan{lana} (\F): wool
+	\item \lan{luksna} (\F): moon
+	\item \lan{redia} (\F): law, right
+	\item \lan{pisda} (\F): vulva
+	\item \lan{pletia} (\F): square, plaza
+	\item \lan{pluksna} (\F): feather
+	\item \lan{poina} (\F): punishment
+	\item \lan{videva} (\F): widow
+\end{itemize}
+\end{multicols}
+
+Since all \lan{a}-stem nouns inflect regularly, we can choose one of them to
+represent them all.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{bena} & \lan{benai} \\
+	\Acc & \lan{benam} & \lan{benans} \\
+	\Gen & \lan{benas} & \lan{benóm} \\
+	\Abl & \lan{benas} & \lan{benamos} \\
+	\Dat & \lan{benai} & \lan{benamos} \\
+	\Loc & \lan{beni} & \lan{benasu} \\
+	\Ins & \lan{bene} & \lan{benafi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\paragraph{\lan{o}-stem nouns}
+
+One of the biggest classes of nouns are the \lan{o}-stem nouns. The vast
+majority of nouns in this class are masculine and neuter, but there are a few
+feminines here and there. Some familiar examples include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{adros} (\M): field
+	\item \lan{Aigyptos} (\F): Egypt
+	\item \lan{artos} (\M): bear
+	\item \lan{divos} (\M): god
+	\item \lan{donom} (\N): gift
+	\item \lan{dranom} (\N): grain
+	\item \lan{fumos} (\M): smoke
+	\item \lan{jugom} (\N): yoke
+	\item \lan{kapros} (\M): goat
+	\item \lan{nefros} (\M): kidney
+	\item \lan{nisdos} (\M): nest
+	\item \lan{orfos} (\M): orphan; slave
+	\item \lan{peplos} (\M): wheel, circle
+	\item \lan{snoifos} (\M): snow
+	\item \lan{svennos} (\M): sleep, slumber
+	\item \lan{tauros} (\M): bull
+	\item \lan{valpos} (\M): wolf
+	\item \lan{verdom} (\N): word
+	\item \lan{viros} (\M): man
+\end{itemize}
+\end{multicols}
+
+Notice that all \lan{o}-stem neuters end in \lan{-om}, and the rest of the
+\lan{o}-stems end in \lan{-os}. Since they all inflect regularly, we can
+simply choose two nouns (one in \lan{-os} and one in \lan{-om}) to serve as
+role models for all the \lan{o}-stems.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{viros} & \lan{viroi} \\
+	\Acc & \lan{virom} & \lan{virons} \\
+	\Gen & \lan{virosjo} & \lan{viróm} \\
+	\Abl & \lan{virad} & \lan{viromos} \\
+	\Dat & \lan{viroi} & \lan{viromos} \\
+	\Loc & \lan{viri} & \lan{virosu} \\
+	\Ins & \lan{vire} & \lan{virois} \\
+	\hline\hline
+\end{tabular}
+\quad
+\quad
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{donom} & \lan{dona} \\
+	\Acc & \lan{donom} & \lan{dona} \\
+	\Gen & \lan{donosjo} & \lan{donóm} \\
+	\Abl & \lan{donad} & \lan{donomos} \\
+	\Dat & \lan{donoi} & \lan{donomos} \\
+	\Loc & \lan{doni} & \lan{donosu} \\
+	\Ins & \lan{done} & \lan{donois} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+
+\paragraph{\lan{i}-stem nouns}
+
+The \lan{i}-stem nouns include both masculine and feminine nouns, and exactly
+one neuter noun. Many nouns in this class have one stem for the strong cases
+and another stem for the weak cases. Therefore, when listing them out on a
+dictionary, it is important to list the {\Nom-\Sg} and the {\Gen-\Pl} to
+represent the strong and weak stems, respectively. \footnote{These are called
+the \textit{principal parts} of a noun.} If only the {\Nom-\Sg} is listed on a
+dictionary entry, then we can assume that the noun doesn't change its stem.
+Some familiar examples of \lan{i}-stem nouns include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{avis}\footnote{Irregular noun.} (\F): bird
+	\item \lan{dotis, daties} (\F): act of giving
+	\item \lan{hostis} (\M): guest
+	\item \lan{mentis, manties} (\F): thought
+	\item \lan{mertis, marties} (\F): death
+	\item \lan{mori, maries} (\N): sea
+	\item \lan{ovis, avies} (\F): sheep
+	\item \lan{statis} (\F): standing; position
+	\item \lan{vestis, usties} (\F): clothing
+\end{itemize}
+\end{multicols}
+
+Since the vast majority of \lan{i}-stem nouns are regular \footnote{A noun
+that has one stem for the strong cases and another stem for the weak cases is
+still considered regular, because its inflection table can be inferred from
+just two principal parts: the {\Nom-\Sg} and the {\Gen-\Sg}.}, we can just
+choose one word to represent all regular nouns in this class, and then treat
+the irregular nouns separately.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{hostis} & \lan{hostes} \\
+	\Acc & \lan{hostim} & \lan{hostins} \\
+	\Gen & \lan{hosties} & \lan{hostióm} \\
+	\Abl & \lan{hosties} & \lan{hostimos} \\
+	\Dat & \lan{hostiei} & \lan{hostimos} \\
+	\Loc & \lan{hosti} & \lan{hostisu} \\
+	\Ins & \lan{hostie} & \lan{hostifi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+The only neuter \lan{i}-stem noun is \lan{mori}, and it's completely regular,
+albeit with a change of stem.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{mori} & \lan{moria} \\
+	\Acc & \lan{mori} & \lan{moria} \\
+	\Gen & \lan{maries} & \lan{marióm} \\
+	\Abl & \lan{maries} & \lan{marimos} \\
+	\Dat & \lan{mariei} & \lan{marimos} \\
+	\Loc & \lan{mari} & \lan{marisu} \\
+	\Ins & \lan{marie} & \lan{marifi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+One notable irregular noun is \lan{avis}. It is considered irregular because it
+has three distinct stems, instead of the usual one or two. Moreover, since one
+of the stems is purely vocalic, an epenthetic consonant is sometimes inserted
+between the stem and the ending. The inflection table is shown below.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{avis} & \lan{aves} \\
+	\Acc & \lan{avim} & \lan{avins} \\
+	\Gen & \lan{ujes} & \lan{ujóm} \\
+	\Abl & \lan{ujes} & \lan{vimos} \\
+	\Dat & \lan{ujei} & \lan{vimos} \\
+	\Loc & \lan{uvi} & \lan{visu} \\
+	\Ins & \lan{uje} & \lan{vifi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+The inflection tables for all irregular nouns can be found in section
+\ref{sec:irregular-nouns}.
+
+\paragraph{\lan{u}-stem nouns}
+
+The \lan{u}-stem nouns include nouns from all three genders. Since this class
+is a relic from PIE, there are relatively many irregular nouns here. Some
+familiar examples include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{befrus} (\M): beaver
+	\item \lan{brus}\footnote{Irregular noun.} (\F): eyebrow
+	\item \lan{dakru} (\N): tear (of the eye)
+	\item \lan{danu}\footnotemark[\value{footnote}] (\N): river
+	\item \lan{denus}\footnotemark[\value{footnote}] (\F): jaw; cheek
+	\item \lan{djus}\footnotemark[\value{footnote}] (\M): sky, heaven
+	\item \lan{doru}\footnotemark[\value{footnote}] (\N): tree
+	\item \lan{dustus} (\M): taste
+	\item \lan{lokus, alkues} (\M): pond, lake
+	\item \lan{naus, naves} (\F): boat, ship
+	\item \lan{smerus, smarues} (\M): grease
+	\item \lan{sunus} (\M): son
+\end{itemize}
+\end{multicols}
+
+We can choose two of these to represent the regular \lan{u}-stem nouns: one for
+the masculine and feminine nouns, and one for the neuters.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{sunus} & \lan{sunús} \\
+	\Acc & \lan{sunum} & \lan{sununs} \\
+	\Gen & \lan{sunues} & \lan{sunuóm} \\
+	\Abl & \lan{sunues} & \lan{sunumos} \\
+	\Dat & \lan{sunuei} & \lan{sunumos} \\
+	\Loc & \lan{sunui} & \lan{sunusu} \\
+	\Ins & \lan{sunue} & \lan{sunufi} \\
+	\hline\hline
+\end{tabular}
+\quad\quad
+	\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{danu} & \lan{danú} \\
+	\Acc & \lan{danu} & \lan{danú} \\
+	\Gen & \lan{danues} & \lan{danuóm} \\
+	\Abl & \lan{danues} & \lan{danumos} \\
+	\Dat & \lan{danuei} & \lan{danumos} \\
+	\Loc & \lan{danui} & \lan{danusu} \\
+	\Ins & \lan{danue} & \lan{danufi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+All the irregular nouns can be found in the tables under section
+\ref{sec:irregular-nouns}.
+
+\paragraph{\lan{es}-stem nouns}
+
+The class of \lan{es}-stem nouns includes all three genders. All of these nouns
+are regular. Some familiar examples are:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{ankos} (\N): curve, bend
+	\item \lan{denos} (\N): race, lineage
+	\item \lan{jugos} (\N): pair of yoked animals
+	\item \lan{menos} (\N): mind
+	\item \lan{nefos} (\N): cloud
+	\item \lan{odés} (\M): axe, hatchet
+	\item \lan{pletos} (\N): breadth
+	\item \lan{rebos} (\N): darkness
+	\item \lan{slevos} (\N): fame; glory
+	\item \lan{tenos} (\N): extension
+\end{itemize}
+\end{multicols}
+
+Since all \lan{es}-stem nouns are regular, we can simply choose two nouns
+to represent them all: one for the masculine and feminine nouns, and one for
+the neuters.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{odés} & \lan{odeses} \\
+	\Acc & \lan{odesam} & \lan{odesans} \\
+	\Gen & \lan{odesos} & \lan{odesóm} \\
+	\Abl & \lan{odesos} & \lan{odesmos} \\
+	\Dat & \lan{odesei} & \lan{odesmos} \\
+	\Loc & \lan{odesi} & \lan{odesu} \\
+	\Ins & \lan{odese} & \lan{odesfi} \\
+	\hline\hline
+\end{tabular}
+\quad\quad
+\begin{tabular}{l|ll}
+	\hline\hline
+	~ & \Sg & \Pl \\
+	\hline
+	\Nom & \lan{menos} & \lan{menós} \\
+	\Acc & \lan{menos} & \lan{menós} \\
+	\Gen & \lan{menesos} & \lan{menesóm} \\
+	\Abl & \lan{menesos} & \lan{menesmos} \\
+	\Dat & \lan{menesei} & \lan{menesmos} \\
+	\Loc & \lan{menesi} & \lan{menesu} \\
+	\Ins & \lan{menese} & \lan{menesfi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\paragraph{\lan{en}-stem nouns}
+
+The \lan{en}-stem nouns are all neuter, and most of them are regular. Some
+common examples are:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{denaman, danamens} (\N): offspring; generation (genealogical)
+	\item \lan{noman, nemens} (\N): name
+	\item \lan{numan, panvamens} (\N): spirit, soul
+	\item \lan{petan, patens} (\N): wing
+	\item \lan{seman, samens} (\N): seed
+	\item \lan{sovan, savens} (\N): sun
+	\item \lan{terman, tarmens} (\N): boundary; end
+	\item \lan{vodan, vedens} (\N): water
+	\item \lan{vosan}\footnote{Irregular noun.} (\N): spring (season)
+\end{itemize}
+\end{multicols}
+
+\paragraph{Liquid-stem nouns}
+
+The liquid consonants are \lan{l} and \lan{r}. If the {\Nom-\Sg} of a noun ends
+in a liquid consonant, then it belongs to the class of liquid-stem nouns. This
+class includes both masculine and feminine nouns. Some familiar examples are:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{abol}\footnotemark[\value{footnote}] (\M): apple
+	\item \lan{bor}\footnotemark[\value{footnote}] (\M): thief
+	\item \lan{brater} (\M): brother
+	\item \lan{denator, danatres} (\M): parent
+	\item \lan{dotor, datres} (\M): giver
+	\item \lan{fugater, fugtres} (\F): daughter
+	\item \lan{for, fures} (\M): door
+	\item \lan{mater} (\F): mother
+	\item \lan{pater} (\M): father
+	\item \lan{sper, aspres} (\M): sparrow
+	\item \lan{ster, astres} (\M): star
+	\item \lan{svesor}\footnotemark[\value{footnote}] (\F): sister
+	\item \lan{vistor} (\M): witness
+\end{itemize}
+\end{multicols}
+
+The vowel right before the liquid is usually elided in all its forms except
+the {\Nom-\Sg},
+like \lan{pater} > \lan{patres}, or \lan{abol} > \lan{ables}. However, if
+the {\Nom-\Sg} is a monosyllable, then no elision occurs, e.g.
+\lan{bor} > \lan{bores}. With this rule in mind, we can choose one of the
+liquid-stem nouns to serve as a role model for the rest.
+
+\begin{center}
+\begin{tabular}{l|ll}
+	\Nom & \lan{pater} & \lan{patres} \\
+	\Acc & \lan{patram} & \lan{patrans} \\
+	\Gen & \lan{patres} & \lan{patróm} \\
+	\Abl & \lan{patres} & \lan{patrimos} \\
+	\Dat & \lan{patrei} & \lan{patrimos} \\
+	\Loc & \lan{patri} & \lan{patrisu} \\
+	\Ins & \lan{patre} & \lan{patrifi} \\
+\end{tabular}
+\end{center}
+
+\paragraph{Fleeting \lan{s} nouns}
+
+There are some nouns that end in \lan{-s} in the {\Nom-\Sg}, but this \lan{-s}
+gets dropped in all other inflections. This is called the fleeting \lan{s}.
+Some nouns like this include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{anats} (\F): duck
+	\item \lan{donts, dantes} (\M): tooth
+	\item \lan{fans} (\F): goose
+	\item \lan{frags} (\M): dregs, sediment (of wine, oil, fat)
+	\item \lan{nogs, neges} (\M): nail (of the finger or toe)
+	\item \lan{oms, ames} (\M): shoulder
+	\item \lan{ops} (\N): eye
+	\item \lan{ponts, pantes} (\M): path
+	\item \lan{rads} (\F): root
+	\item \lan{reds} (\M): king
+	\item \lan{sals} (\M): salt
+	\item \lan{vents, vantes} (\M): wind
+	\item \lan{vops} (\F): voice, speech
+\end{itemize}
+\end{multicols}
+
+\paragraph{Consonant-stem nouns}
+
+If a noun doesn't fall into any of the categories mentioned above, then we can
+usually take the stem and just append the inflectional endings directly to it.
+Some nouns that don't fall into the previous classes include:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{dom, dems} (\M): house, home
+	\item \lan{famón}\footnote{Irregular noun.} (\M): earthling
+	\item \lan{fedóm, fames} (\F): earth
+	\item \lan{fejóm, fimes} (\F): winter
+	\item \lan{frags} (\M): dregs, sediment (of wine, oil, fat)
+	\item \lan{gerán}\footnotemark[\value{footnote}] (\M): crane, heron
+\end{itemize}
+\end{multicols}
+
+\paragraph{Irregular nouns}
+\label{sec:irregular-nouns}
+
+
+
+\newpage
+\section*{Adjectives}
+
+
+\newpage
+\section*{Numerals}
+
+
+\newpage
+\section*{Pronouns}
+
+\paragraph{Personal pronouns}
+The personal pronouns are classified according to three persons
+(\textit{first}, \textit{second}, and \textit{third}), and two numbers
+(\textit{singular} and \textit{plural}). The first and second person pronouns
+do not inflect according to gender, but the third person pronouns do. There is
+also a reflexive pronoun, which does not inflect by number.
+
+\begin{center}
+\begin{tabular}{l|lllll}
+	\hline\hline
+	~ & \Fsg & \Ssg & \Fpl & \Spl & \Refl \\
+	\hline
+	\Nom & \lan{edo} & \lan{tu} & \lan{vi} & \lan{ju} & - \\
+	\Acc & \lan{me} & \lan{tve} & \lan{nos} & \lan{vos} & \lan{sve} \\
+	\Gen & \lan{mene} & \lan{teve} & \lan{ánser} & \lan{júser} & \lan{seve} \\
+	\Abl & \lan{me} & \lan{tve} & \lan{ansme} & \lan{usme} & \lan{sve} \\
+	\Dat & \lan{medjo} & \lan{tefjo} & \lan{ansmi} & \lan{usmi} & \lan{sevjo} \\
+	\Loc & \lan{moi} & \lan{toi} & \lan{ansmi} & \lan{usmi} & \lan{soi} \\
+	\Ins & \lan{moi} & \lan{toi} & \lan{ansa} & \lan{usma} & \lan{soi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+The third person pronouns inflect as:
+
+\begin{center}
+\begin{tabular}{l|llllll}
+	\hline\hline
+	~ & {\M}-\Sg & {\F}-\Sg & {\N}-\Sg & {\M}-\Pl & {\F}-\Pl & {\N}-\Pl \\
+	\hline
+	\Nom & \lan{eno} & \lan{ena} & \lan{enod} & \lan{enos} & \lan{enas} & \lan{ena} \\
+	\Acc & \lan{enom} & \lan{enam} & \lan{enod} & \lan{enons} & \lan{enans} & \lan{ena} \\
+	\Gen & \lan{enosjo} & \lan{enosjas} & \lan{enosjo} & \lan{enosóm} & \lan{enasóm} & \lan{enosóm} \\
+	\Abl & \lan{enosmad} & \lan{enosjas} & \lan{enosmad} & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+	\Dat & \lan{enosmi} & \lan{enosjai} & \lan{enosmi} & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+	\Loc & \lan{enosmi} & \lan{enosji} & \lan{enosmi} & \lan{enoisu} & \lan{enasu} & \lan{enoisu} \\
+	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme} & \lan{enois} & \lan{enafi} & \lan{enois} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\paragraph{Possessive pronouns}
+
+The possessive pronouns inflect just like regular adjectives, so we will
+simply list them without showing their inflection tables.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \Fsg: \lan{mejos}
+	\item \Ssg: \lan{tejos}
+	\item \Tsg: \lan{sejos}
+	\item \Fpl: \lan{nosjos}
+	\item \Spl: \lan{vosjos}
+	\item \Tpl: \lan{sejos}
+\end{itemize}
+\end{multicols}
+
+\paragraph{Demonstrative pronouns}
+
+\paragraph{Interrogative and relative pronouns}
+
+
+
+\newpage
+\section*{Verbs}
+
+
+\newpage
+\section*{Prepositions}
+
+
+
+\end{document}

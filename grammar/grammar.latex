@@ -11,6 +11,21 @@
 % For two-column lists
 \usepackage{multicol}
 
+% For beautiful horizontal lines in the tabular environment
+\usepackage{booktabs}
+
+% For multi-column within the tabular environment
+\usepackage{multirow}
+
+% For equal width columns, and for specifying the total width of a table
+\usepackage{tabularx}
+
+% For centered multicolumns inside the tabularx environment
+\newcommand{\multicolumnxcentered}[3]{
+	\multicolumn{#1}{
+		>{\centering\hsize=\dimexpr#1\hsize
+		+#1\tabcolsep+\arrayrulewidth\relax}#2}{#3}}
+
 % For roman-numeral enumerated lists
 \usepackage{enumerate}
 
@@ -25,8 +40,10 @@
 \newcommand{\lan}[1]{{\ipafont \textit{#1}}}
 \newcommand{\ipa}[1]{{\ipafont #1}}
 
-% Set main font to be the linguistics font
+% Set main font
 \setmainfont{CharisSIL}
+
+
 
 
 \begin{document}
@@ -63,13 +80,13 @@ main reasons for this.
 		example,
 
 		\begin{center}
-		\begin{tabular}{l|lll}
-			\hline\hline
+		\begin{tabular}{llll}
+			\toprule
 			~ & gift (\N) & man (\M) & woman (\F) \\
-			\hline
+			\midrule
 			\Nom & \lan{donom} & \lan{viros} & \lan{bena} \\
 			\Acc & \lan{donom} & \lan{virom} & \lan{benam} \\
-			\hline\hline
+			\bottomrule
 		\end{tabular}
 		\end{center}
 
@@ -77,13 +94,13 @@ main reasons for this.
 		a different stem for the weak cases:
 
 		\begin{center}
-		\begin{tabular}{l|lll}
-			\hline\hline
+		\begin{tabular}{llll}
+			\toprule
 			~ & thought & dog & lake \\
-			\hline
+			\midrule
 			\Nom & \lan{mentis} & \lan{svon} & \lan{lokus} \\
 			\Gen & \lan{manties} & \lan{sunes} & \lan{alkves} \\
-			\hline\hline
+			\bottomrule
 		\end{tabular}
 		\end{center}
 \end{enumerate}
@@ -136,10 +153,10 @@ Since all \lan{a}-stem nouns inflect regularly, we can choose one of them to
 represent them all.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{bena} & \lan{benai} \\
 	\Acc & \lan{benam} & \lan{benans} \\
 	\Gen & \lan{benas} & \lan{benóm} \\
@@ -147,7 +164,7 @@ represent them all.
 	\Dat & \lan{benai} & \lan{benamos} \\
 	\Loc & \lan{beni} & \lan{benasu} \\
 	\Ins & \lan{bene} & \lan{benafi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -186,10 +203,10 @@ simply choose two nouns (one in \lan{-os} and one in \lan{-om}) to serve as
 role models for all the \lan{o}-stems.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{viros} & \lan{viroi} \\
 	\Acc & \lan{virom} & \lan{virons} \\
 	\Gen & \lan{virosjo} & \lan{viróm} \\
@@ -197,14 +214,14 @@ role models for all the \lan{o}-stems.
 	\Dat & \lan{viroi} & \lan{viromos} \\
 	\Loc & \lan{viri} & \lan{virosu} \\
 	\Ins & \lan{vire} & \lan{virois} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \quad
 \quad
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{donom} & \lan{dona} \\
 	\Acc & \lan{donom} & \lan{dona} \\
 	\Gen & \lan{donosjo} & \lan{donóm} \\
@@ -212,7 +229,7 @@ role models for all the \lan{o}-stems.
 	\Dat & \lan{donoi} & \lan{donomos} \\
 	\Loc & \lan{doni} & \lan{donosu} \\
 	\Ins & \lan{done} & \lan{donois} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -250,10 +267,10 @@ choose one word to represent all regular nouns in this class, and then treat
 the irregular nouns separately.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{hostis} & \lan{hostes} \\
 	\Acc & \lan{hostim} & \lan{hostins} \\
 	\Gen & \lan{hosties} & \lan{hostióm} \\
@@ -261,7 +278,7 @@ the irregular nouns separately.
 	\Dat & \lan{hostiei} & \lan{hostimos} \\
 	\Loc & \lan{hosti} & \lan{hostisu} \\
 	\Ins & \lan{hostie} & \lan{hostifi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -269,10 +286,10 @@ The only neuter \lan{i}-stem noun is \lan{mori}, and it's completely regular,
 albeit with a change of stem.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{mori} & \lan{moria} \\
 	\Acc & \lan{mori} & \lan{moria} \\
 	\Gen & \lan{maries} & \lan{marióm} \\
@@ -280,7 +297,7 @@ albeit with a change of stem.
 	\Dat & \lan{mariei} & \lan{marimos} \\
 	\Loc & \lan{mari} & \lan{marisu} \\
 	\Ins & \lan{marie} & \lan{marifi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -290,10 +307,10 @@ of the stems is purely vocalic, an epenthetic consonant is sometimes inserted
 between the stem and the ending. The inflection table is shown below.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{avis} & \lan{aves} \\
 	\Acc & \lan{avim} & \lan{avins} \\
 	\Gen & \lan{ujes} & \lan{ujóm} \\
@@ -301,7 +318,7 @@ between the stem and the ending. The inflection table is shown below.
 	\Dat & \lan{ujei} & \lan{vimos} \\
 	\Loc & \lan{uvi} & \lan{visu} \\
 	\Ins & \lan{uje} & \lan{vifi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -334,10 +351,10 @@ We can choose two of these to represent the regular \lan{u}-stem nouns: one for
 the masculine and feminine nouns, and one for the neuters.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{sunus} & \lan{sunús} \\
 	\Acc & \lan{sunum} & \lan{sununs} \\
 	\Gen & \lan{sunues} & \lan{sunuóm} \\
@@ -345,13 +362,13 @@ the masculine and feminine nouns, and one for the neuters.
 	\Dat & \lan{sunuei} & \lan{sunumos} \\
 	\Loc & \lan{sunui} & \lan{sunusu} \\
 	\Ins & \lan{sunue} & \lan{sunufi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \quad\quad
-	\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{danu} & \lan{danú} \\
 	\Acc & \lan{danu} & \lan{danú} \\
 	\Gen & \lan{danues} & \lan{danuóm} \\
@@ -359,7 +376,7 @@ the masculine and feminine nouns, and one for the neuters.
 	\Dat & \lan{danuei} & \lan{danumos} \\
 	\Loc & \lan{danui} & \lan{danusu} \\
 	\Ins & \lan{danue} & \lan{danufi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -390,10 +407,10 @@ to represent them all: one for the masculine and feminine nouns, and one for
 the neuters.
 
 \begin{center}
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{odés} & \lan{odeses} \\
 	\Acc & \lan{odesam} & \lan{odesans} \\
 	\Gen & \lan{odesos} & \lan{odesóm} \\
@@ -401,13 +418,13 @@ the neuters.
 	\Dat & \lan{odesei} & \lan{odesmos} \\
 	\Loc & \lan{odesi} & \lan{odesu} \\
 	\Ins & \lan{odese} & \lan{odesfi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \quad\quad
-\begin{tabular}{l|ll}
-	\hline\hline
+\begin{tabular}{lll}
+	\toprule
 	~ & \Sg & \Pl \\
-	\hline
+	\midrule
 	\Nom & \lan{menos} & \lan{menós} \\
 	\Acc & \lan{menos} & \lan{menós} \\
 	\Gen & \lan{menesos} & \lan{menesóm} \\
@@ -415,7 +432,7 @@ the neuters.
 	\Dat & \lan{menesei} & \lan{menesmos} \\
 	\Loc & \lan{menesi} & \lan{menesu} \\
 	\Ins & \lan{menese} & \lan{menesfi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -436,6 +453,25 @@ common examples are:
 	\item \lan{vosan}\footnote{Irregular noun.} (\N): spring (season)
 \end{itemize}
 \end{multicols}
+
+We can choose one of these to represent all \lan{en}-stem nouns, keeping in
+mind that there may or may not be a change of stem.
+
+\begin{center}
+\begin{tabular}{lll}
+	\toprule
+	~ & \Sg & \Pl \\
+	\midrule
+	\Nom & \lan{noman} & \lan{nomó} \\
+	\Acc & \lan{noman} & \lan{nomó} \\
+	\Gen & \lan{nemens} & \lan{nemenóm} \\
+	\Abl & \lan{nemens} & \lan{nemenmos} \\
+	\Dat & \lan{nemenei} & \lan{nemenmos} \\
+	\Loc & \lan{nemeni} & \lan{nemensu} \\
+	\Ins & \lan{nemene} & \lan{nemenfi} \\
+	\bottomrule
+\end{tabular}
+\end{center}
 
 \paragraph{Liquid-stem nouns}
 
@@ -468,7 +504,10 @@ the {\Nom-\Sg} is a monosyllable, then no elision occurs, e.g.
 liquid-stem nouns to serve as a role model for the rest.
 
 \begin{center}
-\begin{tabular}{l|ll}
+\begin{tabular}{lll}
+	\toprule
+	~ & \Sg & \Pl \\
+	\midrule
 	\Nom & \lan{pater} & \lan{patres} \\
 	\Acc & \lan{patram} & \lan{patrans} \\
 	\Gen & \lan{patres} & \lan{patróm} \\
@@ -476,6 +515,7 @@ liquid-stem nouns to serve as a role model for the rest.
 	\Dat & \lan{patrei} & \lan{patrimos} \\
 	\Loc & \lan{patri} & \lan{patrisu} \\
 	\Ins & \lan{patre} & \lan{patrifi} \\
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -502,6 +542,39 @@ Some nouns like this include:
 \end{itemize}
 \end{multicols}
 
+We will choose two nouns to represent the fleeting \lan{s} nouns: one to
+represent the masculines and feminines, and the other to represent the neuters.
+
+\begin{center}
+\begin{tabular}{lll}
+	\toprule
+	~ & \Sg & \Pl \\
+	\midrule
+	\Nom & \lan{vops} & \lan{vopes} \\
+	\Acc & \lan{vopam} & \lan{vopes} \\
+	\Gen & \lan{vopes} & \lan{vopóm} \\
+	\Abl & \lan{vopes} & \lan{vopimos} \\
+	\Dat & \lan{vopei} & \lan{vopimos} \\
+	\Loc & \lan{vopi} & \lan{vopisu} \\
+	\Ins & \lan{vope} & \lan{vopifi} \\
+	\bottomrule
+\end{tabular}
+\quad\quad
+	\begin{tabular}{lll}
+	\toprule
+	~ & \Sg & \Pl \\
+	\midrule
+	\Nom & \lan{ops} & \lan{opa} \\
+	\Acc & \lan{ops} & \lan{opa} \\
+	\Gen & \lan{opes} & \lan{opóm} \\
+	\Abl & \lan{opes} & \lan{opimos} \\
+	\Dat & \lan{opei} & \lan{opimos} \\
+	\Loc & \lan{opi} & \lan{opisu} \\
+	\Ins & \lan{ope} & \lan{opifi} \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
 \paragraph{Consonant-stem nouns}
 
 If a noun doesn't fall into any of the categories mentioned above, then we can
@@ -518,6 +591,25 @@ Some nouns that don't fall into the previous classes include:
 \end{itemize}
 \end{multicols}
 
+The inflection table of consonant-stem nouns is similar to the liquid-stem and
+fleeting \lan{s} nouns.
+
+\begin{center}
+\begin{tabular}{lll}
+	\toprule
+	~ & \Sg & \Pl \\
+	\midrule
+	\Nom & \lan{dom} & \lan{domes} \\
+	\Acc & \lan{domam} & \lan{domes} \\
+	\Gen & \lan{dems} & \lan{demóm} \\
+	\Abl & \lan{dems} & \lan{demimos} \\
+	\Dat & \lan{demei} & \lan{demimos} \\
+	\Loc & \lan{demi} & \lan{demisu} \\
+	\Ins & \lan{deme} & \lan{demifi} \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
 \paragraph{Irregular nouns}
 \label{sec:irregular-nouns}
 
@@ -529,6 +621,82 @@ Some nouns that don't fall into the previous classes include:
 
 \newpage
 \section*{Numerals}
+
+\paragraph{One}
+
+The numeral for $1$ is \lan{oinos}, and it can be singular or plural. It
+inflects just like a regular adjective.
+
+\begin{center}
+\begin{tabular}{l|lll|lll}
+	\hline\hline
+	~ & \M-\Sg & \F-\Sg & \N-\Sg & \M-\Pl & \F-\Pl & \N-\Pl \\
+	\hline
+	\Nom & \lan{oinos} & \lan{oina} & \lan{oinom} & \lan{oinoi} & \lan{oinai} & \lan{oina} \\
+	\Acc & \lan{oinom} & \lan{oinam} & \lan{oinom} & \lan{oinons} & \lan{oinans} & \lan{oina} \\
+	\Gen & \lan{oinosjo} & \lan{oinas} & \lan{oinosjo} & \lan{oinóm} & \lan{oinóm} & \lan{oinóm} \\
+	\Abl & \lan{oinad} & \lan{oinas} & \lan{oinad} & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
+	\Dat & \lan{oinoi} & \lan{oinai} & \lan{oinoi} & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
+	\Loc & \lan{oini} & \lan{oini} & \lan{oini} & \lan{oinosu} & \lan{oinasu} & \lan{oinosu} \\
+	\Ins & \lan{oine} & \lan{oine} & \lan{oine} & \lan{oinois} & \lan{oinafi} & \lan{oinois} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+\paragraph{Two, three, and four}
+
+The numerals for $2$, $3$, and $4$ are \lan{dvo}, \lan{tres}, and
+\lan{petvores}, respectively. They are all similar because they all inflect
+according to the three genders, and they're all inherently plural.
+
+\begin{center}
+\begin{tabular}{l|lll}
+	\hline\hline
+	~ & \M & \F & \N \\
+	\hline
+	\Nom & \lan{dvo} & \lan{dva} & \lan{dvoi} \\
+	\Acc & \lan{dvons} & \lan{dvans} & \lan{dvoi} \\
+	\Gen & \lan{dvóm} & \lan{dvóm} & \lan{dvóm} \\
+	\Abl & \lan{dvamos} & \lan{dvamos} & \lan{dvamos} \\
+	\Dat & \lan{dvamos} & \lan{dvamos} & \lan{dvamos} \\
+	\Loc & \lan{dvasu} & \lan{dvasu} & \lan{dvasu} \\
+	\Ins & \lan{dvafi} & \lan{dvafi} & \lan{dvafi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{l|lll}
+	\hline\hline
+	~ & \M & \F & \N \\
+	\hline
+	\Nom & \lan{tres} & \lan{tistres} & \lan{tri} \\
+	\Acc & \lan{trins} & \lan{tistrans} & \lan{tri} \\
+	\Gen & \lan{trióm} & \lan{tistróm} & \lan{trióm} \\
+	\Abl & \lan{trimos} & \lan{tisarmos} & \lan{trimos} \\
+	\Dat & \lan{trimos} & \lan{tisarmos} & \lan{trimos} \\
+	\Loc & \lan{trisu} & \lan{tisarsu} & \lan{trisu} \\
+	\Ins & \lan{trifi} & \lan{tisarfi} & \lan{trifi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{l|lll}
+	\hline\hline
+	~ & \M & \F & \N \\
+	\hline
+	\Nom & \lan{petvores} & \lan{petestres} & \lan{petvor} \\
+	\Acc & \lan{petvorans} & \lan{petestrans} & \lan{petvor} \\
+	\Gen & \lan{peturóm} & \lan{petestróm} & \lan{peturóm} \\
+	\Abl & \lan{petvarmos} & \lan{petesarmos} & \lan{petvarmos} \\
+	\Dat & \lan{petvarmos} & \lan{petesarmos} & \lan{petvarmos} \\
+	\Loc & \lan{petvarsu} & \lan{petesarsu} & \lan{petvarsu} \\
+	\Ins & \lan{petvarfi} & \lan{petesarfi} & \lan{petvarfi} \\
+	\hline\hline
+\end{tabular}
+\end{center}
 
 
 \newpage
@@ -598,6 +766,370 @@ simply list them without showing their inflection tables.
 
 \newpage
 \section*{Verbs}
+
+\paragraph{General properties}
+
+Verbs inflect according to the following categories:
+\begin{itemize}
+	\item \textbf{person}: first, second, third
+	\item \textbf{number}: singular, plural
+	\item \textbf{mood}: indicative, subjunctive, imperative
+	\item \textbf{voice}: active, passive
+	\item \textbf{aspect}: perfective, imperfective
+\end{itemize}
+
+\paragraph{Copula}
+
+The copula is \lan{esti}.
+
+\begin{tabular}{l|lll|ll|ll}
+	\hline\hline
+	\multicolumn{8}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{|c|}{Indicative} & \multicolumn{2}{|c|}{Subjunctive} & \multicolumn{2}{c}{Imperative} \\
+	\hline
+	~ & Present & Imperfect & Perfect & Present & Perfect & Present & Perfect \\
+	\hline
+	\lan{edo} & \lan{esmi} & \lan{esam} & \lan{bum} & \lan{sjem} & \lan{bjem} & - & - \\
+	\lan{tu} & \lan{esi} & \lan{es} & \lan{bus} & \lan{sjes} & \lan{bjes} & se & bu \\
+	\lan{eno} & \lan{esti} & \lan{est} & \lan{but} & \lan{sjet} & \lan{bjet} & - & - \\
+	\lan{vi} & \lan{esmos} & \lan{esme} & \lan{bume} & \lan{sime} & \lan{bime} & - & - \\
+	\lan{ju} & \lan{este} & \lan{este} & \lan{bute} & \lan{site} & \lan{bite} & este & bute \\
+	\lan{enoi} & \lan{senti} & \lan{sent} & \lan{bunt} & \lan{sint} & \lan{bint} & - & - \\
+	\hline
+	\multicolumn{4}{r}{Participle} & \lan{sonts} & \lan{bonts} \\
+	\hline\hline
+\end{tabular}
+
+\paragraph{Copula}
+
+The copula is \lan{esti}.
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{sonts}} & \multicolumn{3}{c}{\lan{esei}} \\
+	Perfect & \multicolumn{3}{c}{\lan{budvés}} & \multicolumn{3}{c}{\lan{busei}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{esmi} & \lan{esi} & \lan{esti} & \lan{esmos} & \lan{este} & \lan{senti} \\
+	Imperfect & \lan{esam} & \lan{es} & \lan{est} & \lan{esme} & \lan{este} & \lan{sent} \\
+	Perfect & \lan{bum} & \lan{bus} & \lan{but} & \lan{bume} & \lan{bute} & \lan{bunt} \\
+	\hline
+	Present & \lan{sjem} & \lan{sjes} & \lan{sjet} & \lan{sime} & \lan{site} & \lan{sint} \\
+	Perfect & \lan{bjem} & \lan{bjes} & \lan{bjet} & \lan{bime} & \lan{bite} & \lan{bint} \\
+	\hline
+	Present & - & se & - & - & este & - \\
+	Perfect & - & bu & - & - & bute & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{fonts} & \multicolumn{3}{c}{feksei} \\
+	Perfect & \multicolumn{3}{c}{fedvés} & \multicolumn{3}{c}{fedesei} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{fem} & \lan{fes} & \lan{fet} & \lan{fame} & \lan{fate} & \lan{fent} \\
+	Imperfect & \lan{fecjo} & \lan{fecjes} & \lan{fecjet} & \lan{fecjome} & \lan{fecjete} & \lan{fecjont} \\
+	Perfect & \lan{fedem} & \lan{fedes} & \lan{fedet} & \lan{fedame} & \lan{fedate} & \lan{fedant} \\
+	\hline
+	Present & \lan{fecjém} & \lan{fecjés} & \lan{fecjét} & \lan{fekíme} & \lan{fekíte} & \lan{fekínt} \\
+	Perfect & \lan{fedjém} & \lan{fedjés} & \lan{fedjét} & \lan{fedíme} & \lan{fedíte} & \lan{fedínt} \\
+	\hline
+	Present & - & \lan{fe} & - & - & \lan{fete} & - \\
+	Perfect & - & \lan{fedek} & - & - & \lan{fekte} & - \\
+
+	\hline\hline
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{famnos}} & \multicolumn{3}{c}{\lan{famenai}} \\
+	Perfect & \multicolumn{3}{c}{\lan{fedamnos}} & \multicolumn{3}{c}{\lan{fedamenai}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{fenuvar} & \lan{fenutar} & \lan{fenutor} & \lan{fenumosda} & \lan{fenudave} & \lan{fenuvontor} \\
+	Imperfect & \lan{fenuva} & \lan{fenuta} & \lan{fenuto} & \lan{fenumeda} & \lan{fenudave} & \lan{fenuvonto} \\
+	Perfect & \lan{feda} & \lan{festa} & \lan{festo} & \lan{fesmeda} & \lan{fesdave} & \lan{fedonto} \\
+	\hline
+	Present & \lan{fenuí} & \lan{fenuíta} & \lan{fenuíto} & \lan{fenuímeda} & \lan{fenuídave} & \lan{fenuínto} \\
+	Perfect & \lan{feska} & \lan{fesketa} & \lan{fesketo} & \lan{feskomeda} & \lan{feskedave} & \lan{feskonto} \\
+	\hline
+	Present & - & \lan{fenuso} & - & - & \lan{fenudave} & - \\
+	Perfect & - & \lan{feso} & - & - & \lan{fesdave} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{veponts}} & \multicolumn{3}{c}{\lan{vepsei}} \\
+	Perfect & \multicolumn{3}{c}{\lan{ukvés}} & \multicolumn{3}{c}{\lan{uksei}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{vemmi} & \lan{vepsi} & \lan{vepti} & \lan{vemmos} & \lan{vepte} & \lan{vepanti} \\
+	Imperfect & \lan{vepam} & \lan{veps} & \lan{vept} & \lan{vemme} & \lan{vepte} & \lan{vepant} \\
+	Perfect & \lan{ukom} & \lan{ukes} & \lan{uket} & \lan{ukome} & \lan{ukete} & \lan{ukont} \\
+	\hline
+	Present & \lan{ucjém} & \lan{ucjés} & \lan{ucjét} & \lan{ukíme} & \lan{ukíte} & \lan{ukínt} \\
+	Perfect & \lan{ukojam} & \lan{ukois} & \lan{ukoit} & \lan{ukoime} & \lan{ukoite} & \lan{ukojant} \\
+	\hline
+	Present & - & \lan{vep} & - & - & \lan{vepte} & - \\
+	Perfect & - & \lan{uke} & - & - & \lan{ukete} & - \\
+	\hline\hline
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{vepamnos}} & \multicolumn{3}{c}{\lan{vemmenai}} \\
+	Perfect & \multicolumn{3}{c}{\lan{ukomnos}} & \multicolumn{3}{c}{\lan{ukomenai}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{vepar} & \lan{veptar} & \lan{veptor} & \lan{vemmosda} & \lan{veddave} & \lan{vepantor} \\
+	Imperfect & \lan{vepa} & \lan{vepta} & \lan{vepto} & \lan{vemmeda} & \lan{veddave} & \lan{vepanto} \\
+	Perfect & \lan{uka} & \lan{uketa} & \lan{uketo} & \lan{ukomeda} & \lan{ukedave} & \lan{ukonto} \\
+	\hline
+	Present & \lan{vepí} & \lan{vepíta} & \lan{vepíto} & \lan{vepímeda} & \lan{vepídave} & \lan{vepínto} \\
+	Perfect & \lan{ukoja} & \lan{ukoita} & \lan{ukoito} & \lan{ukoimeda} & \lan{ukoidave} & \lan{ukojanto} \\
+	\hline
+	Present & - & \lan{vepso} & - & - & \lan{veddave} & - \\
+	Perfect & - & \lan{ukeso} & - & - & \lan{ukedave} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{vidonts}} & \multicolumn{3}{c}{\lan{vinsei}} \\
+	Perfect & \multicolumn{3}{c}{\lan{vidvés}} & \multicolumn{3}{c}{\lan{visei}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{voida} & \lan{voista} & \lan{voide} & \lan{vidme} & \lan{vide} & \lan{vider} \\
+	Imperfect & \lan{vinem} & \lan{vines} & \lan{vinet} & \lan{vinome} & \lan{vinete} & \lan{vinont} \\
+	Perfect & \lan{videm} & \lan{vides} & \lan{videt} & \lan{vidome} & \lan{videte} & \lan{vidont} \\
+	\hline
+	Present & \lan{vinjém} & \lan{vinjés} & \lan{vinjét} & \lan{viníme} & \lan{viníte} & \lan{vinínt} \\
+	Perfect & \lan{vidjém} & \lan{vidjés} & \lan{vidjét} & \lan{vidíme} & \lan{vidíte} & \lan{vidínt} \\
+	\hline
+	Present & - & \lan{vis} & - & - & \lan{viste} & - \\
+	Perfect & - & \lan{vid} & - & - & \lan{videte} & - \\
+	\hline\hline
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{vidamnos}} & \multicolumn{3}{c}{\lan{vinmenai}} \\
+	Perfect & \multicolumn{3}{c}{\lan{visamnos}} & \multicolumn{3}{c}{\lan{vismenai}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{vinar} & \lan{vintar} & \lan{vintor} & \lan{vinmosda} & \lan{vindave} & \lan{vinantor} \\
+	Imperfect & \lan{vina} & \lan{vinta} & \lan{vinto} & \lan{vinmeda} & \lan{vindave} & \lan{vinanto} \\
+	Perfect & \lan{visa} & \lan{vista} & \lan{visto} & \lan{vismeda} & \lan{visdave} & \lan{visanto} \\
+	\hline
+	Present & \lan{viní} & \lan{viníta} & \lan{viníto} & \lan{vinímeda} & \lan{vinídave} & \lan{vinínto} \\
+	Perfect & \lan{visí} & \lan{visíta} & \lan{visíto} & \lan{visímeda} & \lan{visídave} & \lan{visínto} \\
+	\hline
+	Present & - & \lan{vinso} & - & - & \lan{vindave} & - \\
+	Perfect & - & \lan{viso} & - & - & \lan{visdave} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{bidonts} & \multicolumn{3}{c}{bidesei} \\
+	Perfect & \multicolumn{3}{c}{befidés} & \multicolumn{3}{c}{befidesei} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{bido} & \lan{bidesi} & \lan{bideti} & \lan{bidomos} & \lan{bidete} & \lan{bidonti} \\
+	Imperfect & \lan{bidom} & \lan{bides} & \lan{bidet} & \lan{bidome} & \lan{bidete} & \lan{bidont} \\
+	Perfect & \lan{befidom} & \lan{befides} & \lan{befidet} & \lan{befidome} & \lan{befidete} & \lan{befidont} \\
+	\hline
+	Present & \lan{bidojam} & \lan{bidois} & \lan{bidoit} & \lan{bidoime} & \lan{bidoite} & \lan{bidojant} \\
+	Perfect & \lan{befidojam} & \lan{befidois} & \lan{befidoit} & \lan{befidoime} & \lan{befidoite} & \lan{befidojant} \\
+	\hline
+	Present & - & \lan{bide} & - & - & \lan{bidete} & - \\
+	Perfect & - & \lan{befide} & - & - & \lan{befidete} & - \\
+
+	\hline\hline
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{bidomnos}} & \multicolumn{3}{c}{\lan{bidomenai}} \\
+	Perfect & \multicolumn{3}{c}{\lan{befidomnos}} & \multicolumn{3}{c}{\lan{befidomenai}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{bidar} & \lan{bidetar} & \lan{bidetor} & \lan{bidomosda} & \lan{bidedave} & \lan{bidontor} \\
+	Imperfect & \lan{bida} & \lan{bideta} & \lan{bideto} & \lan{bidomeda} & \lan{bidedave} & \lan{bidonto} \\
+	Perfect & \lan{befida} & \lan{befideta} & \lan{befideto} & \lan{befidomeda} & \lan{befidedave} & \lan{befidonto} \\
+	\hline
+	Present & \lan{bidoja} & \lan{bidoita} & \lan{bidoito} & \lan{bidoimeda} & \lan{bidoidave} & \lan{bidojanto} \\
+	Perfect & \lan{befidoja} & \lan{befidoita} & \lan{befidoito} & \lan{befidoimeda} & \lan{befidoidave} & \lan{befidojanto} \\
+	\hline
+	Present & - & \lan{bideso} & - & - & \lan{bidedave} & - \\
+	Perfect & - & \lan{befideso} & - & - & \lan{befidedave} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{jonts} & \multicolumn{3}{c}{isei} \\
+	Perfect & \multicolumn{3}{c}{sekvés} & \multicolumn{3}{c}{seksei} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{imi} & \lan{isi} & \lan{iti} & \lan{imos} & \lan{ite} & \lan{jenti} \\
+	Imperfect & \lan{im} & \lan{is} & \lan{it} & \lan{ime} & \lan{ite} & \lan{jent} \\
+	Perfect & \lan{sem} & \lan{seks} & \lan{set} & \lan{semme} & \lan{septe} & \lan{sepant} \\
+	\hline
+	Present & \lan{jem} & \lan{jes} & \lan{jet} & \lan{sepime} & \lan{sepite} & \lan{sepint} \\
+	Perfect & \lan{secjém} & \lan{secjés} & \lan{secjét} & \lan{sekíme} & \lan{sekíte} & \lan{sekínt} \\
+	\hline
+	Present & - & \lan{sep} & - & - & \lan{septe} & - \\
+	Perfect & - & \lan{sek} & - & - & \lan{sekte} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+
+
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\hline\hline
+	\multicolumn{7}{c}{ACTIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{denonts} & \multicolumn{3}{c}{denasei} \\
+	Perfect & \multicolumn{3}{c}{dedenés} & \multicolumn{3}{c}{dedenasei} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{denami} & \lan{denasi} & \lan{denati} & \lan{denamos} & \lan{denate} & \lan{denanti} \\
+	Imperfect & \lan{denam} & \lan{denas} & \lan{denat} & \lan{dename} & \lan{denate} & \lan{denant} \\
+	Perfect & \lan{dedenam} & \lan{dedenas} & \lan{dedenat} & \lan{dedename} & \lan{dedenate} & \lan{dedenant} \\
+	\hline
+	Present & \lan{denajém} & \lan{denajés} & \lan{denajét} & \lan{deníme} & \lan{deníte} & \lan{denínt} \\
+	Perfect & \lan{dedenajém} & \lan{dedenajés} & \lan{dedenajét} & \lan{dedeníme} & \lan{dedeníte} & \lan{dedenínt} \\
+	\hline
+	Present & - & \lan{dena} & - & - & \lan{denate} & - \\
+	Perfect & - & \lan{dedena} & - & - & \lan{dedenate} & - \\
+
+	\hline\hline
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\hline\hline
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\hline
+	Present & \multicolumn{3}{c}{\lan{denamnos}} & \multicolumn{3}{c}{\lan{denamenai}} \\
+	Perfect & \multicolumn{3}{c}{\lan{dedenamnos}} & \multicolumn{3}{c}{\lan{dedenamenai}} \\
+	\hline\hline
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\hline
+	Present & \lan{denar} & \lan{denatar} & \lan{denator} & \lan{denamosda} & \lan{denadave} & \lan{denantor} \\
+	Imperfect & \lan{dena} & \lan{denata} & \lan{denato} & \lan{denameda} & \lan{denadave} & \lan{denanto} \\
+	Perfect & \lan{dedena} & \lan{dedenata} & \lan{dedenato} & \lan{dedenameda} & \lan{dedenadave} & \lan{dedenanto} \\
+	\hline
+	Present & \lan{dení} & \lan{deníta} & \lan{deníto} & \lan{denímeda} & \lan{denídave} & \lan{denínto} \\
+	Perfect & \lan{dedení} & \lan{dedeníta} & \lan{dedeníto} & \lan{dedenímeda} & \lan{dedenídave} & \lan{dedenínto} \\
+	\hline
+	Present & - & \lan{denaso} & - & - & \lan{denadave} & - \\
+	Perfect & - & \lan{dedenaso} & - & - & \lan{dedenadave} & - \\
+	\hline\hline
+\end{tabular}
+\end{center}
+
+
+\footnotesize
+\begin{tabularx}{\textwidth}{lXXXXXX}
+	\toprule
+	\multicolumnxcentered{7}{X}{ACTIVE} \\
+	\toprule
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	Present & \lan{verto} & \lan{vertesi} & \lan{verteti} & \lan{vertomos} & \lan{vertete} & \lan{vertonti} \\
+	Imperfect & \lan{vertom} & \lan{vertes} & \lan{vertet} & \lan{vertome} & \lan{vertete} & \lan{vertont} \\
+	Perfect & \lan{vevertom} & \lan{vevertes} & \lan{vevertet} & \lan{vevertome} & \lan{vevertete} & \lan{vevertont} \\
+	\midrule
+	Present & \lan{vertojam} & \lan{vertois} & \lan{vertoit} & \lan{vertoime} & \lan{vertoite} & \lan{vertojant} \\
+	Perfect & \lan{vevertojam} & \lan{vevertois} & \lan{vevertoit} & \lan{vevertoime} & \lan{vevertoite} & \lan{vevertojant} \\
+	\midrule
+	Present & - & \lan{verte} & - & - & \lan{vertete} & - \\
+	Perfect & - & \lan{veverte} & - & - & \lan{vevertete} & - \\
+
+	\toprule
+	\multicolumnxcentered{7}{X}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+	Present & \lan{vertar} & \lan{vertetar} & \lan{vertetor} & \lan{vertomosda} & \lan{vertedave} & \lan{vertontor} \\
+	Imperfect & \lan{verta} & \lan{verteta} & \lan{verteto} & \lan{vertomeda} & \lan{vertedave} & \lan{vertonto} \\
+	Perfect & \lan{veverta} & \lan{veverteta} & \lan{veverteto} & \lan{vevertomeda} & \lan{vevertedave} & \lan{vevertonto} \\
+	\midrule
+	Present & \lan{vertoja} & \lan{vertoita} & \lan{vertoito} & \lan{vertoimeda} & \lan{vertoidave} & \lan{vertojanto} \\
+	Perfect & \lan{vevertoja} & \lan{vevertoita} & \lan{vevertoito} & \lan{vevertoimeda} & \lan{vevertoidave} & \lan{vevertojanto} \\
+	\midrule
+	Present & - & \lan{verteso} & - & - & \lan{vertedave} & - \\
+	Perfect & - & \lan{veverteso} & - & - & \lan{vevertedave} & - \\
+	\bottomrule
+\end{tabularx}
+
+
+
 
 
 \newpage

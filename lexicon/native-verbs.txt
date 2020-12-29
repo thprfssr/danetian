@@ -1,0 +1,14 @@
+luketor
+	typ	v
+	ety	From PIE {*lewk-}
+	def	to shine, to illuminate
+
+slabyeti
+	typ	v
+	ety	From PIE {*sl̥h₂gʷ-}
+	def	to seize, to grasp, to take
+
+protislabyeti
+	typ	v
+	ety	From Danetian {slabyeti}
+	def	to understand, to comprehend

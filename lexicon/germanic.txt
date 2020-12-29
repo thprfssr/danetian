@@ -1,0 +1,5 @@
+rama
+	gen	f
+	dec	I
+	ety	From Old High German {rama}
+	def	frame (of a building), framework

@@ -1,0 +1,9 @@
+dege
+	typ	adv
+	ety	From PIE {*de + *gʰe}
+	def	even, indeed, of course, in fact
+
+nege
+	typ	adv
+	ety	From PIE {*ne + *gʰe}
+	def	not even

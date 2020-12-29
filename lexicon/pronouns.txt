@@ -1,0 +1,4 @@
+solnos
+	typ	pron
+	ety	From PIE {*solh₂-}
+	def	all; whole

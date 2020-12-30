@@ -1225,7 +1225,6 @@ plusis
 numan
 	typ	n
 	dec	III-n
-	abl-pl	panvamnes
 	ety	From PIE {pnéwmn̥}
 	def	breath
 	def	spirit, soul
@@ -1735,3 +1734,27 @@ lukos
 	dec	II
 	ety	From PIE {*lewk-}
 	def	light
+
+nauman
+	typ	n
+	dec	III-n
+	ety	From PIE {*neh₂ut-}
+	def	need, necessity
+
+balnia
+	typ	f
+	dec	I
+	ety	From Danetian {baljo}
+	def	failure, error
+
+blesnos
+	typ	m
+	dec	II
+	ety	From PIE {*bʰleǵ-}
+	def	bait, lure
+
+somblesnos
+	typ	m
+	dec	II
+	ety	From Danetian {som + blesnos}
+	def	seduction, temptation

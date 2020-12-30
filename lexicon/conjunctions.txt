@@ -1,0 +1,4 @@
+degar
+	typ	conj
+	ety	Possibly cognate with Ancient Greek {γᾰ́ρ}
+	def	for, since

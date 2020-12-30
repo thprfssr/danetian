@@ -1303,7 +1303,7 @@ fjestere	(adv)
 
 dusmenés	(adj)
 	ety	From PIE {dusmenḗs}
-	def	ill-disposed, wicked
+	def	ill-disposed, wicked, evil
 
 lonhos	(adj)
 	ety	From PIE {dlongʰos}
@@ -1592,7 +1592,7 @@ sonfis	(m)
 	ety	From PIE {som-dʰh₁-is}, from {dʰeh₁-}
 	def	judge
 
-potsjolik	(m)
+posjolik	(m)
 	ety	From a Turkic language; compare Uzbek {podsholik}
 	def	kingdom
 

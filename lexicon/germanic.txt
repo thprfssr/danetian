@@ -1,5 +1,21 @@
 rama
-	gen	f
+	typ	f
 	dec	I
 	ety	From Old High German {rama}
 	def	frame (of a building), framework
+
+gladjeti
+	typ	v
+	ety	From Proto-Germanic {*gladaz}
+	def	to please, to make happy, to satisfy
+
+opigladjeti
+	typ	v
+	ety	From Danetian {gladjeti}
+	def	to comfort, to console
+
+dulgos
+	typ	m
+	dec	II
+	ety	From Proto-Germanic {*dulgaz}
+	def	debt

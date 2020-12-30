@@ -12,3 +12,25 @@ protislabyeti
 	typ	v
 	ety	From Danetian {slabyeti}
 	def	to understand, to comprehend
+
+baljo
+	typ	v
+	ety	From PIE {*bʰāl-}
+	def	to fail, to err, to miss
+
+preseti
+	typ	v
+	ety	From PIE {*preḱ-}
+	def	to ask, to question
+	def	to ask for, to petition
+	use	Use the ablative case on the person that is being petitioned
+
+anapreseti
+	typ	v
+	ety	From Danetian {preseti}
+	def	to pray
+
+lekseti
+	typ	v
+	ety	From PIE {*h₂lékseti}
+	def	to protect, to defent

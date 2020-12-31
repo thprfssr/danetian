@@ -1,9 +1,0 @@
-solnos
-	typ	pron
-	ety	From PIE {*solh₂-}
-	def	all; whole
-
-podegos
-	typ	pron
-	ety	Perhaps from Danetian {po + dege}
-	def	each

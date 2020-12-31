@@ -2,17 +2,15 @@
 1. En prameni dedenat Divos djum fedomam-pe.
 2. De fedóm est nevidma nutipretiopes-pe, de rebos uper pretiopi nebufnes, de
 numan Divosjo bereto uper vedensu.
-3. Uket Divos: «Deníto lukos». De denamnos lukos.
-4. De videt Divos lukom, jom vesom, bidet-pe Divos lukom apo rebesos.
-5. De vopet Divos lukom dine, rebos-pe nopte. Set-pe veksperos, set-pe ausós:
-pramosjo dines.
-6. De uket Divos: «Deníto rama medi vedenfi, bidoit-pe vodó apo vedenmos».
-7. Dedenat-pe Divos ramam, befidet-pe vodó, ja upo rami, apo tosmad, ja
-uper rami.
+3. Uket Divos: «Deníto lukos». De dedenato lukos.
+4. De videt Divos lukom, jom vesom, apobidet-pe Divos lukom rebesos.
+5. De vopet Divos lukom dine, rebos-pe nopte. Set-pe veksperos, set-pe ausós
+pramom dinam.
+6. De uket Divos: «Deníto atirama medi vedenfi, apobidoit-pe vodó vedenmos».
+7. Dedenat-pe Divos ramam, apobefidet-pe vodó, ja upo atirami, tosmad, ja
+uper atirami.
 
-
-
-# Matthaiom 1
+# Matthaios 1
 1. Bibliom danaties Jesues Christosjo, sunus Davides, sunus Abrahames.
 2. Abrahám dedenat Isacam. Isac dedenat Jacobosjo. Jacobos dedenat Judam enosjo
 bratrans-pe.
@@ -36,16 +34,38 @@ Azoram.
 Jacobom.
 16. Jacobos dedenat Josephom, virom Marias, apo josjas dedenato Jesus, vopomnos
 Christos.
-17. Sépetor, bunt solni petvordasam danamnóm apo Abrahames do Davides,
+17. Sépetor, bunt solni petvordasam danamenóm apo Abrahames do Davides,
 petvordasam-pe apo Davides do atidemias Babylonam, petvordasam-pe apo atidemias
 Babylonam do Christosjo.
 
+# Matthaios 5
+3. Sivukvesoi enurejoi numene, degar enosóm posjolik dives.
+4. Sivukvesoi agestres, degar enos jenti opigegladjomenai.
 
+# Matthaios 6
+9. Tosme degar dolgjete anapresesei: Nosjos Pater, jo en divi, svensoito tevjom
+noman.
+10. Opjét tevjos posjolik. Fenuíto tevja velja, de en divi de ana fami.
+11. Nosjam naumenesam fonam dó ansmi sodin,
+12. Apojek-pe ansme nosjons dulgons, tosme de vi apime nosjomos dulgjetrimos.
+13. De ma nos ducjés en somblesnom, nu lekse nos apo dusmenesos.
+
+# Markos 1
+1. Praman evangeliosjo Jesues Christosjo.
+2. Uposme pepisjeto en Esaí prophéti: Vid, sontío menjom sonvistiesam
+[INCOMPLETE]
+
+# Luca 11
+2. Uket enoimos: «Pode pretois, vep: Nosjos Pater, jo en divi, svensoito
+tevjom noman. Opjét tevjos posjolik,
+3. Nosjam fonam naumenjam dó ansmi podegom dinam.
+4. Apojek ansme nosjans balnians, dégar vi apime solnomons, jos protibaljenti
+enoimos, de ma nos ducjés en somblesnom.
 
 # Joanna 1
 1. En prameni but verdom, de verdom opi Divosjo, de Divos verdom.
 2. Enod but en prameni opi Divosjo.
-3. Solnoi tros enod dedenanto, de enu enosjo ne dedenato nege nepod jod
+3. Solnoi tros enod dedenanto, de enu enosjo ne dedenato nege nepod, jod
 dedenato.
-4. En enosmi but biva, de biva but lukos viróm.
+4. En enosmi but biva, de biva lukos viróm.
 5. De lukos en rebesi luketor, de rebos enod ne protiseslabjont.

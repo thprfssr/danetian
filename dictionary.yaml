@@ -1,0 +1,2851 @@
+barda:
+  typ: f
+  ety: From PIE {*bʰardʰéh₂}.
+  defs:
+    - beard
+
+befrus:
+  typ: m
+  ety: From PIE {*bʰébʰrus}.
+  defs:
+    - beaver
+
+bados:
+  typ: f
+  ety: From PIE {*bʰeh₂ǵos}.
+  defs:
+    - beech
+
+badus:
+  typ: m
+  ety: From PIE {*bʰeh₂ǵʰús}.
+  defs:
+    - arm
+
+berdos:
+  typ: m
+  ety: From PIE {*bʰerHǵós}.
+  defs:
+    - birch
+
+bertis:
+  typ: f
+  gen-sg: bartjes
+  ety: From PIE {*bʰértis}.
+  defs:
+    - the act of carrying, bearing
+
+bor:
+  typ: m
+  gen-sg: bres
+  abl-pl: barmos
+  ety: From PIE {*bʰṓr}.
+  defs:
+    - thief
+
+brevan:
+  typ: n
+  gen-sg: bravens
+  abl-pl: brunamos
+  ety: From PIE {*bʰréh₁wr̥}.
+  defs:
+    - well, spring, source
+
+brater:
+  typ: m
+  ety: From PIE {*bʰréh₂tēr}.
+  defs:
+    - brother
+
+bufmén:
+  typ: m
+  gen-sg: bufnes
+  abl-pl: budanmos
+  ety: From PIE {*bʰudʰmḗn}.
+  defs:
+    - bottom
+
+nebufmén:
+  typ: m
+  gen-sg: nebufnes
+  abl-pl: nebudanmos
+  ety: From Danetian {ne + bufmén}.
+  defs:
+    - abyss, bottomless pit
+
+buga:
+  typ: f
+  ety: From PIE {*bʰugéh₂}.
+  defs:
+    - flight, escape
+
+dakru:
+  typ: n
+  ety: From PIE {*dáḱru}.
+  defs:
+    - tear (in the eyes)
+
+daitis:
+  typ: f
+  ety: From PIE {*déh₂itis}.
+  defs:
+    - time
+
+danu:
+  typ: n
+  ety: From PIE {*déh₂nu}.
+  defs:
+    - river
+
+donom:
+  typ: n
+  ety: From PIE {*déh₃nom}.
+  defs:
+    - gift
+
+dotis:
+  typ: f
+  gen-sg: datjes
+  ety: From PIE {*déh₃tis}.
+  defs:
+    - act of giving
+
+dotor:
+  typ: m
+  gen-sg: datres
+  ety: From PIE {*déh₃tōr}.
+  defs:
+    - giver
+
+desos:
+  typ: n
+  ety: From PIE {*déḱos}.
+  defs:
+    - that which is proper
+
+denspotis:
+  typ: m
+  ety: From PIE {*déms pótis}.
+  defs:
+    - master of the house
+
+divos:
+  typ: m
+  ety: From PIE {*deywós}.
+  defs:
+    - god
+
+danva:
+  typ: f
+  ety: From PIE {*dn̥ǵʰwéh₂s}.
+  defs:
+    - tongue
+    - language
+
+dom:
+  typ: m
+  gen-sg: dens
+  dat-sg: demei
+  ety: From PIE {*dṓm}.
+  defs:
+    - house, home
+
+doru:
+  typ: n
+  gen-sg: drus
+  dat-sg: drevei
+  abl-pl: drumos
+  ety: From PIE {*dóru}.
+  defs:
+    - tree
+
+djus:
+  typ: m
+  gen-sg: dives
+  abl-pl: djumos
+  ety: From PIE {*dyḗws}.
+  defs:
+    - sky, heaven
+
+fedóm:
+  typ: f
+  gen-sg: fames
+  ety: From PIE {*dʰéǵʰōm}.
+  defs:
+    - earth
+
+feman:
+  typ: n
+  gen-sg: famens
+  ety: From PIE {*dʰéh₁mn̥}.
+  defs:
+    - abode, dwelling
+    - state, order
+    - manner, mode, form
+
+fetis:
+  typ: f
+  gen-sg: fatjes
+  ety: From PIE {*dʰéh₁tis}.
+  defs:
+    - act of putting, placement
+
+fitis:
+  typ: f
+  ety: From PIE {*dʰgʷʰéytis}.
+  defs:
+    - decay, destruction
+
+fomos:
+  typ: m
+  ety: From PIE {*dʰóh₁mos}.
+  defs:
+    - that which is put, placed
+    - judgement
+
+fona:
+  typ: f
+  ety: From PIE {*dʰoHnéh₂}.
+  defs:
+    - bread
+
+fraks:
+  typ: m
+  acc-sg: fragam
+  ety: From PIE {*dʰrā́ks}.
+  defs:
+    - dregs, sediment (of wine, oil, fat)
+
+frugos:
+  typ: m
+  ety: From PIE {*dʰrówgʰos}.
+  defs:
+    - a deception, falsehood, lie
+
+fugater:
+  typ: f
+  gen-sg: fugtres
+  ety: From PIE {*dʰugh₂tḗr}.
+  defs:
+    - daughter
+
+fumos:
+  typ: m
+  ety: From PIE {*dʰuh₂mós}.
+  defs:
+    - smoke
+
+fuor:
+  typ: m
+  gen-sg: fures
+  abl-pl: fuarmos
+  ety: From PIE {*dʰwṓr}.
+  defs:
+    - door
+
+delus:
+  typ: m
+  ety: From PIE {*ǵelu-}.
+  defs:
+    - leech
+
+denaman:
+  typ: n
+  gen-sg: danamens
+  ety: From PIE {*ǵénh₁mn̥}.
+  defs:
+    - offspring, seed
+    - (genealogical) generation
+
+denos:
+  typ: n
+  ety: From PIE {*ǵénh₁os}.
+  defs:
+    - race, lineage
+
+denatis:
+  typ: f
+  gen-sg: danatjes
+  ety: From PIE {*ǵénh₁tis}.
+  defs:
+    - birth
+    - production
+
+denator:
+  typ: m
+  gen-sg: danatres
+  ety: From PIE {*ǵénh₁tōr}.
+  defs:
+    - one who begets
+    - one who produces
+    - parent
+
+denus:
+  typ: f
+  gen-sg: danves
+  abl-pl: danumos
+  ety: From PIE {*ǵénus}.
+  defs:
+    - cheek
+    - jaw
+    - chin
+
+dustus:
+  typ: m
+  ety: From PIE {*ǵéwstus}.
+  defs:
+    - taste
+
+donfos:
+  typ: m
+  ety: From PIE {*ǵómbʰos}.
+  defs:
+    - number
+
+donos:
+  typ: m
+  ety: From PIE {*ǵónh₁os}.
+  defs:
+    - offspring
+
+donu:
+  typ: n
+  gen-sg: danves
+  abl-pl: danumos
+  ety: From PIE {*ǵónu}.
+  defs:
+    - knee
+
+dranom:
+  typ: n
+  ety: From PIE {*ǵr̥h₂nóm}.
+  defs:
+    - grain
+
+fer:
+  typ: m
+  ety: From PIE {*ǵʰḗr}.
+  defs:
+    - hedgehog
+
+fesor:
+  typ: f
+  ety: From PIE {*ǵʰésōr}.
+  defs:
+    - hand
+
+fejóm:
+  typ: f
+  gen-sg: fimes
+  ety: From PIE {*ǵʰéyōm}.
+  defs:
+    - winter
+  cat: seasons
+
+brasmos:
+  typ: m
+  ety: From PIE {*semh₂-}.
+  defs:
+    - summer
+  cat: seasons
+
+sosna:
+  typ: f
+  ety: From PIE {*(s)h₁es-}.
+  defs:
+    - autumn
+  cat: seasons
+
+vosan:
+  typ: n
+  gen-sg: vesens
+  dat-sg: vesnei
+  ety: From PIE {*wósr̥}.
+  defs:
+    - spring
+  cat: seasons
+
+famón:
+  typ: m
+  gen-sg: famnes
+  abl-pl: famanmos
+  ety: From PIE {*ǵʰm̥nés}.
+  defs:
+    - earthling
+
+fortos:
+  typ: m
+  ety: From PIE {*ǵʰórtos}.
+  defs:
+    - enclosure
+
+gerán:
+  typ: m
+  gen-sg: granes
+  abl-pl: granmos
+  ety: From PIE {*gerh₂ḗn}.
+  defs:
+    - crane, heron
+
+glis:
+  typ: m
+  gen-sg: glajes
+  abl-sg: glimos
+  ety: From PIE {*gl̥h₁éys}.
+  defs:
+    - weasel
+
+hostis:
+  typ: m
+  ety: From PIE {*gʰóstis}.
+  defs:
+    - guest
+
+bentis:
+  typ: f
+  gen-sg: bantjes
+  ety: From PIE {*gʷémtis}.
+  defs:
+    - step, act of walking
+
+bena:
+  typ: f
+  ety: From PIE {*gʷḗn}.
+  defs:
+    - woman
+
+beru:
+  typ: n
+  gen-sg: brus
+  dat-sg: brevei
+  abl-pl: brumos
+  ety: From PIE {*gʷéru}.
+  defs:
+    - spear
+
+bos:
+  typ: m
+  nom-pl: boves
+  acc-pl: bovans
+  gen-sg: bus
+  dat-sg: bevei
+  abl-pl: bumos
+  ety: From PIE {*gʷṓws}.
+  defs:
+    - cattle
+
+bravón:
+  typ: m
+  gen-sg: brunes
+  abl-pl: bravanmos
+  ety: From PIE {*gʷréh₂wō}.
+  defs:
+    - quern, millstone
+
+beros:
+  typ: n
+  ety: From PIE {*gʷʰéros}.
+  defs:
+    - heat
+    - warm weather
+
+bentis:
+  typ: f
+  ety: From PIE {*gʷʰn̥téys}.
+  defs:
+    - striking, killing
+
+briva:
+  typ: f
+  ety: From PIE {*gʷriHwéh₂}.
+  defs:
+    - mane, nape
+    - neck, thoat
+    - estuary, mouth of an inlet
+
+amnos:
+  typ: m
+  ety: From PIE {*h₂egʷnós}.
+  defs:
+    - lamb
+
+agos:
+  typ: n
+  ety: From PIE {*h₂égʰos}.
+  defs:
+    - (emotional) distress
+
+adros:
+  typ: m
+  ety: From PIE {*h₂éǵros}.
+  defs:
+    - field
+
+abol:
+  typ: m
+  gen-sg: bles
+  abl-pl: balmos
+  ety: From PIE {*h₂ébōl}.
+  defs:
+    - apple
+
+videva:
+  typ: f
+  ety: From PIE {*h₁widʰéwh₂}.
+  defs:
+    - widow
+
+rebos:
+  typ: n
+  ety: From PIE {*h₁régʷos}.
+  defs:
+    - darkness
+
+oitos:
+  typ: m
+  ety: From PIE {*h₁óytos}.
+  defs:
+    - oath
+
+udan:
+  typ: n
+  ety: From PIE {*h₁ówdʰr̥}.
+  defs:
+    - udder
+
+ombol:
+  typ: m
+  ety: From PIE {*h₂óngʷōl}.
+  defs:
+    - charcoal
+
+olos:
+  typ: m
+  ety: From PIE {*h₁ólos}.
+  defs:
+    - awl
+
+os:
+  typ: n
+  nom-pl: osa
+  ety: From PIE {*h₁óh₃s}.
+  defs:
+    - mouth
+
+noman:
+  typ: n
+  gen-sg: nemens
+  ety: From PIE {*h₁nómn̥}.
+  defs:
+    - name
+
+ludis:
+  typ: m
+  ety: From PIE {*h₁léwdʰis}.
+  defs:
+    - people
+
+itan:
+  typ: n
+  ety: From PIE {*h₁éytr̥}.
+  defs:
+    - way, course
+
+esan:
+  typ: n
+  gen-sg: sens
+  abl-pl: sanmos
+  ety: From PIE {*h₁ésh₂r̥}.
+  defs:
+    - (flowing) blood
+
+esvos:
+  typ: m
+  ety: From PIE {*h₁éḱwos}.
+  defs:
+    - horse, stallion
+
+fans:
+  typ: f
+  ety: From PIE {*ǵʰh₂éns}.
+  defs:
+    - goose
+
+asmón:
+  typ: m
+  gen-sg: samnes
+  abl-pl: smanmos
+  ety: From PIE {*h₂éḱmō}.
+  defs:
+    - stone
+
+alfit:
+  typ: n
+  nom-pl: alfita
+  abl-pl: alfitmos
+  ety: From PIE {*h₂élbʰit}.
+  defs:
+    - barley
+
+alisa:
+  typ: f
+  ety: From PIE {*h₂élis-}.
+  defs:
+    - alder
+
+anfos:
+  typ: n
+  ety: From PIE {*h₂éndʰos}.
+  defs:
+    - bloom
+
+anfis:
+  typ: m
+  ety: From PIE {*h₂éngʷʰis}.
+  defs:
+    - snake
+
+anamos:
+  typ: m
+  ety: From PIE {*h₂enh₁mos}.
+  defs:
+    - breath
+
+anats:
+  typ: f
+  acc-sg: anatam
+  abl-pl: anatmos
+  ety: From PIE {*h₂énh₂ts}.
+  defs:
+    - duck
+
+ankos:
+  typ: n
+  ety: From PIE {*h₂énkos}.
+  defs:
+    - curve, bend
+
+antjos:
+  typ: m
+  ety: From PIE {*h₂entíos}.
+  defs:
+    - front
+    - forehead
+
+artrom:
+  typ: n
+  ety: From PIE {*h₂érh₃trom}.
+  defs:
+    - plough, ard
+
+avis:
+  typ: f
+  gen-sg: ujes
+  abl-pl: vimos
+  ety: From PIE {*h₂éwis}.
+  defs:
+    - bird
+
+ausós:
+  typ: f
+  gen-sg: uses
+  ety: From PIE {*h₂éwsōs}.
+  defs:
+    - dawn
+
+ajos:
+  typ: n
+  ety: From PIE {*h₂éyos}.
+  defs:
+    - copper
+  cat: elements
+
+ner:
+  typ: m
+  gen-sg: andres
+  abl-pl: narmos
+  ety: From PIE {*h₂nḗr}.
+  defs:
+    - power, force, vital energy
+
+okris:
+  typ: f
+  gen-sg: ekris
+  ety: From PIE {*h₂óḱris}.
+  defs:
+    - top, protrusion
+    - sharp edge, corner
+
+ons:
+  typ: m
+  acc-sg: omam
+  gen-sg: ames
+  ety: From PIE {*h₂ṓms}.
+  defs:
+    - shoulder
+
+onkos:
+  typ: m
+  ety: From PIE {*h₂ónkos}.
+  defs:
+    - bend, turn
+
+ost:
+  typ: n
+  gen-sg: astes
+  ety: From PIE {*h₂óst}.
+  defs:
+    - bone
+
+ovis:
+  typ: f
+  gen-sg: avjes
+  ety: From PIE {*h₂ówis}.
+  defs:
+    - sheep
+
+us:
+  typ: n
+  gen-sg: auses
+  nom-pl: usa
+  ety: From PIE {*h₂ṓws}.
+  defs:
+    - ear
+
+ojom:
+  typ: n
+  ety: From PIE {*h₂ōwyóm}.
+  defs:
+    - egg
+
+oju:
+  typ: n
+  gen-sg: jus
+  dat-sg: juvei
+  abl-pl: jumos
+  ety: From PIE {*h₂óyu}.
+  defs:
+    - long life, lifetime
+
+ardantom:
+  typ: n
+  ety: From PIE {*h₂r̥ǵn̥tóm}.
+  defs:
+    - silver
+  cat: elements
+
+artos:
+  typ: m
+  ety: From PIE {*h₂ŕ̥tḱos}.
+  defs:
+    - bear
+
+ster:
+  typ: m
+  ety: From PIE {*h₂stḗr}.
+  defs:
+    - star
+
+lana:
+  typ: f
+  ety: From PIE {*h₂wĺ̥h₁neh₂}.
+  defs:
+    - wool
+
+vostu:
+  typ: n
+  ety: From PIE {*h₂wóstu}.
+  defs:
+    - home, dwelling
+
+junta:
+  typ: f
+  ety: From PIE {*h₂yuHn̥téh₂}.
+  defs:
+    - youth
+
+brus:
+  typ: f
+  gen-sg: brus
+  dat-sg: bruvei
+  abl-pl: brumos
+  ety: From PIE {*h₃bʰrúHs}.
+  defs:
+    - eyebrow
+
+donts:
+  typ: m
+  acc-sg: dontam
+  gen-sg: dantes
+  ety: From PIE {*h₃dónts}.
+  defs:
+    - tooth
+
+odés:
+  typ: m
+  ety: From PIE {*h₃edʰḗs}.
+  defs:
+    - adze, axe, hatchet
+
+omban:
+  typ: n
+  gen-sg: ambens
+  ety: From PIE {*h₃éngʷn̥}.
+  defs:
+    - fat, butter
+
+onos:
+  typ: n
+  ety: From PIE {*h₃énh₂os}.
+  defs:
+    - load, burden
+
+orón:
+  typ: m
+  gen-sg: arnes
+  abl-pl: ranmos
+  ety: From PIE {*h₃érō}.
+  defs:
+    - eagle
+
+mihla:
+  typ: f
+  ety: From PIE {*h₃migʰleh₂}.
+  defs:
+    - mist, fog
+
+nofilos:
+  typ: m
+  ety: From PIE {*h₃nobʰilos}.
+  defs:
+    - navel
+
+noks:
+  typ: m
+  acc-sg: nogam
+  gen-sg: neges
+  ety: From PIE {*h₃nṓgʰs}.
+  defs:
+    - nail (of the finger or toe)
+
+ops:
+  typ: n
+  nom-pl: opsa
+  gen-sg: opes
+  abl-pl: opsmos
+  ety: From PIE {*h₃ókʷs}.
+  defs:
+
+orfos:
+  typ: m
+  ety: From PIE {*h₃órbʰos}.
+  defs:
+    - orphan
+    - servant, slave, worker
+
+osdos:
+  typ: m
+  ety: From PIE {*h₃ósdos}.
+  defs:
+    - branch
+
+reds:
+  typ: m
+  acc-sg: redam
+  ety: From PIE {*h₃rḗǵs}.
+  defs:
+    - king, ruler
+
+isus:
+  typ: m
+  ety: From PIE {*(H)ísus}.
+  defs:
+    - arrow
+
+ordis:
+  typ: m
+  ety: From PIE {*h₄órǵʰis}.
+  defs:
+    - testicle
+
+ser:
+  typ: n
+  nom-pl: serda
+  gen-sg: sardes
+  ety: From PIE {*ḱḗr}.
+  defs:
+    - heart
+
+sersón:
+  typ: m
+  gen-sg: krasnes
+  abl-pl: krasanmos
+  ety: From PIE {*ḱérh₂sō}.
+  defs:
+    - head, skull
+
+slevos:
+  typ: n
+  ety: From PIE {*ḱléwos}.
+  defs:
+    - fame
+
+slita:
+  typ: f
+  ety: From PIE {*ḱléyteh₂}.
+  defs:
+    - slope, incline
+
+slitra:
+  typ: f
+  ety: From PIE {*ḱléytreh₂}.
+  defs:
+    - shelter, covering
+
+slunis:
+  typ: f
+  ety: From PIE {*ḱlównis}.
+  defs:
+    - buttocks, kip
+
+sopos:
+  typ: m
+  ety: From PIE {*ḱoph₂ós}.
+  defs:
+    - hoof
+
+sarsos:
+  typ: m
+  ety: From PIE {*ḱr̥sós}.
+  defs:
+    - vehicle
+
+svon:
+  typ: m
+  gen-sg: sunes
+  abl-pl: svanmos
+  ety: From PIE {*ḱwṓ}.
+  defs:
+    - dog
+
+kagjom:
+  typ: n
+  ety: From PIE {*kagʰyóm}.
+  defs:
+    - enclosure, hedge
+
+kapros:
+  typ: m
+  ety: From PIE {*kápros}.
+  defs:
+    - goat
+
+kaput:
+  typ: n
+  ety: From PIE {*káput}.
+  defs:
+    - head
+
+kotus:
+  typ: m
+  gen-sg: katves
+  ety: From PIE {*kéh₃tus}.
+  defs:
+    - fight
+
+koksa:
+  typ: f
+  ety: From PIE {*kóḱs-}.
+  defs:
+    - (anatomy) joint
+
+peplos:
+  typ: m
+  ety: From PIE {*kʷékʷlos}.
+  defs:
+    - wheel
+    - circle
+
+poina:
+  typ: f
+  ety: From PIE {*kʷoynéh₂}.
+  defs:
+    - payment
+    - punishment, vengeance
+
+parmis:
+  typ: m
+  ety: From PIE {*kʷŕ̥mis}.
+  defs:
+    - worm
+
+lokus:
+  typ: m
+  gen-sg: alkves
+  ety: From PIE {*lókus}.
+  defs:
+    - pond, pool
+    - lake
+
+luksna:
+  typ: f
+  ety: From PIE {*lówksneh₂}.
+  defs:
+    - moon
+
+loisa:
+  typ: f
+  ety: From PIE {*lóyseh₂}.
+  defs:
+    - following, track
+    - (agriculture) furrow
+
+mens:
+  typ: m
+  ety: From PIE {*mḗh₁n̥s}.
+  defs:
+    - moon
+    - month
+
+mater:
+  typ: f
+  ety: From PIE {*méh₂tēr}.
+  defs:
+    - mother
+
+melit:
+  typ: n
+  gen-sg: malites
+  ety: From PIE {*mélit}.
+  defs:
+    - honey
+
+mens:
+  typ: n
+  ety: From PIE {*mḗms}.
+  defs:
+    - flesh, meat
+
+menos:
+  typ: n
+  ety: From PIE {*ménos}.
+  defs:
+    - mind
+
+mentis:
+  typ: f
+  gen-sg: mantjes
+  ety: From PIE {*méntis}.
+  defs:
+    - thought
+
+mertis:
+  typ: f
+  gen-sg: martjes
+  ety: From PIE {*mértis}.
+  defs:
+    - death
+
+misdos:
+  typ: m
+  ety: From PIE {*misdʰós}.
+  defs:
+    - reward, prize
+    - wages, payment
+
+mori:
+  typ: n
+  gen-sg: marjes
+  nom-pl: morja
+  ety: From PIE {*móri}.
+  defs:
+    - sea
+
+morvis:
+  typ: f
+  gen-sg: marvjes
+  ety: From PIE {*morwi-}.
+  defs:
+    - ant
+
+mosgos:
+  typ: m
+  ety: From PIE {*mosgʰós}.
+  defs:
+    - marrow
+    - brain
+
+mus:
+  typ: m
+  gen-sg: musam
+  ety: From PIE {*múh₂s}.
+  defs:
+    - mouse
+
+mutrom:
+  typ: n
+  ety: From PIE {*múHtrom}.
+  defs:
+    - excrement, urine
+    - filth, sediment
+
+anfros:
+  typ: m
+  ety: From PIE {*n̥bʰrós}.
+  defs:
+    - rain-cloud
+    - rain
+
+nefos:
+  typ: n
+  ety: From PIE {*nébʰos}.
+  defs:
+    - cloud
+
+nefros:
+  typ: m
+  ety: From PIE {*negʷʰrós}.
+  defs:
+    - kidney
+
+nas:
+  typ: f
+  ety: From PIE {*néh₂s}.
+  defs:
+    - nose
+
+nemos:
+  typ: n
+  ety: From PIE {*némos}.
+  defs:
+    - sacrifice
+    - worship
+
+nisdos:
+  typ: m
+  ety: From PIE {*nisdós}.
+  defs:
+    - nest
+
+nops:
+  typ: f
+  acc-sg: noptam
+  gen-sg: neptes
+  ety: From PIE {*nókʷts}.
+  defs:
+    - night
+
+pavan:
+  typ: n
+  ety: From PIE {*péh₂wr̥}.
+  defs:
+    - bonfire
+
+pesu:
+  typ: n
+  gen-sg: pasves
+  ety: From PIE {*péḱu}.
+  defs:
+    - livestock
+
+persus:
+  typ: f
+  gen-sg: parsves
+  ety: From PIE {*pérḱus}.
+  defs:
+    - chest
+    - rib
+
+perkus:
+  typ: m
+  gen-sg: parkves
+  ety: From PIE {*pérkus}.
+  defs:
+    - oak
+
+pertus:
+  typ: m
+  gen-sg: partves
+  ety: From PIE {*pértus}.
+  defs:
+    - crossing
+
+pervan:
+  typ: n
+  gen-sg: parvens
+  abl-pl: prumos
+  ety: From PIE {*pérwr̥}.
+  defs:
+    - ford, crossing
+
+petan:
+  typ: n
+  gen-sg: patens
+  ety: From PIE {*péth₂r̥}.
+  defs:
+    - wing
+
+pater:
+  typ: m
+  ety: From PIE {*ph₂tḗr}.
+  defs:
+    - father
+
+pisda:
+  typ: f
+  ety: From PIE {*písdeh₂}.
+  defs:
+    - vulva
+
+plotus:
+  typ: m
+  gen-sg: platves
+  ety: From PIE {*pléh₃tus}.
+  defs:
+    - flood
+
+pletos:
+  typ: n
+  ety: From PIE {*pléth₂os}.
+  defs:
+    - breadth
+
+plumón:
+  typ: m
+  gen-sg: palvamnes
+  abl-pl: plumanmos
+  ety: From PIE {*pléwmō}.
+  defs:
+    - lung
+
+pluksna:
+  typ: f
+  ety: From PIE {*plúnksneh₂}.
+  defs:
+    - feather
+
+plusis:
+  typ: f
+  ety: From PIE {*plúsis}.
+  defs:
+    - flea
+
+numan:
+  typ: n
+  abl-pl: panvamnes
+  ety: From PIE {*pnéwmn̥}.
+  defs:
+    - breath
+    - spirit, soul
+
+panstis:
+  typ: f
+  ety: From PIE {*pn̥kʷstis}.
+  defs:
+    - fist
+
+pods:
+  typ: m
+  acc-sg: podam
+  gen-sg: pedes
+  ety: From PIE {*pṓds}.
+  defs:
+    - foot
+
+ponts:
+  typ: m
+  acc-sg: pontam
+  gen-sg: pantes
+  ety: From PIE {*póntoh₁s}.
+  defs:
+    - path
+
+porsos:
+  typ: m
+  ety: From PIE {*pórḱos}.
+  defs:
+    - pig, piglet, hog, swine
+
+pornom:
+  typ: n
+  ety: From PIE {*pornóm}.
+  defs:
+    - fern, leaf
+
+potis:
+  typ: m
+  ety: From PIE {*pótis}.
+  defs:
+    - master, ruler
+    - husband
+    - lord
+
+sten:
+  typ: m
+  gen-sg: stanes
+  ety: From PIE {*pstḗn}.
+  defs:
+    - breast, teat
+
+puros:
+  typ: m
+  ety: From PIE {*puHrós}.
+  defs:
+    - wheat
+
+rugis:
+  typ: m
+  ety: From PIE {*rúgʰis}.
+  defs:
+    - rye
+
+sedos:
+  typ: n
+  ety: From PIE {*séǵʰos}.
+  defs:
+    - power, strength
+
+seman:
+  typ: n
+  gen-sg: samens
+  ety: From PIE {*séh₁mn̥}.
+  defs:
+    - seed
+    - semen
+
+sals:
+  typ: m
+  acc-sg: salam
+  ety: From PIE {*séh₂ls}.
+  defs:
+    - salt
+
+selos:
+  typ: n
+  ety: From PIE {*sélos}.
+  defs:
+    - marsh
+
+soia:
+  typ: f
+  ety: From PIE {*(s)ḱeh₃ih₂}.
+  defs:
+    - shadow, shade
+
+spalos:
+  typ: m
+  ety: From PIE {*(s)kʷálos}.
+  defs:
+    - large fish
+    - sheatfish
+
+smerus:
+  typ: m
+  gen-sg: smarves
+  ety: From PIE {*smérus}.
+  defs:
+    - grease
+
+snevan:
+  typ: n
+  gen-sg: snavens
+  ety: From PIE {*snéh₁wr̥}.
+  defs:
+    - sinew, tendon
+
+snetan:
+  typ: n
+  gen-sg: snatens
+  ety: From PIE {*(s)néHtr̥}.
+  defs:
+    - adder (type of snake)
+
+snoifos:
+  typ: m
+  ety: From PIE {*snóygʷʰos}.
+  defs:
+    - snow
+
+sovan:
+  typ: n
+  gen-sg: savens
+  ety: From PIE {*sóh₂wl̥}.
+  defs:
+    - sun
+
+sosan:
+  typ: n
+  gen-sg: sens
+  ety: From PIE {*sóḱr̥}.
+  defs:
+    - dung, excrement
+
+sopos:
+  typ: m
+  ety: From PIE {*sokʷos}.
+  defs:
+    - juice
+
+soitos:
+  typ: m
+  ety: From PIE {*soytós}.
+  defs:
+    - magic
+
+speks:
+  typ: m
+  acc-sg: spesam
+  gen-sg: spases
+  ety: From PIE {*spéḱs}.
+  defs:
+    - watcher
+    - spy
+
+sper:
+  typ: m
+  ety: From PIE {*spḗr}.
+  defs:
+    - sparrow
+
+streps:
+  typ: f
+  acc-sg: strefam
+  gen-sg: strafes
+  ety: From PIE {*(s)rḗps}.
+  defs:
+    - turnip, rape, cabbage
+
+staman:
+  typ: n
+  ety: From PIE {*stéh₂mn̥}.
+  defs:
+    - that which stands, stature
+
+statis:
+  typ: f
+  ety: From PIE {*stéh₂tis}.
+  defs:
+    - standing, position
+
+stoigos:
+  typ: m
+  ety: From PIE {*stóygʰos}.
+  defs:
+    - path, way
+
+sunus:
+  typ: m
+  ety: From PIE {*suHnús}.
+  defs:
+    - son
+
+svennos:
+  typ: m
+  ety: From PIE {*supnós}.
+  defs:
+    - sleep, slumber
+
+svesor:
+  typ: f
+  gen-sg: sustres
+  abl-pl: susarmos
+  ety: From PIE {*swésōr}.
+  defs:
+    - sister
+
+tauros:
+  typ: m
+  ety: From PIE {*táwros}.
+  defs:
+    - bull
+
+tenos:
+  typ: n
+  ety: From PIE {*ténos}.
+  defs:
+    - extension
+
+tentis:
+  typ: f
+  gen-sg: tantjes
+  ety: From PIE {*téntis}.
+  defs:
+    - extension
+
+tepos:
+  typ: n
+  ety: From PIE {*tépos}.
+  defs:
+    - warmth, heat
+
+terman:
+  typ: n
+  gen-sg: tarmens
+  ety: From PIE {*térmn̥}.
+  defs:
+    - boundary, end
+
+tektón:
+  typ: m
+  gen-sg: tasnes
+  abl-pl: tasanmos
+  ety: From PIE {*tétḱō}.
+  defs:
+    - carpenter
+
+tuta:
+  typ: f
+  ety: From PIE {*tewtéh₂}.
+  defs:
+    - people, tribe
+
+tonos:
+  typ: m
+  ety: From PIE {*tónos}.
+  defs:
+    - chord, fiber, string
+
+persna:
+  typ: f
+  ety: From PIE {*tpḗrsneh₂}.
+  defs:
+    - heel, upper thigh
+
+uderos:
+  typ: m
+  ety: From PIE {*úderos}.
+  defs:
+    - abdomen, stomach
+
+viman:
+  typ: n
+  ety: From PIE {*wéh₁imn̥}.
+  defs:
+    - that which is twisted, plaiting
+
+vitis:
+  typ: f
+  ety: From PIE {*wéh₁itis}.
+  defs:
+    - that which twines or bends
+    - branch, switch
+
+veksperos:
+  typ: m
+  ety: From PIE {*wek(ʷ)speros}.
+  defs:
+    - evening
+
+verdom:
+  typ: n
+  ety: From PIE {*werdʰh₁om}.
+  defs:
+    - word
+
+verdom:
+  typ: n
+  ety: From PIE {*wérǵom}.
+  defs:
+    - work
+
+verna:
+  typ: f
+  ety: From PIE {*wern-}.
+  defs:
+    - alder
+
+vestis:
+  typ: f
+  gen-sg: ustjes
+  ety: From PIE {*wéstis}.
+  defs:
+    - the act of dressing
+    - clothing
+
+vistor:
+  typ: m
+  ety: From PIE {*wéydtōr}.
+  defs:
+    - one who has seen, one who knows
+    - witness
+
+viros:
+  typ: m
+  ety: From PIE {*wiHrós}.
+  defs:
+    - man
+    - husband
+    - warrior, hero
+
+vispotis:
+  typ: m
+  ety: From PIE {*wiḱpótis}.
+  defs:
+    - clan chief
+    - lord
+
+valpos:
+  typ: m
+  ety: From PIE {*wĺ̥kʷos}.
+  defs:
+    - wolf
+
+vodan:
+  typ: n
+  gen-sg: vedens
+  ety: From PIE {*wódr̥}.
+  defs:
+    - water
+
+vops:
+  typ: f
+  acc-sg: vopam
+  ety: From PIE {*wṓkʷs}.
+  defs:
+    - voice, speech
+
+rads:
+  typ: f
+  acc-sg: radam
+  ety: From PIE {*wréh₂ds}.
+  defs:
+    - root
+
+Ren:
+  typ: m
+  gen-sg: Ranes
+  ety: From PIE {*wr̥h₁ḗn}.
+  defs:
+    - Aries
+  cat: constellations
+
+jemos:
+  typ: m
+  ety: From PIE {*yémHos}.
+  defs:
+    - twin
+
+jugos:
+  typ: n
+  ety: From PIE {*yéwgos}.
+  defs:
+    - team
+    - pair of yoked animals
+
+somjugos:
+  typ: n
+  ety: From Danetian {jugos}.
+  defs:
+    - union
+
+somjugestos:
+  typ: adj
+  ety: From Danetian {somjugos}.
+  defs:
+    - united
+
+djolet:
+  typ: m
+  ety: From a Turkic language; compare Uyghur {dölet} and Uzbek {davlat}.
+  defs:
+    - (political) state
+
+sovietiskos:
+  typ: adj
+  ety: From Russian {сове́т}.
+  defs:
+    - Soviet (pertaining to the Soviet Union)
+
+Sovietiskom Somjugos:
+  typ: n
+  defs:
+    - Soviet Union
+  cat: countries
+
+Somjugos Sovietiskóm Socialistiskóm Respublicóm:
+  typ: n
+  defs:
+    - Union of Soviet Socialist Republics
+  cat: countries
+
+socialistiskos:
+  typ: adj
+  ety: From French {socialiste}.
+  defs:
+    - socialist
+
+respublica:
+  typ: f
+  ety: From Latin {rēspūblica}.
+  defs:
+    - republic
+
+America:
+  typ: f
+  ety: From Latin {America}.
+  defs:
+    - America
+  cat: countries
+
+Somjugestói Djoletes Americas:
+  typ: m
+  defs:
+    - United States of America
+  cat: countries
+
+jevos:
+  typ: n
+  ety: From PIE {*yéwos}.
+  defs:
+    - cereal, grain
+    - barley, spelt
+
+jeros:
+  typ: m
+  ety: From PIE {*yóh₁r̥}.
+  defs:
+    - year
+
+jopan:
+  typ: n
+  gen-sg: jepens
+  ety: From PIE {*yókʷr̥}.
+  defs:
+    - liver
+
+jugom:
+  typ: n
+  ety: From PIE {*yugóm}.
+  defs:
+    - yoke
+
+spesa:
+  typ: f
+  ety: From PIE {*spéh₁s}.
+  defs:
+    - prosperity, success
+
+reja:
+  typ: f
+  ety: From PIE {*reh₁is}.
+  defs:
+    - wealth, goods, riches
+
+naus:
+  typ: f
+  gen-sg: naves
+  abl-pl: naumos
+  ety: From PIE {*néh₂us}.
+  defs:
+    - boat, ship
+
+lus:
+  typ: m
+  acc-sg: lusam
+  ety: From PIE {*lewH-}.
+  defs:
+    - louse
+
+kreva:
+  typ: f
+  ety: From PIE {*kréwh₂s}.
+  defs:
+    - (raw) blood
+
+Rossia:
+  typ: f
+  ety: From Byzantine Greek {Ῥωσία}.
+  defs:
+    - Russia
+  cat: countries
+
+rossiskos:
+  typ: adj
+  ety: From Danetian {Rossia}.
+  defs:
+    - Russian
+
+Rossiska Foideracion:
+  typ: f
+  defs:
+    - Russian Federation
+  cat: countries
+
+palaciom:
+  typ: n
+  ety: From Latin {palātium}.
+  defs:
+    - palace
+
+palacials:
+  typ: adj
+  ety: From French {palatial}.
+  defs:
+    - palatial, pertaining to palaces
+
+foideracion:
+  typ: f
+  ety: From Latin {foederatio}.
+  defs:
+    - federation
+
+buftos:
+  typ: adj
+  ety: From PIE {*bʰudʰtós}.
+  defs:
+    - aware
+
+brunos:
+  typ: adj
+  ety: From PIE {*bʰruHnós}.
+  defs:
+    - brown
+  cat: colors
+
+bosos:
+  typ: adj
+  ety: From PIE {*bʰosós}.
+  defs:
+    - bare, barefoot
+
+biftos:
+  typ: adj
+  ety: From PIE {*bʰidʰtós}.
+  defs:
+    - trusted, trustworthy
+
+bistos:
+  typ: adj
+  ety: From PIE {*bʰidtós}.
+  defs:
+    - split, cloven
+
+bardátos:
+  typ: adj
+  ety: From PIE {*bʰardʰéh₂tos}.
+  defs:
+    - bearded
+
+alfos:
+  typ: adj
+  ety: From PIE {*albʰós}.
+  defs:
+    - white
+  cat: colors
+
+fufnos:
+  typ: adj
+  ety: From PIE {*dʰubʰrós}.
+  defs:
+    - deep
+
+fjesteros:
+  typ: adj
+  ety: From PIE {*dʰǵʰyésteros}.
+  defs:
+    - pertaining to yesterday
+
+fjestere:
+  typ: adv
+  ety: From Danetian {fjesteros}.
+  defs:
+    - yesterday
+
+dusmenés:
+  typ: adj
+  ety: From PIE {*dusmenḗs}.
+  defs:
+    - ill-disposed, wicked, evil
+
+lonhos:
+  typ: adj
+  ety: From PIE {*dlongʰos}.
+  defs:
+    - long
+
+divjos:
+  typ: adj
+  ety: From PIE {*diwyós}.
+  defs:
+    - heavenly
+
+datos:
+  typ: adj
+  ety: From PIE {*dh₃tós}.
+  defs:
+    - given
+
+svadus:
+  typ: adj
+  ety: From PIE {*swéh₂dus}.
+  defs:
+    - sweet
+
+benfus:
+  typ: adj
+  ety: From PIE {*bʰénǵʰus}.
+  defs:
+    - dense, thick
+
+berdonts:
+  typ: adj
+  gen-sg: berdantes
+  ety: From PIE {*bʰérǵʰonts}.
+  defs:
+    - high
+
+bantos:
+  typ: adj
+  ety: From PIE {*gʷm̥tós}.
+  defs:
+    - passable
+
+bivos:
+  typ: adj
+  ety: From PIE {*gʷih₃wós}.
+  defs:
+    - alive, living
+
+graftos:
+  typ: adj
+  ety: From PIE {*gr̥bʰtós}.
+  defs:
+    - carved
+    - written
+
+futos:
+  typ: adj
+  ety: From PIE {*ǵʰutós}.
+  defs:
+    - poured
+
+natos:
+  typ: adj
+  ety: From PIE {*ǵn̥h₃tós}.
+  defs:
+    - known, recognizable
+
+natos:
+  typ: adj
+  ety: From PIE {*ǵn̥h₁tós}.
+  defs:
+    - begotten, produced
+
+deronts:
+  typ: adj
+  ety: From PIE {*ǵérh₂onts}.
+  defs:
+    - old
+
+restos:
+  typ: adj
+  ety: From PIE {*h₃reǵtós}.
+  defs:
+    - straightened, right, upright
+
+onostos:
+  typ: adj
+  ety: From PIE {*h₃enh₂ostos}.
+  defs:
+    - loaded; burdened
+
+junsos:
+  typ: adj
+  ety: From PIE {*h₂yuHn̥ḱós}.
+  defs:
+    - young
+
+moldus:
+  typ: adj
+  ety: From PIE {*(h₂)moldus}.
+  defs:
+    - soft, weak
+
+anfus:
+  typ: adj
+  ety: From PIE {*h₂énǵʰus}.
+  defs:
+    - narrow, tight
+
+amos:
+  typ: adj
+  ety: From PIE {*h₂eh₃mós}.
+  defs:
+    - raw, uncooked
+    - bitter
+
+adrjos:
+  typ: adj
+  ety: From PIE {*h₂éǵr̥yos}.
+  defs:
+    - campestral, pertaining to fields
+
+vesus:
+  typ: adj
+  ety: From PIE {*h₁wésus}.
+  defs:
+    - good, excellent
+
+verus:
+  typ: adj
+  ety: From PIE {*h₁wérus}.
+  defs:
+    - broad
+
+rufros:
+  typ: adj
+  ety: From PIE {*h₁rudʰrós}.
+  defs:
+    - red
+  cat: colors
+
+lanfros:
+  typ: adj
+  ety: From PIE {*h₁ln̥gʷʰrós}.
+  defs:
+    - lightweight
+
+itos:
+  typ: adj
+  ety: From PIE {*h₁itós}.
+  defs:
+    - passable
+
+enteros:
+  typ: adj
+  ety: From PIE {*h₁énteros}.
+  defs:
+    - inside, within
+
+juktos:
+  typ: adj
+  ety: From PIE {*yugtós}.
+  defs:
+    - yoked, joined
+
+varstos:
+  typ: adj
+  ety: From PIE {*wr̥ǵtós}.
+  defs:
+    - worked, fashioned
+
+vistos:
+  typ: adj
+  ety: From PIE {*widtós}.
+  defs:
+    - seen, known
+
+veros:
+  typ: adj
+  ety: From PIE {*weh₁ros}.
+  defs:
+    - true
+
+usteros:
+  typ: adj
+  ety: From PIE {*údteros}.
+  defs:
+    - higher, outer
+
+udros:
+  typ: adj
+  ety: From PIE {*udrós}.
+  defs:
+    - of water, aquatic
+
+tarnos:
+  typ: adj
+  ety: From PIE {*tr̥nós}.
+  defs:
+    - sharp, stiff
+
+tantos:
+  typ: adj
+  ety: From PIE {*tn̥tós}.
+  defs:
+    - stretched, extended
+
+latos:
+  typ: adj
+  ety: From PIE {*tl̥h₂tós}.
+  defs:
+    - lifted
+
+tenus:
+  typ: adj
+  ety: From PIE {*ténh₂us}.
+  defs:
+    - thin
+
+tegus:
+  typ: adj
+  ety: From PIE {*tégus}.
+  defs:
+    - thick
+
+suros:
+  typ: adj
+  ety: From PIE {*súHros}.
+  defs:
+    - sour, acidic
+
+stratos:
+  typ: m
+  ety: From PIE {*str̥h₃tós}.
+  defs:
+    - valley
+
+statos:
+  typ: adj
+  ety: From PIE {*sth₂tós}.
+  defs:
+    - placed, standing
+
+senos:
+  typ: adj
+  ety: From PIE {*sénos}.
+  defs:
+    - old
+
+sestos:
+  typ: adj
+  ety: From PIE {*sedtós}.
+  defs:
+    - seated
+
+prios:
+  typ: adj
+  ety: From PIE {*priHós}.
+  defs:
+    - dear, beloved
+    - happy, free
+
+plutos:
+  typ: adj
+  ety: From PIE {*plutós}.
+  defs:
+    - washed
+    - floated
+
+paltanos:
+  typ: adj
+  ety: From PIE {*pl̥th₂enós}.
+  defs:
+    - wide, broad
+
+planos:
+  typ: adj
+  ety: From PIE {*pl̥h₁nós}.
+  defs:
+    - full
+
+pletus:
+  typ: adj
+  ety: From PIE {*pléth₂us}.
+  defs:
+    - flat, broad
+
+pletia:
+  typ: adj
+  ety: From Danetian {pletus}.
+  defs:
+    - square, plaza
+
+martos:
+  typ: adj
+  ety: From PIE {*mr̥tós}.
+  defs:
+    - dead
+    - mortal
+
+nevos:
+  typ: adj
+  ety: From PIE {*néwos}.
+  defs:
+    - new
+
+nesus:
+  typ: adj
+  ety: From PIE {*néḱus}.
+  defs:
+    - dead
+    - mortal
+
+mardus:
+  typ: adj
+  ety: From PIE {*mr̥ǵʰús}.
+  defs:
+    - short
+    - brief
+
+makros:
+  typ: adj
+  ety: From PIE {*mh₂ḱrós}.
+  defs:
+    - lean, meager
+
+medjos:
+  typ: adj
+  ety: From PIE {*médʰyos}.
+  defs:
+    - middle
+
+kruros:
+  typ: adj
+  ety: From PIE {*kruh₂rós}.
+  defs:
+    - bloody
+
+karsnos:
+  typ: adj
+  ety: From PIE {*kr̥snós}.
+  defs:
+    - black
+    - dark, dusky
+
+kaikos:
+  typ: adj
+  ety: From PIE {*káykos}.
+  defs:
+    - blind
+
+kaptos:
+  typ: adj
+  ety: From PIE {*kaptós}.
+  defs:
+    - seized, held
+
+slivos:
+  typ: adj
+  ety: From PIE {*ḱleywós}.
+  defs:
+    - sloped, curved
+
+slitos:
+  typ: adj
+  ety: From PIE {*ḱlitós}.
+  defs:
+    - covered, sheltered
+
+slutos:
+  typ: adj
+  ety: From PIE {*ḱlutós}.
+  defs:
+    - heard, listened
+    - known, famous
+
+medanos:
+  typ: adj
+  ety: From PIE {*méǵh₂s}.
+  defs:
+    - big, great
+
+urusj:
+  typ: m
+  ety: From a Turkic language; compare Uzbek {urush} and Turkmen {uruş}.
+  defs:
+    - war
+
+kros:
+  typ: adj
+  ety: From PIE {*h₂ḱrós}.
+  defs:
+    - sharp
+
+vents:
+  typ: m
+  acc-sg: ventam
+  gen-sg: vantes
+  ety: From PIE {*h₂wéh₁n̥ts}.
+  defs:
+    - wind
+
+kentis:
+  typ: f
+  gen-sg: kantes
+  ety: From PIE {*ken-}.
+  defs:
+    - beginning, start
+
+redia:
+  typ: f
+  ety: From PIE {*h₃reǵ-}.
+  defs:
+    - law
+    - (law) right
+
+sonfis:
+  typ: m
+  ety: From PIE {*som-dʰh₁-is}, from {*dʰeh₁-}.
+  defs:
+    - judge
+
+posjolik:
+  typ: m
+  ety: From a Turkic language; compare Uzbek {podsholik}.
+  defs:
+    - kingdom
+
+ullimmanos:
+  typ: adj
+  ety: From Danetian {linepti}.
+  defs:
+    - omitted; forgotten
+
+praisident:
+  typ: m
+  ety: From Latin {praesidēns}.
+  defs:
+    - president
+
+oiconomia:
+  typ: f
+  ety: From Latin {oeconomia}, from Ancient Greek {οἰκονομία}.
+  defs:
+    - economy
+
+Aigyptos:
+  typ: f
+  ety: From Latin {Aegyptus}, from Ancient Greek {Αἴγυπτος}, from Egyptian {ḥwt-kꜣ-ptḥ}.
+  defs:
+    - Egypt
+
+schola:
+  typ: f
+  ety: From Latin {schola}, from Ancient Greek {σχολή}.
+  defs:
+    - school
+
+tjómir:
+  typ: m
+  ety: From a Turkic language; compare Uzbek {temir}, Turkmen {demir}, Uyghur {tömür}, and Kazakh {темір}.
+  defs:
+    - iron
+  cat: elements
+
+simap:
+  typ: m
+  ety: From a Turkic language; compare Uzbek {simob}, Uyghur {simab}, and Turkmen {simap}.
+  defs:
+    - mercury (element)
+  cat: elements
+
+metrom:
+  typ: n
+  ety: From French {mètre}, from Ancient Greek {μέτρον}.
+  defs:
+    - meter (unit of measurement)
+  cat: units-of-measurement
+
+secundom:
+  typ: n
+  ety: From Latin {secundum}.
+  defs:
+    - second (unit of measurement)
+  cat: units-of-measurement
+
+grammom:
+  typ: n
+  ety: From French {gramme}, from Ancient Greek {γράμμα}.
+  defs:
+    - gram (unit of measurement)
+  cat: units-of-measurements
+
+oinika:
+  typ: f
+  ety: From Danetian {oinos}.
+  defs:
+    - unit
+
+encyclopaidia:
+  typ: f
+  ety: From New Latin {encyclopaedīa}.
+  defs:
+    - encyclopedia
+
+doctor:
+  typ: m
+  ety: From Latin {doctor}.
+  defs:
+    - doctor
+
+physica:
+  typ: f
+  ety: From Latin {physica}, from Ancient Greek {φυσική}.
+  defs:
+    - physics
+
+oinos:
+  typ: num
+  ety: From PIE {*óynos}.
+  defs:
+    - one
+
+dvo:
+  typ: num
+  ety: From PIE {*dwóh₁}.
+  defs:
+    - two
+
+tres:
+  typ: num
+  ety: From PIE {*tréyes}.
+  defs:
+    - three
+
+petvores:
+  typ: num
+  ety: From PIE {*kʷetwóres}.
+  defs:
+    - four
+
+pempe:
+  typ: num
+  ety: From PIE {*pénkʷe}.
+  defs:
+    - five
+
+sveks:
+  typ: num
+  ety: From PIE {*swéḱs}.
+  defs:
+    - six
+
+septam:
+  typ: num
+  ety: From PIE {*septḿ̥}.
+  defs:
+    - seven
+
+okto:
+  typ: num
+  ety: From PIE {*oḱtṓw}.
+  defs:
+    - eight
+
+nevan:
+  typ: num
+  ety: From PIE {*h₁néwn̥}.
+  defs:
+    - nine
+
+desam:
+  typ: num
+  ety: From PIE {*déḱm̥}.
+  defs:
+    - ten
+
+vidsanti:
+  typ: num
+  ety: From PIE {*wídḱm̥ti}.
+  defs:
+    - twenty
+
+sventos:
+  typ: adj
+  ety: From PIE {*ḱwen-}.
+  defs:
+    - holy, sacred
+
+svenseti:
+  typ: v
+  ety: From PIE {*ḱwen-}.
+  defs:
+    - to make holy, to hallow, to make sacred, to sanctify
+
+iti:
+  typ: v
+  ety: From PIE {*h₁éyti}, with some inflectional forms suppleted by {*gʷem-}.
+  defs:
+    - to go
+
+en:
+  typ: prep
+  ety: From PIE {*h₁en}.
+  defs:
+    - (+loc) in
+    - (+acc) into
+
+upo:
+  typ: prep
+  ety: From PIE {*upó}.
+  defs:
+    - (+loc) under
+    - (+ins) according to
+
+uper:
+  typ: prep
+  ety: From PIE {*upér}.
+  defs:
+    - (+loc) over
+    - (+dat) on behalf of, for the sake of
+    - (+gen) because of
+    - (+ins) about, concerning
+    - (+acc) over, beyond
+    - (+acc) above, exceeding in quantity, upwards of
+
+medi:
+  typ: prep
+  ety: From PIE {*médʰyos}.
+  defs:
+    - (+ins) between, among
+
+som:
+  typ: prep
+  ety: From PIE {*ḱóm}.
+  defs:
+    - (+ins) with
+
+opi:
+  typ: prep
+  ety: From PIE {*h₁opi}.
+  defs:
+    - (+gen) near, at, by
+    - (+gen) before (in the presence of)
+
+apo:
+  typ: prep
+  ety: From PIE {*h₂epó}.
+  defs:
+    - (+abl) off, away, from
+
+opiti:
+  typ: v
+  ety: From Danetian {opi} and {iti}.
+  defs:
+    - to come
+
+jehania:
+  typ: f
+  ety: From a Turkic language, and ultimately from Middle Persian {gēhān}; compare Bashkir {йыһан}.
+  defs:
+    - world, universe, cosmos
+
+nevidmos:
+  typ: adj
+  ety: From Danetian {voide}.
+  defs:
+    - unseen
+
+nuti:
+  typ: prep
+  ety: Unknown.
+  defs:
+    - (+abl) without
+
+ops:
+  typ: n
+  gen-sg: opes
+  ety: From PIE {*h₃ókʷs}.
+  defs:
+    - eye
+
+pretiops:
+  typ: n
+  ety: From PIE {*préti + *h₃ókʷs}.
+  defs:
+    - face
+
+nutipretiopés:
+  typ: adj
+  ety: From Danetian {nuti + pretiops}.
+  defs:
+    - faceless, formless, shapeless
+
+sivos:
+  typ: adj
+  ety: Unknown.
+  defs:
+    - good
+
+enurejos:
+  typ: adj
+  ety: From PIE {*h₁(n̥)new + *reh₁is}.
+  defs:
+    - poor, wantsome
+
+enu:
+  typ: prep
+  ety: From PIE {*h₁(n̥)new}.
+  defs:
+    - (+gen) without
+
+tros:
+  typ: prep
+  ety: From PIE {*trh₂os}.
+  defs:
+    - (+acc) through
+
+dege:
+  typ: adv
+  ety: From PIE {*de + *gʰe}.
+  defs:
+    - even; {Dege dorú bivonta. - Even trees are alive.}
+    - indeed, of course, in fact
+
+nege:
+  typ: adv
+  ety: From PIE {*ne + *gʰe}.
+  defs:
+    - not even
+
+dégar:
+  typ:  conj
+  ety: Possibly cognate with Ancient Greek {γᾰ́ρ}.
+  defs:
+    - for, since
+
+uposme:
+  typ: conj
+  ety:  From Danetian {upo}.
+  defs:
+    - as, while
+    - since, seeing as, because
+
+rama:
+  typ: f
+  ety: From Old High German {rama}.
+  defs:
+    - frame (of a building), framework
+
+atirama:
+  typ: f
+  ety: From Danetian {ati + rama}.
+  defs:
+    - firmament (biblical)
+
+gladjeti:
+  typ: v
+  ety: From Proto-Germanic {*gladaz}.
+  defs:
+    - to please, to make happy, to satisfy
+
+opigladjeti:
+  typ: v
+  ety: From Danetian {gladjeti}.
+  defs:
+    - to comfort, to console
+
+dulgos:
+  typ: m
+  ety: From Proto-Germanic {*dulgaz}.
+  defs:
+    - debt
+
+sonvistiés:
+  typ: adj
+  ety: From Danetian {vistis}.
+  defs:
+    - messenger
+    - angel
+
+vistis:
+  typ: f
+  ety: From PIE {*weyd-}.
+  defs:
+    - news
+
+somblesnos:
+  typ: m
+  ety: From Danetian {som + blesnos}.
+  defs:
+    - seduction, temptation
+
+blesnos:
+  typ: m
+  ety: From PIE {*bʰleǵ-}.
+  defs:
+    - bait, lure
+
+balnia:
+  typ: f
+  ety: From Danetian {baljo}.
+  defs:
+    - failure, error
+
+nauman:
+  typ: n
+  ety: From PIE {*neh₂ut-}.
+  defs:
+    - need, necessity
+
+lukos:
+  typ: m
+  ety: From PIE {*lewk-}.
+  defs:
+    - light
+
+luketor:
+  typ: v
+  ety: From PIE {*lewk-}.
+  defs:
+    - to shine, to illuminate
+
+slabyeti:
+  typ: v
+  ety: From PIE {*sl̥h₂gʷ-}.
+  defs:
+    - to seize, to grasp, to take
+
+protislabyeti:
+  typ: v
+  ety: From Danetian {slabyeti}.
+  defs:
+    - to understand, to comprehend
+
+baljo:
+  typ: v
+  ety: From PIE {*bʰāl-}.
+  defs:
+    - to fail, to err, to miss
+
+preseti:
+  typ: v
+  ety: From PIE {*preḱ-}.
+  defs:
+    - to ask, to question; (Use the dative case for the person receiving the question.)
+    - to ask for, to petition, to request; (Use the ablative case for the person receiving the request.)
+
+anapreseti:
+  typ: v
+  ety: From Danetian {preseti}.
+  defs:
+    - to pray (Use the dative case on the person being prayed to.)
+
+lekseti:
+  typ: v
+  ety: From PIE {*h₂lékseti}.
+  defs:
+    - to protect, defend
+
+pisjeti:
+  typ: v
+  ety: From PIE {*peyḱ-}.
+  defs:
+    - to write
+
+sontío:
+  typ: v
+  ety: From PIE {*sont-éye-}.
+  defs:
+    - to send
+
+solnos:
+  typ: pron
+  ety: From PIE {*solh₂-}.
+  defs:
+    - whole (in singular), all (in plural)
+
+podegos:
+  typ: pron
+  ety: From Danetian {po + dege}.
+  defs:
+    - each
+
+oinodasam:
+  typ: num
+  ety: From PIE {*óynos + *déḱm̥}.
+  defs:
+    - eleven
+
+dvoidasam:
+  typ: num
+  ety: From PIE {*dwóh₁ + *déḱm̥}.
+  defs:
+    - twelve
+
+tridasam:
+  typ: num
+  ety: From PIE {*tréyes + *déḱm̥}.
+  defs:
+    - thirteen
+
+petvordasam:
+  typ: num
+  ety: From PIE {*kʷetwóres + *déḱm̥}.
+  defs:
+    - fourteen
+
+pempedasam:
+  typ: num
+  ety: From PIE {*pénkʷe + *déḱm̥}.
+  defs:
+    - fifteen
+
+svesdasam:
+  typ: num
+  ety: From PIE {*swéḱs + *déḱm̥}.
+  defs:
+    - sixteen
+
+septandasam:
+  typ: num
+  ety: From PIE {*septḿ̥ + *déḱm̥}.
+  defs:
+    - seventeen
+
+oktodasam:
+  typ: num
+  ety: From PIE {*oḱtṓw + *déḱm̥}.
+  defs:
+    - eighteen
+
+nevandasam:
+  typ: num
+  ety: From PIE {*h₁néwn̥ + *déḱm̥}.
+  defs:
+    - nineteen
+
+esti:
+  typ: v
+  ety: From PIE {*h₁ésti}.
+  defs:
+    - to be
+
+fet:
+  typ: v
+  ety: From PIE {*dʰeh₁-}.
+  defs:
+    - to make, to do
+    - to put, to place
+
+vepti:
+  typ: v
+  ety: From PIE {*wekʷ-}.
+  defs:
+    - to speak (when used in the imperfective aspect)
+    - to say (when used in the perfective aspect)
+
+voide:
+  typ: v
+  ety: From PIE {*weyd-}.
+  defs:
+    - to see (when used in the imperfective aspect)
+    - to look (when used in the perfective aspect)
+
+bideti:
+  typ: v
+  ety: From PIE {*bʰeyd-}.
+  defs:
+    - to split
+    - to separate
+
+iti:
+  typ: v
+  ety: From PIE {*h₁éyti}
+  defs:
+    - to go
+
+denati:
+  typ: v
+  ety: From PIE {*ǵenh₁-}
+  defs:
+    - to produce, to create
+    - to give birth
+    - to be born (when used in the passive voice)
+
+verteti:
+  typ: v
+  ety: From PIE {*wert-}
+  defs:
+    - to turn, to spin

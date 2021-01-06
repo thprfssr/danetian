@@ -11,7 +11,7 @@ pramom dinam.
 uper atirami.
 
 # Matthaios 1
-1. Bibliom danaties Jesues Christosjo, sunus Davides, sunus Abrahames.
+1. Bibliom danamens Jesues Christosjo, sunus Davides, sunus Abrahames.
 2. Abrahám dedenat Isacam. Isac dedenat Jacobosjo. Jacobos dedenat Judam enosjo
 bratrans-pe.
 3. Juda dedenat Pharesam Zaram-pe, apo Thamares. Phares dedenat Esdromam.
@@ -52,8 +52,8 @@ noman.
 
 # Markos 1
 1. Praman evangeliosjo Jesues Christosjo.
-2. Uposme pepisjeto en Esaí prophéti: Vid, sontío menjom sonvistiesam
-[INCOMPLETE]
+2. Uposme pepisjeto en Esaí prophéti: «Vid, sontío menjom sonvistiesam pro
+tevjosjo pretiopes, jo iti garaidesei tevjom pontam».
 
 # Luca 11
 2. Uket enoimos: «Pode pretois, vep: Nosjos Pater, jo en divi, svensoito

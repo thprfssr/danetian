@@ -1258,7 +1258,7 @@ ponts:
   gen-sg: pantes
   ety: From PIE {*póntoh₁s}.
   defs:
-    - path
+    - path, way
 
 porsos:
   typ: m
@@ -2478,7 +2478,6 @@ uper:
   ety: From PIE {*upér}.
   defs:
     - (+loc) over
-    - (+dat) on behalf of, for the sake of
     - (+gen) because of
     - (+ins) about, concerning
     - (+acc) over, beyond
@@ -2681,13 +2680,13 @@ luketor:
   defs:
     - to shine, to illuminate
 
-slabyeti:
+slabjeti:
   typ: v
   ety: From PIE {*sl̥h₂gʷ-}.
   defs:
     - to seize, to grasp, to take
 
-protislabyeti:
+protislabjeti:
   typ: v
   ety: From Danetian {slabyeti}.
   defs:
@@ -2724,7 +2723,7 @@ pisjeti:
   defs:
     - to write
 
-sontío:
+sontíeti:
   typ: v
   ety: From PIE {*sont-éye-}.
   defs:
@@ -2832,20 +2831,183 @@ bideti:
 
 iti:
   typ: v
-  ety: From PIE {*h₁éyti}
+  ety: From PIE {*h₁éyti}.
   defs:
     - to go
 
 denati:
   typ: v
-  ety: From PIE {*ǵenh₁-}
+  ety: From PIE {*ǵenh₁-}.
   defs:
     - to produce, to create
     - to give birth
-    - to be born (when used in the passive voice)
+    - to be born (when used in the mediopassive voice)
 
 verteti:
   typ: v
-  ety: From PIE {*wert-}
+  ety: From PIE {*wert-}.
   defs:
     - to turn, to spin
+
+vid:
+  typ: interj
+  ety: From Danetian {voide}.
+  defs:
+    - lo, behold, look
+
+pro:
+  typ: prep
+  ety: From PIE {*pró}.
+  defs:
+    - (+gen) before
+    - (+dat) on behalf of, for the sake of
+
+garaidos:
+  typ: adj
+  ety: From Proto-Germanic {*garaidaz}.
+  defs:
+    - ready, prepared
+    - prepared, arranged
+
+garaidíeti:
+  typ: v
+  ety: From Danetian {garaidos}.
+  defs:
+    - to make ready
+    - to get ready (when used in the mediopassive voice)
+
+do:
+  typ: prep
+  ety: From PIE {*do}.
+  defs:
+    - up to, till, until
+
+stadis:
+  typ: m
+  ety: From Proto-Germanic {*stadiz}.
+  defs:
+    - place, location
+
+apoluketor:
+  typ: v
+  ety: From Danetian {apo + luketor}.
+  defs:
+    - to appear
+
+susnos:
+  typ: adj
+  ety: From PIE {*h₂sews-}.
+  defs:
+    - dry
+
+bloti:
+  typ: v
+  ety: From PIE {*bʰleh₃-}.
+  defs:
+    - to grow (of plants)
+    - to sprout, to germinate
+    - to bloom, to flower
+
+gronis:
+  typ: adj
+  ety: From Proto-Germanic {*grōniz}.
+  defs:
+    - green
+
+hreman:
+  typ: n
+  ety: From PIE {*gʰreh₁}.
+  defs:
+    - grass
+
+sugeti:
+  typ: v
+  ety: From Proto-Germanic {*sugō}.
+  defs:
+    - to sow; to scatter or disperse seeds
+
+svenis:
+  typ: f
+  ety: From the reflexive pronoun {sve}.
+  defs:
+    - image, likeness
+
+fructus:
+  typ: m
+  ety: From Latin {frūctus}.
+  defs:
+    - fruit
+
+gar:
+  typ: conj
+  ety: Possibly cognate with Ancient Greek {γᾰ́ρ}.
+  defs:
+    - so that, for the purpose that
+
+erstidis:
+  typ: f
+  ety: From Proto-Germanic {*airi + *tīdiz}.
+  defs:
+    - season
+
+flugeti:
+  typ: v
+  ety: From Proto-Germanic {*fleugō}.
+  defs:
+    - to fly
+
+groti:
+  typ: v
+  ety: From Proto-Germanic {*grōaną}.
+  defs:
+    - to grow
+
+pleníeti:
+  typ: v
+  ety: From Danetian {planos}.
+  defs:
+    - to fill
+
+potíeti:
+  typ: v
+  ety: From Danetian {potis}.
+  defs:
+    - to rule
+
+pisis:
+  typ: m
+  ety: From PIE {*peysḱ-}.
+  defs:
+    - fish
+
+fodón:
+  typ: m
+  ety: From Proto-Germanic {*fōdô}.
+  defs:
+    - food, nourishment
+
+haunis:
+  typ: adj
+  ety: From Proto-Germanic {*hauniz}.
+  defs:
+    - low
+    - despised, poor, miserable
+    - sad, depressed
+
+upohauníeti:
+  typ: v
+  ety: From Danetian {haunis}.
+  defs:
+    - to duck
+
+dat:
+  typ: c
+  ety: From Danetian {datos}.
+  defs:
+    - if
+
+peris:
+  typ: f
+  ety: From PIE {*per-}.
+  defs:
+    - fear

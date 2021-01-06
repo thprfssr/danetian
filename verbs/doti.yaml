@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - domi
+      - dosi
+      - doti
+      - damos
+      - date
+      - danti
+    imperfect:
+      - dom
+      - dos
+      - dot
+      - dame
+      - date
+      - dant
+    perfect:
+      - dedóm
+      - dedós
+      - dedót
+      - dedame
+      - dedate
+      - dedant
+  subjunctive:
+    present:
+      - dajém
+      - dajés
+      - dajét
+      - dime
+      - dite
+      - dint
+    perfect:
+      - dedajém
+      - dedajés
+      - dedajét
+      - dedíme
+      - dedíte
+      - dedínt
+  imperative:
+    present:
+      - do
+      - date
+    perfect:
+      - dedó
+      - dedate
+  participle:
+    present: donts
+    perfect: dedants
+  infinitive:
+    present: dotin
+    perfect: dedatin
+mediopassive:
+  indicative:
+    present:
+      - dar
+      - dátar
+      - dátor
+      - damosda
+      - dadave
+      - dántor
+    imperfect:
+      - da
+      - data
+      - dato
+      - dameda
+      - dadave
+      - danto
+    perfect:
+      - deda
+      - dedata
+      - dedato
+      - dedameda
+      - dedadave
+      - dedanto
+  subjunctive:
+    present:
+      - dia
+      - dita
+      - dito
+      - dimeda
+      - didave
+      - dinto
+    perfect:
+      - dedia
+      - dedíta
+      - dedíto
+      - dedimeda
+      - dedidave
+      - dedínto
+  imperative:
+    present:
+      - daso
+      - dadave
+    perfect:
+      - dedaso
+      - dedadave
+  participle:
+    present: damanos
+    perfect: dedamanos
+  infinitive:
+    present: damin
+    perfect: dedamin

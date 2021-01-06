@@ -1,0 +1,49 @@
+\begin{center}
+\begin{tabular}
+\hline\hline
+\multicolumn{7}{c}{ACTIVE} \\
+\hline\hline
+~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+\hline
+Present &
+	\multicolumn{3}{c}{\lan{ {{active.participle.present}} }} &
+	\multicolumn{3}{c}{\lan{ {{active.infinitive.present}} }} \\
+Perfect &
+	\multicolumn{3}{c}{\lan{ {{active.participle.perfect}} }} &
+	\multicolumn{3}{c}{\lan{ {{active.infinitive.perfect}} }} \\
+\hline\hline
+~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
+\hline
+Present
+	{% for entry in active.indicative.present %}
+		& {{ entry }}
+	{% endfor %} \\
+Imperfect
+	{% for entry in active.indicative.imperfect %}
+		& {{ entry }}
+	{% endfor %} \\
+Perfect
+	{% for entry in active.indicative.perfect %}
+		& {{ entry }}
+	{% endfor %} \\
+\hline
+Present
+	{% for entry in active.subjunctive.present %}
+		& {{ entry }}
+	{% endfor %} \\
+Perfect
+	{% for entry in active.subjunctive.present %}
+		& {{ entry }}
+	{% endfor %} \\
+\hline
+Present
+	{% for entry in active.imperative.present %}
+		& - & \lan{ {{entry}} } & -
+	{% endfor %} \\
+Perfect
+	{% for entry in active.imperative.perfect %}
+		& - & \lan{ {{entry}} } & -
+	{% endfor %} \\
+\hline\hline
+\end{tabular}
+\end{center}

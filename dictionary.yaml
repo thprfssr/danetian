@@ -505,7 +505,7 @@ oitos:
   typ: m
   ety: From PIE {*h₁óytos}.
   defs:
-    - oath
+    - oath, covenant
 
 udan:
   typ: n
@@ -1360,7 +1360,7 @@ snetan:
   defs:
     - adder (type of snake)
 
-snoifos:
+snoivos:
   typ: m
   ety: From PIE {*snóygʷʰos}.
   defs:
@@ -1660,13 +1660,13 @@ Sovietiskom Somjugos:
   typ: n
   defs:
     - Soviet Union
-  cat: countries
+  cat: place-names
 
 Somjugos Sovietiskóm Socialistiskóm Respublicóm:
   typ: n
   defs:
     - Union of Soviet Socialist Republics
-  cat: countries
+  cat: place-names
 
 socialistiskos:
   typ: adj
@@ -1685,13 +1685,13 @@ America:
   ety: From Latin {America}.
   defs:
     - America
-  cat: countries
+  cat: place-names
 
 Somjugestói Djoletes Americas:
   typ: m
   defs:
     - United States of America
-  cat: countries
+  cat: place-names
 
 jevos:
   typ: n
@@ -1757,7 +1757,7 @@ Rossia:
   ety: From Byzantine Greek {Ῥωσία}.
   defs:
     - Russia
-  cat: countries
+  cat: place-names
 
 rossiskos:
   typ: adj
@@ -1765,25 +1765,25 @@ rossiskos:
   defs:
     - Russian
 
-Rossiska Foideracion:
+Rossiska Foideration:
   typ: f
   defs:
     - Russian Federation
-  cat: countries
+  cat: place-names
 
-palaciom:
+palatiom:
   typ: n
   ety: From Latin {palātium}.
   defs:
     - palace
 
-palacials:
+palatials:
   typ: adj
   ety: From French {palatial}.
   defs:
     - palatial, pertaining to palaces
 
-foideracion:
+foideration:
   typ: f
   ety: From Latin {foederatio}.
   defs:
@@ -1892,7 +1892,7 @@ berdonts:
   gen-sg: berdantes
   ety: From PIE {*bʰérǵʰonts}.
   defs:
-    - high
+    - high, tall
 
 bantos:
   typ: adj
@@ -2133,6 +2133,12 @@ paltanos:
   defs:
     - wide, broad
 
+paltania:
+  typ: f
+  ety: From Danetian {paltanos}.
+  defs:
+    - width, breadth
+
 planos:
   typ: adj
   ety: From PIE {*pl̥h₁nós}.
@@ -2150,6 +2156,7 @@ pletia:
   ety: From Danetian {pletus}.
   defs:
     - square, plaza
+    - area (mathematics)
 
 martos:
   typ: adj
@@ -2267,7 +2274,7 @@ kentis:
   defs:
     - beginning, start
 
-redia:
+rodia:
   typ: f
   ety: From PIE {*h₃reǵ-}.
   defs:
@@ -2292,7 +2299,7 @@ ullimmanos:
   defs:
     - omitted; forgotten
 
-praisident:
+praisidents:
   typ: m
   ety: From Latin {praesidēns}.
   defs:
@@ -2327,7 +2334,7 @@ simap:
   typ: m
   ety: From a Turkic language; compare Uzbek {simob}, Uyghur {simab}, and Turkmen {simap}.
   defs:
-    - mercury (element)
+    - mercury (metal)
   cat: elements
 
 metrom:
@@ -2674,7 +2681,7 @@ lukos:
   defs:
     - light
 
-luketor:
+lúketor:
   typ: v
   ety: From PIE {*lewk-}.
   defs:
@@ -2741,55 +2748,55 @@ podegos:
   defs:
     - each
 
-oinodasam:
+oinodesam:
   typ: num
   ety: From PIE {*óynos + *déḱm̥}.
   defs:
     - eleven
 
-dvoidasam:
+dvoidesam:
   typ: num
   ety: From PIE {*dwóh₁ + *déḱm̥}.
   defs:
     - twelve
 
-tridasam:
+tridesam:
   typ: num
   ety: From PIE {*tréyes + *déḱm̥}.
   defs:
     - thirteen
 
-petvordasam:
+petvordesam:
   typ: num
   ety: From PIE {*kʷetwóres + *déḱm̥}.
   defs:
     - fourteen
 
-pempedasam:
+pempedesam:
   typ: num
   ety: From PIE {*pénkʷe + *déḱm̥}.
   defs:
     - fifteen
 
-svesdasam:
+svesdesam:
   typ: num
   ety: From PIE {*swéḱs + *déḱm̥}.
   defs:
     - sixteen
 
-septandasam:
+septandesam:
   typ: num
   ety: From PIE {*septḿ̥ + *déḱm̥}.
   defs:
     - seventeen
 
-oktodasam:
+oktodesam:
   typ: num
   ety: From PIE {*oḱtṓw + *déḱm̥}.
   defs:
     - eighteen
 
-nevandasam:
+nevandesam:
   typ: num
   ety: From PIE {*h₁néwn̥ + *déḱm̥}.
   defs:
@@ -2828,12 +2835,6 @@ bideti:
   defs:
     - to split
     - to separate
-
-iti:
-  typ: v
-  ety: From PIE {*h₁éyti}.
-  defs:
-    - to go
 
 denati:
   typ: v
@@ -2888,9 +2889,9 @@ stadis:
   defs:
     - place, location
 
-apoluketor:
+apolúketor:
   typ: v
-  ety: From Danetian {apo + luketor}.
+  ety: From Danetian {apo- + lúketor}.
   defs:
     - to appear
 
@@ -2972,9 +2973,9 @@ potíeti:
   typ: v
   ety: From Danetian {potis}.
   defs:
-    - to rule
+    - to rule, to govern
 
-pisis:
+pistis:
   typ: m
   ety: From PIE {*peysḱ-}.
   defs:
@@ -3017,243 +3018,1426 @@ Jacobos:
   ety: From Latin {Jacōbus}.
   defs:
     - Jacob, James, Jacques
+  cat: personal-names
 
 Joanna:
   typ: m
   ety: From Ancient Greek {Ἰωάννης}.
   defs:
     - John
+  cat: personal-names
 
 Robertos:
   typ: m
   ety: From Latin {Robertus}.
   defs:
     - Robert
+  cat: personal-names
 
 Michael:
   typ: m
   ety: From Ancient Greek {Μῐχᾱήλ}.
   defs:
     - Michael
+  cat: personal-names
 
 Viljelmos:
   typ: m
   ety: Ultimately from Proto-Germanic {*Wiljahelmaz}.
   defs:
     - William, Wilhelm, Guillermo, Guillaume
+  cat: personal-names
 
 David:
   typ: m
   ety: From Ancient Greek {Δαυῑ́δ}.
   defs:
     - David
+  cat: personal-names
 
 Richardos:
   typ: m
   ety: From Latin {Richardus}.
   defs:
     - Richard, Ricardo
+  cat: personal-names
 
 Josephos:
   typ: m
   ety: From Latin {Iōsēphus}.
   defs:
     - Joseph, José
+  cat: personal-names
 
 Thoma:
   typ: m
   ety: From Ancient Greek {Θωμᾶς}.
   defs:
     - Thomas
+  cat: personal-names
 
-Carolos:
+Karlos:
   typ: m
-  ety: From Latin {Carolus}.
+  ety: From Proto-Germanic {*karlaz}.
   defs:
     - Charles, Carlos
+  cat: personal-names
 
 Christophoros:
   typ: m
   ety: From Ancient Greek {Χρῑστόφορος}.
   defs:
     - Christopher
+  cat: personal-names
 
 Daniel:
   typ: m
   ety: From Ancient Greek {Δᾱνῑήλ}.
   defs:
     - Daniel
+  cat: personal-names
 
 Matthaios:
   typ: m
   ety: From Ancient Greek {Ματθαῖος}.
   defs:
     - Matthew
+  cat: personal-names
 
 Antonios:
   typ: m
   ety: From Latin {Antonius}.
   defs:
     - Anthony
+  cat: personal-names
 
 Donald:
   typ: m
   ety: From English {Donald}.
   defs:
     - Donald
+  cat: personal-names
 
 Marcos:
   typ: m
   ety: From Latin {Marcus}.
   defs:
     - Mark
+  cat: personal-names
 
 Paulos:
   typ: m
   ety: From Latin {Paulus}.
   defs:
     - Paul
+  cat: personal-names
 
 Stephanos:
   typ: m
   ety: From Ancient Greek {Στέφανος}.
   defs:
     - Steven, Stephen, Stephanus
+  cat: personal-names
 
 Andrea:
   typ: m
   ety: From Ancient Greek {Ἀνδρέᾱς}.
   defs:
     - Andrew, André, Andrés
+  cat: personal-names
 
 Jesus:
   typ: m
   ety: From Ancient Greek {Ἰησοῦς}.
   defs:
     - Jesus, Joshua
+  cat: personal-names
 
 Braián:
   typ: m
   ety: From English {Brian}.
   defs:
     - Brian, Bryan
+  cat: personal-names
 
 Georgios:
   typ: m
   ety: From Ancient Greek {Γεώργῐος}.
   defs:
     - George, Jorge
+  cat: personal-names
 
 Edvardos:
   typ: m
   ety: Ultimately from Proto-Germanic {*Audawarduz}.
   defs:
     - Edward, Eduardo
+  cat: personal-names
 
 Reginvaldos:
   typ: m
   ety: Ultimately from Proto-Germanic {*Raginawaldaz}.
   defs:
     - Ronald, Reginald, Reynold, Reinhold
+  cat: personal-names
 
 Timotheos:
   typ: m
   ety: From Ancient Greek {Τῑμόθεος}.
   defs:
     - Timothy
+  cat: personal-names
 
 Jasón:
   typ: m
   ety: From Ancient Greek {Ἰάσων}.
   defs:
     - Jason
+  cat: personal-names
 
 Jotfredos:
   typ: m
   ety: Ultimately from Proto-Germanic {*Gautafriþuz}.
   defs:
     - Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
+  cat: personal-names
 
 Raián:
   typ: m
   ety: From English {Ryan}.
   defs:
     - Ryan
+  cat: personal-names
 
 Nikola:
   typ: m
   ety: Ultimately from Ancient Greek {Νῑκόλᾱος}.
   defs:
     - Nicholas, Nikola, Nikolai
+  cat: personal-names
 
 Erik:
   typ: m
   ety: Ultimately from Proto-Germanic {*Aizarīkijaz}.
   defs:
     - Eric, Erik
+  cat: personal-names
 
 Jonathán:
   typ: m
   ety: From Ancient Greek {Ἰωνάθαν}.
   defs:
     - Jonathan
+  cat: personal-names
 
-Laurencios:
+Laurentios:
   typ: m
   ety: From Latin {Laurentius}.
   defs:
     - Lawrence, Laurence, Lorenzo, Laurent
+  cat: personal-names
 
 Justínos:
   typ: m
   ety: From Latin {Iūstīnus}.
   defs:
     - Justin
+  cat: personal-names
 
 Benjamín:
   typ: m
   ety: From Ancient Greek {Βενιᾱμῑ́ν}.
   defs:
     - Benjamin
+  cat: personal-names
 
 Samuel:
   typ: m
   ety: From Ancient Greek {Σαμουήλ}.
   defs:
     - Samuel
+  cat: personal-names
 
 Gregorios:
   typ: m
   ety: From Ancient Greek {Γρηγόριος}.
   defs:
     - Gregory
+  cat: personal-names
 
 Raimondos:
   typ: m
   ety: Equivalent to English and French {Raymond}.
   defs:
     - Raymond, Ramón
+  cat: personal-names
 
 Alexandros:
   typ: m
   ety: From Ancient Greek {Ἀλέξανδρος}.
   defs:
     - Alexander, Alejandro
+  cat: personal-names
 
 Hendrik:
   typ: m
   ety: Ultimately from Proto-Germanic {*Haimarīks}.
   defs:
     - Henry, Henrik, Henri, Heinrich, Enrique, Enrico
+  cat: personal-names
 
 Adám:
   typ: m
   ety: From Ancient Greek {Ᾱ̓δᾱ́μ}.
   defs:
     - Adam
+  cat: personal-names
 
 Petros:
   typ: m
   ety: From Ancient Greek {Πέτρος}.
   defs:
     - Peter, Pedro
+  cat: personal-names
+
+luvjeti:
+  typ: v
+  ety: From PIE {*lewbʰ-}.
+  defs:
+    - to love
+
+luvos:
+  typ: m
+  ety: From Danetian {luvjeti}.
+  defs:
+    - love
+
+alisketi:
+  typ: v
+  ety: From Proto-Germanic {*aliskōną}.
+  defs:
+    - to love, to cherish
+
+drageti:
+  typ: v
+  ety: From Proto-Germanic {*draganą}.
+  defs:
+    - to drag
+
+tendeti:
+  typ: v
+  ety: From PIE {*tend-}.
+  defs:
+    - to stretch, to extend
+
+blevos:
+  typ: adj
+  ety: From Proto-Germanic {*blēwaz}.
+  defs:
+    - blue
+
+satjeti:
+  typ: v
+  ety: From Proto-Germanic {satjaną}.
+  defs:
+    - to set, to place down
+
+brantos:
+  typ: adj
+  ety: Related to Old Norse {brant}.
+  defs:
+    - steep
+
+vidia:
+  typ: f
+  ety: From PIE {*weyd-}.
+  defs:
+    - knowledge, wisdom
+
+tendeman:
+  typ: n
+  ety: From Danetian {tendeti}.
+  defs:
+    - space
+
+sondenés:
+  typ: adj
+  ety: From Danetian {som + denos}.
+  defs:
+    - related
+
+sonféretor:
+  typ: v
+  ety: From Danetian {bereti}.
+  defs:
+    - to behave
+
+krosna:
+  typ: f
+  ety: From PIE {*ḱerh₂-}.
+  defs:
+    - horn
+
+belia:
+  typ: f
+  ety: From PIE {*bel-}.
+  defs:
+    - strength
+
+bolos:
+  typ: adj
+  ety: From PIE {*bel-}.
+  defs:
+    - strong, mighty
+
+klava:
+  typ: f
+  ety: From Proto-Germanic {*klawō}.
+  defs:
+    - claw
+
+pereti:
+  typ: v
+  ety: From PIE {*per-}.
+  defs:
+    - to pierce, to run through
+
+sagjeti:
+  typ: v
+  ety: From PIE {*séh₂gyeti}.
+  defs:
+    - to give a sign
+    - to mark
+    - to mean, to signify
+
+rodis:
+  typ: f
+  ety: From Danetian {reds}.
+  defs:
+    - rule (regla)
+    - rule (reino)
+
+fjena:
+  typ: f
+  ety: From PIE {*dʰeh₁(y)-}.
+  defs:
+    - young woman; virgin, maiden
+
+kamán:
+  typ: m
+  ety: From Persian {کمان}.
+  defs:
+    - bow (weapon)
+
+istrom:
+  typ: n
+  ety: From Danetian {isus}.
+  defs:
+    - bow (weapon)
+
+atjeria:
+  typ: f
+  ety: From Danetian {ati- + jeros + -ia}.
+  defs:
+    - (in plural) eternity
+
+sadeti:
+  typ: v
+  ety: From PIE {*ḱh₂d-}.
+  defs:
+    - to fall, to fall down
+
+vertinos:
+  typ: m
+  ety: From Danetian {verteti}.
+  defs:
+    - north
+  cat: cardinal-directions
+
+luktinos:
+  typ: m
+  ety: Possibly related to Danetian {lúketor}.
+  defs:
+    - south
+  cat: cardinal-directions
+
+austinos:
+  typ: m
+  ety: Related to Danetian {ausós}.
+  defs:
+    - east
+  cat: cardinal-directions
+
+sastinos:
+  typ: m
+  ety: From Danetian {sadeti}.
+  defs:
+    - west
+  cat: cardinal-directions
+
+Portugalia:
+  typ: f
+  defs:
+    - Portugal
+  cat: place-names
+
+Hispania:
+  typ: f
+  defs:
+    - Spain, Hispania
+  cat: place-names
+
+Gallia:
+  typ: f
+  defs:
+    - France
+  cat: place-names
+
+Germania:
+  typ: f
+  defs:
+    - Germany
+  cat: place-names
+
+Britannia:
+  typ: f
+  defs:
+    - Britain
+  cat: place-names
+
+Polonia:
+  typ: f
+  defs:
+    - Poland
+  cat: place-names
+
+Helvetia:
+  typ: f
+  defs:
+    - Switzerland
+  cat: place-names
+
+Italia:
+  typ: f
+  defs:
+    - Italy
+  cat: place-names
+
+París:
+  typ: f
+  defs:
+    - Paris
+  cat: place-names
+
+Madrid:
+  typ: m
+  defs:
+    - Madrid
+  cat: place-names
+
+Roma:
+  typ: f
+  defs:
+    - Rome
+  cat: place-names
+
+Moscovia:
+  typ: f
+  defs:
+    - Moscow
+  cat: place-names
+
+Peruvia:
+  typ: f
+  defs:
+    - Peru
+  cat: place-names
+
+Columbia:
+  typ: f
+  defs:
+    - Colombia
+  cat: place-names
+
+sphaira:
+  typ: f
+  ety: From Ancient Greek {σφαῖρᾰ}.
+  defs:
+    - sphere
+
+Jonia:
+  typ: f
+  ety: From Ancient Greek {Ἰωνῐ́ᾱ}.
+  defs:
+    - Greece
+  cat: place-names
+
+Canada:
+  typ: f
+  defs:
+    - Canada
+  cat: place-names
+
+Serbia:
+  typ: f
+  defs:
+    - Serbia
+  cat: place-names
+
+Ucrania:
+  typ: f
+  defs:
+    - Ukraine
+  cat: place-names
+
+Hitania:
+  typ: f
+  defs:
+    - China
+  cat: place-names
+
+Hibernia:
+  typ: f
+  defs:
+    - Ireland
+  cat: place-names
+
+Persia:
+  typ: f
+  defs:
+    - Persia
+  cat: place-names
+
+Irania:
+  typ: f
+  defs:
+    - Iran
+  cat: place-names
+
+bomba:
+  typ: f
+  ety: From Italian {bomba}.
+  defs:
+    - bomb
+
+Turcia:
+  typ: f
+  defs:
+    - Turkey
+  cat: place-names
+
+hydrogenos:
+  typ: n
+  defs:
+    - hydrogen
+  cat: elements
+
+heliom:
+  typ: n
+  defs:
+    - helium
+  cat: elements
+
+lithiom:
+  typ: n
+  defs:
+    - lithium
+  cat: elements
+
+berylliom:
+  typ: n
+  defs:
+    - beryllium
+  cat: elements
+
+borom:
+  typ: n
+  defs:
+    - boron
+  cat: elements
+
+kulan:
+  typ: n
+  ety: From Proto-Germanic {*kulą}.
+  defs:
+    - carbon
+    - coal
+  cat: elements
+
+nitrogenos:
+  typ: n
+  defs:
+    - nitrogen
+  cat: elements
+
+oxygenos:
+  typ: n
+  defs:
+    - oxygen
+  cat: elements
+
+fluorom:
+  typ: n
+  defs:
+    - fluorine
+  cat: elements
+
+neón:
+  typ: m
+  defs:
+    - neon
+  cat: elements
+
+natriom:
+  typ: n
+  defs:
+    - sodium
+  cat: elements
+
+magnesiom:
+  typ: n
+  defs:
+    - magnesium
+  cat: elements
+
+aluminiom:
+  typ: n
+  defs:
+    - aluminium, aluminum
+  cat: elements
+
+siliciom:
+  typ: n
+  defs:
+    - silicon
+  cat: elements
+
+phosphoros:
+  typ: m
+  defs:
+    - phosphorus
+  cat: elements
+
+sveblos:
+  typ: m
+  ety: From Proto-Germanic {*sweblaz}.
+  defs:
+    - sulfur
+  cat: elements
+
+chlorom:
+  typ: n
+  defs:
+    - chlorine
+  cat: elements
+
+argón:
+  typ: m
+  defs:
+    - argon
+  cat: elements
+
+kaliom:
+  typ: n
+  defs:
+    - potassium
+  cat: elements
+
+calciom:
+  typ: n
+  defs:
+    - calcium
+  cat: elements
+
+scandiom:
+  typ: n
+  defs:
+    - scandium
+  cat: elements
+
+titaniom:
+  typ: n
+  defs:
+    - titanium
+  cat: elements
+
+vanadiom:
+  typ: n
+  defs:
+    - vanadium
+  cat: elements
+
+chromiom:
+  typ: n
+  defs:
+    - chromium
+  cat: elements
+
+manganiom:
+  typ: n
+  defs:
+    - manganese
+  cat: elements
+
+cobaltiom:
+  typ: n
+  defs:
+    - cobalt
+  cat: elements
+
+niccolom:
+  typ: n
+  defs:
+    - nickel
+  cat: elements
+
+zincom:
+  typ: n
+  defs:
+    - zinc
+  cat: elements
+
+galliom:
+  typ: n
+  defs:
+    - gallium
+  cat: elements
+
+germaniom:
+  typ: n
+  defs:
+    - germanium
+  cat: elements
+
+arsenicom:
+  typ: n
+  defs:
+    - arsenic
+  cat: elements
+
+seleniom:
+  typ: n
+  defs:
+    - selenium
+  cat: elements
+
+bromom:
+  typ: n
+  defs:
+    - bromine
+  cat: elements
+
+kryptón:
+  typ: m
+  defs:
+    - krypton
+  cat: elements
+
+rubidiom:
+  typ: n
+  defs:
+    - rubidium
+  cat: elements
+
+strontiom:
+  typ: n
+  defs:
+    - strontium
+  cat: elements
+
+yttriom:
+  typ: n
+  defs:
+    - yttrium
+  cat: elements
+
+zirconiom:
+  typ: n
+  defs:
+    - zirconium
+  cat: elements
+
+niobiom:
+  typ: n
+  defs:
+    - niobium
+  cat: elements
+
+molybdainom:
+  typ: n
+  defs:
+    - molybdenum
+  cat: elements
+
+technetiom:
+  typ: n
+  defs:
+    - technetium
+  cat: elements
+
+rutheniom:
+  typ: n
+  defs:
+    - ruthenium
+  cat: elements
+
+rhodiom:
+  typ: n
+  defs:
+    - rhodium
+  cat: elements
+
+palladiom:
+  typ: n
+  defs:
+    - palladium
+  cat: elements
+
+cadmiom:
+  typ: n
+  defs:
+    - cadmium
+  cat: elements
+
+indiom:
+  typ: n
+  defs:
+    - indium
+  cat: elements
+
+galái:
+  typ: m
+  ety: From a Turkic language. Compare Azerbaijani {qalay}.
+  defs:
+    - tin (metal)
+  cat: elements
+
+stibiom:
+  typ: n
+  ety: From Latin {stibium}.
+  defs:
+    - antimony
+  cat: elements
+
+telluriom:
+  typ: n
+  defs:
+    - tellurium
+  cat: elements
+
+jodom:
+  typ: n
+  defs:
+    - iodine
+  cat: elements
+
+xenón:
+  typ: m
+  defs:
+    - xenon
+  cat: elements
+
+caisiom:
+  typ: n
+  defs:
+    - caesium, cesium
+  cat: elements
+
+bariom:
+  typ: n
+  defs:
+    - barium
+  cat: elements
+
+lanthanom:
+  typ: n
+  defs:
+    - lanthanum
+  cat: elements
+
+ceriom:
+  typ: n
+  defs:
+    - cerium
+  cat: elements
+
+praseodymiom:
+  typ: n
+  defs:
+    - praseodymium
+  cat: elements
+
+neodymiom:
+  typ: n
+  defs:
+    - neodymium
+  cat: elements
+
+promethiom:
+  typ: n
+  defs:
+    - promethium
+  cat: elements
+
+samariom:
+  typ: n
+  defs:
+    - samarium
+  cat: elements
+
+Európa:
+  typ: f
+  ety: From Ancient Greek {Εὐρώπη}.
+  defs:
+    - Europe
+  cat: place-names
+
+europiom:
+  typ: n
+  defs:
+    - europium
+  cat: elements
+
+gadoliniom:
+  typ: n
+  defs:
+    - gadolinium
+  cat: elements
+
+terbiom:
+  typ: n
+  defs:
+    - terbium
+  cat: elements
+
+dysprosiom:
+  typ: n
+  defs:
+    - dysprosium
+  cat: elements
+
+holmiom:
+  typ: n
+  defs:
+    - holmium
+  cat: elements
+
+Holmia:
+  typ: f
+  ety: From Latin {Holmia}.
+  defs:
+    - Stockholm
+  cat: place-names
+
+erbiom:
+  typ: n
+  defs:
+    - erbium
+  cat: elements
+
+thuliom:
+  typ: n
+  defs:
+    - thulium
+  cat: elements
+
+ytterbiom:
+  typ: n
+  defs:
+    - ytterbium
+  cat: elements
+
+lutetiom:
+  typ: n
+  defs:
+    - lutetium
+  cat: elements
+
+hafniom:
+  typ: n
+  defs:
+    - hafnium
+  cat: elements
+
+Hafnia:
+  typ: f
+  ety: From Latin {Hafnia}.
+  defs:
+    - Copenhagen
+  cat: place-names
+
+tantaliom:
+  typ: n
+  defs:
+    - tantalum
+  cat: elements
+
+wolframiom:
+  typ: n
+  defs:
+    - wolfram, wolframium, tungsten
+  cat: elements
+
+rheniom:
+  typ: n
+  defs:
+    - rhenium
+  cat: elements
+
+Rhenos:
+  typ: m
+  defs:
+    - Rhine
+  cat: place-names
+
+osmiom:
+  typ: n
+  defs:
+    - osmium
+  cat: elements
+
+iridiom:
+  typ: n
+  defs:
+    - iridium
+  cat: elements
+
+platína:
+  typ: f
+  defs:
+    - platinum
+  cat: elements
+
+altin:
+  typ: m
+  ety: From a Turkic language. Compare Turkmen {altyn} and Uzbek {oltin}.
+  defs:
+    - gold
+  cat: elements
+
+thalliom:
+  typ: n
+  defs:
+    - thallium
+  cat: elements
+
+gurşun:
+  typ: m
+  ety: From a Turkic language. Compare Turkmen {gurşun} and Turkish {kurşun}.
+  defs:
+    - lead (metal)
+  cat: elements
+
+bismútom:
+  typ: n
+  defs:
+    - bismuth
+  cat: elements
+
+poloniom:
+  typ: n
+  defs:
+    - polonium
+  cat: elements
+
+astatom:
+  typ: n
+  defs:
+    - astatine
+  cat: elements
+
+radón:
+  typ: m
+  defs:
+    - radon
+  cat: elements
+
+franciom:
+  typ: n
+  defs:
+    - francium
+  cat: elements
+
+radiom:
+  typ: n
+  defs:
+    - radium
+  cat: elements
+
+actinium:
+  typ: n
+  defs:
+    - actinium
+  cat: elements
+
+thoriom:
+  typ: n
+  defs:
+    - thorium
+  cat: elements
+
+protactiniom:
+  typ: n
+  defs:
+    - protactinium
+  cat: elements
+
+uraniom:
+  typ: n
+  defs:
+    - uranium
+  cat: elements
+
+neptuniom:
+  typ: n
+  defs:
+    - neptunium
+  cat: elements
+
+plutonium:
+  typ: n
+  defs:
+    - plutonium
+  cat: elements
+
+americiom:
+  typ: n
+  defs:
+    - americium
+  cat: elements
+
+curiom:
+  typ: n
+  defs:
+    - curium
+  cat: elements
+
+berkeliom:
+  typ: n
+  defs:
+    - berkelium
+  cat: elements
+
+californiom:
+  typ: n
+  defs:
+    - californium
+  cat: elements
+
+Albertos Ainstain:
+  typ: m
+  defs:
+    - Albert Einstein
+  cat: real-people
+
+Leonardos Óiler:
+  typ: m
+  defs:
+    - Leonhard Euler
+  cat: real-people
+
+Frederik:
+  typ: m
+  ety: From Proto-Germanic {*Friþurīks}.
+  defs:
+    - Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
+  cat: personal-names
+
+Joanna Karlos Frederik Gauss:
+  typ: m
+  defs:
+    - Johann Carl Friedrich Gauss
+  cat: real-people
+
+Demetrios:
+  typ: m
+  ety: From Ancient Greek {Δημήτριος}.
+  defs:
+    - Demetrius, Dimitri, Dmitri
+  cat: personal-names
+
+ainstainiom:
+  typ: n
+  defs:
+    - einsteinium
+  cat: elements
+
+fermiom:
+  typ: n
+  defs:
+    - fermium
+  cat: elements
+
+mendeleviom:
+  typ: n
+  defs:
+    - mendelevium
+  cat: elements
+
+nobeliom:
+  typ: n
+  defs:
+    - nobelium
+  cat: elements
+
+laurentiom:
+  typ: n
+  defs:
+    - lawrencium
+  cat: elements
+
+Ernéstos:
+  typ: m
+  ety: From German {Ernst}, influenced by Spanish {Ernesto}.
+  defs:
+    - Ernesto, Ernst, Ernest
+  cat: personal-names
+
+Ernéstos Raderford:
+  typ: m
+  defs:
+    - Ernest Rutherford
+  cat: real-people
+
+raderfordiom:
+  typ: n
+  defs:
+    - rutherfordium
+  cat: elements
+
+dubniom:
+  typ: n
+  defs:
+    - dubnium
+  cat: elements
+
+Glen:
+  typ: m
+  ety: From English {Glen}.
+  defs:
+    - Glen, Glenn
+  cat: personal-names
+
+Theodoros:
+  typ: m
+  ety: From Ancient Greek {Θεόδωρος}.
+  defs:
+    - Theodore
+  cat: personal-names
+
+Glen Theodoros Siborg:
+  typ: m
+  defs:
+    - Glenn Theodore Seaborg
+  cat: real-people
+
+siborgiom:
+  typ: n
+  defs:
+    - seaborgium
+  cat: elements
+
+Nils:
+  typ: m
+  ety: From Danish {Niels}.
+  defs:
+    - Niels
+  cat: personal-names
+
+Nils Bor:
+  typ: m
+  defs:
+    - Niels Bohr
+  cat: real-people
+
+boriom:
+  typ: n
+  defs:
+    - bohrium
+  cat: elements
+
+hassiom:
+  typ: n
+  defs:
+    - hassium
+  cat: elements
+
+maitneriom:
+  typ: n
+  defs:
+    - meitnerium
+  cat: elements
+
+Daramstat:
+  typ: m
+  ety: From German {Darmstadt}.
+  defs:
+    - Darmstadt
+  cat: place-names
+
+daramstatiom:
+  typ: n
+  defs:
+    - darmstadtium
+  cat: elements
+
+Condrados:
+  typ: m
+  ety: Related to German {Konrad}.
+  defs:
+    - Conrad, Konrad
+  cat: personal-names
+
+Viljelmos Condrados Rointgen:
+  typ: m
+  defs:
+    - Wilhelm Conrad Röntgen
+  cat: people
+
+rointgeniom:
+  typ: n
+  defs:
+    - roentgenium
+  cat: elements
+
+coperniciom:
+  typ: n
+  defs:
+    - copernicium
+  cat: elements
+
+nihoniom:
+  typ: n
+  defs:
+    - nihonium
+  cat: elements
+
+fleroviom:
+  typ: n
+  defs:
+    - flerovium
+  cat: elements
+
+moscoviom:
+  typ: n
+  defs:
+    - moscovium
+  cat: elements
+
+livermoriom:
+  typ: n
+  defs:
+    - livermorium
+  cat: elements
+
+tennessom:
+  typ: n
+  defs:
+    - tennessine
+  cat: elements
+
+oganessón:
+  typ: m
+  defs:
+    - oganesson
+  cat: elements

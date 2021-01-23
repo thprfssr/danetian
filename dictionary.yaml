@@ -209,7 +209,7 @@ fona:
   defs:
     - bread
 
-fraks:
+frags:
   typ: m
   acc-sg: fragam
   ety: From PIE {*dʰrā́ks}.
@@ -820,7 +820,7 @@ nofilos:
   defs:
     - navel
 
-noks:
+nogs:
   typ: m
   acc-sg: nogam
   gen-sg: neges
@@ -1833,7 +1833,7 @@ alfos:
     - white
   cat: colors
 
-fufnos:
+fubros:
   typ: adj
   ety: From PIE {*dʰubʰrós}.
   defs:
@@ -2356,7 +2356,7 @@ grammom:
   ety: From French {gramme}, from Ancient Greek {γράμμα}.
   defs:
     - gram (unit of measurement)
-  cat: units-of-measurements
+  cat: units-of-measurement
 
 oinika:
   typ: f
@@ -2480,7 +2480,7 @@ upo:
     - (+loc) under
     - (+ins) according to
 
-uper:
+úper:
   typ: prep
   ety: From PIE {*upér}.
   defs:
@@ -2489,6 +2489,12 @@ uper:
     - (+ins) about, concerning
     - (+acc) over, beyond
     - (+acc) above, exceeding in quantity, upwards of
+
+uper:
+  typ: adv
+  ety: From PIE {*upér}.
+  defs:
+    - above
 
 medi:
   typ: prep
@@ -2834,7 +2840,7 @@ bideti:
   ety: From PIE {*bʰeyd-}.
   defs:
     - to split
-    - to separate
+    - to separate, to divide
 
 denati:
   typ: v
@@ -3447,34 +3453,6 @@ sadeti:
   defs:
     - to fall, to fall down
 
-vertinos:
-  typ: m
-  ety: From Danetian {verteti}.
-  defs:
-    - north
-  cat: cardinal-directions
-
-luktinos:
-  typ: m
-  ety: Possibly related to Danetian {lúketor}.
-  defs:
-    - south
-  cat: cardinal-directions
-
-austinos:
-  typ: m
-  ety: Related to Danetian {ausós}.
-  defs:
-    - east
-  cat: cardinal-directions
-
-sastinos:
-  typ: m
-  ety: From Danetian {sadeti}.
-  defs:
-    - west
-  cat: cardinal-directions
-
 Portugalia:
   typ: f
   defs:
@@ -3656,7 +3634,7 @@ borom:
     - boron
   cat: elements
 
-kulan:
+kulom:
   typ: n
   ety: From Proto-Germanic {*kulą}.
   defs:
@@ -4441,3 +4419,468 @@ oganessón:
   defs:
     - oganesson
   cat: elements
+
+januarios:
+  typ: m
+  ety: From Latin {Jānuārius}.
+  defs:
+    - January
+  cat: months
+
+februarios:
+  typ: m
+  ety: From Latin {Februārius}.
+  defs:
+    - February
+  cat: months
+
+martios:
+  typ: m
+  ety: From Latin {Mārtius}.
+  defs:
+    - March
+  cat: months
+
+aprilis:
+  typ: m
+  ety: From Latin {Aprīlis}.
+  defs:
+    - April
+  cat: months
+
+majos:
+  typ: m
+  ety: From Latin {Maius}.
+  defs:
+    - May
+  cat: months
+
+junios:
+  typ: m
+  ety: From Latin {Jūnius}.
+  defs:
+    - June
+  cat: months
+
+julios:
+  typ: m
+  ety: From Latin {Jūlius}.
+  defs:
+    - July
+  cat: months
+
+augustos:
+  typ: m
+  ety: From Latin {Augustus}.
+  defs:
+    - August
+  cat: months
+
+september:
+  typ: m
+  ety: From Latin {September}.
+  defs:
+    - September
+  cat: months
+
+october:
+  typ: m
+  ety: From Latin {Octōber}.
+  defs:
+    - October
+  cat: months
+
+november:
+  typ: m
+  ety: From Latin {November}.
+  defs:
+    - November
+  cat: months
+
+december:
+  typ: m
+  ety: From Latin {December}.
+  defs:
+    - December
+  cat: months
+
+ludinos:
+  typ: adj
+  ety: From Danetian {ludis}.
+  defs:
+    - of the people
+    - popular
+
+Hitaniska Ludina Respublica:
+  typ: f
+  defs:
+    - People's Republic of China
+  cat: place-names
+
+Belarossia:
+  typ: f
+  defs:
+    - Belarus, Belorussia, Bielorussia, Byelorussia
+  cat: place-names
+
+Mexicom:
+  typ: n
+  defs:
+    - Mexico
+  cat: place-names
+
+Anglia:
+  typ: f
+  defs:
+    - England
+  cat: place-names
+
+Dania:
+  typ: f
+  defs:
+    - Denmark
+  cat: place-names
+
+Scotia:
+  typ: f
+  defs:
+    - Scotland
+  cat: place-names
+
+Cambria:
+  typ: f
+  ety: From Latin {Cambria}.
+  defs:
+    - Wales
+  cat: place-names
+
+Japonia:
+  typ: f
+  defs:
+    - Japan
+  cat: place-names
+
+Coréa:
+  typ: f
+  defs:
+    - Korea
+  cat: place-names
+
+nordom:
+  typ: n
+  ety: From Proto-Germanic {*nurþrą}.
+  defs:
+    - north
+  cat: cardinal-directions
+
+sundom:
+  typ: n
+  ety: From Proto-Germanic {*sunþrą}.
+  defs:
+    - south
+  cat: cardinal-directions
+
+austom:
+  typ: n
+  ety: From Proto-Germanic {*austrą}.
+  defs:
+    - east
+  cat: cardinal-directions
+
+vestom:
+  typ: n
+  ety: From Proto-Germanic {*westrą}.
+  defs:
+    - west
+  cat: cardinal-directions
+
+Austina Germania:
+  typ: f
+  defs:
+    - East Germany
+  cat: place-names
+
+Vestina Germania:
+  typ: f
+  defs:
+    - West Germany
+  cat: place-names
+
+nordinos:
+  typ: adj
+  ety: From Danetian {nordom}.
+  defs:
+    - northern, north, northerly
+
+sundinos:
+  typ: adj
+  ety: From Danetian {sundom}.
+  defs:
+    - southern, south, southerly
+
+austinos:
+  typ: adj
+  ety: From Danetian {austom}.
+  defs:
+    - eastern, east, easterly
+
+vestinos:
+  typ: adj
+  ety: From Danetian {vestom}.
+  defs:
+    - western, west, westerly
+
+Nordina Coréa:
+  typ: f
+  defs:
+    - North Korea
+  cat: place-names
+
+Sundina Coréa:
+  typ: f
+  defs:
+    - South Korea
+  cat: place-names
+
+India:
+  typ: f
+  defs:
+    - India
+  cat: place-names
+
+Porto-Rico:
+  typ: m
+  defs:
+    - Puerto Rico
+  cat: place-names
+
+Sanctos Joanna:
+  typ: m
+  defs:
+    - Saint John, San Juan
+  cat: real-people
+
+Jesus-Christos:
+  typ: m
+  defs:
+    - Jesus Christ
+  cat: real-people
+
+Donald Tramp:
+  typ: m
+  defs:
+    - Donald Trump
+  cat: real-people
+
+svomia:
+  typ: f
+  ety: From PIE {*swé}.
+  defs:
+    - freedom, liberty
+
+aiquals:
+  typ: adj
+  ety: From Latin {aequālis}.
+  defs:
+    - equal
+
+medanjés:
+  typ: adj
+  ety: From Danetian {medanos}.
+  defs:
+    - bigger
+
+medanjéstos:
+  typ: adj
+  ety: From Danetian {medanos}.
+  defs:
+    - biggest
+
+virikom:
+  typ: n
+  ety: From Danetian {viros}.
+  defs:
+    - little man
+
+bloman:
+  typ: n
+  ety: From Danetian {bloti}.
+  defs:
+    - flower
+
+blomenikom:
+  typ: n
+  ety: From Danetian {bloman}.
+  defs:
+    - little flower
+
+svomjos:
+  typ: adj
+  ety: From Danetian {svomia}.
+  defs:
+    - free
+
+da:
+  typ: conj
+  defs:
+    - and
+
+anabideti:
+  typ: v
+  ety: From Danetian {ana- + bideti}.
+  defs:
+    - to share, to exchange
+    - to allot, to give, to provide
+    - to confide, to tell
+    - to endow
+
+andeti:
+  typ: v
+  ety: From PIE {*h₂enǵʰ-}.
+  defs:
+    - to obligate, to bind
+
+Djus Pater:
+  typ: m
+  defs:
+    - Sky Father, supreme Danetian deity
+  cat: danetian-mythology
+
+Fedóm Mater:
+  typ: f
+  defs:
+    - Earth Mother
+    cat: danetian-mythology
+
+Mori Mantióm:
+  typ: n
+  defs:
+    - primordial sea of thoughts
+  cat: danetian-mythology
+
+Andeter:
+  typ: m
+  ety: From Danetian {andeti}.
+  defs:
+    - Danetian god of oaths, promises, and moral justice
+  cat: danetian-mythology
+
+Daneta:
+  typ: f
+  ety: From Danetian {danu}.
+  defs:
+    - Danetian river goddess, freed from the clutches of the water serpent
+  cat: danetian-mythology
+
+danetiskos:
+  typ: adj
+  ety: From Danetian {Daneta}.
+  defs:
+    - Danetian
+
+pludeti:
+  typ: v
+  ety: From PIE {*plewd-}.
+  defs:
+    - to swim
+
+usterom mori:
+  typ: n
+  defs:
+    - high sea, open sea
+
+bredíti:
+  typ: v
+  ety: From PIE {*bʰredʰ-}.
+  defs:
+    - to roam, to wander freely
+
+valdus:
+  typ: m
+  ety: From Proto-Germanic {*walþuz}.
+  defs:
+    - forest
+
+blomia:
+  typ: f
+  ety: From Danetian {bloti}.
+  defs:
+    - freshness
+
+skula:
+  typ: f
+  ety: From Proto-Germanic {*skulō}.
+  defs:
+    - troop; group; crowd
+    - multitude
+
+Isak:
+  typ: m
+  ety: From Ancient Greek {Ἰσαᾱ́κ}.
+  defs:
+    - Isaac
+
+Isak Neutón:
+  typ: m
+  defs:
+    - Isaac Newton
+  cat: real-people
+
+Verner:
+  typ: m
+  ety: From German {Werner}.
+  defs:
+    - Werner, Warner
+  cat: personal-names
+
+Verner Haisemberg:
+  typ: m
+  defs:
+    - Werner Heisenberg
+  cat: real-people
+
+Hadriános:
+  typ: m
+  ety: From Latin {Hadriānus}.
+  defs:
+    - Adrian, Hadrian
+  cat: personal-names
+
+Mauritios:
+  typ: m
+  ety: From Latin {Mauritius}.
+  defs:
+    - Maurice, Mauricio, Mauritius
+  cat: personal-names
+
+Paulos Hadriános Mauritios Dirac:
+  typ: m
+  defs:
+    - Paul Adrien Maurice Dirac
+  cat: real-people
+
+Saverios:
+  typ: m
+  ety: From Basque {etxeberria}.
+  defs:
+    - Javier, Xavier, Saverio
+  cat: personal-names
+
+Saverios Castro:
+  typ: m
+  defs:
+    - Javier Castro
+  cat: real-people
+
+Philippos:
+  typ: m
+  ety: From Ancient Greek {Φῐ́λῐππος}.
+  defs:
+    - Philip, Felipe
+  cat: personal-names
+
+Richardos Philippos Fainman:
+  typ: m
+  defs:
+    - Richard Phillips Feynman
+  cat: real-people

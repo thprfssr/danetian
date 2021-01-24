@@ -1,183 +1,176 @@
 barda:
   typ: f
-  ety: From PIE {*bʰardʰéh₂}.
+  ety: From PIE \ipa{*bʰardʰéh₂}
   defs:
     - beard
 
 befrus:
   typ: m
-  ety: From PIE {*bʰébʰrus}.
+  ety: From PIE \ipa{*bʰébʰrus}
   defs:
     - beaver
 
 bados:
   typ: f
-  ety: From PIE {*bʰeh₂ǵos}.
+  ety: From PIE \ipa{*bʰeh₂ǵos}
   defs:
     - beech
 
 badus:
   typ: m
-  ety: From PIE {*bʰeh₂ǵʰús}.
+  ety: From PIE \ipa{*bʰeh₂ǵʰús}
   defs:
     - arm
 
 berdos:
   typ: m
-  ety: From PIE {*bʰerHǵós}.
+  ety: From PIE \ipa{*bʰerHǵós}
   defs:
     - birch
+    - bark (of a tree)
 
 bertis:
   typ: f
-  gen-sg: bartjes
-  ety: From PIE {*bʰértis}.
+  parts: barties
+  ety: From PIE \ipa{*bʰértis}
   defs:
     - the act of carrying, bearing
 
 bor:
   typ: m
-  gen-sg: bres
-  abl-pl: barmos
-  ety: From PIE {*bʰṓr}.
+  parts: beres, barmos
+  ety: From PIE \ipa{*bʰṓr}
   defs:
     - thief
 
 brevan:
   typ: n
-  gen-sg: bravens
-  abl-pl: brunamos
-  ety: From PIE {*bʰréh₁wr̥}.
+  parts: bravens, brunamos
+  ety: From PIE \ipa{*bʰréh₁wr̥}
   defs:
     - well, spring, source
 
 brater:
   typ: m
-  ety: From PIE {*bʰréh₂tēr}.
+  ety: From PIE \ipa{*bʰréh₂tēr}
   defs:
     - brother
 
 bufmén:
   typ: m
-  gen-sg: bufnes
-  abl-pl: budanmos
-  ety: From PIE {*bʰudʰmḗn}.
+  parts: bufnes, budanmos
+  ety: From PIE \ipa{*bʰudʰmḗn}
   defs:
     - bottom
 
 nebufmén:
   typ: m
-  gen-sg: nebufnes
-  abl-pl: nebudanmos
-  ety: From Danetian {ne + bufmén}.
+  parts: nebufnes, nebudanmos
+  ety: From Dan. \ipa{ne + bufmén}
   defs:
     - abyss, bottomless pit
 
 buga:
   typ: f
-  ety: From PIE {*bʰugéh₂}.
+  ety: From PIE \ipa{*bʰugéh₂}
   defs:
     - flight, escape
 
 dakru:
   typ: n
-  ety: From PIE {*dáḱru}.
+  ety: From PIE \ipa{*dáḱru}
   defs:
     - tear (in the eyes)
 
 daitis:
   typ: f
-  ety: From PIE {*déh₂itis}.
+  ety: From PIE \ipa{*déh₂itis}
   defs:
     - time
 
 danu:
   typ: n
-  ety: From PIE {*déh₂nu}.
+  ety: From PIE \ipa{*déh₂nu}
   defs:
     - river
 
 donom:
   typ: n
-  ety: From PIE {*déh₃nom}.
+  ety: From PIE \ipa{*déh₃nom}
   defs:
     - gift
 
 dotis:
   typ: f
-  gen-sg: datjes
-  ety: From PIE {*déh₃tis}.
+  parts: daties
+  ety: From PIE \ipa{*déh₃tis}
   defs:
     - act of giving
 
 dotor:
   typ: m
-  gen-sg: datres
-  ety: From PIE {*déh₃tōr}.
+  parts: datres
+  ety: From PIE \ipa{*déh₃tōr}
   defs:
     - giver
 
 desos:
   typ: n
-  ety: From PIE {*déḱos}.
+  ety: From PIE \ipa{*déḱos}
   defs:
     - that which is proper
 
 denspotis:
   typ: m
-  ety: From PIE {*déms pótis}.
+  ety: From PIE \ipa{*déms pótis}
   defs:
     - master of the house
 
 divos:
   typ: m
-  ety: From PIE {*deywós}.
+  ety: From PIE \ipa{*deywós}
   defs:
     - god
 
 danva:
   typ: f
-  ety: From PIE {*dn̥ǵʰwéh₂s}.
+  ety: From PIE \ipa{*dn̥ǵʰwéh₂s}
   defs:
     - tongue
     - language
 
 dom:
   typ: m
-  gen-sg: dens
-  dat-sg: demei
-  ety: From PIE {*dṓm}.
+  parts: dems
+  ety: From PIE \ipa{*dṓm}
   defs:
     - house, home
 
 doru:
   typ: n
-  gen-sg: drus
-  dat-sg: drevei
-  abl-pl: drumos
-  ety: From PIE {*dóru}.
+  parts: dreves, drumos
+  ety: From PIE \ipa{*dóru}
   defs:
     - tree
 
 djus:
   typ: m
-  gen-sg: dives
-  abl-pl: djumos
-  ety: From PIE {*dyḗws}.
+  parts: dives, djumos
+  ety: From PIE \ipa{*dyḗws}
   defs:
     - sky, heaven
 
 fedóm:
   typ: f
-  gen-sg: fames
-  ety: From PIE {*dʰéǵʰōm}.
+  parts: fames
+  ety: From PIE \ipa{*dʰéǵʰōm}
   defs:
     - earth
 
 feman:
   typ: n
-  gen-sg: famens
-  ety: From PIE {*dʰéh₁mn̥}.
+  parts: famens
+  ety: From PIE \ipa{*dʰéh₁mn̥}
   defs:
     - abode, dwelling
     - state, order
@@ -185,96 +178,95 @@ feman:
 
 fetis:
   typ: f
-  gen-sg: fatjes
-  ety: From PIE {*dʰéh₁tis}.
+  parts: faties
+  ety: From PIE \ipa{*dʰéh₁tis}
   defs:
     - act of putting, placement
 
 fitis:
   typ: f
-  ety: From PIE {*dʰgʷʰéytis}.
+  ety: From PIE \ipa{*dʰgʷʰéytis}
   defs:
     - decay, destruction
 
 fomos:
   typ: m
-  ety: From PIE {*dʰóh₁mos}.
+  ety: From PIE \ipa{*dʰóh₁mos}
   defs:
     - that which is put, placed
     - judgement
 
 fona:
   typ: f
-  ety: From PIE {*dʰoHnéh₂}.
+  ety: From PIE \ipa{*dʰoHnéh₂}
   defs:
     - bread
 
 frags:
   typ: m
   acc-sg: fragam
-  ety: From PIE {*dʰrā́ks}.
+  ety: From PIE \ipa{*dʰrā́ks}
   defs:
     - dregs, sediment (of wine, oil, fat)
 
 frugos:
   typ: m
-  ety: From PIE {*dʰrówgʰos}.
+  ety: From PIE \ipa{*dʰrówgʰos}
   defs:
     - a deception, falsehood, lie
 
 fugater:
   typ: f
-  gen-sg: fugtres
-  ety: From PIE {*dʰugh₂tḗr}.
+  parts: fugtres
+  ety: From PIE \ipa{*dʰugh₂tḗr}
   defs:
     - daughter
 
 fumos:
   typ: m
-  ety: From PIE {*dʰuh₂mós}.
+  ety: From PIE \ipa{*dʰuh₂mós}
   defs:
     - smoke
 
-fuor:
+vor:
   typ: m
-  gen-sg: fures
-  abl-pl: fuarmos
-  ety: From PIE {*dʰwṓr}.
+  parts: fures, varmos
+  ety: From PIE \ipa{*dʰwṓr}
   defs:
     - door
 
 delus:
   typ: m
-  ety: From PIE {*ǵelu-}.
+  ety: From PIE \ipa{*ǵelu-}
   defs:
     - leech
 
 denaman:
   typ: n
-  gen-sg: danamens
-  ety: From PIE {*ǵénh₁mn̥}.
+  parts: danamens
+  ety: From PIE \ipa{*ǵénh₁mn̥}
   defs:
     - offspring, seed
     - (genealogical) generation
 
 denos:
   typ: n
-  ety: From PIE {*ǵénh₁os}.
+  ety: From PIE \ipa{*ǵénh₁os}
   defs:
     - race, lineage
 
 denatis:
   typ: f
-  gen-sg: danatjes
-  ety: From PIE {*ǵénh₁tis}.
+  parts: danaties
+  ety: From PIE \ipa{*ǵénh₁tis}
   defs:
     - birth
     - production
 
 denator:
   typ: m
-  gen-sg: danatres
-  ety: From PIE {*ǵénh₁tōr}.
+  parts: danatres
+  ety: From PIE \ipa{*ǵénh₁tōr}
   defs:
     - one who begets
     - one who produces
@@ -282,9 +274,8 @@ denator:
 
 denus:
   typ: f
-  gen-sg: danves
-  abl-pl: danumos
-  ety: From PIE {*ǵénus}.
+  parts: danves, danumos
+  ety: From PIE \ipa{*ǵénus}
   defs:
     - cheek
     - jaw
@@ -292,322 +283,306 @@ denus:
 
 dustus:
   typ: m
-  ety: From PIE {*ǵéwstus}.
+  ety: From PIE \ipa{*ǵéwstus}
   defs:
     - taste
 
 donfos:
   typ: m
-  ety: From PIE {*ǵómbʰos}.
+  ety: From PIE \ipa{*ǵómbʰos}
   defs:
     - number
 
 donos:
   typ: m
-  ety: From PIE {*ǵónh₁os}.
+  ety: From PIE \ipa{*ǵónh₁os}
   defs:
     - offspring
 
 donu:
   typ: n
-  gen-sg: danves
-  abl-pl: danumos
-  ety: From PIE {*ǵónu}.
+  parts: danves, danumos
+  ety: From PIE \ipa{*ǵónu}
   defs:
     - knee
 
 dranom:
   typ: n
-  ety: From PIE {*ǵr̥h₂nóm}.
+  ety: From PIE \ipa{*ǵr̥h₂nóm}
   defs:
     - grain
 
 fer:
   typ: m
-  ety: From PIE {*ǵʰḗr}.
+  ety: From PIE \ipa{*ǵʰḗr}
   defs:
     - hedgehog
 
 fesor:
   typ: f
-  ety: From PIE {*ǵʰésōr}.
+  ety: From PIE \ipa{*ǵʰésōr}
   defs:
     - hand
 
 fejóm:
   typ: f
-  gen-sg: fimes
-  ety: From PIE {*ǵʰéyōm}.
+  parts: fimes
+  ety: From PIE \ipa{*ǵʰéyōm}
   defs:
     - winter
   cat: seasons
 
 brasmos:
   typ: m
-  ety: From PIE {*semh₂-}.
+  ety: From PIE \ipa{*semh₂-}
   defs:
     - summer
   cat: seasons
 
 sosna:
   typ: f
-  ety: From PIE {*(s)h₁es-}.
+  ety: From PIE \ipa{*(s)h₁es-}
   defs:
     - autumn
   cat: seasons
 
 vosan:
   typ: n
-  gen-sg: vesens
-  dat-sg: vesnei
-  ety: From PIE {*wósr̥}.
+  parts: vesens
+  ety: From PIE \ipa{*wósr̥}
   defs:
     - spring
   cat: seasons
 
 famón:
   typ: m
-  gen-sg: famnes
-  abl-pl: famanmos
-  ety: From PIE {*ǵʰm̥nés}.
+  parts: famnes, famanmos
+  ety: From PIE \ipa{*ǵʰm̥nés}
   defs:
     - earthling
 
 fortos:
   typ: m
-  ety: From PIE {*ǵʰórtos}.
+  ety: From PIE \ipa{*ǵʰórtos}
   defs:
     - enclosure
 
 gerán:
   typ: m
-  gen-sg: granes
-  abl-pl: granmos
-  ety: From PIE {*gerh₂ḗn}.
+  parts: granes, granmos
+  ety: From PIE \ipa{*gerh₂ḗn}
   defs:
     - crane, heron
 
 glis:
   typ: m
-  gen-sg: glajes
-  abl-sg: glimos
-  ety: From PIE {*gl̥h₁éys}.
+  parts: gladies, glimos
+  ety: From PIE \ipa{*gl̥h₁éys}
   defs:
     - weasel
 
 hostis:
   typ: m
-  ety: From PIE {*gʰóstis}.
+  ety: From PIE \ipa{*gʰóstis}
   defs:
     - guest
 
 bentis:
   typ: f
-  gen-sg: bantjes
-  ety: From PIE {*gʷémtis}.
+  parts: banties
+  ety: From PIE \ipa{*gʷémtis}
   defs:
     - step, act of walking
 
 bena:
   typ: f
-  ety: From PIE {*gʷḗn}.
+  ety: From PIE \ipa{*gʷḗn}
   defs:
     - woman
 
 beru:
   typ: n
-  gen-sg: brus
-  dat-sg: brevei
-  abl-pl: brumos
-  ety: From PIE {*gʷéru}.
+  parts: breves, brumos
+  ety: From PIE \ipa{*gʷéru}
   defs:
     - spear
 
-bos:
+bovs:
   typ: m
-  nom-pl: boves
-  acc-pl: bovans
-  gen-sg: bus
-  dat-sg: bevei
-  abl-pl: bumos
-  ety: From PIE {*gʷṓws}.
+  parts: beves, bumos
+  ety: From PIE \ipa{*gʷṓws}
   defs:
     - cattle
 
 bravón:
   typ: m
-  gen-sg: brunes
-  abl-pl: bravanmos
-  ety: From PIE {*gʷréh₂wō}.
+  parts: brunes, bravanmos
+  ety: From PIE \ipa{*gʷréh₂wō}
   defs:
     - quern, millstone
 
 beros:
   typ: n
-  ety: From PIE {*gʷʰéros}.
+  ety: From PIE \ipa{*gʷʰéros}
   defs:
     - heat
     - warm weather
 
-bentis:
+bantis:
   typ: f
-  ety: From PIE {*gʷʰn̥téys}.
+  ety: From PIE \ipa{*gʷʰn̥téys}
   defs:
     - striking, killing
 
 briva:
   typ: f
-  ety: From PIE {*gʷriHwéh₂}.
+  ety: From PIE \ipa{*gʷriHwéh₂}
   defs:
     - mane, nape
     - neck, thoat
     - estuary, mouth of an inlet
 
-amnos:
+agnos:
   typ: m
-  ety: From PIE {*h₂egʷnós}.
+  ety: From PIE \ipa{*h₂egʷnós}
   defs:
     - lamb
 
 agos:
   typ: n
-  ety: From PIE {*h₂égʰos}.
+  ety: From PIE \ipa{*h₂égʰos}
   defs:
     - (emotional) distress
 
 adros:
   typ: m
-  ety: From PIE {*h₂éǵros}.
+  ety: From PIE \ipa{*h₂éǵros}
   defs:
     - field
 
 abol:
   typ: m
-  gen-sg: bles
-  abl-pl: balmos
-  ety: From PIE {*h₂ébōl}.
+  parts: bles, balmos
+  ety: From PIE \ipa{*h₂ébōl}
   defs:
     - apple
 
 videva:
   typ: f
-  ety: From PIE {*h₁widʰéwh₂}.
+  ety: From PIE \ipa{*h₁widʰéwh₂}
   defs:
     - widow
 
 rebos:
   typ: n
-  ety: From PIE {*h₁régʷos}.
+  ety: From PIE \ipa{*h₁régʷos}
   defs:
     - darkness
 
 oitos:
   typ: m
-  ety: From PIE {*h₁óytos}.
+  ety: From PIE \ipa{*h₁óytos}
   defs:
     - oath, covenant
 
 udan:
   typ: n
-  ety: From PIE {*h₁ówdʰr̥}.
+  ety: From PIE \ipa{*h₁ówdʰr̥}
   defs:
     - udder
 
 ombol:
   typ: m
-  ety: From PIE {*h₂óngʷōl}.
+  ety: From PIE \ipa{*h₂óngʷōl}
   defs:
     - charcoal
 
 olos:
   typ: m
-  ety: From PIE {*h₁ólos}.
+  ety: From PIE \ipa{*h₁ólos}
   defs:
     - awl
 
 os:
   typ: n
-  nom-pl: osa
-  ety: From PIE {*h₁óh₃s}.
+  inflection: III-C
+  ety: From PIE \ipa{*h₁óh₃s}
   defs:
     - mouth
 
 noman:
   typ: n
-  gen-sg: nemens
-  ety: From PIE {*h₁nómn̥}.
+  parts: nemens
+  ety: From PIE \ipa{*h₁nómn̥}
   defs:
     - name
 
 ludis:
   typ: m
-  ety: From PIE {*h₁léwdʰis}.
+  ety: From PIE \ipa{*h₁léwdʰis}
   defs:
     - people
 
 itan:
   typ: n
-  ety: From PIE {*h₁éytr̥}.
+  ety: From PIE \ipa{*h₁éytr̥}
   defs:
     - way, course
 
 esan:
   typ: n
-  gen-sg: sens
-  abl-pl: sanmos
-  ety: From PIE {*h₁ésh₂r̥}.
+  parts: sens, sanmos
+  ety: From PIE \ipa{*h₁ésh₂r̥}
   defs:
     - (flowing) blood
 
 esvos:
   typ: m
-  ety: From PIE {*h₁éḱwos}.
+  ety: From PIE \ipa{*h₁éḱwos}
   defs:
     - horse, stallion
 
 fans:
   typ: f
-  ety: From PIE {*ǵʰh₂éns}.
+  ety: From PIE \ipa{*ǵʰh₂éns}
   defs:
     - goose
 
 asmón:
   typ: m
-  gen-sg: samnes
-  abl-pl: smanmos
-  ety: From PIE {*h₂éḱmō}.
+  parts: samnes, smanmos
+  ety: From PIE \ipa{*h₂éḱmō}
   defs:
     - stone
 
 alfit:
   typ: n
-  nom-pl: alfita
-  abl-pl: alfitmos
-  ety: From PIE {*h₂élbʰit}.
+  parts: alfites, alfitmos
+  ety: From PIE \ipa{*h₂élbʰit}
   defs:
     - barley
 
 alisa:
   typ: f
-  ety: From PIE {*h₂élis-}.
+  ety: From PIE \ipa{*h₂élis-}
   defs:
     - alder
 
 anfos:
   typ: n
-  ety: From PIE {*h₂éndʰos}.
+  ety: From PIE \ipa{*h₂éndʰos}
   defs:
     - bloom
 
 anfis:
   typ: m
-  ety: From PIE {*h₂éngʷʰis}.
+  ety: From PIE \ipa{*h₂éngʷʰis}
   defs:
     - snake
 
 anamos:
   typ: m
-  ety: From PIE {*h₂enh₁mos}.
+  ety: From PIE \ipa{*h₂enh₁mos}
   defs:
     - breath
 
@@ -615,666 +590,650 @@ anats:
   typ: f
   acc-sg: anatam
   abl-pl: anatmos
-  ety: From PIE {*h₂énh₂ts}.
+  ety: From PIE \ipa{*h₂énh₂ts}
   defs:
     - duck
 
 ankos:
   typ: n
-  ety: From PIE {*h₂énkos}.
+  ety: From PIE \ipa{*h₂énkos}
   defs:
     - curve, bend
 
 antjos:
   typ: m
-  ety: From PIE {*h₂entíos}.
+  ety: From PIE \ipa{*h₂entíos}
   defs:
     - front
     - forehead
 
 artrom:
   typ: n
-  ety: From PIE {*h₂érh₃trom}.
+  ety: From PIE \ipa{*h₂érh₃trom}
   defs:
     - plough, ard
 
 avis:
   typ: f
-  gen-sg: ujes
-  abl-pl: vimos
-  ety: From PIE {*h₂éwis}.
+  parts: uvies, vimos
+  ety: From PIE \ipa{*h₂éwis}
   defs:
     - bird
 
 ausós:
   typ: f
-  gen-sg: uses
-  ety: From PIE {*h₂éwsōs}.
+  parts: uses
+  ety: From PIE \ipa{*h₂éwsōs}
   defs:
     - dawn
 
 ajos:
   typ: n
-  ety: From PIE {*h₂éyos}.
+  ety: From PIE \ipa{*h₂éyos}
   defs:
     - copper
   cat: elements
 
 ner:
   typ: m
-  gen-sg: andres
-  abl-pl: narmos
-  ety: From PIE {*h₂nḗr}.
+  parts: andres, narmos
+  ety: From PIE \ipa{*h₂nḗr}
   defs:
     - power, force, vital energy
 
 okris:
   typ: f
-  gen-sg: ekris
-  ety: From PIE {*h₂óḱris}.
+  parts: ekris
+  ety: From PIE \ipa{*h₂óḱris}
   defs:
     - top, protrusion
     - sharp edge, corner
 
-ons:
+oms:
   typ: m
-  acc-sg: omam
-  gen-sg: ames
-  ety: From PIE {*h₂ṓms}.
+  parts: ames
+  ety: From PIE \ipa{*h₂ṓms}
   defs:
     - shoulder
 
 onkos:
   typ: m
-  ety: From PIE {*h₂ónkos}.
+  ety: From PIE \ipa{*h₂ónkos}
   defs:
     - bend, turn
 
 ost:
   typ: n
-  gen-sg: astes
-  ety: From PIE {*h₂óst}.
+  parts: astes
+  ety: From PIE \ipa{*h₂óst}
   defs:
     - bone
 
 ovis:
   typ: f
-  gen-sg: avjes
-  ety: From PIE {*h₂ówis}.
+  parts: avies
+  ety: From PIE \ipa{*h₂ówis}
   defs:
     - sheep
 
 us:
   typ: n
-  gen-sg: auses
-  nom-pl: usa
-  ety: From PIE {*h₂ṓws}.
+  inflection: III-C
+  parts: auses
+  ety: From PIE \ipa{*h₂ṓws}
   defs:
     - ear
 
 ojom:
   typ: n
-  ety: From PIE {*h₂ōwyóm}.
+  ety: From PIE \ipa{*h₂ōwyóm}
   defs:
     - egg
 
 oju:
   typ: n
-  gen-sg: jus
-  dat-sg: juvei
-  abl-pl: jumos
-  ety: From PIE {*h₂óyu}.
+  parts: juves, jumos
+  ety: From PIE \ipa{*h₂óyu}
   defs:
     - long life, lifetime
 
 ardantom:
   typ: n
-  ety: From PIE {*h₂r̥ǵn̥tóm}.
+  ety: From PIE \ipa{*h₂r̥ǵn̥tóm}
   defs:
     - silver
   cat: elements
 
 artos:
   typ: m
-  ety: From PIE {*h₂ŕ̥tḱos}.
+  ety: From PIE \ipa{*h₂ŕ̥tḱos}
   defs:
     - bear
 
 ster:
   typ: m
-  ety: From PIE {*h₂stḗr}.
+  ety: From PIE \ipa{*h₂stḗr}
   defs:
     - star
 
 lana:
   typ: f
-  ety: From PIE {*h₂wĺ̥h₁neh₂}.
+  ety: From PIE \ipa{*h₂wĺ̥h₁neh₂}
   defs:
     - wool
 
 vostu:
   typ: n
-  ety: From PIE {*h₂wóstu}.
+  ety: From PIE \ipa{*h₂wóstu}
   defs:
     - home, dwelling
 
 junta:
   typ: f
-  ety: From PIE {*h₂yuHn̥téh₂}.
+  ety: From PIE \ipa{*h₂yuHn̥téh₂}
   defs:
     - youth
 
-brus:
+brus¹:
+  typ: adj
+  parts: bruves, brumos
+  ety: From PIE \ipa{*gʷr̥h₂ús}
+  defs:
+    - heavy
+
+brus²:
   typ: f
-  gen-sg: brus
-  dat-sg: bruvei
-  abl-pl: brumos
-  ety: From PIE {*h₃bʰrúHs}.
+  parts: bruves, brumos
+  ety: From PIE \ipa{*h₃bʰrúHs}
   defs:
     - eyebrow
 
 donts:
   typ: m
-  acc-sg: dontam
-  gen-sg: dantes
-  ety: From PIE {*h₃dónts}.
+  parts: dantes
+  ety: From PIE \ipa{*h₃dónts}
   defs:
     - tooth
 
 odés:
   typ: m
-  ety: From PIE {*h₃edʰḗs}.
+  ety: From PIE \ipa{*h₃edʰḗs}
   defs:
     - adze, axe, hatchet
 
 omban:
   typ: n
-  gen-sg: ambens
-  ety: From PIE {*h₃éngʷn̥}.
+  parts: ambens
+  ety: From PIE \ipa{*h₃éngʷn̥}
   defs:
     - fat, butter
 
 onos:
   typ: n
-  ety: From PIE {*h₃énh₂os}.
+  ety: From PIE \ipa{*h₃énh₂os}
   defs:
     - load, burden
 
 orón:
   typ: m
-  gen-sg: arnes
-  abl-pl: ranmos
-  ety: From PIE {*h₃érō}.
+  parts: arnes, ranmos
+  ety: From PIE \ipa{*h₃érō}
   defs:
     - eagle
 
 mihla:
   typ: f
-  ety: From PIE {*h₃migʰleh₂}.
+  ety: From PIE \ipa{*h₃migʰleh₂}
   defs:
     - mist, fog
 
 nofilos:
   typ: m
-  ety: From PIE {*h₃nobʰilos}.
+  ety: From PIE \ipa{*h₃nobʰilos}
   defs:
     - navel
 
 nogs:
   typ: m
-  acc-sg: nogam
-  gen-sg: neges
-  ety: From PIE {*h₃nṓgʰs}.
+  parts: neges
+  ety: From PIE \ipa{*h₃nṓgʰs}
   defs:
     - nail (of the finger or toe)
 
-ops:
-  typ: n
-  nom-pl: opsa
-  gen-sg: opes
-  abl-pl: opsmos
-  ety: From PIE {*h₃ókʷs}.
-  defs:
-
 orfos:
   typ: m
-  ety: From PIE {*h₃órbʰos}.
+  ety: From PIE \ipa{*h₃órbʰos}
   defs:
     - orphan
     - servant, slave, worker
 
 osdos:
   typ: m
-  ety: From PIE {*h₃ósdos}.
+  ety: From PIE \ipa{*h₃ósdos}
   defs:
     - branch
 
 reds:
   typ: m
   acc-sg: redam
-  ety: From PIE {*h₃rḗǵs}.
+  ety: From PIE \ipa{*h₃rḗǵs}
   defs:
     - king, ruler
+  cat: ranks-of-nobility
 
 isus:
   typ: m
-  ety: From PIE {*(H)ísus}.
+  ety: From PIE \ipa{*(H)ísus}
   defs:
     - arrow
 
 ordis:
   typ: m
-  ety: From PIE {*h₄órǵʰis}.
+  ety: From PIE \ipa{*h₄órǵʰis}
   defs:
     - testicle
 
-ser:
+serd:
   typ: n
-  nom-pl: serda
-  gen-sg: sardes
-  ety: From PIE {*ḱḗr}.
+  parts: sardes
+  ety: From PIE \ipa{*ḱḗr}
   defs:
     - heart
 
 sersón:
   typ: m
-  gen-sg: krasnes
-  abl-pl: krasanmos
-  ety: From PIE {*ḱérh₂sō}.
+  parts: krasnes, krasanmos
+  ety: From PIE \ipa{*ḱérh₂sō}
   defs:
     - head, skull
 
 slevos:
   typ: n
-  ety: From PIE {*ḱléwos}.
+  ety: From PIE \ipa{*ḱléwos}
   defs:
     - fame
 
 slita:
   typ: f
-  ety: From PIE {*ḱléyteh₂}.
+  ety: From PIE \ipa{*ḱléyteh₂}
   defs:
     - slope, incline
 
 slitra:
   typ: f
-  ety: From PIE {*ḱléytreh₂}.
+  ety: From PIE \ipa{*ḱléytreh₂}
   defs:
     - shelter, covering
 
 slunis:
   typ: f
-  ety: From PIE {*ḱlównis}.
+  ety: From PIE \ipa{*ḱlównis}
   defs:
     - buttocks, kip
 
-sopos:
+sopos²:
   typ: m
-  ety: From PIE {*ḱoph₂ós}.
+  ety: From PIE \ipa{*ḱoph₂ós}
   defs:
     - hoof
 
 sarsos:
   typ: m
-  ety: From PIE {*ḱr̥sós}.
+  ety: From PIE \ipa{*ḱr̥sós}
   defs:
     - vehicle
 
 svon:
   typ: m
-  gen-sg: sunes
-  abl-pl: svanmos
-  ety: From PIE {*ḱwṓ}.
+  parts: sunes, svanmos
+  ety: From PIE \ipa{*ḱwṓ}
   defs:
     - dog
 
 kagjom:
   typ: n
-  ety: From PIE {*kagʰyóm}.
+  ety: From PIE \ipa{*kagʰyóm}
   defs:
     - enclosure, hedge
 
 kapros:
   typ: m
-  ety: From PIE {*kápros}.
+  ety: From PIE \ipa{*kápros}
   defs:
     - goat
 
 kaput:
   typ: n
-  ety: From PIE {*káput}.
+  ety: From PIE \ipa{*káput}
   defs:
     - head
 
 kotus:
   typ: m
-  gen-sg: katves
-  ety: From PIE {*kéh₃tus}.
+  parts: katves
+  ety: From PIE \ipa{*kéh₃tus}
   defs:
     - fight
 
 koksa:
   typ: f
-  ety: From PIE {*kóḱs-}.
+  ety: From PIE \ipa{*kóḱs-}
   defs:
     - (anatomy) joint
 
 peplos:
   typ: m
-  ety: From PIE {*kʷékʷlos}.
+  ety: From PIE \ipa{*kʷékʷlos}
   defs:
     - wheel
     - circle
 
 poina:
   typ: f
-  ety: From PIE {*kʷoynéh₂}.
+  ety: From PIE \ipa{*kʷoynéh₂}
   defs:
     - payment
     - punishment, vengeance
 
 parmis:
   typ: m
-  ety: From PIE {*kʷŕ̥mis}.
+  ety: From PIE \ipa{*kʷŕ̥mis}
   defs:
     - worm
 
 lokus:
   typ: m
-  gen-sg: alkves
-  ety: From PIE {*lókus}.
+  parts: alkves
+  ety: From PIE \ipa{*lókus}
   defs:
     - pond, pool
     - lake
 
 luksna:
   typ: f
-  ety: From PIE {*lówksneh₂}.
+  ety: From PIE \ipa{*lówksneh₂}
   defs:
     - moon
 
 loisa:
   typ: f
-  ety: From PIE {*lóyseh₂}.
+  ety: From PIE \ipa{*lóyseh₂}
   defs:
     - following, track
     - (agriculture) furrow
 
-mens:
+mens¹:
   typ: m
-  ety: From PIE {*mḗh₁n̥s}.
+  irregular: yes
+  ety: From PIE \ipa{*mḗh₁n̥s}
   defs:
     - moon
     - month
 
 mater:
   typ: f
-  ety: From PIE {*méh₂tēr}.
+  ety: From PIE \ipa{*méh₂tēr}
   defs:
     - mother
 
 melit:
   typ: n
-  gen-sg: malites
-  ety: From PIE {*mélit}.
+  parts: malites
+  ety: From PIE \ipa{*mélit}
   defs:
     - honey
 
-mens:
+mens²:
   typ: n
-  ety: From PIE {*mḗms}.
+  irregular: yes
+  ety: From PIE \ipa{*mḗms}
   defs:
     - flesh, meat
 
 menos:
   typ: n
-  ety: From PIE {*ménos}.
+  ety: From PIE \ipa{*ménos}
   defs:
     - mind
 
 mentis:
   typ: f
-  gen-sg: mantjes
-  ety: From PIE {*méntis}.
+  parts: manties
+  ety: From PIE \ipa{*méntis}
   defs:
     - thought
 
 mertis:
   typ: f
-  gen-sg: martjes
-  ety: From PIE {*mértis}.
+  parts: marties
+  ety: From PIE \ipa{*mértis}
   defs:
     - death
 
 misdos:
   typ: m
-  ety: From PIE {*misdʰós}.
+  ety: From PIE \ipa{*misdʰós}
   defs:
     - reward, prize
     - wages, payment
 
 mori:
   typ: n
-  gen-sg: marjes
-  nom-pl: morja
-  ety: From PIE {*móri}.
+  parts: maries
+  ety: From PIE \ipa{*móri}
   defs:
     - sea
 
 morvis:
   typ: f
-  gen-sg: marvjes
-  ety: From PIE {*morwi-}.
+  parts: marvies
+  ety: From PIE \ipa{*morwi-}
   defs:
     - ant
 
 mosgos:
   typ: m
-  ety: From PIE {*mosgʰós}.
+  ety: From PIE \ipa{*mosgʰós}
   defs:
     - marrow
     - brain
 
 mus:
   typ: m
-  gen-sg: musam
-  ety: From PIE {*múh₂s}.
+  inflection: III-C
+  parts: muses
+  ety: From PIE \ipa{*múh₂s}
   defs:
     - mouse
 
 mutrom:
   typ: n
-  ety: From PIE {*múHtrom}.
+  ety: From PIE \ipa{*múHtrom}
   defs:
     - excrement, urine
     - filth, sediment
 
 anfros:
   typ: m
-  ety: From PIE {*n̥bʰrós}.
+  ety: From PIE \ipa{*n̥bʰrós}
   defs:
     - rain-cloud
     - rain
 
 nefos:
   typ: n
-  ety: From PIE {*nébʰos}.
+  ety: From PIE \ipa{*nébʰos}
   defs:
     - cloud
 
 nefros:
   typ: m
-  ety: From PIE {*negʷʰrós}.
+  ety: From PIE \ipa{*negʷʰrós}
   defs:
     - kidney
 
 nas:
   typ: f
-  ety: From PIE {*néh₂s}.
+  ety: From PIE \ipa{*néh₂s}
   defs:
     - nose
 
 nemos:
   typ: n
-  ety: From PIE {*némos}.
+  ety: From PIE \ipa{*némos}
   defs:
     - sacrifice
     - worship
 
 nisdos:
   typ: m
-  ety: From PIE {*nisdós}.
+  ety: From PIE \ipa{*nisdós}
   defs:
     - nest
 
-nops:
+nopts:
   typ: f
-  acc-sg: noptam
-  gen-sg: neptes
-  ety: From PIE {*nókʷts}.
+  parts: neptes
+  ety: From PIE \ipa{*nókʷts}
   defs:
     - night
 
 pavan:
   typ: n
-  ety: From PIE {*péh₂wr̥}.
+  ety: From PIE \ipa{*péh₂wr̥}
   defs:
     - bonfire
 
 pesu:
   typ: n
-  gen-sg: pasves
-  ety: From PIE {*péḱu}.
+  parts: pasves
+  ety: From PIE \ipa{*péḱu}
   defs:
     - livestock
 
 persus:
   typ: f
-  gen-sg: parsves
-  ety: From PIE {*pérḱus}.
+  parts: parsves
+  ety: From PIE \ipa{*pérḱus}
   defs:
     - chest
     - rib
 
 perkus:
   typ: m
-  gen-sg: parkves
-  ety: From PIE {*pérkus}.
+  parts: parkves
+  ety: From PIE \ipa{*pérkus}
   defs:
     - oak
 
 pertus:
   typ: m
-  gen-sg: partves
-  ety: From PIE {*pértus}.
+  parts: partves
+  ety: From PIE \ipa{*pértus}
   defs:
     - crossing
 
 pervan:
   typ: n
-  gen-sg: parvens
-  abl-pl: prumos
-  ety: From PIE {*pérwr̥}.
+  parts: parvens, prumos
+  ety: From PIE \ipa{*pérwr̥}
   defs:
     - ford, crossing
 
 petan:
   typ: n
-  gen-sg: patens
-  ety: From PIE {*péth₂r̥}.
+  parts: patens
+  ety: From PIE \ipa{*péth₂r̥}
   defs:
     - wing
 
 pater:
   typ: m
-  ety: From PIE {*ph₂tḗr}.
+  ety: From PIE \ipa{*ph₂tḗr}
   defs:
     - father
 
 pisda:
   typ: f
-  ety: From PIE {*písdeh₂}.
+  ety: From PIE \ipa{*písdeh₂}
   defs:
     - vulva
 
 plotus:
   typ: m
-  gen-sg: platves
-  ety: From PIE {*pléh₃tus}.
+  parts: platves
+  ety: From PIE \ipa{*pléh₃tus}
   defs:
     - flood
 
 pletos:
   typ: n
-  ety: From PIE {*pléth₂os}.
+  ety: From PIE \ipa{*pléth₂os}
   defs:
     - breadth
 
 plumón:
   typ: m
-  gen-sg: palvamnes
-  abl-pl: plumanmos
-  ety: From PIE {*pléwmō}.
+  parts: palvamnes, plumanmos
+  ety: From PIE \ipa{*pléwmō}
   defs:
     - lung
 
 pluksna:
   typ: f
-  ety: From PIE {*plúnksneh₂}.
+  ety: From PIE \ipa{*plúnksneh₂}
   defs:
     - feather
 
 plusis:
   typ: f
-  ety: From PIE {*plúsis}.
+  ety: From PIE \ipa{*plúsis}
   defs:
     - flea
 
 numan:
   typ: n
   abl-pl: panvamnes
-  ety: From PIE {*pnéwmn̥}.
+  ety: From PIE \ipa{*pnéwmn̥}
   defs:
     - breath
     - spirit, soul
 
 panstis:
   typ: f
-  ety: From PIE {*pn̥kʷstis}.
+  ety: From PIE \ipa{*pn̥kʷstis}
   defs:
     - fist
 
 pods:
   typ: m
-  acc-sg: podam
-  gen-sg: pedes
-  ety: From PIE {*pṓds}.
+  parts: pedes
+  ety: From PIE \ipa{*pṓds}
   defs:
     - foot
 
 ponts:
   typ: m
-  acc-sg: pontam
-  gen-sg: pantes
-  ety: From PIE {*póntoh₁s}.
+  parts: pantes
+  ety: From PIE \ipa{*póntoh₁s}
   defs:
     - path, way
 
 porsos:
   typ: m
-  ety: From PIE {*pórḱos}.
+  ety: From PIE \ipa{*pórḱos}
   defs:
     - pig, piglet, hog, swine
 
 pornom:
   typ: n
-  ety: From PIE {*pornóm}.
+  ety: From PIE \ipa{*pornóm}
   defs:
     - fern, leaf
 
 potis:
   typ: m
-  ety: From PIE {*pótis}.
+  ety: From PIE \ipa{*pótis}
   defs:
     - master, ruler
     - husband
@@ -1282,33 +1241,33 @@ potis:
 
 sten:
   typ: m
-  gen-sg: stanes
-  ety: From PIE {*pstḗn}.
+  parts: stanes
+  ety: From PIE \ipa{*pstḗn}
   defs:
     - breast, teat
 
 puros:
   typ: m
-  ety: From PIE {*puHrós}.
+  ety: From PIE \ipa{*puHrós}
   defs:
     - wheat
 
 rugis:
   typ: m
-  ety: From PIE {*rúgʰis}.
+  ety: From PIE \ipa{*rúgʰis}
   defs:
     - rye
 
 sedos:
   typ: n
-  ety: From PIE {*séǵʰos}.
+  ety: From PIE \ipa{*séǵʰos}
   defs:
     - power, strength
 
 seman:
   typ: n
-  gen-sg: samens
-  ety: From PIE {*séh₁mn̥}.
+  parts: samens
+  ety: From PIE \ipa{*séh₁mn̥}
   defs:
     - seed
     - semen
@@ -1316,262 +1275,258 @@ seman:
 sals:
   typ: m
   acc-sg: salam
-  ety: From PIE {*séh₂ls}.
+  ety: From PIE \ipa{*séh₂ls}
   defs:
     - salt
 
 selos:
   typ: n
-  ety: From PIE {*sélos}.
+  ety: From PIE \ipa{*sélos}
   defs:
     - marsh
 
 soia:
   typ: f
-  ety: From PIE {*(s)ḱeh₃ih₂}.
+  ety: From PIE \ipa{*(s)ḱeh₃ih₂}
   defs:
     - shadow, shade
 
 spalos:
   typ: m
-  ety: From PIE {*(s)kʷálos}.
+  ety: From PIE \ipa{*(s)kʷálos}
   defs:
     - large fish
     - sheatfish
 
 smerus:
   typ: m
-  gen-sg: smarves
-  ety: From PIE {*smérus}.
+  parts: smarves
+  ety: From PIE \ipa{*smérus}
   defs:
     - grease
 
 snevan:
   typ: n
-  gen-sg: snavens
-  ety: From PIE {*snéh₁wr̥}.
+  parts: snavens
+  ety: From PIE \ipa{*snéh₁wr̥}
   defs:
     - sinew, tendon
 
 snetan:
   typ: n
-  gen-sg: snatens
-  ety: From PIE {*(s)néHtr̥}.
+  parts: snatens
+  ety: From PIE \ipa{*(s)néHtr̥}
   defs:
     - adder (type of snake)
 
 snoivos:
   typ: m
-  ety: From PIE {*snóygʷʰos}.
+  ety: From PIE \ipa{*snóygʷʰos}
   defs:
     - snow
 
 sovan:
   typ: n
-  gen-sg: savens
-  ety: From PIE {*sóh₂wl̥}.
+  parts: savens
+  ety: From PIE \ipa{*sóh₂wl̥}
   defs:
     - sun
 
 sosan:
   typ: n
-  gen-sg: sens
-  ety: From PIE {*sóḱr̥}.
+  parts: sasens
+  ety: From PIE \ipa{*sóḱr̥}
   defs:
     - dung, excrement
 
-sopos:
+sopos¹:
   typ: m
-  ety: From PIE {*sokʷos}.
+  ety: From PIE \ipa{*sokʷos}
   defs:
     - juice
 
 soitos:
   typ: m
-  ety: From PIE {*soytós}.
+  ety: From PIE \ipa{*soytós}
   defs:
     - magic
 
 speks:
   typ: m
-  acc-sg: spesam
-  gen-sg: spases
-  ety: From PIE {*spéḱs}.
+  parts: spakes
+  ety: From PIE \ipa{*spéḱs}
   defs:
     - watcher
     - spy
 
 sper:
   typ: m
-  ety: From PIE {*spḗr}.
+  ety: From PIE \ipa{*spḗr}
   defs:
     - sparrow
 
 streps:
   typ: f
-  acc-sg: strefam
-  gen-sg: strafes
-  ety: From PIE {*(s)rḗps}.
+  parts: strapes
+  ety: From PIE \ipa{*(s)rḗps}
   defs:
     - turnip, rape, cabbage
 
 staman:
   typ: n
-  ety: From PIE {*stéh₂mn̥}.
+  ety: From PIE \ipa{*stéh₂mn̥}
   defs:
     - that which stands, stature
 
 statis:
   typ: f
-  ety: From PIE {*stéh₂tis}.
+  ety: From PIE \ipa{*stéh₂tis}
   defs:
     - standing, position
 
 stoigos:
   typ: m
-  ety: From PIE {*stóygʰos}.
+  ety: From PIE \ipa{*stóygʰos}
   defs:
     - path, way
 
 sunus:
   typ: m
-  ety: From PIE {*suHnús}.
+  ety: From PIE \ipa{*suHnús}
   defs:
     - son
 
 svennos:
   typ: m
-  ety: From PIE {*supnós}.
+  ety: From PIE \ipa{*supnós}
   defs:
     - sleep, slumber
 
 svesor:
   typ: f
-  gen-sg: sustres
-  abl-pl: susarmos
-  ety: From PIE {*swésōr}.
+  parts: sustres, susarmos
+  ety: From PIE \ipa{*swésōr}
   defs:
     - sister
 
 tauros:
   typ: m
-  ety: From PIE {*táwros}.
+  ety: From PIE \ipa{*táwros}
   defs:
     - bull
 
 tenos:
   typ: n
-  ety: From PIE {*ténos}.
+  ety: From PIE \ipa{*ténos}
   defs:
     - extension
 
 tentis:
   typ: f
-  gen-sg: tantjes
-  ety: From PIE {*téntis}.
+  parts: tanties
+  ety: From PIE \ipa{*téntis}
   defs:
     - extension
 
 tepos:
   typ: n
-  ety: From PIE {*tépos}.
+  ety: From PIE \ipa{*tépos}
   defs:
     - warmth, heat
 
 terman:
   typ: n
-  gen-sg: tarmens
-  ety: From PIE {*térmn̥}.
+  parts: tarmens
+  ety: From PIE \ipa{*térmn̥}
   defs:
     - boundary, end
 
 tektón:
   typ: m
-  gen-sg: tasnes
-  abl-pl: tasanmos
-  ety: From PIE {*tétḱō}.
+  parts: taksnes, taksanmos
+  ety: From PIE \ipa{*tétḱō}
   defs:
     - carpenter
 
 tuta:
   typ: f
-  ety: From PIE {*tewtéh₂}.
+  ety: From PIE \ipa{*tewtéh₂}
   defs:
     - people, tribe
 
 tonos:
   typ: m
-  ety: From PIE {*tónos}.
+  ety: From PIE \ipa{*tónos}
   defs:
     - chord, fiber, string
 
 persna:
   typ: f
-  ety: From PIE {*tpḗrsneh₂}.
+  ety: From PIE \ipa{*tpḗrsneh₂}
   defs:
     - heel, upper thigh
 
 uderos:
   typ: m
-  ety: From PIE {*úderos}.
+  ety: From PIE \ipa{*úderos}
   defs:
-    - abdomen, stomach
+    - abdomen, stomach, belly
 
 viman:
   typ: n
-  ety: From PIE {*wéh₁imn̥}.
+  ety: From PIE \ipa{*wéh₁imn̥}
   defs:
     - that which is twisted, plaiting
 
 vitis:
   typ: f
-  ety: From PIE {*wéh₁itis}.
+  ety: From PIE \ipa{*wéh₁itis}
   defs:
     - that which twines or bends
     - branch, switch
 
 veksperos:
   typ: m
-  ety: From PIE {*wek(ʷ)speros}.
+  ety: From PIE \ipa{*wek(ʷ)speros}
   defs:
     - evening
 
-verdom:
+verdom¹:
   typ: n
-  ety: From PIE {*werdʰh₁om}.
+  ety: From PIE \ipa{*werdʰh₁om}
   defs:
     - word
 
-verdom:
+verdom²:
   typ: n
-  ety: From PIE {*wérǵom}.
+  ety: From PIE \ipa{*wérǵom}
   defs:
     - work
 
 verna:
   typ: f
-  ety: From PIE {*wern-}.
+  ety: From PIE \ipa{*wern-}
   defs:
     - alder
 
 vestis:
   typ: f
-  gen-sg: ustjes
-  ety: From PIE {*wéstis}.
+  parts: usties
+  ety: From PIE \ipa{*wéstis}
   defs:
     - the act of dressing
     - clothing
 
 vistor:
   typ: m
-  ety: From PIE {*wéydtōr}.
+  ety: From PIE \ipa{*wéydtōr}
   defs:
     - one who has seen, one who knows
     - witness
 
 viros:
   typ: m
-  ety: From PIE {*wiHrós}.
+  ety: From PIE \ipa{*wiHrós}
   defs:
     - man
     - husband
@@ -1579,80 +1534,80 @@ viros:
 
 vispotis:
   typ: m
-  ety: From PIE {*wiḱpótis}.
+  ety: From PIE \ipa{*wiḱpótis}
   defs:
     - clan chief
     - lord
 
 valpos:
   typ: m
-  ety: From PIE {*wĺ̥kʷos}.
+  ety: From PIE \ipa{*wĺ̥kʷos}
   defs:
     - wolf
 
 vodan:
   typ: n
-  gen-sg: vedens
-  ety: From PIE {*wódr̥}.
+  parts: vedens
+  ety: From PIE \ipa{*wódr̥}
   defs:
     - water
 
 vops:
   typ: f
   acc-sg: vopam
-  ety: From PIE {*wṓkʷs}.
+  ety: From PIE \ipa{*wṓkʷs}
   defs:
     - voice, speech
 
 rads:
   typ: f
   acc-sg: radam
-  ety: From PIE {*wréh₂ds}.
+  ety: From PIE \ipa{*wréh₂ds}
   defs:
     - root
 
 Ren:
   typ: m
-  gen-sg: Ranes
-  ety: From PIE {*wr̥h₁ḗn}.
+  parts: Ranes
+  ety: From PIE \ipa{*wr̥h₁ḗn}
   defs:
     - Aries
   cat: constellations
 
 jemos:
   typ: m
-  ety: From PIE {*yémHos}.
+  ety: From PIE \ipa{*yémHos}
   defs:
     - twin
 
 jugos:
   typ: n
-  ety: From PIE {*yéwgos}.
+  ety: From PIE \ipa{*yéwgos}
   defs:
     - team
     - pair of yoked animals
 
 somjugos:
   typ: n
-  ety: From Danetian {jugos}.
+  ety: From Dan. \ipa{som- + jugos}
   defs:
     - union
 
 somjugestos:
   typ: adj
-  ety: From Danetian {somjugos}.
+  ety: From Dan. \ipa{somjugos}
   defs:
     - united
 
 djolet:
   typ: m
-  ety: From a Turkic language; compare Uyghur {dölet} and Uzbek {davlat}.
+  ety: From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}
   defs:
     - (political) state
 
 sovietiskos:
   typ: adj
-  ety: From Russian {сове́т}.
+  ety: From Ru. \cyr{сове́т}
   defs:
     - Soviet (pertaining to the Soviet Union)
 
@@ -1670,24 +1625,24 @@ Somjugos Sovietiskóm Socialistiskóm Respublicóm:
 
 socialistiskos:
   typ: adj
-  ety: From French {socialiste}.
+  ety: From Fr. \ipa{socialiste}
   defs:
     - socialist
 
 respublica:
   typ: f
-  ety: From Latin {rēspūblica}.
+  ety:  From Lat. \ipa{rēspūblica}
   defs:
     - republic
 
 America:
   typ: f
-  ety: From Latin {America}.
+  ety:  From Lat. \ipa{America}
   defs:
     - America
   cat: place-names
 
-Somjugestói Djoletes Americas:
+Somjugestoi Djoletes Americas:
   typ: m
   defs:
     - United States of America
@@ -1695,77 +1650,76 @@ Somjugestói Djoletes Americas:
 
 jevos:
   typ: n
-  ety: From PIE {*yéwos}.
+  ety: From PIE \ipa{*yéwos}
   defs:
     - cereal, grain
     - barley, spelt
 
 jeros:
   typ: m
-  ety: From PIE {*yóh₁r̥}.
+  ety: From PIE \ipa{*yóh₁r̥}
   defs:
     - year
 
 jopan:
   typ: n
-  gen-sg: jepens
-  ety: From PIE {*yókʷr̥}.
+  parts: jepens
+  ety: From PIE \ipa{*yókʷr̥}
   defs:
     - liver
 
 jugom:
   typ: n
-  ety: From PIE {*yugóm}.
+  ety: From PIE \ipa{*yugóm}
   defs:
     - yoke
 
 spesa:
   typ: f
-  ety: From PIE {*spéh₁s}.
+  ety: From PIE \ipa{*spéh₁s}
   defs:
     - prosperity, success
 
 reja:
   typ: f
-  ety: From PIE {*reh₁is}.
+  ety: From PIE \ipa{*reh₁is}
   defs:
     - wealth, goods, riches
 
 naus:
   typ: f
-  gen-sg: naves
-  abl-pl: naumos
-  ety: From PIE {*néh₂us}.
+  parts: naves, naumos
+  ety: From PIE \ipa{*néh₂us}
   defs:
     - boat, ship
 
 lus:
   typ: m
   acc-sg: lusam
-  ety: From PIE {*lewH-}.
+  ety: From PIE \ipa{*lewH-}
   defs:
     - louse
 
 kreva:
   typ: f
-  ety: From PIE {*kréwh₂s}.
+  ety: From PIE \ipa{*kréwh₂s}
   defs:
     - (raw) blood
 
 Rossia:
   typ: f
-  ety: From Byzantine Greek {Ῥωσία}.
+  ety: From BG \gr{Ῥωσία}
   defs:
     - Russia
   cat: place-names
 
 rossiskos:
   typ: adj
-  ety: From Danetian {Rossia}.
+  ety: From Dan. \ipa{Rossia}
   defs:
     - Russian
 
-Rossiska Foideration:
+Rossiska Foideratión:
   typ: f
   defs:
     - Russian Federation
@@ -1773,716 +1727,715 @@ Rossiska Foideration:
 
 palatiom:
   typ: n
-  ety: From Latin {palātium}.
+  ety:  From Lat. \ipa{palātium}
   defs:
     - palace
 
-palatials:
+palatiális:
   typ: adj
-  ety: From French {palatial}.
+  ety: From Fr. \ipa{palatial}, with a latinized ending
   defs:
     - palatial, pertaining to palaces
 
-foideration:
+foideratión:
   typ: f
-  ety: From Latin {foederatio}.
+  ety:  From Lat. \ipa{foederatio}
   defs:
     - federation
 
 buftos:
   typ: adj
-  ety: From PIE {*bʰudʰtós}.
+  ety: From PIE \ipa{*bʰudʰtós}
   defs:
     - aware
 
 brunos:
   typ: adj
-  ety: From PIE {*bʰruHnós}.
+  ety: From PIE \ipa{*bʰruHnós}
   defs:
     - brown
   cat: colors
 
 bosos:
   typ: adj
-  ety: From PIE {*bʰosós}.
+  ety: From PIE \ipa{*bʰosós}
   defs:
     - bare, barefoot
 
 biftos:
   typ: adj
-  ety: From PIE {*bʰidʰtós}.
+  ety: From PIE \ipa{*bʰidʰtós}
   defs:
     - trusted, trustworthy
 
 bistos:
   typ: adj
-  ety: From PIE {*bʰidtós}.
+  ety: From PIE \ipa{*bʰidtós}
   defs:
     - split, cloven
 
 bardátos:
   typ: adj
-  ety: From PIE {*bʰardʰéh₂tos}.
+  ety: From PIE \ipa{*bʰardʰéh₂tos}
   defs:
     - bearded
 
 alfos:
   typ: adj
-  ety: From PIE {*albʰós}.
+  ety: From PIE \ipa{*albʰós}
   defs:
     - white
   cat: colors
 
 fubros:
   typ: adj
-  ety: From PIE {*dʰubʰrós}.
+  ety: From PIE \ipa{*dʰubʰrós}
   defs:
     - deep
 
 fjesteros:
   typ: adj
-  ety: From PIE {*dʰǵʰyésteros}.
+  ety: From PIE \ipa{*dʰǵʰyésteros}
   defs:
     - pertaining to yesterday
 
 fjestere:
   typ: adv
-  ety: From Danetian {fjesteros}.
+  ety: From Dan. \ipa{fjesteros}
   defs:
     - yesterday
 
 dusmenés:
   typ: adj
-  ety: From PIE {*dusmenḗs}.
+  ety: From PIE \ipa{*dusmenḗs}
   defs:
     - ill-disposed, wicked, evil
 
-lonhos:
+longos:
   typ: adj
-  ety: From PIE {*dlongʰos}.
+  ety: From PIE \ipa{*dlongʰos}
   defs:
     - long
 
 divjos:
   typ: adj
-  ety: From PIE {*diwyós}.
+  ety: From PIE \ipa{*diwyós}
   defs:
     - heavenly
 
 datos:
   typ: adj
-  ety: From PIE {*dh₃tós}.
+  ety: From PIE \ipa{*dh₃tós}
   defs:
     - given
 
 svadus:
   typ: adj
-  ety: From PIE {*swéh₂dus}.
+  ety: From PIE \ipa{*swéh₂dus}
   defs:
     - sweet
 
 benfus:
   typ: adj
-  ety: From PIE {*bʰénǵʰus}.
+  ety: From PIE \ipa{*bʰénǵʰus}
   defs:
     - dense, thick
 
 berdonts:
   typ: adj
-  gen-sg: berdantes
-  ety: From PIE {*bʰérǵʰonts}.
+  parts: berdantes
+  ety: From PIE \ipa{*bʰérǵʰonts}
   defs:
     - high, tall
 
 bantos:
   typ: adj
-  ety: From PIE {*gʷm̥tós}.
+  ety: From PIE \ipa{*gʷm̥tós}
   defs:
     - passable
 
 bivos:
   typ: adj
-  ety: From PIE {*gʷih₃wós}.
+  ety: From PIE \ipa{*gʷih₃wós}
   defs:
     - alive, living
 
 graftos:
   typ: adj
-  ety: From PIE {*gr̥bʰtós}.
+  ety: From PIE \ipa{*gr̥bʰtós}
   defs:
     - carved
     - written
 
 futos:
   typ: adj
-  ety: From PIE {*ǵʰutós}.
+  ety: From PIE \ipa{*ǵʰutós}
   defs:
     - poured
 
-natos:
+natos²:
   typ: adj
-  ety: From PIE {*ǵn̥h₃tós}.
+  ety: From PIE \ipa{*ǵn̥h₃tós}
   defs:
     - known, recognizable
 
-natos:
+natos¹:
   typ: adj
-  ety: From PIE {*ǵn̥h₁tós}.
+  ety: From PIE \ipa{*ǵn̥h₁tós}
   defs:
     - begotten, produced
 
 deronts:
   typ: adj
-  ety: From PIE {*ǵérh₂onts}.
+  ety: From PIE \ipa{*ǵérh₂onts}
   defs:
     - old
 
 restos:
   typ: adj
-  ety: From PIE {*h₃reǵtós}.
+  ety: From PIE \ipa{*h₃reǵtós}
   defs:
     - straightened, right, upright
 
 onostos:
   typ: adj
-  ety: From PIE {*h₃enh₂ostos}.
+  ety: From PIE \ipa{*h₃enh₂ostos}
   defs:
     - loaded; burdened
 
 junsos:
   typ: adj
-  ety: From PIE {*h₂yuHn̥ḱós}.
+  ety: From PIE \ipa{*h₂yuHn̥ḱós}
   defs:
     - young
 
 moldus:
   typ: adj
-  ety: From PIE {*(h₂)moldus}.
+  ety: From PIE \ipa{*(h₂)moldus}
   defs:
     - soft, weak
 
 anfus:
   typ: adj
-  ety: From PIE {*h₂énǵʰus}.
+  ety: From PIE \ipa{*h₂énǵʰus}
   defs:
     - narrow, tight
 
 amos:
   typ: adj
-  ety: From PIE {*h₂eh₃mós}.
+  ety: From PIE \ipa{*h₂eh₃mós}
   defs:
     - raw, uncooked
     - bitter
 
 adrjos:
   typ: adj
-  ety: From PIE {*h₂éǵr̥yos}.
+  ety: From PIE \ipa{*h₂éǵr̥yos}
   defs:
     - campestral, pertaining to fields
 
 vesus:
   typ: adj
-  ety: From PIE {*h₁wésus}.
+  ety: From PIE \ipa{*h₁wésus}
   defs:
     - good, excellent
 
 verus:
   typ: adj
-  ety: From PIE {*h₁wérus}.
+  ety: From PIE \ipa{*h₁wérus}
   defs:
     - broad
 
 rufros:
   typ: adj
-  ety: From PIE {*h₁rudʰrós}.
+  ety: From PIE \ipa{*h₁rudʰrós}
   defs:
     - red
   cat: colors
 
 lanfros:
   typ: adj
-  ety: From PIE {*h₁ln̥gʷʰrós}.
+  ety: From PIE \ipa{*h₁ln̥gʷʰrós}
   defs:
     - lightweight
 
 itos:
   typ: adj
-  ety: From PIE {*h₁itós}.
+  ety: From PIE \ipa{*h₁itós}
   defs:
     - passable
 
 enteros:
   typ: adj
-  ety: From PIE {*h₁énteros}.
+  ety: From PIE \ipa{*h₁énteros}
   defs:
     - inside, within
 
 juktos:
   typ: adj
-  ety: From PIE {*yugtós}.
+  ety: From PIE \ipa{*yugtós}
   defs:
     - yoked, joined
 
 varstos:
   typ: adj
-  ety: From PIE {*wr̥ǵtós}.
+  ety: From PIE \ipa{*wr̥ǵtós}
   defs:
     - worked, fashioned
 
 vistos:
   typ: adj
-  ety: From PIE {*widtós}.
+  ety: From PIE \ipa{*widtós}
   defs:
     - seen, known
 
 veros:
   typ: adj
-  ety: From PIE {*weh₁ros}.
+  ety: From PIE \ipa{*weh₁ros}
   defs:
     - true
 
 usteros:
   typ: adj
-  ety: From PIE {*údteros}.
+  ety: From PIE \ipa{*údteros}
   defs:
     - higher, outer
 
 udros:
   typ: adj
-  ety: From PIE {*udrós}.
+  ety: From PIE \ipa{*udrós}
   defs:
     - of water, aquatic
 
 tarnos:
   typ: adj
-  ety: From PIE {*tr̥nós}.
+  ety: From PIE \ipa{*tr̥nós}
   defs:
     - sharp, stiff
 
 tantos:
   typ: adj
-  ety: From PIE {*tn̥tós}.
+  ety: From PIE \ipa{*tn̥tós}
   defs:
     - stretched, extended
 
 latos:
   typ: adj
-  ety: From PIE {*tl̥h₂tós}.
+  ety: From PIE \ipa{*tl̥h₂tós}
   defs:
     - lifted
 
 tenus:
   typ: adj
-  ety: From PIE {*ténh₂us}.
+  ety: From PIE \ipa{*ténh₂us}
   defs:
     - thin
 
 tegus:
   typ: adj
-  ety: From PIE {*tégus}.
+  ety: From PIE \ipa{*tégus}
   defs:
     - thick
 
 suros:
   typ: adj
-  ety: From PIE {*súHros}.
+  ety: From PIE \ipa{*súHros}
   defs:
     - sour, acidic
 
 stratos:
   typ: m
-  ety: From PIE {*str̥h₃tós}.
+  ety: From PIE \ipa{*str̥h₃tós}
   defs:
     - valley
 
 statos:
   typ: adj
-  ety: From PIE {*sth₂tós}.
+  ety: From PIE \ipa{*sth₂tós}
   defs:
     - placed, standing
 
 senos:
   typ: adj
-  ety: From PIE {*sénos}.
+  ety: From PIE \ipa{*sénos}
   defs:
     - old
 
 sestos:
   typ: adj
-  ety: From PIE {*sedtós}.
+  ety: From PIE \ipa{*sedtós}
   defs:
     - seated
 
 prios:
   typ: adj
-  ety: From PIE {*priHós}.
+  ety: From PIE \ipa{*priHós}
   defs:
     - dear, beloved
     - happy, free
 
 plutos:
   typ: adj
-  ety: From PIE {*plutós}.
+  ety: From PIE \ipa{*plutós}
   defs:
     - washed
     - floated
 
 paltanos:
   typ: adj
-  ety: From PIE {*pl̥th₂enós}.
+  ety: From PIE \ipa{*pl̥th₂enós}
   defs:
     - wide, broad
 
 paltania:
   typ: f
-  ety: From Danetian {paltanos}.
+  ety: From Dan. \ipa{paltanos}
   defs:
     - width, breadth
 
 planos:
   typ: adj
-  ety: From PIE {*pl̥h₁nós}.
+  ety: From PIE \ipa{*pl̥h₁nós}
   defs:
     - full
 
 pletus:
   typ: adj
-  ety: From PIE {*pléth₂us}.
+  ety: From PIE \ipa{*pléth₂us}
   defs:
     - flat, broad
 
 pletia:
   typ: adj
-  ety: From Danetian {pletus}.
+  ety: From Dan. \ipa{pletus}
   defs:
     - square, plaza
-    - area (mathematics)
+    - area (geometry)
 
 martos:
   typ: adj
-  ety: From PIE {*mr̥tós}.
+  ety: From PIE \ipa{*mr̥tós}
   defs:
     - dead
     - mortal
 
 nevos:
   typ: adj
-  ety: From PIE {*néwos}.
+  ety: From PIE \ipa{*néwos}
   defs:
     - new
 
 nesus:
   typ: adj
-  ety: From PIE {*néḱus}.
+  ety: From PIE \ipa{*néḱus}
   defs:
     - dead
     - mortal
 
 mardus:
   typ: adj
-  ety: From PIE {*mr̥ǵʰús}.
+  ety: From PIE \ipa{*mr̥ǵʰús}
   defs:
     - short
     - brief
 
 makros:
   typ: adj
-  ety: From PIE {*mh₂ḱrós}.
+  ety: From PIE \ipa{*mh₂ḱrós}
   defs:
     - lean, meager
 
 medjos:
   typ: adj
-  ety: From PIE {*médʰyos}.
+  ety: From PIE \ipa{*médʰyos}
   defs:
     - middle
 
 kruros:
   typ: adj
-  ety: From PIE {*kruh₂rós}.
+  ety: From PIE \ipa{*kruh₂rós}
   defs:
     - bloody
 
 karsnos:
   typ: adj
-  ety: From PIE {*kr̥snós}.
+  ety: From PIE \ipa{*kr̥snós}
   defs:
     - black
     - dark, dusky
 
 kaikos:
   typ: adj
-  ety: From PIE {*káykos}.
+  ety: From PIE \ipa{*káykos}
   defs:
     - blind
 
 kaptos:
   typ: adj
-  ety: From PIE {*kaptós}.
+  ety: From PIE \ipa{*kaptós}
   defs:
     - seized, held
 
 slivos:
   typ: adj
-  ety: From PIE {*ḱleywós}.
+  ety: From PIE \ipa{*ḱleywós}
   defs:
     - sloped, curved
 
 slitos:
   typ: adj
-  ety: From PIE {*ḱlitós}.
+  ety: From PIE \ipa{*ḱlitós}
   defs:
     - covered, sheltered
 
 slutos:
   typ: adj
-  ety: From PIE {*ḱlutós}.
+  ety: From PIE \ipa{*ḱlutós}
   defs:
     - heard, listened
     - known, famous
 
 medanos:
   typ: adj
-  ety: From PIE {*méǵh₂s}.
+  ety: From PIE \ipa{*méǵh₂s}
   defs:
     - big, great
 
 urusj:
   typ: m
-  ety: From a Turkic language; compare Uzbek {urush} and Turkmen {uruş}.
+  ety: From a Turkic language; compare Uzbek \ipa{urush} and Turkmen \ipa{uruş}
   defs:
     - war
 
 kros:
   typ: adj
-  ety: From PIE {*h₂ḱrós}.
+  ety: From PIE \ipa{*h₂ḱrós}
   defs:
     - sharp
 
 vents:
   typ: m
-  acc-sg: ventam
-  gen-sg: vantes
-  ety: From PIE {*h₂wéh₁n̥ts}.
+  parts: vantes
+  ety: From PIE \ipa{*h₂wéh₁n̥ts}
   defs:
     - wind
 
 kentis:
   typ: f
-  gen-sg: kantes
-  ety: From PIE {*ken-}.
+  parts: kanties
+  ety: From PIE \ipa{*ken-}
   defs:
     - beginning, start
 
 rodia:
   typ: f
-  ety: From PIE {*h₃reǵ-}.
+  ety: From PIE \ipa{*h₃reǵ-}
   defs:
     - law
     - (law) right
 
 sonfis:
   typ: m
-  ety: From PIE {*som-dʰh₁-is}, from {*dʰeh₁-}.
+  ety: From PIE \ipa{*som-dʰh₁-is}, from \ipa{*dʰeh₁-}
   defs:
     - judge
 
 posjolik:
   typ: m
-  ety: From a Turkic language; compare Uzbek {podsholik}.
+  ety: From a Turkic language; compare Uzbek \ipa{podsholik}
   defs:
     - kingdom
 
 ullimmanos:
   typ: adj
-  ety: From Danetian {linepti}.
+  ety: From Dan. \ipa{linepti}
   defs:
     - omitted; forgotten
 
 praisidents:
   typ: m
-  ety: From Latin {praesidēns}.
+  ety:  From Lat. \ipa{praesidēns}
   defs:
     - president
 
 oiconomia:
   typ: f
-  ety: From Latin {oeconomia}, from Ancient Greek {οἰκονομία}.
+  ety:  From Lat. \ipa{oeconomia}, from AG \gr{οἰκονομία}
   defs:
     - economy
 
 Aigyptos:
   typ: f
-  ety: From Latin {Aegyptus}, from Ancient Greek {Αἴγυπτος}, from Egyptian {ḥwt-kꜣ-ptḥ}.
+  ety:  From Lat. \ipa{Aegyptus}, from AG \gr{Αἴγυπτος}, from Egyptian \ipa{ḥwt-kꜣ-ptḥ}
   defs:
     - Egypt
 
 schola:
   typ: f
-  ety: From Latin {schola}, from Ancient Greek {σχολή}.
+  ety:  From Lat. \ipa{schola}, from AG \gr{σχολή}
   defs:
     - school
 
 tjómir:
   typ: m
-  ety: From a Turkic language; compare Uzbek {temir}, Turkmen {demir}, Uyghur {tömür}, and Kazakh {темір}.
+  ety: From a Turkic language; compare Uzbek \ipa{temir}, Turkmen \ipa{demir}, Uyghur \ipa{tömür}, and Kazakh \cyr{темір}
   defs:
     - iron
   cat: elements
 
 simap:
   typ: m
-  ety: From a Turkic language; compare Uzbek {simob}, Uyghur {simab}, and Turkmen {simap}.
+  ety: From a Turkic language; compare Uzbek \ipa{simob}, Uyghur \ipa{simab}, and Turkmen \ipa{simap}
   defs:
     - mercury (metal)
   cat: elements
 
 metrom:
   typ: n
-  ety: From French {mètre}, from Ancient Greek {μέτρον}.
+  ety: From Fr. \ipa{mètre}, from AG \gr{μέτρον}
   defs:
     - meter (unit of measurement)
   cat: units-of-measurement
 
 secundom:
   typ: n
-  ety: From Latin {secundum}.
+  ety:  From Lat. \ipa{secundum}
   defs:
     - second (unit of measurement)
   cat: units-of-measurement
 
 grammom:
   typ: n
-  ety: From French {gramme}, from Ancient Greek {γράμμα}.
+  ety: From Fr. \ipa{gramme}, from AG \gr{γράμμα}
   defs:
     - gram (unit of measurement)
   cat: units-of-measurement
 
 oinika:
   typ: f
-  ety: From Danetian {oinos}.
+  ety: From Dan. \ipa{oinos}
   defs:
     - unit
 
 encyclopaidia:
   typ: f
-  ety: From New Latin {encyclopaedīa}.
+  ety: From New Latin \ipa{encyclopaedīa}
   defs:
     - encyclopedia
 
 doctor:
   typ: m
-  ety: From Latin {doctor}.
+  ety:  From Lat. \ipa{doctor}
   defs:
     - doctor
 
 physica:
   typ: f
-  ety: From Latin {physica}, from Ancient Greek {φυσική}.
+  ety:  From Lat. \ipa{physica}, from AG \gr{φυσική}
   defs:
     - physics
 
 oinos:
   typ: num
-  ety: From PIE {*óynos}.
+  ety: From PIE \ipa{*óynos}
   defs:
     - one
 
 dvo:
   typ: num
-  ety: From PIE {*dwóh₁}.
+  ety: From PIE \ipa{*dwóh₁}
   defs:
     - two
 
 tres:
   typ: num
-  ety: From PIE {*tréyes}.
+  ety: From PIE \ipa{*tréyes}
   defs:
     - three
 
 petvores:
   typ: num
-  ety: From PIE {*kʷetwóres}.
+  ety: From PIE \ipa{*kʷetwóres}
   defs:
     - four
 
 pempe:
   typ: num
-  ety: From PIE {*pénkʷe}.
+  ety: From PIE \ipa{*pénkʷe}
   defs:
     - five
 
 sveks:
   typ: num
-  ety: From PIE {*swéḱs}.
+  ety: From PIE \ipa{*swéḱs}
   defs:
     - six
 
 septam:
   typ: num
-  ety: From PIE {*septḿ̥}.
+  ety: From PIE \ipa{*septḿ̥}
   defs:
     - seven
 
 okto:
   typ: num
-  ety: From PIE {*oḱtṓw}.
+  ety: From PIE \ipa{*oḱtṓw}
   defs:
     - eight
 
 nevan:
   typ: num
-  ety: From PIE {*h₁néwn̥}.
+  ety: From PIE \ipa{*h₁néwn̥}
   defs:
     - nine
 
 desam:
   typ: num
-  ety: From PIE {*déḱm̥}.
+  ety: From PIE \ipa{*déḱm̥}
   defs:
     - ten
 
-vidsanti:
+vidsant:
   typ: num
-  ety: From PIE {*wídḱm̥ti}.
+  ety: From PIE \ipa{*wídḱm̥ti}
   defs:
     - twenty
 
-sventos:
+svenjos:
   typ: adj
-  ety: From PIE {*ḱwen-}.
+  ety: From PIE \ipa{*ḱwen-}
   defs:
     - holy, sacred
 
 svenseti:
   typ: v
-  ety: From PIE {*ḱwen-}.
+  ety: From PIE \ipa{*ḱwen-}
   defs:
     - to make holy, to hallow, to make sacred, to sanctify
 
 iti:
   typ: v
-  ety: From PIE {*h₁éyti}, with some inflectional forms suppleted by {*gʷem-}.
+  ety: From PIE \ipa{*h₁éyti}, with some inflectional forms suppleted by \ipa{*gʷem-}
   defs:
     - to go
 
 en:
   typ: prep
-  ety: From PIE {*h₁en}.
+  ety: From PIE \ipa{*h₁en}
   defs:
     - (+loc) in
     - (+acc) into
 
 upo:
   typ: prep
-  ety: From PIE {*upó}.
+  ety: From PIE \ipa{*upó}
   defs:
     - (+loc) under
     - (+ins) according to
 
 úper:
   typ: prep
-  ety: From PIE {*upér}.
+  ety: From PIE \ipa{*upér}
   defs:
     - (+loc) over
     - (+gen) because of
@@ -2492,359 +2445,359 @@ upo:
 
 uper:
   typ: adv
-  ety: From PIE {*upér}.
+  ety: From PIE \ipa{*upér}
   defs:
     - above
 
 medi:
   typ: prep
-  ety: From PIE {*médʰyos}.
+  ety: From PIE \ipa{*médʰyos}
   defs:
     - (+ins) between, among
 
 som:
   typ: prep
-  ety: From PIE {*ḱóm}.
+  ety: From PIE \ipa{*ḱóm}
   defs:
     - (+ins) with
 
 opi:
   typ: prep
-  ety: From PIE {*h₁opi}.
+  ety: From PIE \ipa{*h₁opi}
   defs:
     - (+gen) near, at, by
     - (+gen) before (in the presence of)
 
 apo:
   typ: prep
-  ety: From PIE {*h₂epó}.
+  ety: From PIE \ipa{*h₂epó}
   defs:
     - (+abl) off, away, from
 
 opiti:
   typ: v
-  ety: From Danetian {opi} and {iti}.
+  ety: From Dan. \ipa{opi} and \ipa{iti}
   defs:
     - to come
 
 jehania:
   typ: f
-  ety: From a Turkic language, and ultimately from Middle Persian {gēhān}; compare Bashkir {йыһан}.
+  ety: From a Turkic language, and ultimately from Middle Persian \ipa{gēhān}; compare Bashkir \cyr{йыһан}
   defs:
     - world, universe, cosmos
 
 nevidmos:
   typ: adj
-  ety: From Danetian {voide}.
+  ety: From Dan. \ipa{voide}
   defs:
     - unseen
 
 nuti:
   typ: prep
-  ety: Unknown.
+  ety: Unknown
   defs:
     - (+abl) without
 
 ops:
   typ: n
-  gen-sg: opes
-  ety: From PIE {*h₃ókʷs}.
+  parts: opes
+  ety: From PIE \ipa{*h₃ókʷs}
   defs:
     - eye
 
 pretiops:
   typ: n
-  ety: From PIE {*préti + *h₃ókʷs}.
+  ety: From PIE \ipa{*préti + *h₃ókʷs}
   defs:
     - face
 
 nutipretiopés:
   typ: adj
-  ety: From Danetian {nuti + pretiops}.
+  ety: From Dan. \ipa{nuti + pretiops}
   defs:
     - faceless, formless, shapeless
 
 sivos:
   typ: adj
-  ety: Unknown.
+  ety: Unknown
   defs:
     - good
 
 enurejos:
   typ: adj
-  ety: From PIE {*h₁(n̥)new + *reh₁is}.
+  ety: From PIE \ipa{*h₁(n̥)new + *reh₁is}
   defs:
     - poor, wantsome
 
 enu:
   typ: prep
-  ety: From PIE {*h₁(n̥)new}.
+  ety: From PIE \ipa{*h₁(n̥)new}
   defs:
     - (+gen) without
 
 tros:
   typ: prep
-  ety: From PIE {*trh₂os}.
+  ety: From PIE \ipa{*trh₂os}
   defs:
     - (+acc) through
 
 dege:
   typ: adv
-  ety: From PIE {*de + *gʰe}.
+  ety: From PIE \ipa{*de + *gʰe}
   defs:
     - even; {Dege dorú bivonta. - Even trees are alive.}
     - indeed, of course, in fact
 
 nege:
   typ: adv
-  ety: From PIE {*ne + *gʰe}.
+  ety: From PIE \ipa{*ne + *gʰe}
   defs:
     - not even
 
 dégar:
   typ:  conj
-  ety: Possibly cognate with Ancient Greek {γᾰ́ρ}.
+  ety: Possibly cognate with AG \gr{γᾰ́ρ}
   defs:
     - for, since
 
 uposme:
   typ: conj
-  ety:  From Danetian {upo}.
+  ety:  From Dan. \ipa{upo}
   defs:
     - as, while
     - since, seeing as, because
 
 rama:
   typ: f
-  ety: From Old High German {rama}.
+  ety: From OHG \ipa{rama}
   defs:
     - frame (of a building), framework
 
 atirama:
   typ: f
-  ety: From Danetian {ati + rama}.
+  ety: From Dan. \ipa{ati + rama}
   defs:
     - firmament (biblical)
 
 gladjeti:
   typ: v
-  ety: From Proto-Germanic {*gladaz}.
+  ety: From PG \ipa{*gladaz}
   defs:
     - to please, to make happy, to satisfy
 
 opigladjeti:
   typ: v
-  ety: From Danetian {gladjeti}.
+  ety: From Dan. \ipa{gladjeti}
   defs:
     - to comfort, to console
 
 dulgos:
   typ: m
-  ety: From Proto-Germanic {*dulgaz}.
+  ety: From PG \ipa{*dulgaz}
   defs:
     - debt
 
 sonvistiés:
   typ: adj
-  ety: From Danetian {vistis}.
+  ety: From Dan. \ipa{vistis}
   defs:
     - messenger
     - angel
 
 vistis:
   typ: f
-  ety: From PIE {*weyd-}.
+  ety: From PIE \ipa{*weyd-}
   defs:
     - news
 
 somblesnos:
   typ: m
-  ety: From Danetian {som + blesnos}.
+  ety: From Dan. \ipa{som + blesnos}
   defs:
     - seduction, temptation
 
 blesnos:
   typ: m
-  ety: From PIE {*bʰleǵ-}.
+  ety: From PIE \ipa{*bʰleǵ-}
   defs:
     - bait, lure
 
 balnia:
   typ: f
-  ety: From Danetian {baljo}.
+  ety: From Dan. \ipa{baljo}
   defs:
     - failure, error
 
 nauman:
   typ: n
-  ety: From PIE {*neh₂ut-}.
+  ety: From PIE \ipa{*neh₂ut-}
   defs:
     - need, necessity
 
 lukos:
   typ: m
-  ety: From PIE {*lewk-}.
+  ety: From PIE \ipa{*lewk-}
   defs:
     - light
 
 lúketor:
   typ: v
-  ety: From PIE {*lewk-}.
+  ety: From PIE \ipa{*lewk-}
   defs:
     - to shine, to illuminate
 
 slabjeti:
   typ: v
-  ety: From PIE {*sl̥h₂gʷ-}.
+  ety: From PIE \ipa{*sl̥h₂gʷ-}
   defs:
     - to seize, to grasp, to take
 
 protislabjeti:
   typ: v
-  ety: From Danetian {slabyeti}.
+  ety: From Dan. \ipa{slabyeti}
   defs:
     - to understand, to comprehend
 
 baljo:
   typ: v
-  ety: From PIE {*bʰāl-}.
+  ety: From PIE \ipa{*bʰāl-}
   defs:
     - to fail, to err, to miss
 
 preseti:
   typ: v
-  ety: From PIE {*preḱ-}.
+  ety: From PIE \ipa{*preḱ-}
   defs:
     - to ask, to question; (Use the dative case for the person receiving the question.)
     - to ask for, to petition, to request; (Use the ablative case for the person receiving the request.)
 
 anapreseti:
   typ: v
-  ety: From Danetian {preseti}.
+  ety: From Dan. \ipa{preseti}
   defs:
     - to pray (Use the dative case on the person being prayed to.)
 
 lekseti:
   typ: v
-  ety: From PIE {*h₂lékseti}.
+  ety: From PIE \ipa{*h₂lékseti}
   defs:
     - to protect, defend
 
 pisjeti:
   typ: v
-  ety: From PIE {*peyḱ-}.
+  ety: From PIE \ipa{*peyḱ-}
   defs:
     - to write
 
 sontíeti:
   typ: v
-  ety: From PIE {*sont-éye-}.
+  ety: From PIE \ipa{*sont-éye-}
   defs:
     - to send
 
 solnos:
   typ: pron
-  ety: From PIE {*solh₂-}.
+  ety: From PIE \ipa{*solh₂-}
   defs:
     - whole (in singular), all (in plural)
 
 podegos:
   typ: pron
-  ety: From Danetian {po + dege}.
+  ety: From Dan. \ipa{po + dege}
   defs:
     - each
 
 oinodesam:
   typ: num
-  ety: From PIE {*óynos + *déḱm̥}.
+  ety: From PIE \ipa{*óynos + *déḱm̥}
   defs:
     - eleven
 
 dvoidesam:
   typ: num
-  ety: From PIE {*dwóh₁ + *déḱm̥}.
+  ety: From PIE \ipa{*dwóh₁ + *déḱm̥}
   defs:
     - twelve
 
 tridesam:
   typ: num
-  ety: From PIE {*tréyes + *déḱm̥}.
+  ety: From PIE \ipa{*tréyes + *déḱm̥}
   defs:
     - thirteen
 
 petvordesam:
   typ: num
-  ety: From PIE {*kʷetwóres + *déḱm̥}.
+  ety: From PIE \ipa{*kʷetwóres + *déḱm̥}
   defs:
     - fourteen
 
 pempedesam:
   typ: num
-  ety: From PIE {*pénkʷe + *déḱm̥}.
+  ety: From PIE \ipa{*pénkʷe + *déḱm̥}
   defs:
     - fifteen
 
 svesdesam:
   typ: num
-  ety: From PIE {*swéḱs + *déḱm̥}.
+  ety: From PIE \ipa{*swéḱs + *déḱm̥}
   defs:
     - sixteen
 
 septandesam:
   typ: num
-  ety: From PIE {*septḿ̥ + *déḱm̥}.
+  ety: From PIE \ipa{*septḿ̥ + *déḱm̥}
   defs:
     - seventeen
 
 oktodesam:
   typ: num
-  ety: From PIE {*oḱtṓw + *déḱm̥}.
+  ety: From PIE \ipa{*oḱtṓw + *déḱm̥}
   defs:
     - eighteen
 
 nevandesam:
   typ: num
-  ety: From PIE {*h₁néwn̥ + *déḱm̥}.
+  ety: From PIE \ipa{*h₁néwn̥ + *déḱm̥}
   defs:
     - nineteen
 
-esti:
+esti¹:
   typ: v
-  ety: From PIE {*h₁ésti}.
+  ety: From PIE \ipa{*h₁ésti}
   defs:
     - to be
 
 fet:
   typ: v
-  ety: From PIE {*dʰeh₁-}.
+  ety: From PIE \ipa{*dʰeh₁-}
   defs:
     - to make, to do
     - to put, to place
 
 vepti:
   typ: v
-  ety: From PIE {*wekʷ-}.
+  ety: From PIE \ipa{*wekʷ-}
   defs:
     - to speak (when used in the imperfective aspect)
     - to say (when used in the perfective aspect)
 
 voide:
   typ: v
-  ety: From PIE {*weyd-}.
+  ety: From PIE \ipa{*weyd-}
   defs:
     - to see (when used in the imperfective aspect)
     - to look (when used in the perfective aspect)
 
 bideti:
   typ: v
-  ety: From PIE {*bʰeyd-}.
+  ety: From PIE \ipa{*bʰeyd-}
   defs:
     - to split
     - to separate, to divide
 
 denati:
   typ: v
-  ety: From PIE {*ǵenh₁-}.
+  ety: From PIE \ipa{*ǵenh₁-}
   defs:
     - to produce, to create
     - to give birth
@@ -2852,64 +2805,64 @@ denati:
 
 verteti:
   typ: v
-  ety: From PIE {*wert-}.
+  ety: From PIE \ipa{*wert-}
   defs:
     - to turn, to spin
 
 vid:
   typ: interj
-  ety: From Danetian {voide}.
+  ety: From Dan. \ipa{voide}
   defs:
     - lo, behold, look
 
 pro:
   typ: prep
-  ety: From PIE {*pró}.
+  ety: From PIE \ipa{*pró}
   defs:
     - (+gen) before
     - (+dat) on behalf of, for the sake of
 
 garaidos:
   typ: adj
-  ety: From Proto-Germanic {*garaidaz}.
+  ety: From PG \ipa{*garaidaz}
   defs:
     - ready, prepared
     - prepared, arranged
 
 garaidíeti:
   typ: v
-  ety: From Danetian {garaidos}.
+  ety: From Dan. \ipa{garaidos}
   defs:
     - to make ready
     - to get ready (when used in the mediopassive voice)
 
 do:
   typ: prep
-  ety: From PIE {*do}.
+  ety: From PIE \ipa{*do}
   defs:
     - up to, till, until
 
 stadis:
   typ: m
-  ety: From Proto-Germanic {*stadiz}.
+  ety: From PG \ipa{*stadiz}
   defs:
     - place, location
 
 apolúketor:
   typ: v
-  ety: From Danetian {apo- + lúketor}.
+  ety: From Dan. \ipa{apo- + lúketor}
   defs:
     - to appear
 
 susnos:
   typ: adj
-  ety: From PIE {*h₂sews-}.
+  ety: From PIE \ipa{*h₂sews-}
   defs:
     - dry
 
 bloti:
   typ: v
-  ety: From PIE {*bʰleh₃-}.
+  ety: From PIE \ipa{*bʰleh₃-}
   defs:
     - to grow (of plants)
     - to sprout, to germinate
@@ -2917,85 +2870,85 @@ bloti:
 
 gronis:
   typ: adj
-  ety: From Proto-Germanic {*grōniz}.
+  ety: From PG \ipa{*grōniz}
   defs:
     - green
 
 hreman:
   typ: n
-  ety: From PIE {*gʰreh₁}.
+  ety: From PIE \ipa{*gʰreh₁}
   defs:
     - grass
 
 sugeti:
   typ: v
-  ety: From Proto-Germanic {*sugō}.
+  ety: From PG \ipa{*sugō}
   defs:
     - to sow; to scatter or disperse seeds
 
 svenis:
   typ: f
-  ety: From the reflexive pronoun {sve}.
+  ety: From Danetian \ipa{sve}
   defs:
     - image, likeness
 
 fructus:
   typ: m
-  ety: From Latin {frūctus}.
+  ety:  From Lat. \ipa{frūctus}
   defs:
     - fruit
 
 gar:
   typ: conj
-  ety: Possibly cognate with Ancient Greek {γᾰ́ρ}.
+  ety: Possibly cognate with AG \gr{γᾰ́ρ}
   defs:
     - so that, for the purpose that
 
 erstidis:
   typ: f
-  ety: From Proto-Germanic {*airi + *tīdiz}.
+  ety: From PG \ipa{*airi + *tīdiz}
   defs:
     - season
 
 flugeti:
   typ: v
-  ety: From Proto-Germanic {*fleugō}.
+  ety: From PG \ipa{*fleugō}
   defs:
     - to fly
 
 groti:
   typ: v
-  ety: From Proto-Germanic {*grōaną}.
+  ety: From PG \ipa{*grōaną}
   defs:
     - to grow
 
 pleníeti:
   typ: v
-  ety: From Danetian {planos}.
+  ety: From Dan. \ipa{planos}
   defs:
     - to fill
 
 potíeti:
   typ: v
-  ety: From Danetian {potis}.
+  ety: From Dan. \ipa{potis}
   defs:
     - to rule, to govern
 
 pistis:
   typ: m
-  ety: From PIE {*peysḱ-}.
+  ety: From PIE \ipa{*peysḱ-}
   defs:
     - fish
 
 fodón:
   typ: m
-  ety: From Proto-Germanic {*fōdô}.
+  ety: From PG \ipa{*fōdô}
   defs:
     - food, nourishment
 
 haunis:
   typ: adj
-  ety: From Proto-Germanic {*hauniz}.
+  ety: From PG \ipa{*hauniz}
   defs:
     - low
     - despised, poor, miserable
@@ -3003,414 +2956,415 @@ haunis:
 
 upohauníeti:
   typ: v
-  ety: From Danetian {haunis}.
+  ety: From Dan. \ipa{haunis}
   defs:
     - to duck
 
 dat:
   typ: c
-  ety: From Danetian {datos}.
+  ety: From Dan. \ipa{datos}
   defs:
     - if
 
 peris:
   typ: f
-  ety: From PIE {*per-}.
+  ety: From PIE \ipa{*per-}
   defs:
     - fear
 
 Jacobos:
   typ: m
-  ety: From Latin {Jacōbus}.
+  ety:  From Lat. \ipa{Jacōbus}
   defs:
     - Jacob, James, Jacques
   cat: personal-names
 
-Joanna:
+Joánna:
   typ: m
-  ety: From Ancient Greek {Ἰωάννης}.
+  ety: From AG \gr{Ἰωάννης}
   defs:
     - John
   cat: personal-names
 
-Robertos:
+Robértos:
   typ: m
-  ety: From Latin {Robertus}.
+  ety:  From Lat. \ipa{Robertus}
   defs:
     - Robert
   cat: personal-names
 
 Michael:
   typ: m
-  ety: From Ancient Greek {Μῐχᾱήλ}.
+  ety: From AG \gr{Μῐχᾱήλ}
   defs:
     - Michael
   cat: personal-names
 
 Viljelmos:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Wiljahelmaz}.
+  ety: Ultimately from PG \ipa{*Wiljahelmaz}
   defs:
     - William, Wilhelm, Guillermo, Guillaume
   cat: personal-names
 
 David:
   typ: m
-  ety: From Ancient Greek {Δαυῑ́δ}.
+  ety: From AG \gr{Δαυῑ́δ}
   defs:
     - David
   cat: personal-names
 
 Richardos:
   typ: m
-  ety: From Latin {Richardus}.
+  ety:  From Lat. \ipa{Richardus}
   defs:
     - Richard, Ricardo
   cat: personal-names
 
 Josephos:
   typ: m
-  ety: From Latin {Iōsēphus}.
+  ety:  From Lat. \ipa{Iōsēphus}
   defs:
     - Joseph, José
   cat: personal-names
 
 Thoma:
   typ: m
-  ety: From Ancient Greek {Θωμᾶς}.
+  ety: From AG \gr{Θωμᾶς}
   defs:
     - Thomas
   cat: personal-names
 
 Karlos:
   typ: m
-  ety: From Proto-Germanic {*karlaz}.
+  ety: From PG \ipa{*karlaz}
   defs:
     - Charles, Carlos
   cat: personal-names
 
 Christophoros:
   typ: m
-  ety: From Ancient Greek {Χρῑστόφορος}.
+  ety: From AG \gr{Χρῑστόφορος}
   defs:
     - Christopher
   cat: personal-names
 
 Daniel:
   typ: m
-  ety: From Ancient Greek {Δᾱνῑήλ}.
+  ety: From AG \gr{Δᾱνῑήλ}
   defs:
     - Daniel
   cat: personal-names
 
 Matthaios:
   typ: m
-  ety: From Ancient Greek {Ματθαῖος}.
+  ety: From AG \gr{Ματθαῖος}
   defs:
     - Matthew
   cat: personal-names
 
 Antonios:
   typ: m
-  ety: From Latin {Antonius}.
+  ety:  From Lat. \ipa{Antonius}
   defs:
     - Anthony
   cat: personal-names
 
 Donald:
   typ: m
-  ety: From English {Donald}.
+  ety: From En. \ipa{Donald}
   defs:
     - Donald
   cat: personal-names
 
 Marcos:
   typ: m
-  ety: From Latin {Marcus}.
+  ety:  From Lat. \ipa{Marcus}
   defs:
     - Mark
   cat: personal-names
 
 Paulos:
   typ: m
-  ety: From Latin {Paulus}.
+  ety:  From Lat. \ipa{Paulus}
   defs:
     - Paul
   cat: personal-names
 
 Stephanos:
   typ: m
-  ety: From Ancient Greek {Στέφανος}.
+  ety: From AG \gr{Στέφανος}
   defs:
     - Steven, Stephen, Stephanus
   cat: personal-names
 
-Andrea:
+Andréa:
   typ: m
-  ety: From Ancient Greek {Ἀνδρέᾱς}.
+  ety: From AG \gr{Ἀνδρέᾱς}
   defs:
     - Andrew, André, Andrés
   cat: personal-names
 
 Jesus:
   typ: m
-  ety: From Ancient Greek {Ἰησοῦς}.
+  ety: From AG \gr{Ἰησοῦς}
   defs:
     - Jesus, Joshua
   cat: personal-names
 
-Braián:
+Braján:
   typ: m
-  ety: From English {Brian}.
+  ety: From En. \ipa{Brian}
   defs:
     - Brian, Bryan
   cat: personal-names
 
 Georgios:
   typ: m
-  ety: From Ancient Greek {Γεώργῐος}.
+  ety: From AG \gr{Γεώργῐος}
   defs:
     - George, Jorge
   cat: personal-names
 
 Edvardos:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Audawarduz}.
+  ety: Ultimately from PG\ipa{*Audawarduz}
   defs:
     - Edward, Eduardo
   cat: personal-names
 
 Reginvaldos:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Raginawaldaz}.
+  ety: Ultimately from PG \ipa{*Raginawaldaz}
   defs:
     - Ronald, Reginald, Reynold, Reinhold
   cat: personal-names
 
 Timotheos:
   typ: m
-  ety: From Ancient Greek {Τῑμόθεος}.
+  ety: From AG \gr{Τῑμόθεος}
   defs:
     - Timothy
   cat: personal-names
 
 Jasón:
   typ: m
-  ety: From Ancient Greek {Ἰάσων}.
+  ety: From AG \gr{Ἰάσων}
   defs:
     - Jason
   cat: personal-names
 
 Jotfredos:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Gautafriþuz}.
+  ety: Ultimately from PG \ipa{*Gautafriþuz}
   defs:
     - Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
   cat: personal-names
 
-Raián:
+Raján:
   typ: m
-  ety: From English {Ryan}.
+  ety: From En. \ipa{Ryan}
   defs:
     - Ryan
   cat: personal-names
 
-Nikola:
+Nicola:
   typ: m
-  ety: Ultimately from Ancient Greek {Νῑκόλᾱος}.
+  ety: Ultimately from AG \gr{Νῑκόλᾱος}
   defs:
     - Nicholas, Nikola, Nikolai
   cat: personal-names
 
 Erik:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Aizarīkijaz}.
+  ety: Ultimately from PG \ipa{*Aizarīkijaz}
   defs:
     - Eric, Erik
   cat: personal-names
 
 Jonathán:
   typ: m
-  ety: From Ancient Greek {Ἰωνάθαν}.
+  ety: From AG \gr{Ἰωνάθαν}
   defs:
     - Jonathan
   cat: personal-names
 
 Laurentios:
   typ: m
-  ety: From Latin {Laurentius}.
+  ety:  From Lat. \ipa{Laurentius}
   defs:
     - Lawrence, Laurence, Lorenzo, Laurent
   cat: personal-names
 
 Justínos:
   typ: m
-  ety: From Latin {Iūstīnus}.
+  ety:  From Lat. \ipa{Iūstīnus}
   defs:
     - Justin
   cat: personal-names
 
 Benjamín:
   typ: m
-  ety: From Ancient Greek {Βενιᾱμῑ́ν}.
+  ety: From AG \gr{Βενιᾱμῑ́ν}
   defs:
     - Benjamin
   cat: personal-names
 
 Samuel:
   typ: m
-  ety: From Ancient Greek {Σαμουήλ}.
+  ety: From AG \gr{Σαμουήλ}
   defs:
     - Samuel
   cat: personal-names
 
 Gregorios:
   typ: m
-  ety: From Ancient Greek {Γρηγόριος}.
+  ety: From AG \gr{Γρηγόριος}
   defs:
     - Gregory
   cat: personal-names
 
 Raimondos:
   typ: m
-  ety: Equivalent to English and French {Raymond}.
+  ety: Equivalent to En. and Fr. \ipa{Raymond}
   defs:
     - Raymond, Ramón
   cat: personal-names
 
 Alexandros:
   typ: m
-  ety: From Ancient Greek {Ἀλέξανδρος}.
+  ety: From AG \gr{Ἀλέξανδρος}
   defs:
     - Alexander, Alejandro
   cat: personal-names
 
 Hendrik:
   typ: m
-  ety: Ultimately from Proto-Germanic {*Haimarīks}.
+  ety: Ultimately from PG \ipa{*Haimarīks}
   defs:
     - Henry, Henrik, Henri, Heinrich, Enrique, Enrico
   cat: personal-names
 
 Adám:
   typ: m
-  ety: From Ancient Greek {Ᾱ̓δᾱ́μ}.
+  ety: From AG \gr{Ᾱ̓δᾱ́μ}
   defs:
     - Adam
   cat: personal-names
 
 Petros:
   typ: m
-  ety: From Ancient Greek {Πέτρος}.
+  ety: From AG \gr{Πέτρος}
   defs:
     - Peter, Pedro
   cat: personal-names
 
 luvjeti:
   typ: v
-  ety: From PIE {*lewbʰ-}.
+  ety: From PIE \ipa{*lewbʰ-}
   defs:
     - to love
 
 luvos:
   typ: m
-  ety: From Danetian {luvjeti}.
+  ety: From Dan. \ipa{luvjeti}
   defs:
     - love
 
 alisketi:
   typ: v
-  ety: From Proto-Germanic {*aliskōną}.
+  ety: From PG \ipa{*aliskōną}
   defs:
     - to love, to cherish
 
 drageti:
   typ: v
-  ety: From Proto-Germanic {*draganą}.
+  ety: From PG \ipa{*draganą}
   defs:
     - to drag
 
 tendeti:
   typ: v
-  ety: From PIE {*tend-}.
+  ety: From PIE \ipa{*tend-}
   defs:
     - to stretch, to extend
 
 blevos:
   typ: adj
-  ety: From Proto-Germanic {*blēwaz}.
+  ety: From PG \ipa{*blēwaz}
   defs:
     - blue
 
 satjeti:
   typ: v
-  ety: From Proto-Germanic {satjaną}.
+  ety: From PG \ipa{satjaną}
   defs:
     - to set, to place down
 
 brantos:
   typ: adj
-  ety: Related to Old Norse {brant}.
+  ety: Related to ON \ipa{brant}
   defs:
     - steep
 
 vidia:
   typ: f
-  ety: From PIE {*weyd-}.
+  ety: From PIE \ipa{*weyd-}
   defs:
     - knowledge, wisdom
 
 tendeman:
   typ: n
-  ety: From Danetian {tendeti}.
+  ety: From Dan. \ipa{tendeti}
   defs:
     - space
 
 sondenés:
   typ: adj
-  ety: From Danetian {som + denos}.
+  ety: From Dan. \ipa{som + denos}
   defs:
     - related
 
 sonféretor:
   typ: v
-  ety: From Danetian {bereti}.
+  ety: From Dan. \ipa{bereti}
   defs:
     - to behave
 
 krosna:
   typ: f
-  ety: From PIE {*ḱerh₂-}.
+  ety: From PIE \ipa{*ḱerh₂-}
   defs:
     - horn
 
 belia:
   typ: f
-  ety: From PIE {*bel-}.
+  ety: From PIE \ipa{*bel-}
   defs:
     - strength
+    - (physics) force
 
 bolos:
   typ: adj
-  ety: From PIE {*bel-}.
+  ety: From PIE \ipa{*bel-}
   defs:
     - strong, mighty
 
 klava:
   typ: f
-  ety: From Proto-Germanic {*klawō}.
+  ety: From PG \ipa{*klawō}
   defs:
     - claw
 
 pereti:
   typ: v
-  ety: From PIE {*per-}.
+  ety: From PIE \ipa{*per-}
   defs:
     - to pierce, to run through
 
 sagjeti:
   typ: v
-  ety: From PIE {*séh₂gyeti}.
+  ety: From PIE \ipa{*séh₂gyeti}
   defs:
     - to give a sign
     - to mark
@@ -3418,38 +3372,38 @@ sagjeti:
 
 rodis:
   typ: f
-  ety: From Danetian {reds}.
+  ety: From Dan. \ipa{reds}
   defs:
     - rule (regla)
     - rule (reino)
 
 fjena:
   typ: f
-  ety: From PIE {*dʰeh₁(y)-}.
+  ety: From PIE \ipa{*dʰeh₁(y)-}
   defs:
     - young woman; virgin, maiden
 
 kamán:
   typ: m
-  ety: From Persian {کمان}.
+  ety: From Persian \arab{کمان}
   defs:
     - bow (weapon)
 
 istrom:
   typ: n
-  ety: From Danetian {isus}.
+  ety: From Dan. \ipa{isus}
   defs:
     - bow (weapon)
 
 atjeria:
   typ: f
-  ety: From Danetian {ati- + jeros + -ia}.
+  ety: From Dan. \ipa{ati- + jeros + -ia}
   defs:
     - (in plural) eternity
 
 sadeti:
   typ: v
-  ety: From PIE {*ḱh₂d-}.
+  ety: From PIE \ipa{*ḱh₂d-}
   defs:
     - to fall, to fall down
 
@@ -3462,7 +3416,7 @@ Portugalia:
 Hispania:
   typ: f
   defs:
-    - Spain, Hispania
+    - Spain
   cat: place-names
 
 Gallia:
@@ -3539,13 +3493,13 @@ Columbia:
 
 sphaira:
   typ: f
-  ety: From Ancient Greek {σφαῖρᾰ}.
+  ety: From AG \gr{σφαῖρᾰ}
   defs:
     - sphere
 
 Jonia:
   typ: f
-  ety: From Ancient Greek {Ἰωνῐ́ᾱ}.
+  ety: From AG \gr{Ἰωνῐ́ᾱ}
   defs:
     - Greece
   cat: place-names
@@ -3570,6 +3524,7 @@ Ucrania:
 
 Hitania:
   typ: f
+  ety: From a Turkic language. Compare Uzbek \cyr{Хитой}, Turkmen \ipa{Hytaý}, and Tajik \cyr{Хитой}
   defs:
     - China
   cat: place-names
@@ -3594,7 +3549,7 @@ Irania:
 
 bomba:
   typ: f
-  ety: From Italian {bomba}.
+  ety: From It. \ipa{bomba}
   defs:
     - bomb
 
@@ -3636,7 +3591,7 @@ borom:
 
 kulom:
   typ: n
-  ety: From Proto-Germanic {*kulą}.
+  ety: From PG \ipa{*kulą}
   defs:
     - carbon
     - coal
@@ -3698,7 +3653,7 @@ phosphoros:
 
 sveblos:
   typ: m
-  ety: From Proto-Germanic {*sweblaz}.
+  ety: From PG \ipa{*sweblaz}
   defs:
     - sulfur
   cat: elements
@@ -3885,14 +3840,14 @@ indiom:
 
 galái:
   typ: m
-  ety: From a Turkic language. Compare Azerbaijani {qalay}.
+  ety: From a Turkic language. Compare Azerbaijani \ipa{qalay}
   defs:
     - tin (metal)
   cat: elements
 
 stibiom:
   typ: n
-  ety: From Latin {stibium}.
+  ety:  From Lat. \ipa{stibium}
   defs:
     - antimony
   cat: elements
@@ -3965,7 +3920,7 @@ samariom:
 
 Európa:
   typ: f
-  ety: From Ancient Greek {Εὐρώπη}.
+  ety: From AG \gr{Εὐρώπη}
   defs:
     - Europe
   cat: place-names
@@ -4002,7 +3957,7 @@ holmiom:
 
 Holmia:
   typ: f
-  ety: From Latin {Holmia}.
+  ety:  From Lat. \ipa{Holmia}
   defs:
     - Stockholm
   cat: place-names
@@ -4039,7 +3994,7 @@ hafniom:
 
 Hafnia:
   typ: f
-  ety: From Latin {Hafnia}.
+  ety:  From Lat. \ipa{Hafnia}
   defs:
     - Copenhagen
   cat: place-names
@@ -4088,7 +4043,7 @@ platína:
 
 altin:
   typ: m
-  ety: From a Turkic language. Compare Turkmen {altyn} and Uzbek {oltin}.
+  ety: From a Turkic language. Compare Turkmen \ipa{altyn} and Uzbek \ipa{oltin}
   defs:
     - gold
   cat: elements
@@ -4099,9 +4054,9 @@ thalliom:
     - thallium
   cat: elements
 
-gurşun:
+gursjun:
   typ: m
-  ety: From a Turkic language. Compare Turkmen {gurşun} and Turkish {kurşun}.
+  ety: From a Turkic language. Compare Turkmen \ipa{gurşun} and Turkish \ipa{kurşun}
   defs:
     - lead (metal)
   cat: elements
@@ -4142,7 +4097,7 @@ radiom:
     - radium
   cat: elements
 
-actinium:
+actiniom:
   typ: n
   defs:
     - actinium
@@ -4172,7 +4127,7 @@ neptuniom:
     - neptunium
   cat: elements
 
-plutonium:
+plutoniom:
   typ: n
   defs:
     - plutonium
@@ -4216,12 +4171,12 @@ Leonardos Óiler:
 
 Frederik:
   typ: m
-  ety: From Proto-Germanic {*Friþurīks}.
+  ety: From PG \ipa{*Friþurīks}
   defs:
     - Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
   cat: personal-names
 
-Joanna Karlos Frederik Gauss:
+Joánna Karlos Frederik Gauss:
   typ: m
   defs:
     - Johann Carl Friedrich Gauss
@@ -4229,7 +4184,7 @@ Joanna Karlos Frederik Gauss:
 
 Demetrios:
   typ: m
-  ety: From Ancient Greek {Δημήτριος}.
+  ety: From AG \gr{Δημήτριος}
   defs:
     - Demetrius, Dimitri, Dmitri
   cat: personal-names
@@ -4266,7 +4221,7 @@ laurentiom:
 
 Ernéstos:
   typ: m
-  ety: From German {Ernst}, influenced by Spanish {Ernesto}.
+  ety: From Ger. \ipa{Ernst}, influenced by Sp. \ipa{Ernesto}
   defs:
     - Ernesto, Ernst, Ernest
   cat: personal-names
@@ -4291,14 +4246,14 @@ dubniom:
 
 Glen:
   typ: m
-  ety: From English {Glen}.
+  ety: From En. \ipa{Glen}
   defs:
     - Glen, Glenn
   cat: personal-names
 
 Theodoros:
   typ: m
-  ety: From Ancient Greek {Θεόδωρος}.
+  ety: From AG \gr{Θεόδωρος}
   defs:
     - Theodore
   cat: personal-names
@@ -4317,7 +4272,7 @@ siborgiom:
 
 Nils:
   typ: m
-  ety: From Danish {Niels}.
+  ety: From Danish \ipa{Niels}
   defs:
     - Niels
   cat: personal-names
@@ -4348,7 +4303,7 @@ maitneriom:
 
 Daramstat:
   typ: m
-  ety: From German {Darmstadt}.
+  ety: From Ger. \ipa{Darmstadt}
   defs:
     - Darmstadt
   cat: place-names
@@ -4361,7 +4316,7 @@ daramstatiom:
 
 Condrados:
   typ: m
-  ety: Related to German {Konrad}.
+  ety: Related to Ger. \ipa{Konrad}
   defs:
     - Conrad, Konrad
   cat: personal-names
@@ -4422,91 +4377,91 @@ oganessón:
 
 januarios:
   typ: m
-  ety: From Latin {Jānuārius}.
+  ety:  From Lat. \ipa{Jānuārius}
   defs:
     - January
   cat: months
 
 februarios:
   typ: m
-  ety: From Latin {Februārius}.
+  ety:  From Lat. \ipa{Februārius}
   defs:
     - February
   cat: months
 
 martios:
   typ: m
-  ety: From Latin {Mārtius}.
+  ety:  From Lat. \ipa{Mārtius}
   defs:
     - March
   cat: months
 
 aprilis:
   typ: m
-  ety: From Latin {Aprīlis}.
+  ety:  From Lat. \ipa{Aprīlis}
   defs:
     - April
   cat: months
 
 majos:
   typ: m
-  ety: From Latin {Maius}.
+  ety:  From Lat. \ipa{Maius}
   defs:
     - May
   cat: months
 
 junios:
   typ: m
-  ety: From Latin {Jūnius}.
+  ety:  From Lat. \ipa{Jūnius}
   defs:
     - June
   cat: months
 
 julios:
   typ: m
-  ety: From Latin {Jūlius}.
+  ety:  From Lat. \ipa{Jūlius}
   defs:
     - July
   cat: months
 
 augustos:
   typ: m
-  ety: From Latin {Augustus}.
+  ety:  From Lat. \ipa{Augustus}
   defs:
     - August
   cat: months
 
 september:
   typ: m
-  ety: From Latin {September}.
+  ety:  From Lat. \ipa{September}
   defs:
     - September
   cat: months
 
 october:
   typ: m
-  ety: From Latin {Octōber}.
+  ety:  From Lat. \ipa{Octōber}
   defs:
     - October
   cat: months
 
 november:
   typ: m
-  ety: From Latin {November}.
+  ety:  From Lat. \ipa{November}
   defs:
     - November
   cat: months
 
 december:
   typ: m
-  ety: From Latin {December}.
+  ety:  From Lat. \ipa{December}
   defs:
     - December
   cat: months
 
 ludinos:
   typ: adj
-  ety: From Danetian {ludis}.
+  ety: From Dan. \ipa{ludis}
   defs:
     - of the people
     - popular
@@ -4520,7 +4475,7 @@ Hitaniska Ludina Respublica:
 Belarossia:
   typ: f
   defs:
-    - Belarus, Belorussia, Bielorussia, Byelorussia
+    - Belarus
   cat: place-names
 
 Mexicom:
@@ -4549,7 +4504,7 @@ Scotia:
 
 Cambria:
   typ: f
-  ety: From Latin {Cambria}.
+  ety:  From Lat. \ipa{Cambria}
   defs:
     - Wales
   cat: place-names
@@ -4568,28 +4523,28 @@ Coréa:
 
 nordom:
   typ: n
-  ety: From Proto-Germanic {*nurþrą}.
+  ety: From PG \ipa{*nurþrą}
   defs:
     - north
   cat: cardinal-directions
 
 sundom:
   typ: n
-  ety: From Proto-Germanic {*sunþrą}.
+  ety: From PG \ipa{*sunþrą}
   defs:
     - south
   cat: cardinal-directions
 
 austom:
   typ: n
-  ety: From Proto-Germanic {*austrą}.
+  ety: From PG \ipa{*austrą}
   defs:
     - east
   cat: cardinal-directions
 
 vestom:
   typ: n
-  ety: From Proto-Germanic {*westrą}.
+  ety: From PG \ipa{*westrą}
   defs:
     - west
   cat: cardinal-directions
@@ -4608,25 +4563,25 @@ Vestina Germania:
 
 nordinos:
   typ: adj
-  ety: From Danetian {nordom}.
+  ety: From Dan. \ipa{nordom}
   defs:
     - northern, north, northerly
 
 sundinos:
   typ: adj
-  ety: From Danetian {sundom}.
+  ety: From Dan. \ipa{sundom}
   defs:
     - southern, south, southerly
 
 austinos:
   typ: adj
-  ety: From Danetian {austom}.
+  ety: From Dan. \ipa{austom}
   defs:
     - eastern, east, easterly
 
 vestinos:
   typ: adj
-  ety: From Danetian {vestom}.
+  ety: From Dan. \ipa{vestom}
   defs:
     - western, west, westerly
 
@@ -4654,13 +4609,15 @@ Porto-Rico:
     - Puerto Rico
   cat: place-names
 
-Sanctos Joanna:
+Sanctos Joánna:
   typ: m
   defs:
-    - Saint John, San Juan
+    - Saint John, John the Apostle
+    - city of San Juan, capital of Puerto Rico
   cat: real-people
+  cat: place-names
 
-Jesus-Christos:
+Jesus Christos:
   typ: m
   defs:
     - Jesus Christ
@@ -4674,49 +4631,49 @@ Donald Tramp:
 
 svomia:
   typ: f
-  ety: From PIE {*swé}.
+  ety: From PIE \ipa{*swé}
   defs:
     - freedom, liberty
 
-aiquals:
+aiquális:
   typ: adj
-  ety: From Latin {aequālis}.
+  ety:  From Lat. \ipa{aequālis}
   defs:
     - equal
 
 medanjés:
   typ: adj
-  ety: From Danetian {medanos}.
+  ety: From Dan. \ipa{medanos}
   defs:
     - bigger
 
 medanjéstos:
   typ: adj
-  ety: From Danetian {medanos}.
+  ety: From Dan. \ipa{medanos}
   defs:
     - biggest
 
 virikom:
   typ: n
-  ety: From Danetian {viros}.
+  ety: From Dan. \ipa{viros}
   defs:
     - little man
 
 bloman:
   typ: n
-  ety: From Danetian {bloti}.
+  ety: From Dan. \ipa{bloti}
   defs:
     - flower
 
 blomenikom:
   typ: n
-  ety: From Danetian {bloman}.
+  ety: From Dan. \ipa{bloman}
   defs:
     - little flower
 
 svomjos:
   typ: adj
-  ety: From Danetian {svomia}.
+  ety: From Dan. \ipa{svomia}
   defs:
     - free
 
@@ -4727,7 +4684,7 @@ da:
 
 anabideti:
   typ: v
-  ety: From Danetian {ana- + bideti}.
+  ety: From Dan. \ipa{ana- + bideti}
   defs:
     - to share, to exchange
     - to allot, to give, to provide
@@ -4736,7 +4693,7 @@ anabideti:
 
 andeti:
   typ: v
-  ety: From PIE {*h₂enǵʰ-}.
+  ety: From PIE \ipa{*h₂enǵʰ-}
   defs:
     - to obligate, to bind
 
@@ -4750,7 +4707,7 @@ Fedóm Mater:
   typ: f
   defs:
     - Earth Mother
-    cat: danetian-mythology
+  cat: danetian-mythology
 
 Mori Mantióm:
   typ: n
@@ -4758,29 +4715,22 @@ Mori Mantióm:
     - primordial sea of thoughts
   cat: danetian-mythology
 
-Andeter:
-  typ: m
-  ety: From Danetian {andeti}.
-  defs:
-    - Danetian god of oaths, promises, and moral justice
-  cat: danetian-mythology
-
 Daneta:
   typ: f
-  ety: From Danetian {danu}.
+  ety: From Dan. \ipa{danu}
   defs:
     - Danetian river goddess, freed from the clutches of the water serpent
   cat: danetian-mythology
 
 danetiskos:
   typ: adj
-  ety: From Danetian {Daneta}.
+  ety: From Dan. \ipa{Daneta}
   defs:
     - Danetian
 
 pludeti:
   typ: v
-  ety: From PIE {*plewd-}.
+  ety: From PIE \ipa{*plewd-}
   defs:
     - to swim
 
@@ -4791,49 +4741,49 @@ usterom mori:
 
 bredíti:
   typ: v
-  ety: From PIE {*bʰredʰ-}.
+  ety: From PIE \ipa{*bʰredʰ-}
   defs:
     - to roam, to wander freely
 
 valdus:
   typ: m
-  ety: From Proto-Germanic {*walþuz}.
+  ety: From PG \ipa{*walþuz}
   defs:
     - forest
 
 blomia:
   typ: f
-  ety: From Danetian {bloti}.
+  ety: From Dan. \ipa{bloti}
   defs:
     - freshness
 
 skula:
   typ: f
-  ety: From Proto-Germanic {*skulō}.
+  ety: From PG \ipa{*skulō}
   defs:
     - troop; group; crowd
     - multitude
 
 Isak:
   typ: m
-  ety: From Ancient Greek {Ἰσαᾱ́κ}.
+  ety: From AG \gr{Ἰσαᾱ́κ}
   defs:
     - Isaac
 
-Isak Neutón:
+Isak Newtón:
   typ: m
   defs:
     - Isaac Newton
   cat: real-people
 
-Verner:
+Werner:
   typ: m
-  ety: From German {Werner}.
+  ety: From Ger. \ipa{Werner}
   defs:
     - Werner, Warner
   cat: personal-names
 
-Verner Haisemberg:
+Werner Haisemberg:
   typ: m
   defs:
     - Werner Heisenberg
@@ -4841,14 +4791,14 @@ Verner Haisemberg:
 
 Hadriános:
   typ: m
-  ety: From Latin {Hadriānus}.
+  ety:  From Lat. \ipa{Hadriānus}
   defs:
     - Adrian, Hadrian
   cat: personal-names
 
 Mauritios:
   typ: m
-  ety: From Latin {Mauritius}.
+  ety:  From Lat. \ipa{Mauritius}
   defs:
     - Maurice, Mauricio, Mauritius
   cat: personal-names
@@ -4861,20 +4811,20 @@ Paulos Hadriános Mauritios Dirac:
 
 Saverios:
   typ: m
-  ety: From Basque {etxeberria}.
+  ety: From Basque \ipa{etxeberria}
   defs:
     - Javier, Xavier, Saverio
   cat: personal-names
 
-Saverios Castro:
+Saverios Castros:
   typ: m
   defs:
-    - Javier Castro
+    - Javier Castro, creator of the Danetian language
   cat: real-people
 
 Philippos:
   typ: m
-  ety: From Ancient Greek {Φῐ́λῐππος}.
+  ety: From AG \gr{Φῐ́λῐππος}
   defs:
     - Philip, Felipe
   cat: personal-names
@@ -4884,3 +4834,1067 @@ Richardos Philippos Fainman:
   defs:
     - Richard Phillips Feynman
   cat: real-people
+
+quantiska mechanica:
+  typ: f
+  defs:
+    - quantum mechanics
+
+classiska mechanica:
+  typ: f
+  defs:
+    - classical mechanics
+
+Agnis:
+  typ: m
+  ety: From PIE \ipa{*h₁n̥gʷnís}
+  defs:
+    - Danetian god of fire, oaths, promises, and moral justice
+  cat: danetian-mythology
+
+Perkunos:
+  typ: m
+  ety: From PIE \ipa{*perkʷunos}
+  defs:
+    - Danetian god of thunder
+  cat: danetian-mythology
+
+latiniska:
+  typ: f
+  defs:
+    - Latin language
+  cat: languages
+
+angliska:
+  typ: f
+  ety: From Dan. \ipa{Anglia}
+  defs:
+    - English language
+  cat: languages
+
+galliska:
+  typ: f
+  ety: From Dan. \ipa{Gallia}
+  defs:
+    - French language
+  cat: languages
+
+galliskos:
+  typ: adj
+  ety: From Dan. \ipa{Gallia}
+  defs:
+    - French
+
+germaniska:
+  typ: f
+  ety: From Dan. \ipa{Germania}
+  defs:
+    - German language
+  cat: languages
+
+germaniskos:
+  typ: adj
+  ety: From Dan. \ipa{Germania}
+  defs:
+    - German
+
+rossiska:
+  typ: f
+  ety: From Dan. \ipa{Rossia}
+  defs:
+    - Russian language
+  cat: languages
+
+joniska:
+  typ: f
+  ety: From Dan. \ipa{Jonia}
+  defs:
+    - Greek language
+  cat: languages
+
+italiska:
+  typ: f
+  ety: From Dan. \ipa{Italia}
+  defs:
+    - Italian language
+  cat: languages
+
+portugaliska:
+  typ: f
+  ety: From Dan. \ipa{Portugalia}
+  defs:
+    - Portuguese language
+  cat: languages
+
+hitaniska:
+  typ: f
+  ety: From Dan. \ipa{Hitania}
+  defs:
+    - Chinese language
+  cat: languages
+
+hitaniskos:
+  typ: adj
+  ety: From Dan. \ipa{Hitania}
+  defs:
+    - Chinese
+
+japoniska:
+  typ: f
+  ety: From Dan. \ipa{Japonia}
+  defs:
+    - Japanese language
+  cat: languages
+
+japoniskos:
+  typ: adj
+  ety: From Dan. \ipa{Japonia}
+  defs:
+    - Japanese
+
+daniska:
+  typ: f
+  ety: From Dan. \ipa{Dania}
+  defs:
+    - Danish language
+  cat: languages
+
+Norvegia:
+  typ: f
+  ety: From Lat. \ipa{Norvegia}
+  defs:
+    - Norway
+  cat: place-names
+
+norvegiska:
+  typ: f
+  ety: From Dan. \ipa{Norvegia}
+  defs:
+    - Norwegian language
+  cat: languages
+
+Svedia:
+  typ: f
+  ety: Related to Ger. \ipa{Schweden}
+  defs:
+    - Sweden
+  cat: place-names
+
+svediska:
+  typ: f
+  ety: From Dan. \ipa{Svedia}
+  defs:
+    - Swedish language
+  cat: languages
+
+Finnia:
+  typ: f
+  ety: From Lat. \ipa{Finnia}
+  defs:
+    - Finland
+  cat: place-names
+
+finniska:
+  typ: f
+  ety: From Dan. \ipa{Finnia}
+  defs:
+    - Finnish language
+  cat: languages
+
+Berlín:
+  typ: m
+  defs:
+    - Berlin
+  cat: place-names
+
+Constantinopolis:
+  typ: f
+  ety: From AG \gr{Κωνσταντινούπολις}
+  defs:
+    - Constantinople; Istanbul
+  cat: place-names
+
+Sebastopolis:
+  typ: f
+  ety: From AG \gr{Σεβαστόπολις}
+  defs:
+    - Sevastopol
+  cat: place-names
+
+Sancta Petropolis:
+  typ: f
+  ety: From Lat. \ipa{sancta + Petropolis}
+  defs:
+    - Saint Petersburg
+  cat: place-names
+
+Londiniom:
+  typ: n
+  ety: From Lat. \ipa{Londīnium}
+  defs:
+    - London
+  cat: place-names
+
+Batavia:
+  typ: f
+  ety: From Lat. \ipa{Batavia}
+  defs:
+    - Netherlands
+  cat: place-names
+
+Belgia:
+  typ: f
+  ety: From Lat. \ipa{Belgia}
+  defs:
+    - Belgium
+  cat: place-names
+
+Miami:
+  typ: n
+  ety: From En. \ipa{Miami}
+  defs:
+    - Miami
+  cat: place-names
+
+Florida:
+  typ: f
+  ety: From En. \ipa{Florida}
+  defs:
+    - Florida
+  cat: place-names
+
+York:
+  typ: f
+  ety: From En. \ipa{York}
+  defs:
+    - York
+  cat: place-names
+
+Neva York:
+  typ: f
+  ety: From Dan. \ipa{neva + York}
+  defs:
+    - New York
+  cat: place-names
+
+Neva Jersis:
+  typ: f
+  ety: From Dan. \ipa{neva} and En. \ipa{Jersey}
+  defs:
+    - New Jersey
+  cat: place-names
+
+Cuba:
+  typ: f
+  ety: From Sp. \ipa{Cuba}
+  defs:
+    - Cuba
+  cat: place-names
+
+mathematica:
+  typ: f
+  ety: From Lat. \ipa{mathēmatica}
+  defs:
+    - mathematics
+
+grammatica:
+  typ: f
+  ety: From Lat. \ipa{grammatica}
+  defs:
+    - grammar
+
+orthographia:
+  typ: f
+  ety: From Lat. \ipa{orthographia}, from AG \gr{ὀρθογρᾰφῐ́ᾱ}
+  defs:
+    - orthography
+
+chemia:
+  typ: f
+  ety: From Ger. \ipa{Chemie}
+  defs:
+    - chemistry
+
+philosophia:
+  typ: f
+  ety: From Lat. \ipa{philosophia}, from AG \gr{φιλοσοφία}
+  defs:
+    - philosophy
+
+biologia:
+  typ: f
+  ety: From Lat. \ipa{biologia}
+  defs:
+    - biology
+
+bibliom:
+  typ: n
+  ety: From AG \gr{βῐβλῐ́ον}
+  defs:
+    - book
+
+sanctos:
+  typ: adj
+  ety: From Lat. \ipa{sānctus}
+  defs:
+    - saint, holy, sacred
+
+Sancta Bíblia:
+  typ: n
+  ety: From Lat. \ipa{Sancta Biblia}
+  defs:
+    - holy books; Holy Bible
+  note: This term is in plural
+
+Athénai:
+  typ: f
+  ety: From Lat. \ipa{Athēnae}, from AG \gr{Ἀθῆναι}
+  defs:
+    - Athens
+  cat: place-names
+  note: This term is in plural
+
+calculos:
+  typ: m
+  ety: From Lat. \ipa{calculus}
+  defs:
+    - calculus
+
+planéta:
+  typ: m
+  ety: From Lat. \ipa{planeta}, from AG \gr{πλανήτης}
+  defs:
+    - planet
+
+posme:
+  typ: pv
+  ety: From Dan. \ipa{po}
+  defs:
+    - (interrogative) how
+
+josme:
+  typ: pv
+  ety: From Dan. \ipa{jo}
+  defs:
+    - (relative) how
+
+tridsont:
+  typ: num
+  ety: From PIE \ipa{*tridḱómt}
+  defs:
+    - thirty
+
+petvardsont:
+  typ: num
+  ety: From PIE \ipa{*kʷétwr̥dḱomt}
+  defs:
+    - forty
+
+pempedsont:
+  typ: num
+  ety: From PIE \ipa{*kʷétwr̥dḱomt}
+  defs:
+    - fifty
+
+svedsont:
+  typ: num
+  ety: From PIE \ipa{*swéḱsdḱomt}
+  defs:
+    - sixty
+
+septandsont:
+  typ: num
+  ety: From PIE \ipa{*septḿ̥dḱomt}
+  defs:
+    - seventy
+
+oktodsont:
+  typ: num
+  ety: From PIE \ipa{*oḱtódḱomt}
+  defs:
+    - eighty
+
+nevandsont:
+  typ: num
+  ety: From PIE \ipa{*h₁néwn̥dḱomt}
+  defs:
+    - ninety
+
+satón:
+  typ: num
+  ety: From PIE \ipa{*ḱm̥tóm}
+  defs:
+    - hundred; one hundred
+
+tusontis:
+  typ: num
+  ety: From PIE \ipa{*tuHsont-}
+  defs:
+    - thousand; one thousand
+
+bevar:
+  typ: num
+  ety: From Persian \arab{بیور}
+  defs:
+    - ten thousand; one myriad
+
+hertogos:
+  typ: m
+  ety: Ultimately from PG \ipa{*harjatogō}. Compare German \ipa{Herzog} and Dutch \ipa{Hertog}
+  defs:
+    - duke
+  cat: ranks-of-nobility
+
+imperiom:
+  typ: n
+  ety: From Lat. \ipa{imperium}
+  defs:
+    - empire
+
+imperator:
+  typ: m
+  ety: From Lat. \ipa{imperātor}
+  defs:
+    - emperor
+  cat: ranks-of-nobility
+
+Romiskom Imperiom:
+  typ: n
+  ety: From Dan. \ipa{romiskom + imperiom}
+  defs:
+    - Roman Empire
+
+redissa:
+  typ: f
+  ety: From Dan. \ipa{reds}
+  defs:
+    - queen
+  cat: ranks-of-nobility
+
+furistos:
+  typ: m
+  ety: From PG \ipa{*furistaz}
+  defs:
+    - prince
+  cat: ranks-of-nobility
+
+furista:
+  typ: f
+  ety: From Dan. \ipa{furistos}
+  defs:
+    - princess
+  cat: ranks-of-nobility
+
+humános:
+  typ: adj
+  ety: From Lat. \ipa{hūmānus}
+  defs:
+    - human
+    - humane
+
+humános:
+  typ: m
+  ety: From Lat. \ipa{hūmānus}
+  defs:
+    - human
+
+humánom estin:
+  typ: n
+  ety: From Dan. \ipa{humánom + estin}
+  defs:
+    - human being
+
+conscientia:
+  typ: f
+  ety: From Lat. \ipa{cōnscientia}
+  defs:
+    - conscience
+
+scientia:
+  typ: f
+  ety: From Lat. \ipa{scientia}
+  defs:
+    - science
+
+psychologia:
+  typ: f
+  ety: From Lat. \ipa{psychologia}
+  defs:
+    - psychology
+
+stelos:
+  typ: adj
+  ety: From PIE \ipa{*stelh₃ós}
+  defs:
+    - wide
+
+pauros:
+  typ: pn
+  ety: From PIE \ipa{*peh₂w-}
+  defs:
+    - few, little of
+
+aljos:
+  typ: pn
+  ety: From PIE \ipa{*h₂élyos}
+  defs:
+    - other, another
+
+furops:
+  typ: m
+  ety: From PIE \ipa{*ǵʰwer-o-h₃kʷs}
+  defs:
+    - wild beast
+
+fastos:
+  typ: m
+  ety: From PIE \ipa{*ǵʰasto-}
+  defs:
+    - stick
+
+roinos:
+  typ: m
+  ety: From PIE \ipa{*roypnós}
+  defs:
+    - rope
+
+pelnom:
+  typ: n
+  ety: From PIE \ipa{*pel}
+  defs:
+    - skin
+
+pulnis:
+  typ: f
+  ety: From PIE \ipa{*pulh₂-}
+  defs:
+    - hair
+
+pipoti:
+  typ: v
+  ety: From PIE \ipa{*píph₃eti}
+  defs:
+    - to drink
+
+esti:
+  typ: v
+  ety: From PIE \ipa{*h₁édti}
+  defs:
+    - to eat
+
+titta:
+  typ: f
+  ety: From PG \ipa{*titt-}
+  defs:
+    - breast, teat, tit
+    - nipple
+
+fembeti:
+  typ: v
+  ety: From PIE \ipa{*gʷʰemb-}
+  defs:
+    - to spring, hop, jump
+
+febeti:
+  typ: v
+  ety: From PIE \ipa{*bʰegʷ-}
+  defs:
+    - to run
+    - to flee
+
+bogeti:
+  typ: v
+  ety: From PIE \ipa{*gʷog-}
+  defs:
+    - to shake
+    - to agitate
+
+theoreman:
+  typ: n
+  ety: From Lat. \ipa{theōrēma}, from AG \gr{θεώρημᾰ}
+  defs:
+    - theorem
+
+theoria:
+  typ: f
+  ety: From Lat. \ipa{theōria}, from AG \gr{θεωρῐ́ᾱ}
+  defs:
+    - theory
+
+generális:
+  typ: adj
+  ety: From Lat. \ipa{generālis}
+  defs:
+    - general
+    - generic
+
+tremos:
+  typ: m
+  ety: From PIE \ipa{*trem-}
+  defs:
+    - trembling, tremor, shudder
+    - fear, terror
+
+orda:
+  typ: f
+  ety: From OT \ipa{ordu}, from PT \ipa{*or-}. Compare Rus. \cyr{орда}
+  defs:
+    - army
+
+opisvomia:
+  typ: f
+  ety: From Dan. \ipa{opi + svomia}
+  defs:
+    - liberation
+
+opisvomíeti:
+  typ: v
+  ety: From Dan. \ipa{opisvomia}
+  defs:
+    - to liberate, to free, to set free
+
+Ludina Opisvomiska Orda:
+  typ: f
+  defs:
+    - People's Liberation Army
+
+Rufra Orda:
+  typ: f
+  defs:
+    - Red Army
+
+Rufra Pletia:
+  typ: f
+  defs:
+    - Red Square
+
+Aicaterina:
+  typ: f
+  ety: From AG \gr{Αἰκατερῑ́νη}
+  defs:
+    - Catherine, Catalina, Katrina, Caitlin
+
+Aicaterinapolis:
+  typ: f
+  ety: From Dan. \ipa{Aicaterina + -polis}
+  defs:
+    - Yekaterinburg
+
+historia:
+  typ: f
+  ety: From Lat. \ipa{historia}, from AG \gr{ἱστορία}
+  defs:
+    - history
+    - story, account
+
+computa:
+  typ: f
+  ety: From Fr. \ipa{compte}, influenced by Lat. \ipa{computare}
+  defs:
+    - account (bank or user account)
+    - count (the action of counting)
+
+boida:
+  typ: f
+  ety: From PIE \ipa{*bʰoydʰ-}
+  defs:
+    - trust
+    - faith
+
+ordinator:
+  typ: m
+  ety: From Fr. \ipa{ordinateur}, influenced by Lat. \ipa{ōrdinātor}
+  defs:
+    - computer
+
+sjofer:
+  typ: m
+  ety: From Fr. \ipa{chauffeur}
+  defs:
+    - chauffeur, driver
+
+promenada:
+  typ: f
+  ety: From Fr. \ipa{promenade}
+  defs:
+    - walk, stroll, walk for enjoyment
+
+Versaljai:
+  typ: f
+  ety: From Fr. \ipa{Versailles}
+  defs:
+    - Versailles
+
+Palaciom Versaljóm:
+  typ: n
+  ety: From Dan. \ipa{palaciom + Versaljai}
+  defs:
+    - Palace of Versailles
+
+tractátos:
+  typ: m
+  ety: From Lat. \ipa{tractātus}
+  defs:
+    - treaty
+    - treatise, tract
+    - management, treatment
+    - touching, handling, working, treating
+
+bagasj:
+  typ: m
+  ety: From Fr. \ipa{bagage}
+  defs:
+    - baggage, luggage
+
+bagét:
+  typ: f
+  ety: From Fr. \ipa{baguette}
+  defs:
+    - baguette
+
+balcón:
+  typ: m
+  ety: From Fr. \ipa{balcon}
+  defs:
+    - balcony
+
+afísja:
+  typ: f
+  ety: From Fr. \ipa{affiche}
+  defs:
+    - poster
+    - placard
+    - sign
+
+aerodromos:
+  typ: m
+  ety: From Fr. \ipa{aérodrome}, by analogy with \ipa{hippodrome}, from AG \gr{ἱππόδρομος}
+  defs:
+    - airfield, aerodrome
+
+aventúra:
+  typ: f
+  ety: From Fr. \ipa{aventure}
+  defs:
+    - adventure
+    - venture
+    - (romantic) affair
+
+automobilis:
+  typ: f
+  ety: From Fr. \ipa{automobile}, influenced by Lat. \ipa{mōbilis}
+  defs:
+    - automobile, car
+
+automobilis:
+  typ: f
+  ety: From Fr. \ipa{automobile}, influenced by Lat. \ipa{mōbilis}
+  defs:
+    - automotive
+
+abasjur:
+  typ: m
+  ety: From Fr. \ipa{abat-jour}
+  defs:
+    - lampshade
+
+vassal:
+  typ: m
+  ety: From Fr. \ipa{vassal}
+  defs:
+    - vassal
+
+vacantia:
+  typ: f
+  ety: From Fr. \ipa{vacance}, with a latinized ending
+  defs:
+    - vacation
+    - (in plural) holidays
+    - vacancy, free position
+
+Valeria:
+  typ: f
+  ety: From Lat. \ipa{Valeria}
+  defs:
+    - Valerie
+
+Valerios:
+  typ: m
+  ety: From Lat. \ipa{Valerius}
+  defs:
+    - Valerius, Valerio
+
+asphaltos:
+  typ: m
+  ety: From AG \gr{ἄσφᾰλτος}
+  defs:
+    - asphalt, bitumen; pitch, tar
+    - asphalt concrete; material used to pave roads
+
+wagón:
+  typ: m
+  ety: From Fr. \ipa{wagon}, from En. \ipa{waggon}, from Dutch \ipa{wagen}
+  defs:
+    - railway carriage
+
+velocipods:
+  typ: m
+  ety: From Fr. \ipa{vélocipède}, influenced by Dan. \ipa{pods}
+  defs:
+    - velocipede; bicycle
+
+badgjet:
+  typ: m
+  ety: From En. \ipa{budget}
+  defs:
+    - budget
+
+botón:
+  typ: m
+  ety: From Fr. \ipa{bouton}, from OF \ipa{boton}
+  defs:
+    - button
+    - (flower) bud
+    - pimple, spot, zit
+
+botíca:
+  typ: f
+  ety: From Fr. \ipa{boutique}, from Old Occ. \ipa{botica}
+  defs:
+    - small shop; boutique
+
+buljón:
+  typ: m
+  ety: From Fr. \ipa{bouillon}
+  defs:
+    - broth (water in which food has been boiled)
+
+ensembla:
+  typ: f
+  ety: From Fr. \ipa{ensemble}
+  defs:
+    - (mathematics) a set
+    - (music) an ensemble
+
+tresón:
+  typ: adj
+  ety: From PIE \ipa{*tres-}
+  defs:
+    - shy, timid
+    - (of doves) timorous, shy, pavid
+
+rodetis:
+  typ: f
+  ety: From Dan. \ipa{rodia}
+  defs:
+    - government
+
+analysis:
+  typ: f
+  ety: From Lat. \ipa{analysis}, from AG \gr{ᾰ̓νᾰ́λῠσῐς}
+  defs:
+    - analysis
+
+synthesis:
+  typ: f
+  ety: From Lat. \ipa{synthesis}, from AG \gr{σύνθεσις}
+  defs:
+    - synthesis
+
+climan:
+  typ: n
+  ety: From Lat. \ipa{clima}, from AG \gr{κλίμα}
+  defs:
+    - climate
+    - (mathematics) slope, inclination
+
+energia:
+  typ: f
+  ety: From Lat. \ipa{energia}, from AG \gr{ἐνέργειᾰ}
+  defs:
+    - energy (in physics, and in the colloquial sense)
+
+eleméntom:
+  typ: n
+  ety: From Lat. \ipa{elementum}
+  defs:
+    - element
+    - chemical element
+    - basic principle, rudiment
+
+setoi:
+  typ: proadv
+  ety: From PIE {*ḱe-}
+  defs:
+    - here
+
+sodines:
+  typ: adv
+  ety: From PIE {*ḱo-} and Dan. \ipa{din}
+  defs:
+    - today
+
+din:
+  typ: m
+  ety: From PIE {*dyew-}
+  defs:
+    - day
+
+ause:
+  typ: adv
+  ety: From Dan. \ipa{ausós}
+  defs:
+    - tomorrow
+
+Raikstag:
+  typ: m
+  ety: From Ger. \ipa{Reichstag}
+  defs:
+    - Reichstag
+
+Abrahám:
+  typ: m
+  ety: From Lat. \ipa{Ābrahām}
+  defs:
+    - Abraham
+  cat: personal-names
+
+Edém:
+  typ: m
+  ety: From Gr. \gr{Εδέμ}
+  defs:
+    - Eden, Garden of Eden
+
+Artobolos:
+  typ: m
+  ety: From Dan. \ipa{artos + bolos}
+  defs:
+    - Danetian personal name, meaning \textit{strong bear}
+
+Valpobolos:
+  typ: m
+  ety: From Dan. \ipa{valpos + bolos}
+  defs:
+    - Danetian personal name, meaning \textit{strong wolf}
+
+Usteromoris:
+  typ: m
+  ety: From Dan. \ipa{usterom + mori}
+  defs:
+    - Danetian personal name, meaning \textit{high seas}
+
+Artoner:
+  typ: m
+  ety: From Dan. \ipa{artos + ner}
+  defs:
+    - Danetian personal name, meaning \textit{powerful bear}
+
+Valponer:
+  typ: m
+  ety: From Dan. \ipa{valpos + ner}
+  defs:
+    - Danetian personal name, meaning \textit{powerful wolf}
+
+Africa:
+  typ: f
+  ety: From Lat. \ipa{Āfrica}
+  defs:
+    - Africa
+  cat: place-names
+
+Asia:
+  typ: f
+  ety: From AG \gr{Ἀσῐ́ᾱ}
+  defs:
+    - Asia
+  cat: place-names
+
+Nordina America:
+  typ: f
+  ety: From Dan. \ipa{nordina + America}
+  defs:
+    - North America
+  cat: place-names
+
+Sundina America:
+  typ: f
+  ety: From Dan. \ipa{sundina + America}
+  defs:
+    - South America
+  cat: place-names
+
+Australia:
+  typ: f
+  ety: From En. \ipa{Australia}
+  defs:
+    - Australia
+  cat: place-names
+
+Antarctica:
+  typ: f
+  ety: From Lat. \ipa{Antarctica}
+  defs:
+    - Antarctica
+  cat: place-names
+
+Albania:
+  typ: f
+  ety: From Lat. \ipa{Albania}, from BG \gr{Ἀλβανία}
+  defs:
+    - Albania
+  cat: place-names
+
+Austria:
+  typ: f
+  ety: From Lat. \ipa{Austria}
+  defs:
+    - Austria
+  cat: place-names
+
+Cjechia:
+  typ: m
+  ety: From Pol. \ipa{Czech}
+  defs:
+    - Czech Republic, Czechia
+
+europiskos:
+  typ: adj
+  ety: From Dan. \ipa{Európa}
+  defs:
+    - European
+
+Europiskom Somjugos:
+  typ: n
+  ety: From Dan. \ipa{europiskom + somjugos}
+  defs:
+    - European Union
+
+Britanniskom Imperiom:
+  typ: n
+  ety: From Dan. \ipa{britanniskom + imperiom}
+  defs:
+    - British Empire
+
+britanniskos:
+  typ: adj
+  ety: From Dan. \ipa{Britannia}
+  defs:
+    - British
+
+americaniskos:
+  typ: adj
+  ety: From Dan. \ipa{America}
+  defs:
+    - American
+
+danetiska:
+  typ: f
+  ety: From Dan. \ipa{danetiskos}
+  defs:
+    - Danetian language
+
+dictionariom:
+  typ: n
+  ety: From Lat. \ipa{dictiōnārium}
+  defs:
+    - dictionary

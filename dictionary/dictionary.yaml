@@ -166,6 +166,7 @@ fedóm:
   ety: From PIE \ipa{*dʰéǵʰōm}
   defs:
     - earth
+    - land
 
 feman:
   typ: n
@@ -4613,7 +4614,7 @@ India:
   cat: place-names
 
 Porto-Rico:
-  typ: m
+  typ: n
   defs:
     - Puerto Rico
   cat: place-names
@@ -4825,7 +4826,7 @@ Saverios:
     - Javier, Xavier, Saverio
   cat: personal-names
 
-Saverios Castros:
+Saverios Castro:
   typ: m
   defs:
     - Javier Castro, creator of the Danetian language
@@ -5042,13 +5043,6 @@ Londiniom:
   ety: From Lat. \ipa{Londīnium}
   defs:
     - London
-  cat: place-names
-
-Batavia:
-  typ: f
-  ety: From Lat. \ipa{Batavia}
-  defs:
-    - Netherlands
   cat: place-names
 
 Belgia:
@@ -5385,7 +5379,7 @@ pipoti:
   defs:
     - to drink
 
-esti:
+esti²:
   typ: v
   ety: From PIE \ipa{*h₁édti}
   defs:
@@ -5477,7 +5471,7 @@ Rufra Pletia:
   defs:
     - Red Square
 
-Aicaterina:
+Aicaterína:
   typ: f
   ety: From AG \gr{Αἰκατερῑ́νη}
   defs:
@@ -5534,7 +5528,7 @@ Versaljai:
   defs:
     - Versailles
 
-Palaciom Versaljóm:
+Palatiom Versaljóm:
   typ: n
   ety: From Dan. \ipa{palaciom + Versaljai}
   defs:
@@ -6109,7 +6103,7 @@ ha:
   defs:
     - letter \textit{h}
 
-i:
+i¹:
   typ: n
   defs:
     - letter \textit{i}
@@ -6198,3 +6192,366 @@ zet:
   typ: n
   defs:
     - letter \textit{z}
+
+aeroportos:
+  typ: m
+  ety: From Fr. \ipa{aéroport}, with a latinized ending
+  defs:
+    - airport
+
+Tirána:
+  typ: f
+  defs:
+    - Tirana, capital of Albania
+
+Andórra:
+  typ: f
+  ety: From Sp. \ipa{Andorra}. Compare Fr. \ipa{Andorre}
+  defs:
+    - Andorra
+
+Armenia:
+  typ: f
+  ety: From Lat. \ipa{Armenia}, from AG \gr{Ἀρμενία}
+  defs:
+    - Armenia
+
+Jereván:
+  typ: m
+  ety: From Rus. \cyr{Ерева́н}
+  defs:
+    - Yerevan, capital of Armenia
+
+Vienna:
+  typ: f
+  ety: From It. \ipa{Vienna}
+  defs:
+    - Vienna
+
+Azerbaigján:
+  typ: m
+  ety: From Rus. \cyr{Азербайджа́н}
+  defs:
+    - Azerbaijan
+
+Baku:
+  typ: n
+  ety: From Rus. \cyr{Баку́}
+  defs:
+    - Baku, capital of Azerbaijan
+
+Miniskos:
+  typ: m
+  ety: From Rus. \cyr{Минск}, with a Danetian ending
+  defs:
+    - Minsk, capital of Belarus
+
+Brussellai:
+  typ: f
+  ety: From Fr. \ipa{Bruxelles}, with a latinized ending
+  defs:
+    - Brussels, capital of Belgium
+
+i²:
+  typ: conj
+  ety: From PIE \ipa{*ei}
+  defs:
+    - and
+
+Bosnia i Hertsegovína:
+  typ: f
+  defs:
+    - Bosnia and Herzegovina
+
+Trinidad i Tobago:
+  typ: f
+  defs:
+    - Trinidad and Tobago
+
+Sarajevo:
+  typ: n
+  defs:
+    - Sarajevo, capital of Bosnia and Herzegovina
+
+Bulgaria:
+  typ: f
+  defs:
+    - Bulgaria
+
+Sophia:
+  typ: f
+  ety: From AG \gr{σοφία}
+  defs:
+    - Sophia, Sofia, Sophie
+    - Sofia, capital of Bularia
+
+Croatia:
+  typ: f
+  ety: From Lat. \ipa{Croātia}
+  defs:
+    - Croatia
+
+Zagrabia:
+  typ: f
+  ety: From Lat. \ipa{Zagrabia}
+  defs:
+    - Zagreb, capital of Croatia
+
+Cypros:
+  typ: f
+  ety: From Latin \ipa{Cyprus}, from AG \gr{Κύπρος}
+  defs:
+    - Cyprus
+
+Nicosia:
+  typ: f
+  ety: From Fr. \ipa{Nicosie}, from AG \gr{Λευκωσία}
+  defs:
+    - Nicosia, capital of Cyprus
+
+Praga:
+  typ: f
+  ety: From Lat. \ipa{Praga}
+  defs:
+    - Prague
+
+Estonia:
+  typ: f
+  defs:
+    - Estonia
+
+Talín:
+  typ: m
+  ety: From Rus. \cyr{Та́ллин}
+  defs:
+    - Tallinn, capital of Estonia
+
+Helsingia:
+  typ: f
+  ety: From Lat. \ipa{Helsingia}
+  defs:
+    - Helsinki, capital of Finland
+
+Tiflis:
+  typ: f
+  ety: From Rus. \cyr{Тифли́с}
+  defs:
+    - Tbilisi, capital of Georgia
+
+Islandia:
+  typ: f
+  ety: From Lat. \ipa{Islandia}
+  defs:
+    - Iceland
+
+Reicjavik:
+  typ: From Icelandic \ipa{Reykjavík}
+  defs:
+    - Reykjavik, capital of Iceland
+
+Dublín:
+  typ: m
+  ety: From Fr. \ipa{Dublin}
+  defs:
+    - Dublin, capital of Ireland
+
+Kazachstán:
+  typ: m
+  ety: From Rus. \cyr{Казахста́н}
+  defs:
+    - Kazakhstan
+
+Nur-Sultán:
+  typ: m
+  defs:
+    - Nur-Sultan, capital of Kazakhstan
+
+Lettonia:
+  typ: f
+  ety: From Lat. \ipa{Lettonia}
+  defs:
+    - Latvia
+
+Lithuania:
+  typ: f
+  ety: From Lat. \ipa{Lithuania}
+  defs:
+    - Lithuania
+
+Lichtenstain:
+  typ: m
+  ety: From Ger. \ipa{Liechtenstein}
+  defs:
+    - Liechtenstein
+
+Riga:
+  typ: f
+  ety: From Rus. \cyr{Ри́га}
+  defs:
+    - Riga, capital of Latvia
+
+Vadus:
+  typ: m
+  ety: From Ger. \ipa{Vaduz}
+  defs:
+    - Vaduz, capital of Liechtenstein
+
+Vilnius:
+  typ: m
+  ety: From Lith. \ipa{Vilnius}
+  defs:
+    - Vilnius, capital of Lithuania
+
+Luxembúrgom:
+  typ: n
+  ety: From Lat. \ipa{Luxemburgum}
+  defs:
+    - Luxembourg
+
+Malta:
+  typ: f
+  defs:
+    - Malta
+
+Valéta:
+  typ: f
+  defs:
+    - Valletta, capital of Malta
+
+Moldavia:
+  typ: f
+  ety: From Rus. \cyr{Молда́вия}
+  defs:
+    - Moldova, Moldavia, Moldovia
+
+Kisjinjov:
+  typ: m
+  ety: From Rus. \ipa{Кишинёв}
+  defs:
+    - Chisinau, capital of Moldova
+
+Monaco:
+  typ: n
+  defs:
+    - Monaco
+
+bora:
+  typ: f
+  ety: From PIE \ipa{*gʷorH-eh₂}
+  defs:
+    - mountain
+
+Karsna Bora:
+  typ: f
+  defs:
+    - Montenegro, Monte Negro
+
+Podgoritsa:
+  typ: f
+  ety: From Serbo-Croatian \ipa{Pòdgorica} / \cyr{По̀дгорица}
+  defs:
+    - Podgorica, capital of Montenegro
+
+Haunies Fedomes:
+  typ: f
+  defs:
+    - Low Countries, Netherlands
+
+Amsterdám:
+  typ: m
+  defs:
+    - Amsterdam, capital of the Netherlands
+
+Nordina Macedonia:
+  typ: f
+  defs:
+    - North Macedonia
+
+Scupoi:
+  typ: m
+  ety: From Lat. \ipa{Scūpī}
+  defs:
+    - Skopje, capital of North Macedonia
+
+Oslo:
+  typ: n
+  defs:
+    - Oslo, capital of Norway
+
+Varsovia:
+  typ: f
+  ety: From Lat. \ipa{Varsovia}
+  defs:
+    - Warsaw, capital of Poland
+
+Olisipón:
+  typ: f
+  ety: From Lat. \ipa{Olisīpō}
+  defs:
+    - Lisbon, capital of Portugal
+
+Romania:
+  typ: f
+  defs:
+    - Romania
+
+Bucuresjti:
+  typ: n
+  ety: From Rom. \ipa{București}
+  defs:
+    - Bucharest, capital of Romania
+
+Sanctos Marínos:
+  typ: From It. \ipa{San Marino}
+  defs:
+    - San Marino
+
+Belgrádom:
+  typ: n
+  defs:
+    - Belgrad, capital of Serbia
+
+Slovakia:
+  typ: f
+  ety: From Rus. \ipa{Слова́кия}
+  defs:
+    - Slovakia
+
+Bratisláva:
+  typ: f
+  ety: From Rus. \ipa{Братисла́ва}
+  defs:
+    - Bratislava, capital of Slovakia
+
+Slovenía:
+  typ: f
+  defs:
+    - Slovenia
+
+Lubiána:
+  typ: f
+  ety: From It. \ipa{Lubiana}
+  defs:
+    - Ljubljana, capital of Slovenia
+
+Ankara:
+  typ: f
+  defs:
+    - Ankara, capital of Turkey
+
+Kiev:
+  typ: m
+  ety: From Rus. \cyr{Ки́ев}
+  defs:
+    - Kyiv, Kiev, capital of Ukraine
+
+sjar:
+  typ: m
+  ety: From Per. \arab{شهر}
+  defs:
+    - city
+
+Vaticánom:
+  typ: n
+  defs:
+    - Vatican City

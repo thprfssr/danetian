@@ -1,6557 +1,6668 @@
-barda:
-  typ: f
+
+- key: barda
   ety: From PIE \ipa{*bʰardʰéh₂}
-  defs:
-    - beard
+  definitions:
+    - typ: f
+      def: beard
 
-befrus:
-  typ: m
+- key: befrus
   ety: From PIE \ipa{*bʰébʰrus}
-  defs:
-    - beaver
+  definitions:
+    - typ: m
+      def: beaver
 
-bados:
-  typ: f
+- key: bados
   ety: From PIE \ipa{*bʰeh₂ǵos}
-  defs:
-    - beech
+  definitions:
+    - typ: f
+      def: beech
 
-badus:
-  typ: m
+- key: badus
   ety: From PIE \ipa{*bʰeh₂ǵʰús}
-  defs:
-    - arm
+  definitions:
+    - typ: m
+      def: arm
 
-berdos:
-  typ: m
+- key: berdos
   ety: From PIE \ipa{*bʰerHǵós}
-  defs:
-    - birch
-    - bark (of a tree)
+  definitions:
+    - typ: m
+      def: birch
+    - typ: m
+      def: bark (of a tree)
 
-bertis:
-  typ: f
+- key: bertis
   parts: barties
   ety: From PIE \ipa{*bʰértis}
-  defs:
-    - the act of carrying, bearing
+  definitions:
+    - typ: f
+      def: the act of carrying, bearing
 
-bor:
-  typ: m
+- key: bor
   parts: beres, barmos
   ety: From PIE \ipa{*bʰṓr}
-  defs:
-    - thief
+  definitions:
+    - typ: m
+      def: thief
 
-brevan:
-  typ: n
+- key: brevan
   parts: bravens, brunamos
   ety: From PIE \ipa{*bʰréh₁wr̥}
-  defs:
-    - well, spring, source
+  definitions:
+    - typ: n
+      def: well, spring, source
 
-brater:
-  typ: m
+- key: brater
   ety: From PIE \ipa{*bʰréh₂tēr}
-  defs:
-    - brother
+  definitions:
+    - typ: m
+      def: brother
 
-bufmén:
-  typ: m
+- key: bufmén
   parts: bufnes, budanmos
   ety: From PIE \ipa{*bʰudʰmḗn}
-  defs:
-    - bottom
+  definitions:
+    - typ: m
+      def: bottom
 
-nebufmén:
-  typ: m
+- key: nebufmén
   parts: nebufnes, nebudanmos
   ety: From Dan. \ipa{ne + bufmén}
-  defs:
-    - abyss, bottomless pit
+  definitions:
+    - typ: m
+      def: abyss, bottomless pit
 
-buga:
-  typ: f
+- key: buga
   ety: From PIE \ipa{*bʰugéh₂}
-  defs:
-    - flight, escape
+  definitions:
+    - typ: f
+      def: flight, escape
 
-dakru:
-  typ: n
+- key: dakru
   ety: From PIE \ipa{*dáḱru}
-  defs:
-    - tear (in the eyes)
+  definitions:
+    - typ: n
+      def: tear (in the eyes)
 
-daitis:
-  typ: f
+- key: daitis
   ety: From PIE \ipa{*déh₂itis}
-  defs:
-    - time
+  definitions:
+    - typ: f
+      def: time
 
-danu:
-  typ: n
+- key: danu
   ety: From PIE \ipa{*déh₂nu}
-  defs:
-    - river
+  definitions:
+    - typ: n
+      def: river
 
-donom:
-  typ: n
+- key: donom
   ety: From PIE \ipa{*déh₃nom}
-  defs:
-    - gift
+  definitions:
+    - typ: n
+      def: gift
 
-dotis:
-  typ: f
+- key: dotis
   parts: daties
   ety: From PIE \ipa{*déh₃tis}
-  defs:
-    - act of giving
+  definitions:
+    - typ: f
+      def: act of giving
 
-dotor:
-  typ: m
+- key: dotor
   parts: datres
   ety: From PIE \ipa{*déh₃tōr}
-  defs:
-    - giver
+  definitions:
+    - typ: m
+      def: giver
 
-desos:
-  typ: n
+- key: desos
   ety: From PIE \ipa{*déḱos}
-  defs:
-    - that which is proper
+  definitions:
+    - typ: n
+      def: that which is proper
 
-denspotis:
-  typ: m
+- key: denspotis
   ety: From PIE \ipa{*déms pótis}
-  defs:
-    - master of the house
+  definitions:
+    - typ: m
+      def: master of the house
 
-divos:
-  typ: m
+- key: divos
   ety: From PIE \ipa{*deywós}
-  defs:
-    - god
+  definitions:
+    - typ: m
+      def: god
 
-danva:
-  typ: f
+- key: danva
   ety: From PIE \ipa{*dn̥ǵʰwéh₂s}
-  defs:
-    - tongue
-    - language
+  definitions:
+    - typ: f
+      def: tongue
+    - typ: f
+      def: language
 
-dom:
-  typ: m
+- key: dom
   parts: dems
   ety: From PIE \ipa{*dṓm}
-  defs:
-    - house, home
+  definitions:
+    - typ: m
+      def: house, home
 
-doru:
-  typ: n
+- key: doru
   parts: dreves, drumos
   ety: From PIE \ipa{*dóru}
-  defs:
-    - tree
+  definitions:
+    - typ: n
+      def: tree
 
-djus:
-  typ: m
+- key: djus
   parts: dives, djumos
   ety: From PIE \ipa{*dyḗws}
-  defs:
-    - sky, heaven
+  definitions:
+    - typ: m
+      def: sky, heaven
 
-fedóm:
-  typ: f
+- key: fedóm
   parts: fames
   ety: From PIE \ipa{*dʰéǵʰōm}
-  defs:
-    - earth
-    - land
+  definitions:
+    - typ: f
+      def: earth
+    - typ: f
+      def: land
 
-feman:
-  typ: n
+- key: feman
   parts: famens
   ety: From PIE \ipa{*dʰéh₁mn̥}
-  defs:
-    - abode, dwelling
-    - state, order
-    - manner, mode, form
+  definitions:
+    - typ: n
+      def: abode, dwelling
+    - typ: n
+      def: state, order
+    - typ: n
+      def: manner, mode, form
 
-fetis:
-  typ: f
+- key: fetis
   parts: faties
   ety: From PIE \ipa{*dʰéh₁tis}
-  defs:
-    - act of putting, placement
+  definitions:
+    - typ: f
+      def: act of putting, placement
 
-fitis:
-  typ: f
+- key: fitis
   ety: From PIE \ipa{*dʰgʷʰéytis}
-  defs:
-    - decay, destruction
+  definitions:
+    - typ: f
+      def: decay, destruction
 
-fomos:
-  typ: m
+- key: fomos
   ety: From PIE \ipa{*dʰóh₁mos}
-  defs:
-    - that which is put, placed
-    - judgement
+  definitions:
+    - typ: m
+      def: that which is put, placed
+    - typ: m
+      def: judgement
 
-fona:
-  typ: f
+- key: fona
   ety: From PIE \ipa{*dʰoHnéh₂}
-  defs:
-    - bread
+  definitions:
+    - typ: f
+      def: bread
 
-frags:
-  typ: m
+- key: frags
   acc-sg: fragam
   ety: From PIE \ipa{*dʰrā́ks}
-  defs:
-    - dregs, sediment (of wine, oil, fat)
+  definitions:
+    - typ: m
+      def: dregs, sediment (of wine, oil, fat)
 
-frugos:
-  typ: m
+- key: frugos
   ety: From PIE \ipa{*dʰrówgʰos}
-  defs:
-    - a deception, falsehood, lie
+  definitions:
+    - typ: m
+      def: a deception, falsehood, lie
 
-fugater:
-  typ: f
+- key: fugater
   parts: fugtres
   ety: From PIE \ipa{*dʰugh₂tḗr}
-  defs:
-    - daughter
+  definitions:
+    - typ: f
+      def: daughter
 
-fumos:
-  typ: m
+- key: fumos
   ety: From PIE \ipa{*dʰuh₂mós}
-  defs:
-    - smoke
+  definitions:
+    - typ: m
+      def: smoke
 
-vor:
-  typ: m
+- key: vor
   parts: fures, varmos
   ety: From PIE \ipa{*dʰwṓr}
-  defs:
-    - door
+  definitions:
+    - typ: m
+      def: door
 
-delus:
-  typ: m
+- key: delus
   ety: From PIE \ipa{*ǵelu-}
-  defs:
-    - leech
+  definitions:
+    - typ: m
+      def: leech
 
-denaman:
-  typ: n
+- key: denaman
   parts: danamens
   ety: From PIE \ipa{*ǵénh₁mn̥}
-  defs:
-    - offspring, seed
-    - (genealogical) generation
+  definitions:
+    - typ: n
+      def: offspring, seed
+    - typ: n
+      def: (genealogical) generation
 
-denos:
-  typ: n
+- key: denos
   ety: From PIE \ipa{*ǵénh₁os}
-  defs:
-    - race, lineage
+  definitions:
+    - typ: n
+      def: race, lineage
 
-denatis:
-  typ: f
+- key: denatis
   parts: danaties
   ety: From PIE \ipa{*ǵénh₁tis}
-  defs:
-    - birth
-    - production
+  definitions:
+    - typ: f
+      def: birth
+    - typ: f
+      def: production
 
-denator:
-  typ: m
+- key: denator
   parts: danatres
   ety: From PIE \ipa{*ǵénh₁tōr}
-  defs:
-    - one who begets
-    - one who produces
-    - parent
+  definitions:
+    - typ: m
+      def: one who begets
+    - typ: m
+      def: one who produces
+    - typ: m
+      def: parent
 
-denus:
-  typ: f
+- key: denus
   parts: danves, danumos
   ety: From PIE \ipa{*ǵénus}
-  defs:
-    - cheek
-    - jaw
-    - chin
+  definitions:
+    - typ: f
+      def: cheek
+    - typ: f
+      def: jaw
+    - typ: f
+      def: chin
 
-dustus:
-  typ: m
+- key: dustus
   ety: From PIE \ipa{*ǵéwstus}
-  defs:
-    - taste
+  definitions:
+    - typ: m
+      def: taste
 
-donvos:
-  typ: m
+- key: donvos
   ety: From PIE \ipa{*ǵómbʰos}
-  defs:
-    - number
+  definitions:
+    - typ: m
+      def: number
 
-donos:
-  typ: m
+- key: donos
   ety: From PIE \ipa{*ǵónh₁os}
-  defs:
-    - offspring
+  definitions:
+    - typ: m
+      def: offspring
 
-donu:
-  typ: n
+- key: donu
   parts: danves, danumos
   ety: From PIE \ipa{*ǵónu}
-  defs:
-    - knee
+  definitions:
+    - typ: n
+      def: knee
 
-dranom:
-  typ: n
+- key: dranom
   ety: From PIE \ipa{*ǵr̥h₂nóm}
-  defs:
-    - grain
+  definitions:
+    - typ: n
+      def: grain
 
-fer:
-  typ: m
+- key: fer
   ety: From PIE \ipa{*ǵʰḗr}
-  defs:
-    - hedgehog
+  definitions:
+    - typ: m
+      def: hedgehog
 
-fesor:
-  typ: f
+- key: fesor
   ety: From PIE \ipa{*ǵʰésōr}
-  defs:
-    - hand
+  definitions:
+    - typ: f
+      def: hand
 
-fejóm:
-  typ: f
+- key: fejóm
   parts: fimes
   ety: From PIE \ipa{*ǵʰéyōm}
-  defs:
-    - winter
   cat: seasons
+  definitions:
+    - typ: f
+      def: winter
 
-brasmos:
-  typ: m
+- key: brasmos
   ety: From PIE \ipa{*semh₂-}
-  defs:
-    - summer
   cat: seasons
+  definitions:
+    - typ: m
+      def: summer
 
-sosna:
-  typ: f
+- key: sosna
   ety: From PIE \ipa{*(s)h₁es-}
-  defs:
-    - autumn
   cat: seasons
+  definitions:
+    - typ: f
+      def: autumn
 
-vosan:
-  typ: n
+- key: vosan
   parts: vesens
   ety: From PIE \ipa{*wósr̥}
-  defs:
-    - spring
   cat: seasons
+  definitions:
+    - typ: n
+      def: spring
 
-famón:
-  typ: m
+- key: famón
   parts: famnes, famanmos
   ety: From PIE \ipa{*ǵʰm̥nés}
-  defs:
-    - earthling
+  definitions:
+    - typ: m
+      def: earthling
 
-fortos:
-  typ: m
+- key: fortos
   ety: From PIE \ipa{*ǵʰórtos}
-  defs:
-    - enclosure
+  definitions:
+    - typ: m
+      def: enclosure
 
-gerán:
-  typ: m
+- key: gerán
   parts: granes, granmos
   ety: From PIE \ipa{*gerh₂ḗn}
-  defs:
-    - crane, heron
+  definitions:
+    - typ: m
+      def: crane, heron
 
-glis:
-  typ: m
+- key: glis
   parts: gladies, glimos
   ety: From PIE \ipa{*gl̥h₁éys}
-  defs:
-    - weasel
+  definitions:
+    - typ: m
+      def: weasel
 
-hostis:
-  typ: m
+- key: hostis
   ety: From PIE \ipa{*gʰóstis}
-  defs:
-    - guest
+  definitions:
+    - typ: m
+      def: guest
 
-bentis:
-  typ: f
+- key: bentis
   parts: banties
   ety: From PIE \ipa{*gʷémtis}
-  defs:
-    - step, act of walking
+  definitions:
+    - typ: f
+      def: step, act of walking
 
-bena:
-  typ: f
+- key: bena
   ety: From PIE \ipa{*gʷḗn}
-  defs:
-    - woman
+  definitions:
+    - typ: f
+      def: woman
 
-beru:
-  typ: n
+- key: beru
   parts: breves, brumos
   ety: From PIE \ipa{*gʷéru}
-  defs:
-    - spear
+  definitions:
+    - typ: n
+      def: spear
 
-bovs:
-  typ: m
+- key: bovs
   parts: beves, bumos
   ety: From PIE \ipa{*gʷṓws}
-  defs:
-    - cattle
+  definitions:
+    - typ: m
+      def: cattle
 
-bravón:
-  typ: m
+- key: bravón
   parts: brunes, bravanmos
   ety: From PIE \ipa{*gʷréh₂wō}
-  defs:
-    - quern, millstone
+  definitions:
+    - typ: m
+      def: quern, millstone
 
-beros:
-  typ: n
+- key: beros
   ety: From PIE \ipa{*gʷʰéros}
-  defs:
-    - heat
-    - warm weather
+  definitions:
+    - typ: n
+      def: heat
+    - typ: n
+      def: warm weather
 
-bantis:
-  typ: f
+- key: bantis
   ety: From PIE \ipa{*gʷʰn̥téys}
-  defs:
-    - striking, killing
+  definitions:
+    - typ: f
+      def: striking, killing
 
-briva:
-  typ: f
+- key: briva
   ety: From PIE \ipa{*gʷriHwéh₂}
-  defs:
-    - mane, nape
-    - neck, thoat
-    - estuary, mouth of an inlet
+  definitions:
+    - typ: f
+      def: mane, nape
+    - typ: f
+      def: neck, thoat
+    - typ: f
+      def: estuary, mouth of an inlet
 
-agnos:
-  typ: m
+- key: agnos
   ety: From PIE \ipa{*h₂egʷnós}
-  defs:
-    - lamb
+  definitions:
+    - typ: m
+      def: lamb
 
-agos:
-  typ: n
+- key: agos
   ety: From PIE \ipa{*h₂égʰos}
-  defs:
-    - (emotional) distress
+  definitions:
+    - typ: n
+      def: (emotional) distress
 
-adros:
-  typ: m
+- key: adros
   ety: From PIE \ipa{*h₂éǵros}
-  defs:
-    - field
+  definitions:
+    - typ: m
+      def: field
 
-abol:
-  typ: m
+- key: abol
   parts: bles, balmos
   ety: From PIE \ipa{*h₂ébōl}
-  defs:
-    - apple
+  definitions:
+    - typ: m
+      def: apple
 
-videva:
-  typ: f
+- key: videva
   ety: From PIE \ipa{*h₁widʰéwh₂}
-  defs:
-    - widow
+  definitions:
+    - typ: f
+      def: widow
 
-rebos:
-  typ: n
+- key: rebos
   ety: From PIE \ipa{*h₁régʷos}
-  defs:
-    - darkness
+  definitions:
+    - typ: n
+      def: darkness
 
-oitos:
-  typ: m
+- key: oitos
   ety: From PIE \ipa{*h₁óytos}
-  defs:
-    - oath, covenant
+  definitions:
+    - typ: m
+      def: oath, covenant
 
-udan:
-  typ: n
+- key: udan
   ety: From PIE \ipa{*h₁ówdʰr̥}
-  defs:
-    - udder
+  definitions:
+    - typ: n
+      def: udder
 
-ombol:
-  typ: m
+- key: ombol
   ety: From PIE \ipa{*h₂óngʷōl}
-  defs:
-    - charcoal
+  definitions:
+    - typ: m
+      def: charcoal
 
-olos:
-  typ: m
+- key: olos
   ety: From PIE \ipa{*h₁ólos}
-  defs:
-    - awl
+  definitions:
+    - typ: m
+      def: awl
 
-os:
-  typ: n
-  inflection: III-C
+- key: os
   ety: From PIE \ipa{*h₁óh₃s}
-  defs:
-    - mouth
+  definitions:
+    - typ: n
+      def: mouth
+  inflection: III-C
 
-noman:
-  typ: n
+- key: noman
   parts: nemens
   ety: From PIE \ipa{*h₁nómn̥}
-  defs:
-    - name
+  definitions:
+    - typ: n
+      def: name
 
-ludis:
-  typ: m
+- key: ludis
   ety: From PIE \ipa{*h₁léwdʰis}
-  defs:
-    - people
+  definitions:
+    - typ: m
+      def: people
 
-itan:
-  typ: n
+- key: itan
   ety: From PIE \ipa{*h₁éytr̥}
-  defs:
-    - way, course
+  definitions:
+    - typ: n
+      def: way, course
 
-esan:
-  typ: n
+- key: esan
   parts: sens, sanmos
   ety: From PIE \ipa{*h₁ésh₂r̥}
-  defs:
-    - (flowing) blood
+  definitions:
+    - typ: n
+      def: (flowing) blood
 
-esvos:
-  typ: m
+- key: esvos
   ety: From PIE \ipa{*h₁éḱwos}
-  defs:
-    - horse, stallion
+  definitions:
+    - typ: m
+      def: horse, stallion
 
-fans:
-  typ: f
+- key: fans
   ety: From PIE \ipa{*ǵʰh₂éns}
-  defs:
-    - goose
+  definitions:
+    - typ: f
+      def: goose
 
-asmón:
-  typ: m
+- key: asmón
   parts: samnes, smanmos
   ety: From PIE \ipa{*h₂éḱmō}
-  defs:
-    - stone
+  definitions:
+    - typ: m
+      def: stone
 
-alfit:
-  typ: n
+- key: alfit
   parts: alfites, alfitmos
   ety: From PIE \ipa{*h₂élbʰit}
-  defs:
-    - barley
+  definitions:
+    - typ: n
+      def: barley
 
-alisa:
-  typ: f
+- key: alisa
   ety: From PIE \ipa{*h₂élis-}
-  defs:
-    - alder
+  definitions:
+    - typ: f
+      def: alder
 
-anfos:
-  typ: n
+- key: anfos
   ety: From PIE \ipa{*h₂éndʰos}
-  defs:
-    - bloom
+  definitions:
+    - typ: n
+      def: bloom
 
-anfis:
-  typ: m
+- key: anfis
   ety: From PIE \ipa{*h₂éngʷʰis}
-  defs:
-    - snake
+  definitions:
+    - typ: m
+      def: snake
 
-anamos:
-  typ: m
+- key: anamos
   ety: From PIE \ipa{*h₂enh₁mos}
-  defs:
-    - breath
+  definitions:
+    - typ: m
+      def: breath
 
-anats:
-  typ: f
-  acc-sg: anatam
+- key: anats
   abl-pl: anatmos
+  acc-sg: anatam
   ety: From PIE \ipa{*h₂énh₂ts}
-  defs:
-    - duck
+  definitions:
+    - typ: f
+      def: duck
 
-ankos:
-  typ: n
+- key: ankos
   ety: From PIE \ipa{*h₂énkos}
-  defs:
-    - curve, bend
+  definitions:
+    - typ: n
+      def: curve, bend
 
-antjos:
-  typ: m
+- key: antjos
   ety: From PIE \ipa{*h₂entíos}
-  defs:
-    - front
-    - forehead
+  definitions:
+    - typ: m
+      def: front
+    - typ: m
+      def: forehead
 
-artrom:
-  typ: n
+- key: artrom
   ety: From PIE \ipa{*h₂érh₃trom}
-  defs:
-    - plough, ard
+  definitions:
+    - typ: n
+      def: plough, ard
 
-avis:
-  typ: f
+- key: avis
   parts: uvies, vimos
   ety: From PIE \ipa{*h₂éwis}
-  defs:
-    - bird
+  definitions:
+    - typ: f
+      def: bird
 
-ausós:
-  typ: f
+- key: ausós
   parts: uses
   ety: From PIE \ipa{*h₂éwsōs}
-  defs:
-    - dawn
+  definitions:
+    - typ: f
+      def: dawn
 
-ajos:
-  typ: n
+- key: ajos
   ety: From PIE \ipa{*h₂éyos}
-  defs:
-    - copper
   cat: elements
+  definitions:
+    - typ: n
+      def: copper
 
-ner:
-  typ: m
+- key: ner
   parts: andres, narmos
   ety: From PIE \ipa{*h₂nḗr}
-  defs:
-    - power, force, vital energy
+  definitions:
+    - typ: m
+      def: power, force, vital energy
 
-okris:
-  typ: f
+- key: okris
   parts: ekris
   ety: From PIE \ipa{*h₂óḱris}
-  defs:
-    - top, protrusion
-    - sharp edge, corner
+  definitions:
+    - typ: f
+      def: top, protrusion
+    - typ: f
+      def: sharp edge, corner
 
-oms:
-  typ: m
+- key: oms
   parts: ames
   ety: From PIE \ipa{*h₂ṓms}
-  defs:
-    - shoulder
+  definitions:
+    - typ: m
+      def: shoulder
 
-onkos:
-  typ: m
+- key: onkos
   ety: From PIE \ipa{*h₂ónkos}
-  defs:
-    - bend, turn
+  definitions:
+    - typ: m
+      def: bend, turn
 
-ost:
-  typ: n
+- key: ost
   parts: astes
   ety: From PIE \ipa{*h₂óst}
-  defs:
-    - bone
+  definitions:
+    - typ: n
+      def: bone
 
-ovis:
-  typ: f
+- key: ovis
   parts: avies
   ety: From PIE \ipa{*h₂ówis}
-  defs:
-    - sheep
+  definitions:
+    - typ: f
+      def: sheep
 
-us:
-  typ: n
-  inflection: III-C
+- key: us
   parts: auses
   ety: From PIE \ipa{*h₂ṓws}
-  defs:
-    - ear
+  definitions:
+    - typ: n
+      def: ear
+  inflection: III-C
 
-ojom:
-  typ: n
+- key: ojom
   ety: From PIE \ipa{*h₂ōwyóm}
-  defs:
-    - egg
+  definitions:
+    - typ: n
+      def: egg
 
-oju:
-  typ: n
+- key: oju
   parts: juves, jumos
   ety: From PIE \ipa{*h₂óyu}
-  defs:
-    - long life, lifetime
+  definitions:
+    - typ: n
+      def: long life, lifetime
 
-ardantom:
-  typ: n
+- key: ardantom
   ety: From PIE \ipa{*h₂r̥ǵn̥tóm}
-  defs:
-    - silver
   cat: elements
+  definitions:
+    - typ: n
+      def: silver
 
-artos:
-  typ: m
+- key: artos
   ety: From PIE \ipa{*h₂ŕ̥tḱos}
-  defs:
-    - bear
+  definitions:
+    - typ: m
+      def: bear
 
-ster:
-  typ: m
+- key: ster
   ety: From PIE \ipa{*h₂stḗr}
-  defs:
-    - star
+  definitions:
+    - typ: m
+      def: star
 
-lana:
-  typ: f
+- key: lana
   ety: From PIE \ipa{*h₂wĺ̥h₁neh₂}
-  defs:
-    - wool
+  definitions:
+    - typ: f
+      def: wool
 
-vostu:
-  typ: n
+- key: vostu
   ety: From PIE \ipa{*h₂wóstu}
-  defs:
-    - home, dwelling
+  definitions:
+    - typ: n
+      def: home, dwelling
 
-junta:
-  typ: f
+- key: junta
   ety: From PIE \ipa{*h₂yuHn̥téh₂}
-  defs:
-    - youth
+  definitions:
+    - typ: f
+      def: youth
 
-brus¹:
-  typ: adj
+- key: brus¹
   parts: bruves, brumos
   ety: From PIE \ipa{*gʷr̥h₂ús}
-  defs:
-    - heavy
+  definitions:
+    - typ: adj
+      def: heavy
 
-brus²:
-  typ: f
+- key: brus²
   parts: bruves, brumos
   ety: From PIE \ipa{*h₃bʰrúHs}
-  defs:
-    - eyebrow
+  definitions:
+    - typ: f
+      def: eyebrow
 
-donts:
-  typ: m
+- key: donts
   parts: dantes
   ety: From PIE \ipa{*h₃dónts}
-  defs:
-    - tooth
+  definitions:
+    - typ: m
+      def: tooth
 
-odés:
-  typ: m
+- key: odés
   ety: From PIE \ipa{*h₃edʰḗs}
-  defs:
-    - adze, axe, hatchet
+  definitions:
+    - typ: m
+      def: adze, axe, hatchet
 
-omban:
-  typ: n
+- key: omban
   parts: ambens
   ety: From PIE \ipa{*h₃éngʷn̥}
-  defs:
-    - fat, butter
+  definitions:
+    - typ: n
+      def: fat, butter
 
-onos:
-  typ: n
+- key: onos
   ety: From PIE \ipa{*h₃énh₂os}
-  defs:
-    - load, burden
+  definitions:
+    - typ: n
+      def: load, burden
 
-orón:
-  typ: m
+- key: orón
   parts: arnes, ranmos
   ety: From PIE \ipa{*h₃érō}
-  defs:
-    - eagle
+  definitions:
+    - typ: m
+      def: eagle
 
-mihla:
-  typ: f
+- key: mihla
   ety: From PIE \ipa{*h₃migʰleh₂}
-  defs:
-    - mist, fog
+  definitions:
+    - typ: f
+      def: mist, fog
 
-nofilos:
-  typ: m
+- key: nofilos
   ety: From PIE \ipa{*h₃nobʰilos}
-  defs:
-    - navel
+  definitions:
+    - typ: m
+      def: navel
 
-nogs:
-  typ: m
+- key: nogs
   parts: neges
   ety: From PIE \ipa{*h₃nṓgʰs}
-  defs:
-    - nail (of the finger or toe)
+  definitions:
+    - typ: m
+      def: nail (of the finger or toe)
 
-orfos:
-  typ: m
+- key: orfos
   ety: From PIE \ipa{*h₃órbʰos}
-  defs:
-    - orphan
-    - servant, slave, worker
+  definitions:
+    - typ: m
+      def: orphan
+    - typ: m
+      def: servant, slave, worker
 
-osdos:
-  typ: m
+- key: osdos
   ety: From PIE \ipa{*h₃ósdos}
-  defs:
-    - branch
-    - (religious) denomination
+  definitions:
+    - typ: m
+      def: branch
+    - typ: m
+      def: (religious) denomination
 
-reds:
-  typ: m
+- key: reds
   acc-sg: redam
   ety: From PIE \ipa{*h₃rḗǵs}
-  defs:
-    - king, ruler
   cat: ranks-of-nobility
+  definitions:
+    - typ: m
+      def: king, ruler
 
-isus:
-  typ: m
+- key: isus
   ety: From PIE \ipa{*(H)ísus}
-  defs:
-    - arrow
+  definitions:
+    - typ: m
+      def: arrow
 
-ordis:
-  typ: m
+- key: ordis
   ety: From PIE \ipa{*h₄órǵʰis}
-  defs:
-    - testicle
+  definitions:
+    - typ: m
+      def: testicle
 
-serd:
-  typ: n
+- key: serd
   parts: sardes
   ety: From PIE \ipa{*ḱḗr}
-  defs:
-    - heart
+  definitions:
+    - typ: n
+      def: heart
 
-sersón:
-  typ: m
+- key: sersón
   parts: krasnes, krasanmos
   ety: From PIE \ipa{*ḱérh₂sō}
-  defs:
-    - head, skull
+  definitions:
+    - typ: m
+      def: head, skull
 
-slevos:
-  typ: n
+- key: slevos
   ety: From PIE \ipa{*ḱléwos}
-  defs:
-    - fame
+  definitions:
+    - typ: n
+      def: fame
 
-slita:
-  typ: f
+- key: slita
   ety: From PIE \ipa{*ḱléyteh₂}
-  defs:
-    - slope, incline
+  definitions:
+    - typ: f
+      def: slope, incline
 
-slitra:
-  typ: f
+- key: slitra
   ety: From PIE \ipa{*ḱléytreh₂}
-  defs:
-    - shelter, covering
+  definitions:
+    - typ: f
+      def: shelter, covering
 
-slunis:
-  typ: f
+- key: slunis
   ety: From PIE \ipa{*ḱlównis}
-  defs:
-    - buttocks, kip
+  definitions:
+    - typ: f
+      def: buttocks, kip
 
-sopos²:
-  typ: m
+- key: sopos²
   ety: From PIE \ipa{*ḱoph₂ós}
-  defs:
-    - hoof
+  definitions:
+    - typ: m
+      def: hoof
 
-sarsos:
-  typ: m
+- key: sarsos
   ety: From PIE \ipa{*ḱr̥sós}
-  defs:
-    - vehicle
+  definitions:
+    - typ: m
+      def: vehicle
 
-svon:
-  typ: m
+- key: svon
   parts: sunes, svanmos
   ety: From PIE \ipa{*ḱwṓ}
-  defs:
-    - dog
+  definitions:
+    - typ: m
+      def: dog
 
-kagjom:
-  typ: n
+- key: kagjom
   ety: From PIE \ipa{*kagʰyóm}
-  defs:
-    - enclosure, hedge
+  definitions:
+    - typ: n
+      def: enclosure, hedge
 
-kapros:
-  typ: m
+- key: kapros
   ety: From PIE \ipa{*kápros}
-  defs:
-    - goat
+  definitions:
+    - typ: m
+      def: goat
 
-kaput:
-  typ: n
+- key: kaput
   ety: From PIE \ipa{*káput}
-  defs:
-    - head
+  definitions:
+    - typ: n
+      def: head
 
-kotus:
-  typ: m
+- key: kotus
   parts: katves
   ety: From PIE \ipa{*kéh₃tus}
-  defs:
-    - fight
+  definitions:
+    - typ: m
+      def: fight
 
-koksa:
-  typ: f
+- key: koksa
   ety: From PIE \ipa{*kóḱs-}
-  defs:
-    - (anatomy) joint
+  definitions:
+    - typ: f
+      def: (anatomy) joint
 
-peplos:
-  typ: m
+- key: peplos
   ety: From PIE \ipa{*kʷékʷlos}
-  defs:
-    - wheel
-    - circle
+  definitions:
+    - typ: m
+      def: wheel
+    - typ: m
+      def: circle
 
-poina:
-  typ: f
+- key: poina
   ety: From PIE \ipa{*kʷoynéh₂}
-  defs:
-    - payment
-    - punishment, vengeance
+  definitions:
+    - typ: f
+      def: payment
+    - typ: f
+      def: punishment, vengeance
 
-parmis:
-  typ: m
+- key: parmis
   ety: From PIE \ipa{*kʷŕ̥mis}
-  defs:
-    - worm
+  definitions:
+    - typ: m
+      def: worm
 
-lokus:
-  typ: m
+- key: lokus
   parts: alkves
   ety: From PIE \ipa{*lókus}
-  defs:
-    - pond, pool
-    - lake
+  definitions:
+    - typ: m
+      def: pond, pool
+    - typ: m
+      def: lake
 
-luksna:
-  typ: f
+- key: luksna
   ety: From PIE \ipa{*lówksneh₂}
-  defs:
-    - moon
+  definitions:
+    - typ: f
+      def: moon
 
-loisa:
-  typ: f
+- key: loisa
   ety: From PIE \ipa{*lóyseh₂}
-  defs:
-    - following, track
-    - (agriculture) furrow
+  definitions:
+    - typ: f
+      def: following, track
+    - typ: f
+      def: (agriculture) furrow
 
-mens¹:
-  typ: m
-  irregular: yes
+- key: mens¹
   ety: From PIE \ipa{*mḗh₁n̥s}
-  defs:
-    - moon
-    - month
+  definitions:
+    - typ: m
+      def: moon
+    - typ: m
+      def: month
+  irregular: true
 
-mater:
-  typ: f
+- key: mater
   ety: From PIE \ipa{*méh₂tēr}
-  defs:
-    - mother
+  definitions:
+    - typ: f
+      def: mother
 
-melit:
-  typ: n
+- key: melit
   parts: malites
   ety: From PIE \ipa{*mélit}
-  defs:
-    - honey
+  definitions:
+    - typ: n
+      def: honey
 
-mens²:
-  typ: n
-  irregular: yes
+- key: mens²
   ety: From PIE \ipa{*mḗms}
-  defs:
-    - flesh, meat
+  definitions:
+    - typ: n
+      def: flesh, meat
+  irregular: true
 
-menos:
-  typ: n
+- key: menos
   ety: From PIE \ipa{*ménos}
-  defs:
-    - mind
+  definitions:
+    - typ: n
+      def: mind
 
-mentis:
-  typ: f
+- key: mentis
   parts: manties
   ety: From PIE \ipa{*méntis}
-  defs:
-    - thought
+  definitions:
+    - typ: f
+      def: thought
 
-mertis:
-  typ: f
+- key: mertis
   parts: marties
   ety: From PIE \ipa{*mértis}
-  defs:
-    - death
+  definitions:
+    - typ: f
+      def: death
 
-misdos:
-  typ: m
+- key: misdos
   ety: From PIE \ipa{*misdʰós}
-  defs:
-    - reward, prize
-    - wages, payment
+  definitions:
+    - typ: m
+      def: reward, prize
+    - typ: m
+      def: wages, payment
 
-mori:
-  typ: n
+- key: mori
   parts: maries
   ety: From PIE \ipa{*móri}
-  defs:
-    - sea
+  definitions:
+    - typ: n
+      def: sea
 
-morvis:
-  typ: f
+- key: morvis
   parts: marvies
   ety: From PIE \ipa{*morwi-}
-  defs:
-    - ant
+  definitions:
+    - typ: f
+      def: ant
 
-mosgos:
-  typ: m
+- key: mosgos
   ety: From PIE \ipa{*mosgʰós}
-  defs:
-    - marrow
-    - brain
+  definitions:
+    - typ: m
+      def: marrow
+    - typ: m
+      def: brain
 
-mus:
-  typ: m
-  inflection: III-C
+- key: mus
   parts: muses
   ety: From PIE \ipa{*múh₂s}
-  defs:
-    - mouse
+  definitions:
+    - typ: m
+      def: mouse
+  inflection: III-C
 
-mutrom:
-  typ: n
+- key: mutrom
   ety: From PIE \ipa{*múHtrom}
-  defs:
-    - excrement, urine
-    - filth, sediment
+  definitions:
+    - typ: n
+      def: excrement, urine
+    - typ: n
+      def: filth, sediment
 
-anfros:
-  typ: m
+- key: anfros
   ety: From PIE \ipa{*n̥bʰrós}
-  defs:
-    - rain-cloud
-    - rain
+  definitions:
+    - typ: m
+      def: rain-cloud
+    - typ: m
+      def: rain
 
-nefos:
-  typ: n
+- key: nefos
   ety: From PIE \ipa{*nébʰos}
-  defs:
-    - cloud
+  definitions:
+    - typ: n
+      def: cloud
 
-nefros:
-  typ: m
+- key: nefros
   ety: From PIE \ipa{*negʷʰrós}
-  defs:
-    - kidney
+  definitions:
+    - typ: m
+      def: kidney
 
-nas:
-  typ: f
+- key: nas
   ety: From PIE \ipa{*néh₂s}
-  defs:
-    - nose
+  definitions:
+    - typ: f
+      def: nose
 
-nemos:
-  typ: n
+- key: nemos
   ety: From PIE \ipa{*némos}
-  defs:
-    - sacrifice
-    - worship
+  definitions:
+    - typ: n
+      def: sacrifice
+    - typ: n
+      def: worship
 
-nisdos:
-  typ: m
+- key: nisdos
   ety: From PIE \ipa{*nisdós}
-  defs:
-    - nest
+  definitions:
+    - typ: m
+      def: nest
 
-nopts:
-  typ: f
+- key: nopts
   parts: neptes
   ety: From PIE \ipa{*nókʷts}
-  defs:
-    - night
+  definitions:
+    - typ: f
+      def: night
 
-pavan:
-  typ: n
+- key: pavan
   ety: From PIE \ipa{*péh₂wr̥}
-  defs:
-    - bonfire
+  definitions:
+    - typ: n
+      def: bonfire
 
-pesu:
-  typ: n
+- key: pesu
   parts: pasves
   ety: From PIE \ipa{*péḱu}
-  defs:
-    - livestock
+  definitions:
+    - typ: n
+      def: livestock
 
-persus:
-  typ: f
+- key: persus
   parts: parsves
   ety: From PIE \ipa{*pérḱus}
-  defs:
-    - chest
-    - rib
+  definitions:
+    - typ: f
+      def: chest
+    - typ: f
+      def: rib
 
-perkus:
-  typ: m
+- key: perkus
   parts: parkves
   ety: From PIE \ipa{*pérkus}
-  defs:
-    - oak
+  definitions:
+    - typ: m
+      def: oak
 
-pertus:
-  typ: m
+- key: pertus
   parts: partves
   ety: From PIE \ipa{*pértus}
-  defs:
-    - crossing
+  definitions:
+    - typ: m
+      def: crossing
 
-pervan:
-  typ: n
+- key: pervan
   parts: parvens, prumos
   ety: From PIE \ipa{*pérwr̥}
-  defs:
-    - ford, crossing
+  definitions:
+    - typ: n
+      def: ford, crossing
 
-petan:
-  typ: n
+- key: petan
   parts: patens
   ety: From PIE \ipa{*péth₂r̥}
-  defs:
-    - wing
+  definitions:
+    - typ: n
+      def: wing
 
-pater:
-  typ: m
+- key: pater
   ety: From PIE \ipa{*ph₂tḗr}
-  defs:
-    - father
+  definitions:
+    - typ: m
+      def: father
 
-pisda:
-  typ: f
+- key: pisda
   ety: From PIE \ipa{*písdeh₂}
-  defs:
-    - vulva
+  definitions:
+    - typ: f
+      def: vulva
 
-plotus:
-  typ: m
+- key: plotus
   parts: platves
   ety: From PIE \ipa{*pléh₃tus}
-  defs:
-    - flood
+  definitions:
+    - typ: m
+      def: flood
 
-pletos:
-  typ: n
+- key: pletos
   ety: From PIE \ipa{*pléth₂os}
-  defs:
-    - breadth
+  definitions:
+    - typ: n
+      def: breadth
 
-plumón:
-  typ: m
+- key: plumón
   parts: palvamnes, plumanmos
   ety: From PIE \ipa{*pléwmō}
-  defs:
-    - lung
+  definitions:
+    - typ: m
+      def: lung
 
-pluksna:
-  typ: f
+- key: pluksna
   ety: From PIE \ipa{*plúnksneh₂}
-  defs:
-    - feather
+  definitions:
+    - typ: f
+      def: feather
 
-plusis:
-  typ: f
+- key: plusis
   ety: From PIE \ipa{*plúsis}
-  defs:
-    - flea
+  definitions:
+    - typ: f
+      def: flea
 
-numan:
-  typ: n
+- key: numan
   abl-pl: panvamnes
   ety: From PIE \ipa{*pnéwmn̥}
-  defs:
-    - breath
-    - spirit, soul
+  definitions:
+    - typ: n
+      def: breath
+    - typ: n
+      def: spirit, soul
 
-panstis:
-  typ: f
+- key: panstis
   ety: From PIE \ipa{*pn̥kʷstis}
-  defs:
-    - fist
+  definitions:
+    - typ: f
+      def: fist
 
-pods:
-  typ: m
+- key: pods
   parts: pedes
   ety: From PIE \ipa{*pṓds}
-  defs:
-    - foot
+  definitions:
+    - typ: m
+      def: foot
 
-ponts:
-  typ: m
+- key: ponts
   parts: pantes
   ety: From PIE \ipa{*póntoh₁s}
-  defs:
-    - path, way
+  definitions:
+    - typ: m
+      def: path, way
 
-porsos:
-  typ: m
+- key: porsos
   ety: From PIE \ipa{*pórḱos}
-  defs:
-    - pig, piglet, hog, swine
+  definitions:
+    - typ: m
+      def: pig, piglet, hog, swine
 
-pornom:
-  typ: n
+- key: pornom
   ety: From PIE \ipa{*pornóm}
-  defs:
-    - fern, leaf
+  definitions:
+    - typ: n
+      def: fern, leaf
 
-potis:
-  typ: m
+- key: potis
   ety: From PIE \ipa{*pótis}
-  defs:
-    - master, ruler
-    - husband
-    - lord
+  definitions:
+    - typ: m
+      def: master, ruler
+    - typ: m
+      def: husband
+    - typ: m
+      def: lord
 
-sten:
-  typ: m
+- key: sten
   parts: stanes
   ety: From PIE \ipa{*pstḗn}
-  defs:
-    - breast, teat
+  definitions:
+    - typ: m
+      def: breast, teat
 
-puros:
-  typ: m
+- key: puros
   ety: From PIE \ipa{*puHrós}
-  defs:
-    - wheat
+  definitions:
+    - typ: m
+      def: wheat
 
-rugis:
-  typ: m
+- key: rugis
   ety: From PIE \ipa{*rúgʰis}
-  defs:
-    - rye
+  definitions:
+    - typ: m
+      def: rye
 
-sedos:
-  typ: n
+- key: sedos
   ety: From PIE \ipa{*séǵʰos}
-  defs:
-    - power, strength
+  definitions:
+    - typ: n
+      def: power, strength
 
-seman:
-  typ: n
+- key: seman
   parts: samens
   ety: From PIE \ipa{*séh₁mn̥}
-  defs:
-    - seed
-    - semen
+  definitions:
+    - typ: n
+      def: seed
+    - typ: n
+      def: semen
 
-sals:
-  typ: m
+- key: sals
   acc-sg: salam
   ety: From PIE \ipa{*séh₂ls}
-  defs:
-    - salt
+  definitions:
+    - typ: m
+      def: salt
 
-selos:
-  typ: n
+- key: selos
   ety: From PIE \ipa{*sélos}
-  defs:
-    - marsh
+  definitions:
+    - typ: n
+      def: marsh
 
-soia:
-  typ: f
+- key: soia
   ety: From PIE \ipa{*(s)ḱeh₃ih₂}
-  defs:
-    - shadow, shade
+  definitions:
+    - typ: f
+      def: shadow, shade
 
-spalos:
-  typ: m
+- key: spalos
   ety: From PIE \ipa{*(s)kʷálos}
-  defs:
-    - large fish
-    - sheatfish
+  definitions:
+    - typ: m
+      def: large fish
+    - typ: m
+      def: sheatfish
 
-smerus:
-  typ: m
+- key: smerus
   parts: smarves
   ety: From PIE \ipa{*smérus}
-  defs:
-    - grease
+  definitions:
+    - typ: m
+      def: grease
 
-snevan:
-  typ: n
+- key: snevan
   parts: snavens
   ety: From PIE \ipa{*snéh₁wr̥}
-  defs:
-    - sinew, tendon
+  definitions:
+    - typ: n
+      def: sinew, tendon
 
-snetan:
-  typ: n
+- key: snetan
   parts: snatens
   ety: From PIE \ipa{*(s)néHtr̥}
-  defs:
-    - adder (type of snake)
+  definitions:
+    - typ: n
+      def: adder (type of snake)
 
-snoivos:
-  typ: m
+- key: snoivos
   ety: From PIE \ipa{*snóygʷʰos}
-  defs:
-    - snow
+  definitions:
+    - typ: m
+      def: snow
 
-sovan:
-  typ: n
+- key: sovan
   parts: savens
   ety: From PIE \ipa{*sóh₂wl̥}
-  defs:
-    - sun
+  definitions:
+    - typ: n
+      def: sun
 
-sosan:
-  typ: n
+- key: sosan
   parts: sasens
   ety: From PIE \ipa{*sóḱr̥}
-  defs:
-    - dung, excrement
+  definitions:
+    - typ: n
+      def: dung, excrement
 
-sopos¹:
-  typ: m
+- key: sopos¹
   ety: From PIE \ipa{*sokʷos}
-  defs:
-    - juice
+  definitions:
+    - typ: m
+      def: juice
 
-soitos:
-  typ: m
+- key: soitos
   ety: From PIE \ipa{*soytós}
-  defs:
-    - magic
+  definitions:
+    - typ: m
+      def: magic
 
-speks:
-  typ: m
+- key: speks
   parts: spakes
   ety: From PIE \ipa{*spéḱs}
-  defs:
-    - watcher
-    - spy
+  definitions:
+    - typ: m
+      def: watcher
+    - typ: m
+      def: spy
 
-sper:
-  typ: m
+- key: sper
   ety: From PIE \ipa{*spḗr}
-  defs:
-    - sparrow
+  definitions:
+    - typ: m
+      def: sparrow
 
-streps:
-  typ: f
+- key: streps
   parts: strapes
   ety: From PIE \ipa{*(s)rḗps}
-  defs:
-    - turnip, rape, cabbage
+  definitions:
+    - typ: f
+      def: turnip, rape, cabbage
 
-staman:
-  typ: n
+- key: staman
   ety: From PIE \ipa{*stéh₂mn̥}
-  defs:
-    - that which stands, stature
+  definitions:
+    - typ: n
+      def: that which stands, stature
 
-statis:
-  typ: f
+- key: statis
   ety: From PIE \ipa{*stéh₂tis}
-  defs:
-    - standing, position
+  definitions:
+    - typ: f
+      def: standing, position
 
-stoigos:
-  typ: m
+- key: stoigos
   ety: From PIE \ipa{*stóygʰos}
-  defs:
-    - path, way
+  definitions:
+    - typ: m
+      def: path, way
 
-sunus:
-  typ: m
+- key: sunus
   ety: From PIE \ipa{*suHnús}
-  defs:
-    - son
+  definitions:
+    - typ: m
+      def: son
 
-svennos:
-  typ: m
+- key: svennos
   ety: From PIE \ipa{*supnós}
-  defs:
-    - sleep, slumber
+  definitions:
+    - typ: m
+      def: sleep, slumber
 
-svesor:
-  typ: f
+- key: svesor
   parts: sustres, susarmos
   ety: From PIE \ipa{*swésōr}
-  defs:
-    - sister
+  definitions:
+    - typ: f
+      def: sister
 
-tauros:
-  typ: m
+- key: tauros
   ety: From PIE \ipa{*táwros}
-  defs:
-    - bull
+  definitions:
+    - typ: m
+      def: bull
 
-tenos:
-  typ: n
+- key: tenos
   ety: From PIE \ipa{*ténos}
-  defs:
-    - extension
+  definitions:
+    - typ: n
+      def: extension
 
-tentis:
-  typ: f
+- key: tentis
   parts: tanties
   ety: From PIE \ipa{*téntis}
-  defs:
-    - extension
+  definitions:
+    - typ: f
+      def: extension
 
-tepos:
-  typ: n
+- key: tepos
   ety: From PIE \ipa{*tépos}
-  defs:
-    - warmth, heat
+  definitions:
+    - typ: n
+      def: warmth, heat
 
-terman:
-  typ: n
+- key: terman
   parts: tarmens
   ety: From PIE \ipa{*térmn̥}
-  defs:
-    - boundary, end
+  definitions:
+    - typ: n
+      def: boundary, end
 
-tektón:
-  typ: m
+- key: tektón
   parts: taksnes, taksanmos
   ety: From PIE \ipa{*tétḱō}
-  defs:
-    - carpenter
+  definitions:
+    - typ: m
+      def: carpenter
 
-tuta:
-  typ: f
+- key: tuta
   ety: From PIE \ipa{*tewtéh₂}
-  defs:
-    - people, tribe
+  definitions:
+    - typ: f
+      def: people, tribe
 
-tonos:
-  typ: m
+- key: tonos
   ety: From PIE \ipa{*tónos}
-  defs:
-    - chord, fiber, string
+  definitions:
+    - typ: m
+      def: chord, fiber, string
 
-persna:
-  typ: f
+- key: persna
   ety: From PIE \ipa{*tpḗrsneh₂}
-  defs:
-    - heel, upper thigh
+  definitions:
+    - typ: f
+      def: heel, upper thigh
 
-uderos:
-  typ: m
+- key: uderos
   ety: From PIE \ipa{*úderos}
-  defs:
-    - abdomen, stomach, belly
+  definitions:
+    - typ: m
+      def: abdomen, stomach, belly
 
-viman:
-  typ: n
+- key: viman
   ety: From PIE \ipa{*wéh₁imn̥}
-  defs:
-    - that which is twisted, plaiting
+  definitions:
+    - typ: n
+      def: that which is twisted, plaiting
 
-vitis:
-  typ: f
+- key: vitis
   ety: From PIE \ipa{*wéh₁itis}
-  defs:
-    - that which twines or bends
-    - branch, switch
+  definitions:
+    - typ: f
+      def: that which twines or bends
+    - typ: f
+      def: branch, switch
 
-veksperos:
-  typ: m
+- key: veksperos
   ety: From PIE \ipa{*wek(ʷ)speros}
-  defs:
-    - evening
+  definitions:
+    - typ: m
+      def: evening
 
-verdom¹:
-  typ: n
+- key: verdom¹
   ety: From PIE \ipa{*werdʰh₁om}
-  defs:
-    - word
+  definitions:
+    - typ: n
+      def: word
 
-verdom²:
-  typ: n
+- key: verdom²
   ety: From PIE \ipa{*wérǵom}
-  defs:
-    - work
+  definitions:
+    - typ: n
+      def: work
 
-verna:
-  typ: f
+- key: verna
   ety: From PIE \ipa{*wern-}
-  defs:
-    - alder
+  definitions:
+    - typ: f
+      def: alder
 
-vestis:
-  typ: f
+- key: vestis
   parts: usties
   ety: From PIE \ipa{*wéstis}
-  defs:
-    - the act of dressing
-    - clothing
+  definitions:
+    - typ: f
+      def: the act of dressing
+    - typ: f
+      def: clothing
 
-vistor:
-  typ: m
+- key: vistor
   ety: From PIE \ipa{*wéydtōr}
-  defs:
-    - one who has seen, one who knows
-    - witness
+  definitions:
+    - typ: m
+      def: one who has seen, one who knows
+    - typ: m
+      def: witness
 
-viros:
-  typ: m
+- key: viros
   ety: From PIE \ipa{*wiHrós}
-  defs:
-    - man
-    - husband
-    - warrior, hero
+  definitions:
+    - typ: m
+      def: man
+    - typ: m
+      def: husband
+    - typ: m
+      def: warrior, hero
 
-vispotis:
-  typ: m
+- key: vispotis
   ety: From PIE \ipa{*wiḱpótis}
-  defs:
-    - clan chief
-    - lord
+  definitions:
+    - typ: m
+      def: clan chief
+    - typ: m
+      def: lord
 
-valpos:
-  typ: m
+- key: valpos
   ety: From PIE \ipa{*wĺ̥kʷos}
-  defs:
-    - wolf
-    - thief
+  definitions:
+    - typ: m
+      def: wolf
+    - typ: m
+      def: thief
 
-vodan:
-  typ: n
+- key: vodan
   parts: vedens
   ety: From PIE \ipa{*wódr̥}
-  defs:
-    - water
+  definitions:
+    - typ: n
+      def: water
 
-vops:
-  typ: f
+- key: vops
   acc-sg: vopam
   ety: From PIE \ipa{*wṓkʷs}
-  defs:
-    - voice, speech
+  definitions:
+    - typ: f
+      def: voice, speech
 
-rads:
-  typ: f
+- key: rads
   acc-sg: radam
   ety: From PIE \ipa{*wréh₂ds}
-  defs:
-    - root
+  definitions:
+    - typ: f
+      def: root
 
-Ren:
-  typ: m
+- key: Ren
   parts: Ranes
   ety: From PIE \ipa{*wr̥h₁ḗn}
-  defs:
-    - Aries
   cat: constellations
+  definitions:
+    - typ: m
+      def: Aries
 
-jemos:
-  typ: m
+- key: jemos
   ety: From PIE \ipa{*yémHos}
-  defs:
-    - twin
+  definitions:
+    - typ: m
+      def: twin
 
-jugos:
-  typ: n
+- key: jugos
   ety: From PIE \ipa{*yéwgos}
-  defs:
-    - team
-    - pair of yoked animals
+  definitions:
+    - typ: n
+      def: team
+    - typ: n
+      def: pair of yoked animals
 
-somjugos:
-  typ: n
+- key: somjugos
   ety: From Dan. \ipa{som- + jugos}
-  defs:
-    - union
+  definitions:
+    - typ: n
+      def: union
 
-somjugestos:
-  typ: adj
+- key: somjugestos
   ety: From Dan. \ipa{somjugos}
-  defs:
-    - united
+  definitions:
+    - typ: adj
+      def: united
 
-djolet:
-  typ: m
+- key: djolet
   ety: From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}
-  defs:
-    - (political) state
+  definitions:
+    - typ: m
+      def: (political) state
 
-sovietiskos:
-  typ: adj
+- key: sovietiskos
   ety: From Ru. \cyr{сове́т}
-  defs:
-    - Soviet (pertaining to the Soviet Union)
+  definitions:
+    - typ: adj
+      def: Soviet (pertaining to the Soviet Union)
 
-Sovietiskom Somjugos:
-  typ: n
-  defs:
-    - Soviet Union
+- key: Sovietiskom Somjugos
   cat: place-names
+  definitions:
+    - typ: n
+      def: Soviet Union
 
-Somjugos Sovietiskóm Socialistiskóm Respublicóm:
-  typ: n
-  defs:
-    - Union of Soviet Socialist Republics
+- key: Somjugos Sovietiskóm Socialistiskóm Respublicóm
   cat: place-names
+  definitions:
+    - typ: n
+      def: Union of Soviet Socialist Republics
 
-socialistiskos:
-  typ: adj
+- key: socialistiskos
   ety: From Fr. \ipa{socialiste}
-  defs:
-    - socialist
+  definitions:
+    - typ: adj
+      def: socialist
 
-respublica:
-  typ: f
-  ety:  From Lat. \ipa{rēspūblica}
-  defs:
-    - republic
+- key: respublica
+  ety: From Lat. \ipa{rēspūblica}
+  definitions:
+    - typ: f
+      def: republic
 
-America:
-  typ: f
-  ety:  From Lat. \ipa{America}
-  defs:
-    - America
+- key: America
+  ety: From Lat. \ipa{America}
   cat: place-names
+  definitions:
+    - typ: f
+      def: America
 
-Somjugestoi Djoletes Americas:
-  typ: m
-  defs:
-    - United States of America
+- key: Somjugestoi Djoletes Americas
   cat: place-names
+  definitions:
+    - typ: m
+      def: United States of America
 
-jevos:
-  typ: n
+- key: jevos
   ety: From PIE \ipa{*yéwos}
-  defs:
-    - cereal, grain
-    - barley, spelt
+  definitions:
+    - typ: n
+      def: cereal, grain
+    - typ: n
+      def: barley, spelt
 
-jeros:
-  typ: m
+- key: jeros
   ety: From PIE \ipa{*yóh₁r̥}
-  defs:
-    - year
+  definitions:
+    - typ: m
+      def: year
 
-jopan:
-  typ: n
+- key: jopan
   parts: jepens
   ety: From PIE \ipa{*yókʷr̥}
-  defs:
-    - liver
+  definitions:
+    - typ: n
+      def: liver
 
-jugom:
-  typ: n
+- key: jugom
   ety: From PIE \ipa{*yugóm}
-  defs:
-    - yoke
+  definitions:
+    - typ: n
+      def: yoke
 
-spesa:
-  typ: f
+- key: spesa
   ety: From PIE \ipa{*spéh₁s}
-  defs:
-    - prosperity, success
+  definitions:
+    - typ: f
+      def: prosperity, success
 
-reja:
-  typ: f
+- key: reja
   ety: From PIE \ipa{*reh₁is}
-  defs:
-    - wealth, goods, riches
+  definitions:
+    - typ: f
+      def: wealth, goods, riches
 
-naus:
-  typ: f
+- key: naus
   parts: naves, naumos
   ety: From PIE \ipa{*néh₂us}
-  defs:
-    - boat, ship
+  definitions:
+    - typ: f
+      def: boat, ship
 
-lus:
-  typ: m
+- key: lus
   acc-sg: lusam
   ety: From PIE \ipa{*lewH-}
-  defs:
-    - louse
+  definitions:
+    - typ: m
+      def: louse
 
-kreva:
-  typ: f
+- key: kreva
   ety: From PIE \ipa{*kréwh₂s}
-  defs:
-    - (raw) blood
+  definitions:
+    - typ: f
+      def: (raw) blood
 
-Rossia:
-  typ: f
+- key: Rossia
   ety: From BG \gr{Ῥωσία}
-  defs:
-    - Russia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Russia
 
-rossiskos:
-  typ: adj
+- key: rossiskos
   ety: From Dan. \ipa{Rossia}
-  defs:
-    - Russian
+  definitions:
+    - typ: adj
+      def: Russian
 
-Rossiska Foideratión:
-  typ: f
-  defs:
-    - Russian Federation
+- key: Rossiska Foideratión
   cat: place-names
+  definitions:
+    - typ: f
+      def: Russian Federation
 
-palatiom:
-  typ: n
-  ety:  From Lat. \ipa{palātium}
-  defs:
-    - palace
+- key: palatiom
+  ety: From Lat. \ipa{palātium}
+  definitions:
+    - typ: n
+      def: palace
 
-palatiális:
-  typ: adj
+- key: palatiális
   ety: From Fr. \ipa{palatial}, with a latinized ending
-  defs:
-    - palatial, pertaining to palaces
+  definitions:
+    - typ: adj
+      def: palatial, pertaining to palaces
 
-foideratión:
-  typ: f
-  ety:  From Lat. \ipa{foederatio}
-  defs:
-    - federation
+- key: foideratión
+  ety: From Lat. \ipa{foederatio}
+  definitions:
+    - typ: f
+      def: federation
 
-buftos:
-  typ: adj
+- key: buftos
   ety: From PIE \ipa{*bʰudʰtós}
-  defs:
-    - aware
+  definitions:
+    - typ: adj
+      def: aware
 
-brunos:
-  typ: adj
+- key: brunos
   ety: From PIE \ipa{*bʰruHnós}
-  defs:
-    - brown
   cat: colors
+  definitions:
+    - typ: adj
+      def: brown
 
-bosos:
-  typ: adj
+- key: bosos
   ety: From PIE \ipa{*bʰosós}
-  defs:
-    - bare, barefoot
+  definitions:
+    - typ: adj
+      def: bare, barefoot
 
-biftos:
-  typ: adj
+- key: biftos
   ety: From PIE \ipa{*bʰidʰtós}
-  defs:
-    - trusted, trustworthy
+  definitions:
+    - typ: adj
+      def: trusted, trustworthy
 
-bistos:
-  typ: adj
+- key: bistos
   ety: From PIE \ipa{*bʰidtós}
-  defs:
-    - split, cloven
+  definitions:
+    - typ: adj
+      def: split, cloven
 
-bardátos:
-  typ: adj
+- key: bardátos
   ety: From PIE \ipa{*bʰardʰéh₂tos}
-  defs:
-    - bearded
+  definitions:
+    - typ: adj
+      def: bearded
 
-alfos:
-  typ: adj
+- key: alfos
   ety: From PIE \ipa{*albʰós}
-  defs:
-    - white
   cat: colors
+  definitions:
+    - typ: adj
+      def: white
 
-fubros:
-  typ: adj
+- key: fubros
   ety: From PIE \ipa{*dʰubʰrós}
-  defs:
-    - deep
+  definitions:
+    - typ: adj
+      def: deep
 
-fjesteros:
-  typ: adj
+- key: fjesteros
   ety: From PIE \ipa{*dʰǵʰyésteros}
-  defs:
-    - pertaining to yesterday
+  definitions:
+    - typ: adj
+      def: pertaining to yesterday
 
-fjestere:
-  typ: adv
+- key: fjestere
   ety: From Dan. \ipa{fjesteros}
-  defs:
-    - yesterday
+  definitions:
+    - typ: adv
+      def: yesterday
 
-dusmenés:
-  typ: adj
+- key: dusmenés
   ety: From PIE \ipa{*dusmenḗs}
-  defs:
-    - ill-disposed, wicked, evil
+  definitions:
+    - typ: adj
+      def: ill-disposed, wicked, evil
 
-longos:
-  typ: adj
+- key: longos
   ety: From PIE \ipa{*dlongʰos}
-  defs:
-    - long
+  definitions:
+    - typ: adj
+      def: long
 
-divjos:
-  typ: adj
+- key: divjos
   ety: From PIE \ipa{*diwyós}
-  defs:
-    - heavenly
+  definitions:
+    - typ: adj
+      def: heavenly
 
-datos:
-  typ: adj
+- key: datos
   ety: From PIE \ipa{*dh₃tós}
-  defs:
-    - given
+  definitions:
+    - typ: adj
+      def: given
 
-svadus:
-  typ: adj
+- key: svadus
   ety: From PIE \ipa{*swéh₂dus}
-  defs:
-    - sweet
+  definitions:
+    - typ: adj
+      def: sweet
 
-benfus:
-  typ: adj
+- key: benfus
   ety: From PIE \ipa{*bʰénǵʰus}
-  defs:
-    - dense, thick
+  definitions:
+    - typ: adj
+      def: dense, thick
 
-berdonts:
-  typ: adj
+- key: berdonts
   parts: berdantes
   ety: From PIE \ipa{*bʰérǵʰonts}
-  defs:
-    - high, tall
+  definitions:
+    - typ: adj
+      def: high, tall
 
-bantos:
-  typ: adj
+- key: bantos
   ety: From PIE \ipa{*gʷm̥tós}
-  defs:
-    - passable
+  definitions:
+    - typ: adj
+      def: passable
 
-bivos:
-  typ: adj
+- key: bivos
   ety: From PIE \ipa{*gʷih₃wós}
-  defs:
-    - alive, living
+  definitions:
+    - typ: adj
+      def: alive, living
 
-graftos:
-  typ: adj
+- key: graftos
   ety: From PIE \ipa{*gr̥bʰtós}
-  defs:
-    - carved
-    - written
+  definitions:
+    - typ: adj
+      def: carved
+    - typ: adj
+      def: written
 
-futos:
-  typ: adj
+- key: futos
   ety: From PIE \ipa{*ǵʰutós}
-  defs:
-    - poured
+  definitions:
+    - typ: adj
+      def: poured
 
-natos²:
-  typ: adj
+- key: natos²
   ety: From PIE \ipa{*ǵn̥h₃tós}
-  defs:
-    - known, recognizable
+  definitions:
+    - typ: adj
+      def: known, recognizable
 
-natos¹:
-  typ: adj
+- key: natos¹
   ety: From PIE \ipa{*ǵn̥h₁tós}
-  defs:
-    - begotten, produced
+  definitions:
+    - typ: adj
+      def: begotten, produced
 
-deronts:
-  typ: adj
+- key: deronts
   ety: From PIE \ipa{*ǵérh₂onts}
-  defs:
-    - old
+  definitions:
+    - typ: adj
+      def: old
 
-restos:
-  typ: adj
+- key: restos
   ety: From PIE \ipa{*h₃reǵtós}
-  defs:
-    - straightened, right, upright
+  definitions:
+    - typ: adj
+      def: straightened, right, upright
 
-onostos:
-  typ: adj
+- key: onostos
   ety: From PIE \ipa{*h₃enh₂ostos}
-  defs:
-    - loaded; burdened
+  definitions:
+    - typ: adj
+      def: loaded; burdened
 
-junsos:
-  typ: adj
+- key: junsos
   ety: From PIE \ipa{*h₂yuHn̥ḱós}
-  defs:
-    - young
+  definitions:
+    - typ: adj
+      def: young
 
-moldus:
-  typ: adj
+- key: moldus
   ety: From PIE \ipa{*(h₂)moldus}
-  defs:
-    - soft, weak
+  definitions:
+    - typ: adj
+      def: soft, weak
 
-anfus:
-  typ: adj
+- key: anfus
   ety: From PIE \ipa{*h₂énǵʰus}
-  defs:
-    - narrow, tight
+  definitions:
+    - typ: adj
+      def: narrow, tight
 
-amos:
-  typ: adj
+- key: amos
   ety: From PIE \ipa{*h₂eh₃mós}
-  defs:
-    - raw, uncooked
-    - bitter
+  definitions:
+    - typ: adj
+      def: raw, uncooked
+    - typ: adj
+      def: bitter
 
-adrjos:
-  typ: adj
+- key: adrjos
   ety: From PIE \ipa{*h₂éǵr̥yos}
-  defs:
-    - campestral, pertaining to fields
+  definitions:
+    - typ: adj
+      def: campestral, pertaining to fields
 
-vesus:
-  typ: adj
+- key: vesus
   ety: From PIE \ipa{*h₁wésus}
-  defs:
-    - good, excellent
+  definitions:
+    - typ: adj
+      def: good, excellent
 
-verus:
-  typ: adj
+- key: verus
   ety: From PIE \ipa{*h₁wérus}
-  defs:
-    - broad
+  definitions:
+    - typ: adj
+      def: broad
 
-rufros:
-  typ: adj
+- key: rufros
   ety: From PIE \ipa{*h₁rudʰrós}
-  defs:
-    - red
   cat: colors
+  definitions:
+    - typ: adj
+      def: red
 
-lanfros:
-  typ: adj
+- key: lanfros
   ety: From PIE \ipa{*h₁ln̥gʷʰrós}
-  defs:
-    - lightweight
+  definitions:
+    - typ: adj
+      def: lightweight
 
-itos:
-  typ: adj
+- key: itos
   ety: From PIE \ipa{*h₁itós}
-  defs:
-    - passable
+  definitions:
+    - typ: adj
+      def: passable
 
-enteros:
-  typ: adj
+- key: enteros
   ety: From PIE \ipa{*h₁énteros}
-  defs:
-    - inside, within
+  definitions:
+    - typ: adj
+      def: inside, within
 
-juktos:
-  typ: adj
+- key: juktos
   ety: From PIE \ipa{*yugtós}
-  defs:
-    - yoked, joined
+  definitions:
+    - typ: adj
+      def: yoked, joined
 
-varstos:
-  typ: adj
+- key: varstos
   ety: From PIE \ipa{*wr̥ǵtós}
-  defs:
-    - worked, fashioned
+  definitions:
+    - typ: adj
+      def: worked, fashioned
 
-vistos:
-  typ: adj
+- key: vistos
   ety: From PIE \ipa{*widtós}
-  defs:
-    - seen, known
+  definitions:
+    - typ: adj
+      def: seen, known
 
-veros:
-  typ: adj
+- key: veros
   ety: From PIE \ipa{*weh₁ros}
-  defs:
-    - true
+  definitions:
+    - typ: adj
+      def: true
 
-usteros:
-  typ: adj
+- key: usteros
   ety: From PIE \ipa{*údteros}
-  defs:
-    - higher, outer
+  definitions:
+    - typ: adj
+      def: higher, outer
 
-udros:
-  typ: adj
+- key: udros
   ety: From PIE \ipa{*udrós}
-  defs:
-    - of water, aquatic
+  definitions:
+    - typ: adj
+      def: of water, aquatic
 
-tarnos:
-  typ: adj
+- key: tarnos
   ety: From PIE \ipa{*tr̥nós}
-  defs:
-    - sharp, stiff
+  definitions:
+    - typ: adj
+      def: sharp, stiff
 
-tantos:
-  typ: adj
+- key: tantos
   ety: From PIE \ipa{*tn̥tós}
-  defs:
-    - stretched, extended
+  definitions:
+    - typ: adj
+      def: stretched, extended
 
-latos:
-  typ: adj
+- key: latos
   ety: From PIE \ipa{*tl̥h₂tós}
-  defs:
-    - lifted
+  definitions:
+    - typ: adj
+      def: lifted
 
-tenus:
-  typ: adj
+- key: tenus
   ety: From PIE \ipa{*ténh₂us}
-  defs:
-    - thin
+  definitions:
+    - typ: adj
+      def: thin
 
-tegus:
-  typ: adj
+- key: tegus
   ety: From PIE \ipa{*tégus}
-  defs:
-    - thick
+  definitions:
+    - typ: adj
+      def: thick
 
-suros:
-  typ: adj
+- key: suros
   ety: From PIE \ipa{*súHros}
-  defs:
-    - sour, acidic
+  definitions:
+    - typ: adj
+      def: sour, acidic
 
-stratos:
-  typ: m
+- key: stratos
   ety: From PIE \ipa{*str̥h₃tós}
-  defs:
-    - valley
+  definitions:
+    - typ: m
+      def: valley
 
-statos:
-  typ: adj
+- key: statos
   ety: From PIE \ipa{*sth₂tós}
-  defs:
-    - placed, standing
+  definitions:
+    - typ: adj
+      def: placed, standing
 
-senos:
-  typ: adj
+- key: senos
   ety: From PIE \ipa{*sénos}
-  defs:
-    - old
+  definitions:
+    - typ: adj
+      def: old
 
-sestos:
-  typ: adj
+- key: sestos
   ety: From PIE \ipa{*sedtós}
-  defs:
-    - seated
+  definitions:
+    - typ: adj
+      def: seated
 
-prios:
-  typ: adj
+- key: prios
   ety: From PIE \ipa{*priHós}
-  defs:
-    - dear, beloved
-    - happy, free
+  definitions:
+    - typ: adj
+      def: dear, beloved
+    - typ: adj
+      def: happy, free
 
-plutos:
-  typ: adj
+- key: plutos
   ety: From PIE \ipa{*plutós}
-  defs:
-    - washed
-    - floated
+  definitions:
+    - typ: adj
+      def: washed
+    - typ: adj
+      def: floated
 
-paltanos:
-  typ: adj
+- key: paltanos
   ety: From PIE \ipa{*pl̥th₂enós}
-  defs:
-    - wide, broad
+  definitions:
+    - typ: adj
+      def: wide, broad
 
-paltania:
-  typ: f
+- key: paltania
   ety: From Dan. \ipa{paltanos}
-  defs:
-    - width, breadth
+  definitions:
+    - typ: f
+      def: width, breadth
 
-planos:
-  typ: adj
+- key: planos
   ety: From PIE \ipa{*pl̥h₁nós}
-  defs:
-    - full
+  definitions:
+    - typ: adj
+      def: full
 
-pletus:
-  typ: adj
+- key: pletus
   ety: From PIE \ipa{*pléth₂us}
-  defs:
-    - flat, broad
+  definitions:
+    - typ: adj
+      def: flat, broad
 
-pletia:
-  typ: adj
+- key: pletia
   ety: From Dan. \ipa{pletus}
-  defs:
-    - square, plaza
-    - area (geometry)
+  definitions:
+    - typ: adj
+      def: square, plaza
+    - typ: adj
+      def: area (geometry)
 
-martos:
-  typ: adj
+- key: martos
   ety: From PIE \ipa{*mr̥tós}
-  defs:
-    - dead
-    - mortal
+  definitions:
+    - typ: adj
+      def: dead
+    - typ: adj
+      def: mortal
 
-nevos:
-  typ: adj
+- key: nevos
   ety: From PIE \ipa{*néwos}
-  defs:
-    - new
+  definitions:
+    - typ: adj
+      def: new
 
-nesus:
-  typ: adj
+- key: nesus
   ety: From PIE \ipa{*néḱus}
-  defs:
-    - dead
-    - mortal
+  definitions:
+    - typ: adj
+      def: dead
+    - typ: adj
+      def: mortal
 
-mardus:
-  typ: adj
+- key: mardus
   ety: From PIE \ipa{*mr̥ǵʰús}
-  defs:
-    - short
-    - brief
+  definitions:
+    - typ: adj
+      def: short
+    - typ: adj
+      def: brief
 
-makros:
-  typ: adj
+- key: makros
   ety: From PIE \ipa{*mh₂ḱrós}
-  defs:
-    - lean, meager
+  definitions:
+    - typ: adj
+      def: lean, meager
 
-medjos:
-  typ: adj
+- key: medjos
   ety: From PIE \ipa{*médʰyos}
-  defs:
-    - middle
+  definitions:
+    - typ: adj
+      def: middle
 
-kruros:
-  typ: adj
+- key: kruros
   ety: From PIE \ipa{*kruh₂rós}
-  defs:
-    - bloody
+  definitions:
+    - typ: adj
+      def: bloody
 
-karsnos:
-  typ: adj
+- key: karsnos
   ety: From PIE \ipa{*kr̥snós}
-  defs:
-    - black
-    - dark, dusky
+  definitions:
+    - typ: adj
+      def: black
+    - typ: adj
+      def: dark, dusky
 
-kaikos:
-  typ: adj
+- key: kaikos
   ety: From PIE \ipa{*káykos}
-  defs:
-    - blind
+  definitions:
+    - typ: adj
+      def: blind
 
-kaptos:
-  typ: adj
+- key: kaptos
   ety: From PIE \ipa{*kaptós}
-  defs:
-    - seized, held
+  definitions:
+    - typ: adj
+      def: seized, held
 
-slivos:
-  typ: adj
+- key: slivos
   ety: From PIE \ipa{*ḱleywós}
-  defs:
-    - sloped, curved
+  definitions:
+    - typ: adj
+      def: sloped, curved
 
-slitos:
-  typ: adj
+- key: slitos
   ety: From PIE \ipa{*ḱlitós}
-  defs:
-    - covered, sheltered
+  definitions:
+    - typ: adj
+      def: covered, sheltered
 
-slutos:
-  typ: adj
+- key: slutos
   ety: From PIE \ipa{*ḱlutós}
-  defs:
-    - heard, listened
-    - known, famous
+  definitions:
+    - typ: adj
+      def: heard, listened
+    - typ: adj
+      def: known, famous
 
-medanos:
-  typ: adj
+- key: medanos
   ety: From PIE \ipa{*méǵh₂s}
-  defs:
-    - big, great
+  definitions:
+    - typ: adj
+      def: big, great
 
-urusj:
-  typ: m
+- key: urusj
   ety: From a Turkic language; compare Uzbek \ipa{urush} and Turkmen \ipa{uruş}
-  defs:
-    - war
+  definitions:
+    - typ: m
+      def: war
 
-kros:
-  typ: adj
+- key: kros
   ety: From PIE \ipa{*h₂ḱrós}
-  defs:
-    - sharp
+  definitions:
+    - typ: adj
+      def: sharp
 
-vents:
-  typ: m
+- key: vents
   parts: vantes
   ety: From PIE \ipa{*h₂wéh₁n̥ts}
-  defs:
-    - wind
+  definitions:
+    - typ: m
+      def: wind
 
-kentis:
-  typ: f
+- key: kentis
   parts: kanties
   ety: From PIE \ipa{*ken-}
-  defs:
-    - beginning, start
+  definitions:
+    - typ: f
+      def: beginning, start
 
-rodia:
-  typ: f
+- key: rodia
   ety: From PIE \ipa{*h₃reǵ-}
-  defs:
-    - law
-    - (law) right
+  definitions:
+    - typ: f
+      def: law
+    - typ: f
+      def: (law) right
 
-sonfis:
-  typ: m
+- key: sonfis
   ety: From PIE \ipa{*som-dʰh₁-is}, from \ipa{*dʰeh₁-}
-  defs:
-    - judge
+  definitions:
+    - typ: m
+      def: judge
 
-posjolik:
-  typ: m
+- key: posjolik
   ety: From a Turkic language; compare Uzbek \ipa{podsholik}
-  defs:
-    - kingdom
+  definitions:
+    - typ: m
+      def: kingdom
 
-ullimmanos:
-  typ: adj
+- key: ullimmanos
   ety: From Dan. \ipa{linepti}
-  defs:
-    - omitted; forgotten
+  definitions:
+    - typ: adj
+      def: omitted; forgotten
 
-praisidents:
-  typ: m
-  ety:  From Lat. \ipa{praesidēns}
-  defs:
-    - president
+- key: praisidents
+  ety: From Lat. \ipa{praesidēns}
+  definitions:
+    - typ: m
+      def: president
 
-oiconomia:
-  typ: f
-  ety:  From Lat. \ipa{oeconomia}, from AG \gr{οἰκονομία}
-  defs:
-    - economy
+- key: oiconomia
+  ety: From Lat. \ipa{oeconomia}, from AG \gr{οἰκονομία}
+  definitions:
+    - typ: f
+      def: economy
 
-Aigyptos:
-  typ: f
-  ety:  From Lat. \ipa{Aegyptus}, from AG \gr{Αἴγυπτος}, from Egyptian \ipa{ḥwt-kꜣ-ptḥ}
-  defs:
-    - Egypt
+- key: Aigyptos
+  ety: From Lat. \ipa{Aegyptus}, from AG \gr{Αἴγυπτος}, from Egyptian \ipa{ḥwt-kꜣ-ptḥ}
+  definitions:
+    - typ: f
+      def: Egypt
 
-schola:
-  typ: f
-  ety:  From Lat. \ipa{schola}, from AG \gr{σχολή}
-  defs:
-    - school
+- key: schola
+  ety: From Lat. \ipa{schola}, from AG \gr{σχολή}
+  definitions:
+    - typ: f
+      def: school
 
-tjómir:
-  typ: m
-  ety: From a Turkic language; compare Uzbek \ipa{temir}, Turkmen \ipa{demir}, Uyghur \ipa{tömür}, and Kazakh \cyr{темір}
-  defs:
-    - iron
+- key: tjómir
+  ety: From a Turkic language; compare Uzbek \ipa{temir}, Turkmen \ipa{demir}, Uyghur
+    \ipa{tömür}, and Kazakh \cyr{темір}
   cat: elements
+  definitions:
+    - typ: m
+      def: iron
 
-simap:
-  typ: m
-  ety: From a Turkic language; compare Uzbek \ipa{simob}, Uyghur \ipa{simab}, and Turkmen \ipa{simap}
-  defs:
-    - mercury (metal)
+- key: simap
+  ety: From a Turkic language; compare Uzbek \ipa{simob}, Uyghur \ipa{simab}, and
+    Turkmen \ipa{simap}
   cat: elements
+  definitions:
+    - typ: m
+      def: mercury (metal)
 
-metrom:
-  typ: n
+- key: metrom
   ety: From Fr. \ipa{mètre}, from AG \gr{μέτρον}
-  defs:
-    - meter (unit of measurement)
   cat: units-of-measurement
+  definitions:
+    - typ: n
+      def: meter (unit of measurement)
 
-secundom:
-  typ: n
-  ety:  From Lat. \ipa{secundum}
-  defs:
-    - second (unit of measurement)
+- key: secundom
+  ety: From Lat. \ipa{secundum}
   cat: units-of-measurement
+  definitions:
+    - typ: n
+      def: second (unit of measurement)
 
-grammom:
-  typ: n
+- key: grammom
   ety: From Fr. \ipa{gramme}, from AG \gr{γράμμα}
-  defs:
-    - gram (unit of measurement)
   cat: units-of-measurement
+  definitions:
+    - typ: n
+      def: gram (unit of measurement)
 
-oinika:
-  typ: f
+- key: oinika
   ety: From Dan. \ipa{oinos}
-  defs:
-    - unit
+  definitions:
+    - typ: f
+      def: unit
 
-encyclopaidia:
-  typ: f
+- key: encyclopaidia
   ety: From New Latin \ipa{encyclopaedīa}
-  defs:
-    - encyclopedia
+  definitions:
+    - typ: f
+      def: encyclopedia
 
-doctor:
-  typ: m
-  ety:  From Lat. \ipa{doctor}
-  defs:
-    - doctor
+- key: doctor
+  ety: From Lat. \ipa{doctor}
+  definitions:
+    - typ: m
+      def: doctor
 
-physica:
-  typ: f
-  ety:  From Lat. \ipa{physica}, from AG \gr{φυσική}
-  defs:
-    - physics
+- key: physica
+  ety: From Lat. \ipa{physica}, from AG \gr{φυσική}
+  definitions:
+    - typ: f
+      def: physics
 
-oinos:
-  typ: num
+- key: oinos
   ety: From PIE \ipa{*óynos}
-  defs:
-    - one
+  definitions:
+    - typ: num
+      def: one
 
-dvo:
-  typ: num
+- key: dvo
   ety: From PIE \ipa{*dwóh₁}
-  defs:
-    - two
+  definitions:
+    - typ: num
+      def: two
 
-tres:
-  typ: num
+- key: tres
   ety: From PIE \ipa{*tréyes}
-  defs:
-    - three
+  definitions:
+    - typ: num
+      def: three
 
-petvores:
-  typ: num
+- key: petvores
   ety: From PIE \ipa{*kʷetwóres}
-  defs:
-    - four
+  definitions:
+    - typ: num
+      def: four
 
-pempe:
-  typ: num
+- key: pempe
   ety: From PIE \ipa{*pénkʷe}
-  defs:
-    - five
+  definitions:
+    - typ: num
+      def: five
 
-sveks:
-  typ: num
+- key: sveks
   ety: From PIE \ipa{*swéḱs}
-  defs:
-    - six
+  definitions:
+    - typ: num
+      def: six
 
-septam:
-  typ: num
+- key: septam
   ety: From PIE \ipa{*septḿ̥}
-  defs:
-    - seven
+  definitions:
+    - typ: num
+      def: seven
 
-okto:
-  typ: num
+- key: okto
   ety: From PIE \ipa{*oḱtṓw}
-  defs:
-    - eight
+  definitions:
+    - typ: num
+      def: eight
 
-nevan:
-  typ: num
+- key: nevan
   ety: From PIE \ipa{*h₁néwn̥}
-  defs:
-    - nine
+  definitions:
+    - typ: num
+      def: nine
 
-desam:
-  typ: num
+- key: desam
   ety: From PIE \ipa{*déḱm̥}
-  defs:
-    - ten
+  definitions:
+    - typ: num
+      def: ten
 
-vidsant:
-  typ: num
+- key: vidsant
   ety: From PIE \ipa{*wídḱm̥ti}
-  defs:
-    - twenty
+  definitions:
+    - typ: num
+      def: twenty
 
-svenjos:
-  typ: adj
+- key: svenjos
   ety: From PIE \ipa{*ḱwen-}
-  defs:
-    - holy, sacred
+  definitions:
+    - typ: adj
+      def: holy, sacred
 
-svenseti:
-  typ: v
+- key: svenseti
   ety: From PIE \ipa{*ḱwen-}
-  defs:
-    - to make holy, to hallow, to make sacred, to sanctify
+  definitions:
+    - typ: v
+      def: to make holy, to hallow, to make sacred, to sanctify
 
-iti:
-  typ: v
+- key: iti
   ety: From PIE \ipa{*h₁éyti}, with some inflectional forms suppleted by \ipa{*gʷem-}
-  defs:
-    - to go
+  definitions:
+    - typ: v
+      def: to go
 
-en:
-  typ: prep
-  ety: From PIE \ipa{*h₁en}
-  defs:
-    - (+loc) in
-    - (+acc) into
+- key: en
+  definitions:
+    - typ: n
+      def: letter \textit{n}
 
-upo:
-  typ: prep
+- key: upo
   ety: From PIE \ipa{*upó}
-  defs:
-    - (+loc) under
-    - (+ins) according to
+  definitions:
+    - typ: prep
+      def: (+loc) under
+    - typ: prep
+      def: (+ins) according to
 
-úper:
-  typ: prep
+- key: úper
   ety: From PIE \ipa{*upér}
-  defs:
-    - (+loc) over
-    - (+gen) because of
-    - (+ins) about, concerning
-    - (+acc) over, beyond
-    - (+acc) above, exceeding in quantity, upwards of
+  definitions:
+    - typ: prep
+      def: (+loc) over
+    - typ: prep
+      def: (+gen) because of
+    - typ: prep
+      def: (+ins) about, concerning
+    - typ: prep
+      def: (+acc) over, beyond
+    - typ: prep
+      def: (+acc) above, exceeding in quantity, upwards of
 
-uper:
-  typ: adv
+- key: uper
   ety: From PIE \ipa{*upér}
-  defs:
-    - above
+  definitions:
+    - typ: adv
+      def: above
 
-medi:
-  typ: prep
+- key: medi
   ety: From PIE \ipa{*médʰyos}
-  defs:
-    - (+ins) between, among
+  definitions:
+    - typ: prep
+      def: (+ins) between, among
 
-som:
-  typ: prep
+- key: som
   ety: From PIE \ipa{*ḱóm}
-  defs:
-    - (+ins) with
+  definitions:
+    - typ: prep
+      def: (+ins) with
 
-opi:
-  typ: prep
+- key: opi
   ety: From PIE \ipa{*h₁opi}
-  defs:
-    - (+gen) near, at, by
-    - (+gen) before (in the presence of)
+  definitions:
+    - typ: prep
+      def: (+gen) near, at, by
+    - typ: prep
+      def: (+gen) before (in the presence of)
 
-apo:
-  typ: prep
+- key: apo
   ety: From PIE \ipa{*h₂epó}
-  defs:
-    - (+abl) off, away, from
+  definitions:
+    - typ: prep
+      def: (+abl) off, away, from
 
-opiti:
-  typ: v
+- key: opiti
   ety: From Dan. \ipa{opi} and \ipa{iti}
-  defs:
-    - to come
+  definitions:
+    - typ: v
+      def: to come
 
-jehania:
-  typ: f
-  ety: From a Turkic language, and ultimately from Middle Persian \ipa{gēhān}; compare Bashkir \cyr{йыһан}
-  defs:
-    - world, universe, cosmos
+- key: jehania
+  ety: From a Turkic language, and ultimately from Middle Persian \ipa{gēhān}; compare
+    Bashkir \cyr{йыһан}
+  definitions:
+    - typ: f
+      def: world, universe, cosmos
 
-nevidmos:
-  typ: adj
+- key: nevidmos
   ety: From Dan. \ipa{voide}
-  defs:
-    - unseen
+  definitions:
+    - typ: adj
+      def: unseen
 
-nuti:
-  typ: prep
+- key: nuti
   ety: Unknown
-  defs:
-    - (+abl) without
+  definitions:
+    - typ: prep
+      def: (+abl) without
 
-ops:
-  typ: n
+- key: ops
   parts: opes
   ety: From PIE \ipa{*h₃ókʷs}
-  defs:
-    - eye
+  definitions:
+    - typ: n
+      def: eye
 
-pretiops:
-  typ: n
+- key: pretiops
   ety: From PIE \ipa{*préti + *h₃ókʷs}
-  defs:
-    - face
+  definitions:
+    - typ: n
+      def: face
 
-nutipretiopés:
-  typ: adj
+- key: nutipretiopés
   ety: From Dan. \ipa{nuti + pretiops}
-  defs:
-    - faceless, formless, shapeless
+  definitions:
+    - typ: adj
+      def: faceless, formless, shapeless
 
-sivos:
-  typ: adj
+- key: sivos
   ety: Unknown
-  defs:
-    - good
+  definitions:
+    - typ: adj
+      def: good
 
-enurejos:
-  typ: adj
+- key: enurejos
   ety: From PIE \ipa{*h₁(n̥)new + *reh₁is}
-  defs:
-    - poor, wantsome
+  definitions:
+    - typ: adj
+      def: poor, wantsome
 
-enu:
-  typ: prep
+- key: enu
   ety: From PIE \ipa{*h₁(n̥)new}
-  defs:
-    - (+gen) without
+  definitions:
+    - typ: prep
+      def: (+gen) without
 
-tros:
-  typ: prep
+- key: tros
   ety: From PIE \ipa{*trh₂os}
-  defs:
-    - (+acc) through
+  definitions:
+    - typ: prep
+      def: (+acc) through
 
-dege:
-  typ: adv
+- key: dege
   ety: From PIE \ipa{*de + *gʰe}
-  defs:
-    - even; {Dege dorú bivonta. - Even trees are alive.}
-    - indeed, of course, in fact
+  definitions:
+    - typ: adv
+      def: even; {Dege dorú bivonta. - Even trees are alive.}
+    - typ: adv
+      def: indeed, of course, in fact
 
-nege:
-  typ: adv
+- key: nege
   ety: From PIE \ipa{*ne + *gʰe}
-  defs:
-    - not even
+  definitions:
+    - typ: adv
+      def: not even
 
-dégar:
-  typ:  conj
+- key: dégar
   ety: Possibly cognate with AG \gr{γᾰ́ρ}
-  defs:
-    - for, since
+  definitions:
+    - typ: conj
+      def: for, since
 
-uposme:
-  typ: conj
-  ety:  From Dan. \ipa{upo}
-  defs:
-    - as, while
-    - since, seeing as, because
+- key: uposme
+  ety: From Dan. \ipa{upo}
+  definitions:
+    - typ: conj
+      def: as, while
+    - typ: conj
+      def: since, seeing as, because
 
-rama:
-  typ: f
+- key: rama
   ety: From OHG \ipa{rama}
-  defs:
-    - frame (of a building), framework
+  definitions:
+    - typ: f
+      def: frame (of a building), framework
 
-atirama:
-  typ: f
+- key: atirama
   ety: From Dan. \ipa{ati + rama}
-  defs:
-    - firmament (biblical)
+  definitions:
+    - typ: f
+      def: firmament (biblical)
 
-gladjeti:
-  typ: v
+- key: gladjeti
   ety: From PG \ipa{*gladaz}
-  defs:
-    - to please, to make happy, to satisfy
+  definitions:
+    - typ: v
+      def: to please, to make happy, to satisfy
 
-opigladjeti:
-  typ: v
+- key: opigladjeti
   ety: From Dan. \ipa{gladjeti}
-  defs:
-    - to comfort, to console
+  definitions:
+    - typ: v
+      def: to comfort, to console
 
-dulgos:
-  typ: m
+- key: dulgos
   ety: From PG \ipa{*dulgaz}
-  defs:
-    - debt
+  definitions:
+    - typ: m
+      def: debt
 
-sonvistiés:
-  typ: adj
+- key: sonvistiés
   ety: From Dan. \ipa{vistis}
-  defs:
-    - messenger
-    - angel
+  definitions:
+    - typ: adj
+      def: messenger
+    - typ: adj
+      def: angel
 
-vistis:
-  typ: f
+- key: vistis
   ety: From PIE \ipa{*weyd-}
-  defs:
-    - news
+  definitions:
+    - typ: f
+      def: news
 
-somblesnos:
-  typ: m
+- key: somblesnos
   ety: From Dan. \ipa{som + blesnos}
-  defs:
-    - seduction, temptation
+  definitions:
+    - typ: m
+      def: seduction, temptation
 
-blesnos:
-  typ: m
+- key: blesnos
   ety: From PIE \ipa{*bʰleǵ-}
-  defs:
-    - bait, lure
+  definitions:
+    - typ: m
+      def: bait, lure
 
-balnia:
-  typ: f
+- key: balnia
   ety: From Dan. \ipa{baljo}
-  defs:
-    - failure, error
+  definitions:
+    - typ: f
+      def: failure, error
 
-nauman:
-  typ: n
+- key: nauman
   ety: From PIE \ipa{*neh₂ut-}
-  defs:
-    - need, necessity
+  definitions:
+    - typ: n
+      def: need, necessity
 
-lukos:
-  typ: m
+- key: lukos
   ety: From PIE \ipa{*lewk-}
-  defs:
-    - light
+  definitions:
+    - typ: m
+      def: light
 
-lúketor:
-  typ: v
+- key: lúketor
   ety: From PIE \ipa{*lewk-}
-  defs:
-    - to shine, to illuminate
+  definitions:
+    - typ: v
+      def: to shine, to illuminate
 
-slabjeti:
-  typ: v
+- key: slabjeti
   ety: From PIE \ipa{*sl̥h₂gʷ-}
-  defs:
-    - to seize, to grasp, to take
+  definitions:
+    - typ: v
+      def: to seize, to grasp, to take
 
-protislabjeti:
-  typ: v
+- key: protislabjeti
   ety: From Dan. \ipa{slabyeti}
-  defs:
-    - to understand, to comprehend
+  definitions:
+    - typ: v
+      def: to understand, to comprehend
 
-baljo:
-  typ: v
+- key: baljo
   ety: From PIE \ipa{*bʰāl-}
-  defs:
-    - to fail, to err, to miss
+  definitions:
+    - typ: v
+      def: to fail, to err, to miss
 
-preseti:
-  typ: v
+- key: preseti
   ety: From PIE \ipa{*preḱ-}
-  defs:
-    - to ask, to question; (Use the dative case for the person receiving the question.)
-    - to ask for, to petition, to request; (Use the ablative case for the person receiving the request.)
+  definitions:
+    - typ: v
+      def: to ask, to question; (Use the dative case for the person receiving the question.)
+    - typ: v
+      def: to ask for, to petition, to request; (Use the ablative case for the person
+      receiving the request.)
 
-anapreseti:
-  typ: v
+- key: anapreseti
   ety: From Dan. \ipa{preseti}
-  defs:
-    - to pray (Use the dative case on the person being prayed to.)
+  definitions:
+    - typ: v
+      def: to pray (Use the dative case on the person being prayed to.)
 
-lekseti:
-  typ: v
+- key: lekseti
   ety: From PIE \ipa{*h₂lékseti}
-  defs:
-    - to protect, defend
+  definitions:
+    - typ: v
+      def: to protect, defend
 
-pisjeti:
-  typ: v
+- key: pisjeti
   ety: From PIE \ipa{*peyḱ-}
-  defs:
-    - to write
+  definitions:
+    - typ: v
+      def: to write
 
-sontíeti:
-  typ: v
+- key: sontíeti
   ety: From PIE \ipa{*sont-éye-}
-  defs:
-    - to send
+  definitions:
+    - typ: v
+      def: to send
 
-solnos:
-  typ: pron
+- key: solnos
   ety: From PIE \ipa{*solh₂-}
-  defs:
-    - whole (in singular), all (in plural)
+  definitions:
+    - typ: pron
+      def: whole (in singular), all (in plural)
 
-podegos:
-  typ: pron
+- key: podegos
   ety: From Dan. \ipa{po + dege}
-  defs:
-    - each
+  definitions:
+    - typ: pron
+      def: each
 
-oinodesam:
-  typ: num
+- key: oinodesam
   ety: From PIE \ipa{*óynos + *déḱm̥}
-  defs:
-    - eleven
+  definitions:
+    - typ: num
+      def: eleven
 
-dvoidesam:
-  typ: num
+- key: dvoidesam
   ety: From PIE \ipa{*dwóh₁ + *déḱm̥}
-  defs:
-    - twelve
+  definitions:
+    - typ: num
+      def: twelve
 
-tridesam:
-  typ: num
+- key: tridesam
   ety: From PIE \ipa{*tréyes + *déḱm̥}
-  defs:
-    - thirteen
+  definitions:
+    - typ: num
+      def: thirteen
 
-petvordesam:
-  typ: num
+- key: petvordesam
   ety: From PIE \ipa{*kʷetwóres + *déḱm̥}
-  defs:
-    - fourteen
+  definitions:
+    - typ: num
+      def: fourteen
 
-pempedesam:
-  typ: num
+- key: pempedesam
   ety: From PIE \ipa{*pénkʷe + *déḱm̥}
-  defs:
-    - fifteen
+  definitions:
+    - typ: num
+      def: fifteen
 
-svesdesam:
-  typ: num
+- key: svesdesam
   ety: From PIE \ipa{*swéḱs + *déḱm̥}
-  defs:
-    - sixteen
+  definitions:
+    - typ: num
+      def: sixteen
 
-septandesam:
-  typ: num
+- key: septandesam
   ety: From PIE \ipa{*septḿ̥ + *déḱm̥}
-  defs:
-    - seventeen
+  definitions:
+    - typ: num
+      def: seventeen
 
-oktodesam:
-  typ: num
+- key: oktodesam
   ety: From PIE \ipa{*oḱtṓw + *déḱm̥}
-  defs:
-    - eighteen
+  definitions:
+    - typ: num
+      def: eighteen
 
-nevandesam:
-  typ: num
+- key: nevandesam
   ety: From PIE \ipa{*h₁néwn̥ + *déḱm̥}
-  defs:
-    - nineteen
+  definitions:
+    - typ: num
+      def: nineteen
 
-esti¹:
-  typ: v
+- key: esti¹
   ety: From PIE \ipa{*h₁ésti}
-  defs:
-    - to be
+  definitions:
+    - typ: v
+      def: to be
 
-fet:
-  typ: v
+- key: fet
   ety: From PIE \ipa{*dʰeh₁-}
-  defs:
-    - to make, to do
-    - to put, to place
+  definitions:
+    - typ: v
+      def: to make, to do
+    - typ: v
+      def: to put, to place
 
-vepti:
-  typ: v
+- key: vepti
   ety: From PIE \ipa{*wekʷ-}
-  defs:
-    - to speak (when used in the imperfective aspect)
-    - to say (when used in the perfective aspect)
+  definitions:
+    - typ: v
+      def: to speak (when used in the imperfective aspect)
+    - typ: v
+      def: to say (when used in the perfective aspect)
 
-voide:
-  typ: v
+- key: voide
   ety: From PIE \ipa{*weyd-}
-  defs:
-    - to see (when used in the imperfective aspect)
-    - to look (when used in the perfective aspect)
+  definitions:
+    - typ: v
+      def: to see (when used in the imperfective aspect)
+    - typ: v
+      def: to look (when used in the perfective aspect)
 
-bideti:
-  typ: v
+- key: bideti
   ety: From PIE \ipa{*bʰeyd-}
-  defs:
-    - to split
-    - to separate, to divide
+  definitions:
+    - typ: v
+      def: to split
+    - typ: v
+      def: to separate, to divide
 
-denati:
-  typ: v
+- key: denati
   ety: From PIE \ipa{*ǵenh₁-}
-  defs:
-    - to produce, to create
-    - to give birth
-    - to be born (when used in the mediopassive voice)
+  definitions:
+    - typ: v
+      def: to produce, to create
+    - typ: v
+      def: to give birth
+    - typ: v
+      def: to be born (when used in the mediopassive voice)
 
-verteti:
-  typ: v
+- key: verteti
   ety: From PIE \ipa{*wert-}
-  defs:
-    - to turn, to spin
+  definitions:
+    - typ: v
+      def: to turn, to spin
 
-vid:
-  typ: interj
+- key: vid
   ety: From Dan. \ipa{voide}
-  defs:
-    - lo, behold, look
+  definitions:
+    - typ: interj
+      def: lo, behold, look
 
-pro:
-  typ: prep
+- key: pro
   ety: From PIE \ipa{*pró}
-  defs:
-    - (+gen) before
-    - (+dat) on behalf of, for the sake of
+  definitions:
+    - typ: prep
+      def: (+gen) before
+    - typ: prep
+      def: (+dat) on behalf of, for the sake of
 
-garaidos:
-  typ: adj
+- key: garaidos
   ety: From PG \ipa{*garaidaz}
-  defs:
-    - ready, prepared
-    - prepared, arranged
+  definitions:
+    - typ: adj
+      def: ready, prepared
+    - typ: adj
+      def: prepared, arranged
 
-garaidíeti:
-  typ: v
+- key: garaidíeti
   ety: From Dan. \ipa{garaidos}
-  defs:
-    - to make ready
-    - to get ready (when used in the mediopassive voice)
+  definitions:
+    - typ: v
+      def: to make ready
+    - typ: v
+      def: to get ready (when used in the mediopassive voice)
 
-do:
-  typ: prep
+- key: do
   ety: From PIE \ipa{*do}
-  defs:
-    - up to, till, until
+  definitions:
+    - typ: prep
+      def: up to, till, until
 
-stadis:
-  typ: m
+- key: stadis
   ety: From PG \ipa{*stadiz}
-  defs:
-    - place, location
+  definitions:
+    - typ: m
+      def: place, location
 
-apolúketor:
-  typ: v
+- key: apolúketor
   ety: From Dan. \ipa{apo- + lúketor}
-  defs:
-    - to appear
+  definitions:
+    - typ: v
+      def: to appear
 
-susnos:
-  typ: adj
+- key: susnos
   ety: From PIE \ipa{*h₂sews-}
-  defs:
-    - dry
+  definitions:
+    - typ: adj
+      def: dry
 
-bloti:
-  typ: v
+- key: bloti
   ety: From PIE \ipa{*bʰleh₃-}
-  defs:
-    - to grow (of plants)
-    - to sprout, to germinate
-    - to bloom, to flower
+  definitions:
+    - typ: v
+      def: to grow (of plants)
+    - typ: v
+      def: to sprout, to germinate
+    - typ: v
+      def: to bloom, to flower
 
-gronis:
-  typ: adj
+- key: gronis
   ety: From PG \ipa{*grōniz}
-  defs:
-    - green
+  definitions:
+    - typ: adj
+      def: green
 
-hreman:
-  typ: n
+- key: hreman
   ety: From PIE \ipa{*gʰreh₁}
-  defs:
-    - grass
+  definitions:
+    - typ: n
+      def: grass
 
-sugeti:
-  typ: v
+- key: sugeti
   ety: From PG \ipa{*sugō}
-  defs:
-    - to sow; to scatter or disperse seeds
+  definitions:
+    - typ: v
+      def: to sow; to scatter or disperse seeds
 
-svenis:
-  typ: f
+- key: svenis
   ety: From Danetian \ipa{sve}
-  defs:
-    - image, likeness
+  definitions:
+    - typ: f
+      def: image, likeness
 
-fructus:
-  typ: m
-  ety:  From Lat. \ipa{frūctus}
-  defs:
-    - fruit
+- key: fructus
+  ety: From Lat. \ipa{frūctus}
+  definitions:
+    - typ: m
+      def: fruit
 
-gar:
-  typ: conj
+- key: gar
   ety: Possibly cognate with AG \gr{γᾰ́ρ}
-  defs:
-    - so that, for the purpose that
+  definitions:
+    - typ: conj
+      def: so that, for the purpose that
 
-erstidis:
-  typ: f
+- key: erstidis
   ety: From PG \ipa{*airi + *tīdiz}
-  defs:
-    - season
+  definitions:
+    - typ: f
+      def: season
 
-flugeti:
-  typ: v
+- key: flugeti
   ety: From PG \ipa{*fleugō}
-  defs:
-    - to fly
+  definitions:
+    - typ: v
+      def: to fly
 
-groti:
-  typ: v
+- key: groti
   ety: From PG \ipa{*grōaną}
-  defs:
-    - to grow
+  definitions:
+    - typ: v
+      def: to grow
 
-pleníeti:
-  typ: v
+- key: pleníeti
   ety: From Dan. \ipa{planos}
-  defs:
-    - to fill
+  definitions:
+    - typ: v
+      def: to fill
 
-potíeti:
-  typ: v
+- key: potíeti
   ety: From Dan. \ipa{potis}
-  defs:
-    - to rule, to govern
+  definitions:
+    - typ: v
+      def: to rule, to govern
 
-pistis:
-  typ: m
+- key: pistis
   ety: From PIE \ipa{*peysḱ-}
-  defs:
-    - fish
+  definitions:
+    - typ: m
+      def: fish
 
-fodón:
-  typ: m
+- key: fodón
   ety: From PG \ipa{*fōdô}
-  defs:
-    - food, nourishment
+  definitions:
+    - typ: m
+      def: food, nourishment
 
-haunis:
-  typ: adj
+- key: haunis
   ety: From PG \ipa{*hauniz}
-  defs:
-    - low
-    - despised, poor, miserable
-    - sad, depressed
+  definitions:
+    - typ: adj
+      def: low
+    - typ: adj
+      def: despised, poor, miserable
+    - typ: adj
+      def: sad, depressed
 
-upohauníeti:
-  typ: v
+- key: upohauníeti
   ety: From Dan. \ipa{haunis}
-  defs:
-    - to duck
+  definitions:
+    - typ: v
+      def: to duck
 
-dat:
-  typ: c
+- key: dat
   ety: From Dan. \ipa{datos}
-  defs:
-    - if
+  definitions:
+    - typ: c
+      def: if
 
-peris:
-  typ: f
+- key: peris
   ety: From PIE \ipa{*per-}
-  defs:
-    - fear
+  definitions:
+    - typ: f
+      def: fear
 
-Jacobos:
-  typ: m
-  ety:  From Lat. \ipa{Jacōbus}
-  defs:
-    - Jacob, James, Jacques
+- key: Jacobos
+  ety: From Lat. \ipa{Jacōbus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Jacob, James, Jacques
 
-Joánna:
-  typ: m
+- key: Joánna
   ety: From AG \gr{Ἰωάννης}
-  defs:
-    - John
   cat: personal-names
+  definitions:
+    - typ: m
+      def: John
 
-Robértos:
-  typ: m
-  ety:  From Lat. \ipa{Robertus}
-  defs:
-    - Robert
+- key: Robértos
+  ety: From Lat. \ipa{Robertus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Robert
 
-Michael:
-  typ: m
+- key: Michael
   ety: From AG \gr{Μῐχᾱήλ}
-  defs:
-    - Michael
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Michael
 
-Viljelmos:
-  typ: m
+- key: Viljelmos
   ety: Ultimately from PG \ipa{*Wiljahelmaz}
-  defs:
-    - William, Wilhelm, Guillermo, Guillaume
   cat: personal-names
+  definitions:
+    - typ: m
+      def: William, Wilhelm, Guillermo, Guillaume
 
-David:
-  typ: m
+- key: David
   ety: From AG \gr{Δαυῑ́δ}
-  defs:
-    - David
   cat: personal-names
+  definitions:
+    - typ: m
+      def: David
 
-Richardos:
-  typ: m
-  ety:  From Lat. \ipa{Richardus}
-  defs:
-    - Richard, Ricardo
+- key: Richardos
+  ety: From Lat. \ipa{Richardus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Richard, Ricardo
 
-Josephos:
-  typ: m
-  ety:  From Lat. \ipa{Iōsēphus}
-  defs:
-    - Joseph, José
+- key: Josephos
+  ety: From Lat. \ipa{Iōsēphus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Joseph, José
 
-Thoma:
-  typ: m
+- key: Thoma
   ety: From AG \gr{Θωμᾶς}
-  defs:
-    - Thomas
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Thomas
 
-Karlos:
-  typ: m
+- key: Karlos
   ety: From PG \ipa{*karlaz}
-  defs:
-    - Charles, Carlos
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Charles, Carlos
 
-Christophoros:
-  typ: m
+- key: Christophoros
   ety: From AG \gr{Χρῑστόφορος}
-  defs:
-    - Christopher
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Christopher
 
-Daniel:
-  typ: m
+- key: Daniel
   ety: From AG \gr{Δᾱνῑήλ}
-  defs:
-    - Daniel
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Daniel
 
-Matthaios:
-  typ: m
+- key: Matthaios
   ety: From AG \gr{Ματθαῖος}
-  defs:
-    - Matthew
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Matthew
 
-Antonios:
-  typ: m
-  ety:  From Lat. \ipa{Antonius}
-  defs:
-    - Anthony
+- key: Antonios
+  ety: From Lat. \ipa{Antonius}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Anthony
 
-Donald:
-  typ: m
+- key: Donald
   ety: From En. \ipa{Donald}
-  defs:
-    - Donald
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Donald
 
-Marcos:
-  typ: m
-  ety:  From Lat. \ipa{Marcus}
-  defs:
-    - Mark
+- key: Marcos
+  ety: From Lat. \ipa{Marcus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Mark
 
-Paulos:
-  typ: m
-  ety:  From Lat. \ipa{Paulus}
-  defs:
-    - Paul
+- key: Paulos
+  ety: From Lat. \ipa{Paulus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Paul
 
-Stephanos:
-  typ: m
+- key: Stephanos
   ety: From AG \gr{Στέφανος}
-  defs:
-    - Steven, Stephen, Stephanus
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Steven, Stephen, Stephanus
 
-Andréa:
-  typ: m
+- key: Andréa
   ety: From AG \gr{Ἀνδρέᾱς}
-  defs:
-    - Andrew, André, Andrés
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Andrew, André, Andrés
 
-Jesus:
-  typ: m
+- key: Jesus
   ety: From AG \gr{Ἰησοῦς}
-  defs:
-    - Jesus, Joshua
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Jesus, Joshua
 
-Braján:
-  typ: m
+- key: Braján
   ety: From En. \ipa{Brian}
-  defs:
-    - Brian, Bryan
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Brian, Bryan
 
-Georgios:
-  typ: m
+- key: Georgios
   ety: From AG \gr{Γεώργῐος}
-  defs:
-    - George, Jorge
   cat: personal-names
+  definitions:
+    - typ: m
+      def: George, Jorge
 
-Edvardos:
-  typ: m
-  ety: Ultimately from PG\ipa{*Audawarduz}
-  defs:
-    - Edward, Eduardo
+- key: Edvardos
+  ety: Ultimately from PG \ipa{*Audawarduz}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Edward, Eduardo
 
-Reginvaldos:
-  typ: m
+- key: Reginvaldos
   ety: Ultimately from PG \ipa{*Raginawaldaz}
-  defs:
-    - Ronald, Reginald, Reynold, Reinhold
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Ronald, Reginald, Reynold, Reinhold
 
-Timotheos:
-  typ: m
+- key: Timotheos
   ety: From AG \gr{Τῑμόθεος}
-  defs:
-    - Timothy
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Timothy
 
-Jasón:
-  typ: m
+- key: Jasón
   ety: From AG \gr{Ἰάσων}
-  defs:
-    - Jason
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Jason
 
-Jotfredos:
-  typ: m
+- key: Jotfredos
   ety: Ultimately from PG \ipa{*Gautafriþuz}
-  defs:
-    - Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
 
-Raján:
-  typ: m
+- key: Raján
   ety: From En. \ipa{Ryan}
-  defs:
-    - Ryan
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Ryan
 
-Nicola:
-  typ: m
+- key: Nicola
   ety: Ultimately from AG \gr{Νῑκόλᾱος}
-  defs:
-    - Nicholas, Nikola, Nikolai
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Nicholas, Nikola, Nikolai
 
-Erik:
-  typ: m
+- key: Erik
   ety: Ultimately from PG \ipa{*Aizarīkijaz}
-  defs:
-    - Eric, Erik
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Eric, Erik
 
-Jonathán:
-  typ: m
+- key: Jonathán
   ety: From AG \gr{Ἰωνάθαν}
-  defs:
-    - Jonathan
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Jonathan
 
-Laurentios:
-  typ: m
-  ety:  From Lat. \ipa{Laurentius}
-  defs:
-    - Lawrence, Laurence, Lorenzo, Laurent
+- key: Laurentios
+  ety: From Lat. \ipa{Laurentius}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Lawrence, Laurence, Lorenzo, Laurent
 
-Justínos:
-  typ: m
-  ety:  From Lat. \ipa{Iūstīnus}
-  defs:
-    - Justin
+- key: Justínos
+  ety: From Lat. \ipa{Iūstīnus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Justin
 
-Benjamín:
-  typ: m
+- key: Benjamín
   ety: From AG \gr{Βενιᾱμῑ́ν}
-  defs:
-    - Benjamin
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Benjamin
 
-Samuel:
-  typ: m
+- key: Samuel
   ety: From AG \gr{Σαμουήλ}
-  defs:
-    - Samuel
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Samuel
 
-Gregorios:
-  typ: m
+- key: Gregorios
   ety: From AG \gr{Γρηγόριος}
-  defs:
-    - Gregory
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Gregory
 
-Raimondos:
-  typ: m
+- key: Raimondos
   ety: Equivalent to En. and Fr. \ipa{Raymond}
-  defs:
-    - Raymond, Ramón
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Raymond, Ramón
 
-Alexandros:
-  typ: m
+- key: Alexandros
   ety: From AG \gr{Ἀλέξανδρος}
-  defs:
-    - Alexander, Alejandro
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Alexander, Alejandro
 
-Hendrik:
-  typ: m
+- key: Hendrik
   ety: Ultimately from PG \ipa{*Haimarīks}
-  defs:
-    - Henry, Henrik, Henri, Heinrich, Enrique, Enrico
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Henry, Henrik, Henri, Heinrich, Enrique, Enrico
 
-Adám:
-  typ: m
+- key: Adám
   ety: From AG \gr{Ᾱ̓δᾱ́μ}
-  defs:
-    - Adam
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Adam
 
-Petros:
-  typ: m
+- key: Petros
   ety: From AG \gr{Πέτρος}
-  defs:
-    - Peter, Pedro
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Peter, Pedro
 
-luvjeti:
-  typ: v
+- key: luvjeti
   ety: From PIE \ipa{*lewbʰ-}
-  defs:
-    - to love
+  definitions:
+    - typ: v
+      def: to love
 
-luvos:
-  typ: m
+- key: luvos
   ety: From Dan. \ipa{luvjeti}
-  defs:
-    - love
+  definitions:
+    - typ: m
+      def: love
 
-alisketi:
-  typ: v
+- key: alisketi
   ety: From PG \ipa{*aliskōną}
-  defs:
-    - to love, to cherish
+  definitions:
+    - typ: v
+      def: to love, to cherish
 
-drageti:
-  typ: v
+- key: drageti
   ety: From PG \ipa{*draganą}
-  defs:
-    - to drag
+  definitions:
+    - typ: v
+      def: to drag
 
-tendeti:
-  typ: v
+- key: tendeti
   ety: From PIE \ipa{*tend-}
-  defs:
-    - to stretch, to extend
+  definitions:
+    - typ: v
+      def: to stretch, to extend
 
-blevos:
-  typ: adj
+- key: blevos
   ety: From PG \ipa{*blēwaz}
-  defs:
-    - blue
+  definitions:
+    - typ: adj
+      def: blue
 
-satjeti:
-  typ: v
+- key: satjeti
   ety: From PG \ipa{satjaną}
-  defs:
-    - to set, to place down
+  definitions:
+    - typ: v
+      def: to set, to place down
 
-brantos:
-  typ: adj
+- key: brantos
   ety: Related to ON \ipa{brant}
-  defs:
-    - steep
+  definitions:
+    - typ: adj
+      def: steep
 
-vidia:
-  typ: f
+- key: vidia
   ety: From PIE \ipa{*weyd-}
-  defs:
-    - knowledge, wisdom
+  definitions:
+    - typ: f
+      def: knowledge, wisdom
 
-tendeman:
-  typ: n
+- key: tendeman
   ety: From Dan. \ipa{tendeti}
-  defs:
-    - space
+  definitions:
+    - typ: n
+      def: space
 
-sondenés:
-  typ: adj
+- key: sondenés
   ety: From Dan. \ipa{som + denos}
-  defs:
-    - related
+  definitions:
+    - typ: adj
+      def: related
 
-sonféretor:
-  typ: v
+- key: sonféretor
   ety: From Dan. \ipa{bereti}
-  defs:
-    - to behave
+  definitions:
+    - typ: v
+      def: to behave
 
-krosna:
-  typ: f
+- key: krosna
   ety: From PIE \ipa{*ḱerh₂-}
-  defs:
-    - horn
+  definitions:
+    - typ: f
+      def: horn
 
-belia:
-  typ: f
+- key: belia
   ety: From PIE \ipa{*bel-}
-  defs:
-    - strength
-    - (physics) force
+  definitions:
+    - typ: f
+      def: strength
+    - typ: f
+      def: (physics) force
 
-bolos:
-  typ: adj
+- key: bolos
   ety: From PIE \ipa{*bel-}
-  defs:
-    - strong, mighty
+  definitions:
+    - typ: adj
+      def: strong, mighty
 
-klava:
-  typ: f
+- key: klava
   ety: From PG \ipa{*klawō}
-  defs:
-    - claw
+  definitions:
+    - typ: f
+      def: claw
 
-pereti:
-  typ: v
+- key: pereti
   ety: From PIE \ipa{*per-}
-  defs:
-    - to pierce, to run through
+  definitions:
+    - typ: v
+      def: to pierce, to run through
 
-sagjeti:
-  typ: v
+- key: sagjeti
   ety: From PIE \ipa{*séh₂gyeti}
-  defs:
-    - to give a sign
-    - to mark
-    - to mean, to signify
+  definitions:
+    - typ: v
+      def: to give a sign
+    - typ: v
+      def: to mark
+    - typ: v
+      def: to mean, to signify
 
-sagjetis:
-  typ: f
+- key: sagjetis
   ety: From Dan. \ipa{sagjeti}
-  defs:
-    - meaning, the meaning of something
-    - a sign or a mark
+  definitions:
+    - typ: f
+      def: meaning, the meaning of something
+    - typ: f
+      def: a sign or a mark
 
-rodis:
-  typ: f
+- key: rodis
   ety: From Dan. \ipa{reds}
-  defs:
-    - rule (regla)
-    - rule (reino)
+  definitions:
+    - typ: f
+      def: rule (regla)
+    - typ: f
+      def: rule (reino)
 
-fjena:
-  typ: f
+- key: fjena
   ety: From PIE \ipa{*dʰeh₁(y)-}
-  defs:
-    - young woman; virgin, maiden
+  definitions:
+    - typ: f
+      def: young woman; virgin, maiden
 
-kamán:
-  typ: m
+- key: kamán
   ety: From Persian \arab{کمان}
-  defs:
-    - bow (weapon)
+  definitions:
+    - typ: m
+      def: bow (weapon)
 
-istrom:
-  typ: n
+- key: istrom
   ety: From Dan. \ipa{isus}
-  defs:
-    - bow (weapon)
+  definitions:
+    - typ: n
+      def: bow (weapon)
 
-atjeria:
-  typ: f
+- key: atjeria
   ety: From Dan. \ipa{ati- + jeros + -ia}
-  defs:
-    - (in plural) eternity
+  definitions:
+    - typ: f
+      def: (in plural) eternity
 
-sadeti:
-  typ: v
+- key: sadeti
   ety: From PIE \ipa{*ḱh₂d-}
-  defs:
-    - to fall, to fall down
+  definitions:
+    - typ: v
+      def: to fall, to fall down
 
-Portugalia:
-  typ: f
-  defs:
-    - Portugal
+- key: Portugalia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Portugal
 
-Hispania:
-  typ: f
-  defs:
-    - Spain
+- key: Hispania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Spain
 
-Gallia:
-  typ: f
-  defs:
-    - France
+- key: Gallia
   cat: place-names
+  definitions:
+    - typ: f
+      def: France
 
-Germania:
-  typ: f
-  defs:
-    - Germany
+- key: Germania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Germany
 
-Britannia:
-  typ: f
-  defs:
-    - Britain
+- key: Britannia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Britain
 
-Polonia:
-  typ: f
-  defs:
-    - Poland
+- key: Polonia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Poland
 
-Helvetia:
-  typ: f
-  defs:
-    - Switzerland
+- key: Helvetia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Switzerland
 
-Italia:
-  typ: f
-  defs:
-    - Italy
+- key: Italia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Italy
 
-París:
-  typ: f
-  defs:
-    - Paris
+- key: París
   cat: place-names
+  definitions:
+    - typ: f
+      def: Paris
 
-Madrid:
-  typ: m
-  defs:
-    - Madrid
+- key: Madrid
   cat: place-names
+  definitions:
+    - typ: m
+      def: Madrid
 
-Roma:
-  typ: f
-  defs:
-    - Rome
+- key: Roma
   cat: place-names
+  definitions:
+    - typ: f
+      def: Rome
 
-Moscovia:
-  typ: f
-  defs:
-    - Moscow
+- key: Moscovia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Moscow
 
-Peruvia:
-  typ: f
-  defs:
-    - Peru
+- key: Peruvia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Peru
 
-Columbia:
-  typ: f
-  defs:
-    - Colombia
+- key: Columbia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Colombia
 
-sphaira:
-  typ: f
+- key: sphaira
   ety: From AG \gr{σφαῖρᾰ}
-  defs:
-    - sphere
+  definitions:
+    - typ: f
+      def: sphere
 
-Jonia:
-  typ: f
+- key: Jonia
   ety: From AG \gr{Ἰωνῐ́ᾱ}
-  defs:
-    - Greece
   cat: place-names
+  definitions:
+    - typ: f
+      def: Greece
 
-Canada:
-  typ: f
-  defs:
-    - Canada
+- key: Canada
   cat: place-names
+  definitions:
+    - typ: f
+      def: Canada
 
-Serbia:
-  typ: f
-  defs:
-    - Serbia
+- key: Serbia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Serbia
 
-Ucrania:
-  typ: f
-  defs:
-    - Ukraine
+- key: Ucrania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Ukraine
 
-Hitania:
-  typ: f
-  ety: From a Turkic language. Compare Uzbek \cyr{Хитой}, Turkmen \ipa{Hytaý}, and Tajik \cyr{Хитой}
-  defs:
-    - China
+- key: Hitania
+  ety: From a Turkic language. Compare Uzbek \cyr{Хитой}, Turkmen \ipa{Hytaý}, and
+    Tajik \cyr{Хитой}
   cat: place-names
+  definitions:
+    - typ: f
+      def: China
 
-Hibernia:
-  typ: f
-  defs:
-    - Ireland
+- key: Hibernia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Ireland
 
-Persia:
-  typ: f
-  defs:
-    - Persia
+- key: Persia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Persia
 
-Irania:
-  typ: f
-  defs:
-    - Iran
+- key: Irania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Iran
 
-bomba:
-  typ: f
+- key: bomba
   ety: From It. \ipa{bomba}
-  defs:
-    - bomb
+  definitions:
+    - typ: f
+      def: bomb
 
-Turcia:
-  typ: f
-  defs:
-    - Turkey
+- key: Turcia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Turkey
 
-hydrogenos:
-  typ: n
-  defs:
-    - hydrogen
+- key: hydrogenos
   cat: elements
+  definitions:
+    - typ: n
+      def: hydrogen
 
-heliom:
-  typ: n
-  defs:
-    - helium
+- key: heliom
   cat: elements
+  definitions:
+    - typ: n
+      def: helium
 
-lithiom:
-  typ: n
-  defs:
-    - lithium
+- key: lithiom
   cat: elements
+  definitions:
+    - typ: n
+      def: lithium
 
-berylliom:
-  typ: n
-  defs:
-    - beryllium
+- key: berylliom
   cat: elements
+  definitions:
+    - typ: n
+      def: beryllium
 
-borom:
-  typ: n
-  defs:
-    - boron
+- key: borom
   cat: elements
+  definitions:
+    - typ: n
+      def: boron
 
-kulom:
-  typ: n
+- key: kulom
   ety: From PG \ipa{*kulą}
-  defs:
-    - carbon
-    - coal
   cat: elements
+  definitions:
+    - typ: n
+      def: carbon
+    - typ: n
+      def: coal
 
-nitrogenos:
-  typ: n
-  defs:
-    - nitrogen
+- key: nitrogenos
   cat: elements
+  definitions:
+    - typ: n
+      def: nitrogen
 
-oxygenos:
-  typ: n
-  defs:
-    - oxygen
+- key: oxygenos
   cat: elements
+  definitions:
+    - typ: n
+      def: oxygen
 
-fluorom:
-  typ: n
-  defs:
-    - fluorine
+- key: fluorom
   cat: elements
+  definitions:
+    - typ: n
+      def: fluorine
 
-neón:
-  typ: m
-  defs:
-    - neon
+- key: neón
   cat: elements
+  definitions:
+    - typ: m
+      def: neon
 
-natriom:
-  typ: n
-  defs:
-    - sodium
+- key: natriom
   cat: elements
+  definitions:
+    - typ: n
+      def: sodium
 
-magnesiom:
-  typ: n
-  defs:
-    - magnesium
+- key: magnesiom
   cat: elements
+  definitions:
+    - typ: n
+      def: magnesium
 
-aluminiom:
-  typ: n
-  defs:
-    - aluminium, aluminum
+- key: aluminiom
   cat: elements
+  definitions:
+    - typ: n
+      def: aluminium, aluminum
 
-siliciom:
-  typ: n
-  defs:
-    - silicon
+- key: siliciom
   cat: elements
+  definitions:
+    - typ: n
+      def: silicon
 
-phosphoros:
-  typ: m
-  defs:
-    - phosphorus
+- key: phosphoros
   cat: elements
+  definitions:
+    - typ: m
+      def: phosphorus
 
-sveblos:
-  typ: m
+- key: sveblos
   ety: From PG \ipa{*sweblaz}
-  defs:
-    - sulfur
   cat: elements
+  definitions:
+    - typ: m
+      def: sulfur
 
-chlorom:
-  typ: n
-  defs:
-    - chlorine
+- key: chlorom
   cat: elements
+  definitions:
+    - typ: n
+      def: chlorine
 
-argón:
-  typ: m
-  defs:
-    - argon
+- key: argón
   cat: elements
+  definitions:
+    - typ: m
+      def: argon
 
-kaliom:
-  typ: n
-  defs:
-    - potassium
+- key: kaliom
   cat: elements
+  definitions:
+    - typ: n
+      def: potassium
 
-calciom:
-  typ: n
-  defs:
-    - calcium
+- key: calciom
   cat: elements
+  definitions:
+    - typ: n
+      def: calcium
 
-scandiom:
-  typ: n
-  defs:
-    - scandium
+- key: scandiom
   cat: elements
+  definitions:
+    - typ: n
+      def: scandium
 
-titaniom:
-  typ: n
-  defs:
-    - titanium
+- key: titaniom
   cat: elements
+  definitions:
+    - typ: n
+      def: titanium
 
-vanadiom:
-  typ: n
-  defs:
-    - vanadium
+- key: vanadiom
   cat: elements
+  definitions:
+    - typ: n
+      def: vanadium
 
-chromiom:
-  typ: n
-  defs:
-    - chromium
+- key: chromiom
   cat: elements
+  definitions:
+    - typ: n
+      def: chromium
 
-manganiom:
-  typ: n
-  defs:
-    - manganese
+- key: manganiom
   cat: elements
+  definitions:
+    - typ: n
+      def: manganese
 
-cobaltiom:
-  typ: n
-  defs:
-    - cobalt
+- key: cobaltiom
   cat: elements
+  definitions:
+    - typ: n
+      def: cobalt
 
-niccolom:
-  typ: n
-  defs:
-    - nickel
+- key: niccolom
   cat: elements
+  definitions:
+    - typ: n
+      def: nickel
 
-zincom:
-  typ: n
-  defs:
-    - zinc
+- key: zincom
   cat: elements
+  definitions:
+    - typ: n
+      def: zinc
 
-galliom:
-  typ: n
-  defs:
-    - gallium
+- key: galliom
   cat: elements
+  definitions:
+    - typ: n
+      def: gallium
 
-germaniom:
-  typ: n
-  defs:
-    - germanium
+- key: germaniom
   cat: elements
+  definitions:
+    - typ: n
+      def: germanium
 
-arsenicom:
-  typ: n
-  defs:
-    - arsenic
+- key: arsenicom
   cat: elements
+  definitions:
+    - typ: n
+      def: arsenic
 
-seleniom:
-  typ: n
-  defs:
-    - selenium
+- key: seleniom
   cat: elements
+  definitions:
+    - typ: n
+      def: selenium
 
-bromom:
-  typ: n
-  defs:
-    - bromine
+- key: bromom
   cat: elements
+  definitions:
+    - typ: n
+      def: bromine
 
-kryptón:
-  typ: m
-  defs:
-    - krypton
+- key: kryptón
   cat: elements
+  definitions:
+    - typ: m
+      def: krypton
 
-rubidiom:
-  typ: n
-  defs:
-    - rubidium
+- key: rubidiom
   cat: elements
+  definitions:
+    - typ: n
+      def: rubidium
 
-strontiom:
-  typ: n
-  defs:
-    - strontium
+- key: strontiom
   cat: elements
+  definitions:
+    - typ: n
+      def: strontium
 
-yttriom:
-  typ: n
-  defs:
-    - yttrium
+- key: yttriom
   cat: elements
+  definitions:
+    - typ: n
+      def: yttrium
 
-zirconiom:
-  typ: n
-  defs:
-    - zirconium
+- key: zirconiom
   cat: elements
+  definitions:
+    - typ: n
+      def: zirconium
 
-niobiom:
-  typ: n
-  defs:
-    - niobium
+- key: niobiom
   cat: elements
+  definitions:
+    - typ: n
+      def: niobium
 
-molybdainom:
-  typ: n
-  defs:
-    - molybdenum
+- key: molybdainom
   cat: elements
+  definitions:
+    - typ: n
+      def: molybdenum
 
-technetiom:
-  typ: n
-  defs:
-    - technetium
+- key: technetiom
   cat: elements
+  definitions:
+    - typ: n
+      def: technetium
 
-rutheniom:
-  typ: n
-  defs:
-    - ruthenium
+- key: rutheniom
   cat: elements
+  definitions:
+    - typ: n
+      def: ruthenium
 
-rhodiom:
-  typ: n
-  defs:
-    - rhodium
+- key: rhodiom
   cat: elements
+  definitions:
+    - typ: n
+      def: rhodium
 
-palladiom:
-  typ: n
-  defs:
-    - palladium
+- key: palladiom
   cat: elements
+  definitions:
+    - typ: n
+      def: palladium
 
-cadmiom:
-  typ: n
-  defs:
-    - cadmium
+- key: cadmiom
   cat: elements
+  definitions:
+    - typ: n
+      def: cadmium
 
-indiom:
-  typ: n
-  defs:
-    - indium
+- key: indiom
   cat: elements
+  definitions:
+    - typ: n
+      def: indium
 
-galái:
-  typ: m
+- key: galái
   ety: From a Turkic language. Compare Azerbaijani \ipa{qalay}
-  defs:
-    - tin (metal)
   cat: elements
+  definitions:
+    - typ: m
+      def: tin (metal)
 
-stibiom:
-  typ: n
-  ety:  From Lat. \ipa{stibium}
-  defs:
-    - antimony
+- key: stibiom
+  ety: From Lat. \ipa{stibium}
   cat: elements
+  definitions:
+    - typ: n
+      def: antimony
 
-telluriom:
-  typ: n
-  defs:
-    - tellurium
+- key: telluriom
   cat: elements
+  definitions:
+    - typ: n
+      def: tellurium
 
-jodom:
-  typ: n
-  defs:
-    - iodine
+- key: jodom
   cat: elements
+  definitions:
+    - typ: n
+      def: iodine
 
-xenón:
-  typ: m
-  defs:
-    - xenon
+- key: xenón
   cat: elements
+  definitions:
+    - typ: m
+      def: xenon
 
-caisiom:
-  typ: n
-  defs:
-    - caesium, cesium
+- key: caisiom
   cat: elements
+  definitions:
+    - typ: n
+      def: caesium, cesium
 
-bariom:
-  typ: n
-  defs:
-    - barium
+- key: bariom
   cat: elements
+  definitions:
+    - typ: n
+      def: barium
 
-lanthanom:
-  typ: n
-  defs:
-    - lanthanum
+- key: lanthanom
   cat: elements
+  definitions:
+    - typ: n
+      def: lanthanum
 
-ceriom:
-  typ: n
-  defs:
-    - cerium
+- key: ceriom
   cat: elements
+  definitions:
+    - typ: n
+      def: cerium
 
-praseodymiom:
-  typ: n
-  defs:
-    - praseodymium
+- key: praseodymiom
   cat: elements
+  definitions:
+    - typ: n
+      def: praseodymium
 
-neodymiom:
-  typ: n
-  defs:
-    - neodymium
+- key: neodymiom
   cat: elements
+  definitions:
+    - typ: n
+      def: neodymium
 
-promethiom:
-  typ: n
-  defs:
-    - promethium
+- key: promethiom
   cat: elements
+  definitions:
+    - typ: n
+      def: promethium
 
-samariom:
-  typ: n
-  defs:
-    - samarium
+- key: samariom
   cat: elements
+  definitions:
+    - typ: n
+      def: samarium
 
-Európa:
-  typ: f
+- key: Európa
   ety: From AG \gr{Εὐρώπη}
-  defs:
-    - Europe
   cat: place-names
+  definitions:
+    - typ: f
+      def: Europe
 
-europiom:
-  typ: n
-  defs:
-    - europium
+- key: europiom
   cat: elements
+  definitions:
+    - typ: n
+      def: europium
 
-gadoliniom:
-  typ: n
-  defs:
-    - gadolinium
+- key: gadoliniom
   cat: elements
+  definitions:
+    - typ: n
+      def: gadolinium
 
-terbiom:
-  typ: n
-  defs:
-    - terbium
+- key: terbiom
   cat: elements
+  definitions:
+    - typ: n
+      def: terbium
 
-dysprosiom:
-  typ: n
-  defs:
-    - dysprosium
+- key: dysprosiom
   cat: elements
+  definitions:
+    - typ: n
+      def: dysprosium
 
-holmiom:
-  typ: n
-  defs:
-    - holmium
+- key: holmiom
   cat: elements
+  definitions:
+    - typ: n
+      def: holmium
 
-Holmia:
-  typ: f
-  ety:  From Lat. \ipa{Holmia}
-  defs:
-    - Stockholm
+- key: Holmia
+  ety: From Lat. \ipa{Holmia}
   cat: place-names
+  definitions:
+    - typ: f
+      def: Stockholm
 
-erbiom:
-  typ: n
-  defs:
-    - erbium
+- key: erbiom
   cat: elements
+  definitions:
+    - typ: n
+      def: erbium
 
-thuliom:
-  typ: n
-  defs:
-    - thulium
+- key: thuliom
   cat: elements
+  definitions:
+    - typ: n
+      def: thulium
 
-ytterbiom:
-  typ: n
-  defs:
-    - ytterbium
+- key: ytterbiom
   cat: elements
+  definitions:
+    - typ: n
+      def: ytterbium
 
-lutetiom:
-  typ: n
-  defs:
-    - lutetium
+- key: lutetiom
   cat: elements
+  definitions:
+    - typ: n
+      def: lutetium
 
-hafniom:
-  typ: n
-  defs:
-    - hafnium
+- key: hafniom
   cat: elements
+  definitions:
+    - typ: n
+      def: hafnium
 
-Hafnia:
-  typ: f
-  ety:  From Lat. \ipa{Hafnia}
-  defs:
-    - Copenhagen
+- key: Hafnia
+  ety: From Lat. \ipa{Hafnia}
   cat: place-names
+  definitions:
+    - typ: f
+      def: Copenhagen
 
-tantaliom:
-  typ: n
-  defs:
-    - tantalum
+- key: tantaliom
   cat: elements
+  definitions:
+    - typ: n
+      def: tantalum
 
-wolframiom:
-  typ: n
-  defs:
-    - wolfram, wolframium, tungsten
+- key: wolframiom
   cat: elements
+  definitions:
+    - typ: n
+      def: wolfram, wolframium, tungsten
 
-rheniom:
-  typ: n
-  defs:
-    - rhenium
+- key: rheniom
   cat: elements
+  definitions:
+    - typ: n
+      def: rhenium
 
-Rhenos:
-  typ: m
-  defs:
-    - Rhine
+- key: Rhenos
   cat: place-names
+  definitions:
+    - typ: m
+      def: Rhine
 
-osmiom:
-  typ: n
-  defs:
-    - osmium
+- key: osmiom
   cat: elements
+  definitions:
+    - typ: n
+      def: osmium
 
-iridiom:
-  typ: n
-  defs:
-    - iridium
+- key: iridiom
   cat: elements
+  definitions:
+    - typ: n
+      def: iridium
 
-platína:
-  typ: f
-  defs:
-    - platinum
+- key: platína
   cat: elements
+  definitions:
+    - typ: f
+      def: platinum
 
-altin:
-  typ: m
+- key: altin
   ety: From a Turkic language. Compare Turkmen \ipa{altyn} and Uzbek \ipa{oltin}
-  defs:
-    - gold
   cat: elements
+  definitions:
+    - typ: m
+      def: gold
 
-thalliom:
-  typ: n
-  defs:
-    - thallium
+- key: thalliom
   cat: elements
+  definitions:
+    - typ: n
+      def: thallium
 
-gursjun:
-  typ: m
+- key: gursjun
   ety: From a Turkic language. Compare Turkmen \ipa{gurşun} and Turkish \ipa{kurşun}
-  defs:
-    - lead (metal)
   cat: elements
+  definitions:
+    - typ: m
+      def: lead (metal)
 
-bismútom:
-  typ: n
-  defs:
-    - bismuth
+- key: bismútom
   cat: elements
+  definitions:
+    - typ: n
+      def: bismuth
 
-poloniom:
-  typ: n
-  defs:
-    - polonium
+- key: poloniom
   cat: elements
+  definitions:
+    - typ: n
+      def: polonium
 
-astatom:
-  typ: n
-  defs:
-    - astatine
+- key: astatom
   cat: elements
+  definitions:
+    - typ: n
+      def: astatine
 
-radón:
-  typ: m
-  defs:
-    - radon
+- key: radón
   cat: elements
+  definitions:
+    - typ: m
+      def: radon
 
-franciom:
-  typ: n
-  defs:
-    - francium
+- key: franciom
   cat: elements
+  definitions:
+    - typ: n
+      def: francium
 
-radiom:
-  typ: n
-  defs:
-    - radium
+- key: radiom
   cat: elements
+  definitions:
+    - typ: n
+      def: radium
 
-actiniom:
-  typ: n
-  defs:
-    - actinium
+- key: actiniom
   cat: elements
+  definitions:
+    - typ: n
+      def: actinium
 
-thoriom:
-  typ: n
-  defs:
-    - thorium
+- key: thoriom
   cat: elements
+  definitions:
+    - typ: n
+      def: thorium
 
-protactiniom:
-  typ: n
-  defs:
-    - protactinium
+- key: protactiniom
   cat: elements
+  definitions:
+    - typ: n
+      def: protactinium
 
-uraniom:
-  typ: n
-  defs:
-    - uranium
+- key: uraniom
   cat: elements
+  definitions:
+    - typ: n
+      def: uranium
 
-neptuniom:
-  typ: n
-  defs:
-    - neptunium
+- key: neptuniom
   cat: elements
+  definitions:
+    - typ: n
+      def: neptunium
 
-plutoniom:
-  typ: n
-  defs:
-    - plutonium
+- key: plutoniom
   cat: elements
+  definitions:
+    - typ: n
+      def: plutonium
 
-americiom:
-  typ: n
-  defs:
-    - americium
+- key: americiom
   cat: elements
+  definitions:
+    - typ: n
+      def: americium
 
-curiom:
-  typ: n
-  defs:
-    - curium
+- key: curiom
   cat: elements
+  definitions:
+    - typ: n
+      def: curium
 
-berkeliom:
-  typ: n
-  defs:
-    - berkelium
+- key: berkeliom
   cat: elements
+  definitions:
+    - typ: n
+      def: berkelium
 
-californiom:
-  typ: n
-  defs:
-    - californium
+- key: californiom
   cat: elements
+  definitions:
+    - typ: n
+      def: californium
 
-Albertos Ainstain:
-  typ: m
-  defs:
-    - Albert Einstein
+- key: Albertos Ainstain
   cat: real-people
+  definitions:
+    - typ: m
+      def: Albert Einstein
 
-Leonardos Óiler:
-  typ: m
-  defs:
-    - Leonhard Euler
+- key: Leonardos Óiler
   cat: real-people
+  definitions:
+    - typ: m
+      def: Leonhard Euler
 
-Frederik:
-  typ: m
+- key: Frederik
   ety: From PG \ipa{*Friþurīks}
-  defs:
-    - Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
 
-Joánna Karlos Frederik Gauss:
-  typ: m
-  defs:
-    - Johann Carl Friedrich Gauss
+- key: Joánna Karlos Frederik Gauss
   cat: real-people
+  definitions:
+    - typ: m
+      def: Johann Carl Friedrich Gauss
 
-Demetrios:
-  typ: m
+- key: Demetrios
   ety: From AG \gr{Δημήτριος}
-  defs:
-    - Demetrius, Dimitri, Dmitri
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Demetrius, Dimitri, Dmitri
 
-ainstainiom:
-  typ: n
-  defs:
-    - einsteinium
+- key: ainstainiom
   cat: elements
+  definitions:
+    - typ: n
+      def: einsteinium
 
-fermiom:
-  typ: n
-  defs:
-    - fermium
+- key: fermiom
   cat: elements
+  definitions:
+    - typ: n
+      def: fermium
 
-mendeleviom:
-  typ: n
-  defs:
-    - mendelevium
+- key: mendeleviom
   cat: elements
+  definitions:
+    - typ: n
+      def: mendelevium
 
-nobeliom:
-  typ: n
-  defs:
-    - nobelium
+- key: nobeliom
   cat: elements
+  definitions:
+    - typ: n
+      def: nobelium
 
-laurentiom:
-  typ: n
-  defs:
-    - lawrencium
+- key: laurentiom
   cat: elements
+  definitions:
+    - typ: n
+      def: lawrencium
 
-Ernéstos:
-  typ: m
+- key: Ernéstos
   ety: From Ger. \ipa{Ernst}, influenced by Sp. \ipa{Ernesto}
-  defs:
-    - Ernesto, Ernst, Ernest
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Ernesto, Ernst, Ernest
 
-Ernéstos Raderford:
-  typ: m
-  defs:
-    - Ernest Rutherford
+- key: Ernéstos Raderford
   cat: real-people
+  definitions:
+    - typ: m
+      def: Ernest Rutherford
 
-raderfordiom:
-  typ: n
-  defs:
-    - rutherfordium
+- key: raderfordiom
   cat: elements
+  definitions:
+    - typ: n
+      def: rutherfordium
 
-dubniom:
-  typ: n
-  defs:
-    - dubnium
+- key: dubniom
   cat: elements
+  definitions:
+    - typ: n
+      def: dubnium
 
-Glen:
-  typ: m
+- key: Glen
   ety: From En. \ipa{Glen}
-  defs:
-    - Glen, Glenn
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Glen, Glenn
 
-Theodoros:
-  typ: m
+- key: Theodoros
   ety: From AG \gr{Θεόδωρος}
-  defs:
-    - Theodore
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Theodore
 
-Glen Theodoros Siborg:
-  typ: m
-  defs:
-    - Glenn Theodore Seaborg
+- key: Glen Theodoros Siborg
   cat: real-people
+  definitions:
+    - typ: m
+      def: Glenn Theodore Seaborg
 
-siborgiom:
-  typ: n
-  defs:
-    - seaborgium
+- key: siborgiom
   cat: elements
+  definitions:
+    - typ: n
+      def: seaborgium
 
-Nils:
-  typ: m
+- key: Nils
   ety: From Danish \ipa{Niels}
-  defs:
-    - Niels
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Niels
 
-Nils Bor:
-  typ: m
-  defs:
-    - Niels Bohr
+- key: Nils Bor
   cat: real-people
+  definitions:
+    - typ: m
+      def: Niels Bohr
 
-boriom:
-  typ: n
-  defs:
-    - bohrium
+- key: boriom
   cat: elements
+  definitions:
+    - typ: n
+      def: bohrium
 
-hassiom:
-  typ: n
-  defs:
-    - hassium
+- key: hassiom
   cat: elements
+  definitions:
+    - typ: n
+      def: hassium
 
-maitneriom:
-  typ: n
-  defs:
-    - meitnerium
+- key: maitneriom
   cat: elements
+  definitions:
+    - typ: n
+      def: meitnerium
 
-Daramstat:
-  typ: m
+- key: Daramstat
   ety: From Ger. \ipa{Darmstadt}
-  defs:
-    - Darmstadt
   cat: place-names
+  definitions:
+    - typ: m
+      def: Darmstadt
 
-daramstatiom:
-  typ: n
-  defs:
-    - darmstadtium
+- key: daramstatiom
   cat: elements
+  definitions:
+    - typ: n
+      def: darmstadtium
 
-Condrados:
-  typ: m
+- key: Condrados
   ety: Related to Ger. \ipa{Konrad}
-  defs:
-    - Conrad, Konrad
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Conrad, Konrad
 
-Viljelmos Condrados Rointgen:
-  typ: m
-  defs:
-    - Wilhelm Conrad Röntgen
+- key: Viljelmos Condrados Rointgen
   cat: people
+  definitions:
+    - typ: m
+      def: Wilhelm Conrad Röntgen
 
-rointgeniom:
-  typ: n
-  defs:
-    - roentgenium
+- key: rointgeniom
   cat: elements
+  definitions:
+    - typ: n
+      def: roentgenium
 
-coperniciom:
-  typ: n
-  defs:
-    - copernicium
+- key: coperniciom
   cat: elements
+  definitions:
+    - typ: n
+      def: copernicium
 
-nihoniom:
-  typ: n
-  defs:
-    - nihonium
+- key: nihoniom
   cat: elements
+  definitions:
+    - typ: n
+      def: nihonium
 
-fleroviom:
-  typ: n
-  defs:
-    - flerovium
+- key: fleroviom
   cat: elements
+  definitions:
+    - typ: n
+      def: flerovium
 
-moscoviom:
-  typ: n
-  defs:
-    - moscovium
+- key: moscoviom
   cat: elements
+  definitions:
+    - typ: n
+      def: moscovium
 
-livermoriom:
-  typ: n
-  defs:
-    - livermorium
+- key: livermoriom
   cat: elements
+  definitions:
+    - typ: n
+      def: livermorium
 
-tennessom:
-  typ: n
-  defs:
-    - tennessine
+- key: tennessom
   cat: elements
+  definitions:
+    - typ: n
+      def: tennessine
 
-oganessón:
-  typ: m
-  defs:
-    - oganesson
+- key: oganessón
   cat: elements
+  definitions:
+    - typ: m
+      def: oganesson
 
-januarios:
-  typ: m
-  ety:  From Lat. \ipa{Jānuārius}
-  defs:
-    - January
+- key: januarios
+  ety: From Lat. \ipa{Jānuārius}
   cat: months
+  definitions:
+    - typ: m
+      def: January
 
-februarios:
-  typ: m
-  ety:  From Lat. \ipa{Februārius}
-  defs:
-    - February
+- key: februarios
+  ety: From Lat. \ipa{Februārius}
   cat: months
+  definitions:
+    - typ: m
+      def: February
 
-martios:
-  typ: m
-  ety:  From Lat. \ipa{Mārtius}
-  defs:
-    - March
+- key: martios
+  ety: From Lat. \ipa{Mārtius}
   cat: months
+  definitions:
+    - typ: m
+      def: March
 
-aprilis:
-  typ: m
-  ety:  From Lat. \ipa{Aprīlis}
-  defs:
-    - April
+- key: aprilis
+  ety: From Lat. \ipa{Aprīlis}
   cat: months
+  definitions:
+    - typ: m
+      def: April
 
-majos:
-  typ: m
-  ety:  From Lat. \ipa{Maius}
-  defs:
-    - May
+- key: majos
+  ety: From Lat. \ipa{Maius}
   cat: months
+  definitions:
+    - typ: m
+      def: May
 
-junios:
-  typ: m
-  ety:  From Lat. \ipa{Jūnius}
-  defs:
-    - June
+- key: junios
+  ety: From Lat. \ipa{Jūnius}
   cat: months
+  definitions:
+    - typ: m
+      def: June
 
-julios:
-  typ: m
-  ety:  From Lat. \ipa{Jūlius}
-  defs:
-    - July
+- key: julios
+  ety: From Lat. \ipa{Jūlius}
   cat: months
+  definitions:
+    - typ: m
+      def: July
 
-augustos:
-  typ: m
-  ety:  From Lat. \ipa{Augustus}
-  defs:
-    - August
+- key: augustos
+  ety: From Lat. \ipa{Augustus}
   cat: months
+  definitions:
+    - typ: m
+      def: August
 
-september:
-  typ: m
-  ety:  From Lat. \ipa{September}
-  defs:
-    - September
+- key: september
+  ety: From Lat. \ipa{September}
   cat: months
+  definitions:
+    - typ: m
+      def: September
 
-october:
-  typ: m
-  ety:  From Lat. \ipa{Octōber}
-  defs:
-    - October
+- key: october
+  ety: From Lat. \ipa{Octōber}
   cat: months
+  definitions:
+    - typ: m
+      def: October
 
-november:
-  typ: m
-  ety:  From Lat. \ipa{November}
-  defs:
-    - November
+- key: november
+  ety: From Lat. \ipa{November}
   cat: months
+  definitions:
+    - typ: m
+      def: November
 
-december:
-  typ: m
-  ety:  From Lat. \ipa{December}
-  defs:
-    - December
+- key: december
+  ety: From Lat. \ipa{December}
   cat: months
+  definitions:
+    - typ: m
+      def: December
 
-ludinos:
-  typ: adj
+- key: ludinos
   ety: From Dan. \ipa{ludis}
-  defs:
-    - of the people
-    - popular
+  definitions:
+    - typ: adj
+      def: of the people
+    - typ: adj
+      def: popular
 
-Hitaniska Ludina Respublica:
-  typ: f
-  defs:
-    - People's Republic of China
+- key: Hitaniska Ludina Respublica
   cat: place-names
+  definitions:
+    - typ: f
+      def: People's Republic of China
 
-Belarossia:
-  typ: f
-  defs:
-    - Belarus
+- key: Belarossia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Belarus
 
-Mexicom:
-  typ: n
-  defs:
-    - Mexico
+- key: Mexicom
   cat: place-names
+  definitions:
+    - typ: n
+      def: Mexico
 
-Anglia:
-  typ: f
-  defs:
-    - England
+- key: Anglia
   cat: place-names
+  definitions:
+    - typ: f
+      def: England
 
-Dania:
-  typ: f
-  defs:
-    - Denmark
+- key: Dania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Denmark
 
-Scotia:
-  typ: f
-  defs:
-    - Scotland
+- key: Scotia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Scotland
 
-Cambria:
-  typ: f
-  ety:  From Lat. \ipa{Cambria}
-  defs:
-    - Wales
+- key: Cambria
+  ety: From Lat. \ipa{Cambria}
   cat: place-names
+  definitions:
+    - typ: f
+      def: Wales
 
-Japonia:
-  typ: f
-  defs:
-    - Japan
+- key: Japonia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Japan
 
-Coréa:
-  typ: f
-  defs:
-    - Korea
+- key: Coréa
   cat: place-names
+  definitions:
+    - typ: f
+      def: Korea
 
-nordom:
-  typ: n
+- key: nordom
   ety: From PG \ipa{*nurþrą}
-  defs:
-    - north
   cat: cardinal-directions
+  definitions:
+    - typ: n
+      def: north
 
-sundom:
-  typ: n
+- key: sundom
   ety: From PG \ipa{*sunþrą}
-  defs:
-    - south
   cat: cardinal-directions
+  definitions:
+    - typ: n
+      def: south
 
-austom:
-  typ: n
+- key: austom
   ety: From PG \ipa{*austrą}
-  defs:
-    - east
   cat: cardinal-directions
+  definitions:
+    - typ: n
+      def: east
 
-vestom:
-  typ: n
+- key: vestom
   ety: From PG \ipa{*westrą}
-  defs:
-    - west
   cat: cardinal-directions
+  definitions:
+    - typ: n
+      def: west
 
-Austina Germania:
-  typ: f
-  defs:
-    - East Germany
+- key: Austina Germania
   cat: place-names
+  definitions:
+    - typ: f
+      def: East Germany
 
-Vestina Germania:
-  typ: f
-  defs:
-    - West Germany
+- key: Vestina Germania
   cat: place-names
+  definitions:
+    - typ: f
+      def: West Germany
 
-nordinos:
-  typ: adj
+- key: nordinos
   ety: From Dan. \ipa{nordom}
-  defs:
-    - northern, north, northerly
+  definitions:
+    - typ: adj
+      def: northern, north, northerly
 
-sundinos:
-  typ: adj
+- key: sundinos
   ety: From Dan. \ipa{sundom}
-  defs:
-    - southern, south, southerly
+  definitions:
+    - typ: adj
+      def: southern, south, southerly
 
-austinos:
-  typ: adj
+- key: austinos
   ety: From Dan. \ipa{austom}
-  defs:
-    - eastern, east, easterly
+  definitions:
+    - typ: adj
+      def: eastern, east, easterly
 
-vestinos:
-  typ: adj
+- key: vestinos
   ety: From Dan. \ipa{vestom}
-  defs:
-    - western, west, westerly
+  definitions:
+    - typ: adj
+      def: western, west, westerly
 
-Nordina Coréa:
-  typ: f
-  defs:
-    - North Korea
+- key: Nordina Coréa
   cat: place-names
+  definitions:
+    - typ: f
+      def: North Korea
 
-Sundina Coréa:
-  typ: f
-  defs:
-    - South Korea
+- key: Sundina Coréa
   cat: place-names
+  definitions:
+    - typ: f
+      def: South Korea
 
-India:
-  typ: f
-  defs:
-    - India
+- key: India
   cat: place-names
+  definitions:
+    - typ: f
+      def: India
 
-Porto-Rico:
-  typ: n
-  defs:
-    - Puerto Rico
+- key: Porto-Rico
   cat: place-names
+  definitions:
+    - typ: n
+      def: Puerto Rico
 
-Sanctos Joánna:
-  typ: m
-  defs:
-    - Saint John, John the Apostle
-    - city of San Juan, capital of Puerto Rico
+- key: Sanctos Joánna
+  cat: place-names
+  definitions:
+    - typ: m
+      def: Saint John, John the Apostle
+    - typ: m
+      def: city of San Juan, capital of Puerto Rico
+
+- key: Jesus Christos
   cat: real-people
-  cat: place-names
+  definitions:
+    - typ: m
+      def: Jesus Christ
 
-Jesus Christos:
-  typ: m
-  defs:
-    - Jesus Christ
+- key: Donald Tramp
   cat: real-people
+  definitions:
+    - typ: m
+      def: Donald Trump
 
-Donald Tramp:
-  typ: m
-  defs:
-    - Donald Trump
-  cat: real-people
-
-svomia:
-  typ: f
+- key: svomia
   ety: From PIE \ipa{*swé}
-  defs:
-    - freedom, liberty
+  definitions:
+    - typ: f
+      def: freedom, liberty
 
-aiquális:
-  typ: adj
-  ety:  From Lat. \ipa{aequālis}
-  defs:
-    - equal
+- key: aiquális
+  ety: From Lat. \ipa{aequālis}
+  definitions:
+    - typ: adj
+      def: equal
 
-medanjés:
-  typ: adj
+- key: medanjés
   ety: From Dan. \ipa{medanos}
-  defs:
-    - bigger
+  definitions:
+    - typ: adj
+      def: bigger
 
-medanjéstos:
-  typ: adj
+- key: medanjéstos
   ety: From Dan. \ipa{medanos}
-  defs:
-    - biggest
+  definitions:
+    - typ: adj
+      def: biggest
 
-virikom:
-  typ: n
+- key: virikom
   ety: From Dan. \ipa{viros}
-  defs:
-    - little man
+  definitions:
+    - typ: n
+      def: little man
 
-bloman:
-  typ: n
+- key: bloman
   ety: From Dan. \ipa{bloti}
-  defs:
-    - flower
+  definitions:
+    - typ: n
+      def: flower
 
-blomenikom:
-  typ: n
+- key: blomenikom
   ety: From Dan. \ipa{bloman}
-  defs:
-    - little flower
+  definitions:
+    - typ: n
+      def: little flower
 
-svomjos:
-  typ: adj
+- key: svomjos
   ety: From Dan. \ipa{svomia}
-  defs:
-    - free
+  definitions:
+    - typ: adj
+      def: free
 
-da:
-  typ: conj
-  defs:
-    - and
+- key: da
+  definitions:
+    - typ: conj
+      def: and
 
-anabideti:
-  typ: v
+- key: anabideti
   ety: From Dan. \ipa{ana- + bideti}
-  defs:
-    - to share, to exchange
-    - to allot, to give, to provide
-    - to confide, to tell
-    - to endow
+  definitions:
+    - typ: v
+      def: to share, to exchange
+    - typ: v
+      def: to allot, to give, to provide
+    - typ: v
+      def: to confide, to tell
+    - typ: v
+      def: to endow
 
-andeti:
-  typ: v
+- key: andeti
   ety: From PIE \ipa{*h₂enǵʰ-}
-  defs:
-    - to obligate, to bind
+  definitions:
+    - typ: v
+      def: to obligate, to bind
 
-Djus Pater:
-  typ: m
-  defs:
-    - Sky Father, supreme Danetian deity
+- key: Djus Pater
   cat: danetian-mythology
+  definitions:
+    - typ: m
+      def: Sky Father, supreme Danetian deity
 
-Fedóm Mater:
-  typ: f
-  defs:
-    - Earth Mother
+- key: Fedóm Mater
   cat: danetian-mythology
+  definitions:
+    - typ: f
+      def: Earth Mother
 
-Mori Mantióm:
-  typ: n
-  defs:
-    - primordial sea of thoughts
+- key: Mori Mantióm
   cat: danetian-mythology
+  definitions:
+    - typ: n
+      def: primordial sea of thoughts
 
-Daneta:
-  typ: f
+- key: Daneta
   ety: From Dan. \ipa{danu}
-  defs:
-    - Danetian river goddess, freed from the clutches of the water serpent
   cat: danetian-mythology
+  definitions:
+    - typ: f
+      def: Danetian river goddess, freed from the clutches of the water serpent
 
-danetiskos:
-  typ: adj
+- key: danetiskos
   ety: From Dan. \ipa{Daneta}
-  defs:
-    - Danetian
+  definitions:
+    - typ: adj
+      def: Danetian
 
-pludeti:
-  typ: v
+- key: pludeti
   ety: From PIE \ipa{*plewd-}
-  defs:
-    - to swim
+  definitions:
+    - typ: v
+      def: to swim
 
-usterom mori:
-  typ: n
-  defs:
-    - high sea, open sea
+- key: usterom mori
+  definitions:
+    - typ: n
+      def: high sea, open sea
 
-bredíti:
-  typ: v
+- key: bredíti
   ety: From PIE \ipa{*bʰredʰ-}
-  defs:
-    - to roam, to wander freely
+  definitions:
+    - typ: v
+      def: to roam, to wander freely
 
-valdus:
-  typ: m
+- key: valdus
   ety: From PG \ipa{*walþuz}
-  defs:
-    - forest
+  definitions:
+    - typ: m
+      def: forest
 
-blomia:
-  typ: f
+- key: blomia
   ety: From Dan. \ipa{bloti}
-  defs:
-    - freshness
+  definitions:
+    - typ: f
+      def: freshness
 
-skula:
-  typ: f
+- key: skula
   ety: From PG \ipa{*skulō}
-  defs:
-    - troop; group; crowd
-    - multitude
+  definitions:
+    - typ: f
+      def: troop; group; crowd
+    - typ: f
+      def: multitude
 
-Isak:
-  typ: m
+- key: Isak
   ety: From AG \gr{Ἰσαᾱ́κ}
-  defs:
-    - Isaac
+  definitions:
+    - typ: m
+      def: Isaac
 
-Isak Newtón:
-  typ: m
-  defs:
-    - Isaac Newton
+- key: Isak Newtón
   cat: real-people
+  definitions:
+    - typ: m
+      def: Isaac Newton
 
-Werner:
-  typ: m
+- key: Werner
   ety: From Ger. \ipa{Werner}
-  defs:
-    - Werner, Warner
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Werner, Warner
 
-Werner Haisemberg:
-  typ: m
-  defs:
-    - Werner Heisenberg
+- key: Werner Haisemberg
   cat: real-people
+  definitions:
+    - typ: m
+      def: Werner Heisenberg
 
-Hadriános:
-  typ: m
-  ety:  From Lat. \ipa{Hadriānus}
-  defs:
-    - Adrian, Hadrian
+- key: Hadriános
+  ety: From Lat. \ipa{Hadriānus}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Adrian, Hadrian
 
-Mauritios:
-  typ: m
-  ety:  From Lat. \ipa{Mauritius}
-  defs:
-    - Maurice, Mauricio, Mauritius
+- key: Mauritios
+  ety: From Lat. \ipa{Mauritius}
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Maurice, Mauricio, Mauritius
 
-Paulos Hadriános Mauritios Dirac:
-  typ: m
-  defs:
-    - Paul Adrien Maurice Dirac
+- key: Paulos Hadriános Mauritios Dirac
   cat: real-people
+  definitions:
+    - typ: m
+      def: Paul Adrien Maurice Dirac
 
-Saverios:
-  typ: m
+- key: Saverios
   ety: From Basque \ipa{etxeberria}
-  defs:
-    - Javier, Xavier, Saverio
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Javier, Xavier, Saverio
 
-Saverios Castro:
-  typ: m
-  defs:
-    - Javier Castro, creator of the Danetian language
+- key: Saverios Castro
   cat: real-people
+  definitions:
+    - typ: m
+      def: Javier Castro, creator of the Danetian language
 
-Philippos:
-  typ: m
+- key: Philippos
   ety: From AG \gr{Φῐ́λῐππος}
-  defs:
-    - Philip, Felipe
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Philip, Felipe
 
-Richardos Philippos Fainman:
-  typ: m
-  defs:
-    - Richard Phillips Feynman
+- key: Richardos Philippos Fainman
   cat: real-people
+  definitions:
+    - typ: m
+      def: Richard Phillips Feynman
 
-quantiska mechanica:
-  typ: f
-  defs:
-    - quantum mechanics
+- key: quantiska mechanica
+  definitions:
+    - typ: f
+      def: quantum mechanics
 
-classiska mechanica:
-  typ: f
-  defs:
-    - classical mechanics
+- key: classiska mechanica
+  definitions:
+    - typ: f
+      def: classical mechanics
 
-Agnis:
-  typ: m
+- key: Agnis
   ety: From PIE \ipa{*h₁n̥gʷnís}
-  defs:
-    - Danetian god of fire, oaths, promises, and moral justice
   cat: danetian-mythology
+  definitions:
+    - typ: m
+      def: Danetian god of fire, oaths, promises, and moral justice
 
-Perkunos:
-  typ: m
+- key: Perkunos
   ety: From PIE \ipa{*perkʷunos}
-  defs:
-    - Danetian god of thunder
   cat: danetian-mythology
+  definitions:
+    - typ: m
+      def: Danetian god of thunder
 
-latiniska:
-  typ: f
-  defs:
-    - Latin language
+- key: latiniska
   cat: languages
+  definitions:
+    - typ: f
+      def: Latin language
 
-angliska:
-  typ: f
+- key: angliska
   ety: From Dan. \ipa{Anglia}
-  defs:
-    - English language
   cat: languages
+  definitions:
+    - typ: f
+      def: English language
 
-galliska:
-  typ: f
+- key: galliska
   ety: From Dan. \ipa{Gallia}
-  defs:
-    - French language
   cat: languages
+  definitions:
+    - typ: f
+      def: French language
 
-galliskos:
-  typ: adj
+- key: galliskos
   ety: From Dan. \ipa{Gallia}
-  defs:
-    - French
+  definitions:
+    - typ: adj
+      def: French
 
-germaniska:
-  typ: f
+- key: germaniska
   ety: From Dan. \ipa{Germania}
-  defs:
-    - German language
   cat: languages
+  definitions:
+    - typ: f
+      def: German language
 
-germaniskos:
-  typ: adj
+- key: germaniskos
   ety: From Dan. \ipa{Germania}
-  defs:
-    - German
+  definitions:
+    - typ: adj
+      def: German
 
-rossiska:
-  typ: f
+- key: rossiska
   ety: From Dan. \ipa{Rossia}
-  defs:
-    - Russian language
   cat: languages
+  definitions:
+    - typ: f
+      def: Russian language
 
-joniska:
-  typ: f
+- key: joniska
   ety: From Dan. \ipa{Jonia}
-  defs:
-    - Greek language
   cat: languages
+  definitions:
+    - typ: f
+      def: Greek language
 
-italiska:
-  typ: f
+- key: italiska
   ety: From Dan. \ipa{Italia}
-  defs:
-    - Italian language
   cat: languages
+  definitions:
+    - typ: f
+      def: Italian language
 
-portugaliska:
-  typ: f
+- key: portugaliska
   ety: From Dan. \ipa{Portugalia}
-  defs:
-    - Portuguese language
   cat: languages
+  definitions:
+    - typ: f
+      def: Portuguese language
 
-hitaniska:
-  typ: f
+- key: hitaniska
   ety: From Dan. \ipa{Hitania}
-  defs:
-    - Chinese language
   cat: languages
+  definitions:
+    - typ: f
+      def: Chinese language
 
-hitaniskos:
-  typ: adj
+- key: hitaniskos
   ety: From Dan. \ipa{Hitania}
-  defs:
-    - Chinese
+  definitions:
+    - typ: adj
+      def: Chinese
 
-japoniska:
-  typ: f
+- key: japoniska
   ety: From Dan. \ipa{Japonia}
-  defs:
-    - Japanese language
   cat: languages
+  definitions:
+    - typ: f
+      def: Japanese language
 
-japoniskos:
-  typ: adj
+- key: japoniskos
   ety: From Dan. \ipa{Japonia}
-  defs:
-    - Japanese
+  definitions:
+    - typ: adj
+      def: Japanese
 
-daniska:
-  typ: f
+- key: daniska
   ety: From Dan. \ipa{Dania}
-  defs:
-    - Danish language
   cat: languages
+  definitions:
+    - typ: f
+      def: Danish language
 
-Norvegia:
-  typ: f
+- key: Norvegia
   ety: From Lat. \ipa{Norvegia}
-  defs:
-    - Norway
   cat: place-names
+  definitions:
+    - typ: f
+      def: Norway
 
-norvegiska:
-  typ: f
+- key: norvegiska
   ety: From Dan. \ipa{Norvegia}
-  defs:
-    - Norwegian language
   cat: languages
+  definitions:
+    - typ: f
+      def: Norwegian language
 
-Svedia:
-  typ: f
+- key: Svedia
   ety: Related to Ger. \ipa{Schweden}
-  defs:
-    - Sweden
   cat: place-names
+  definitions:
+    - typ: f
+      def: Sweden
 
-svediska:
-  typ: f
+- key: svediska
   ety: From Dan. \ipa{Svedia}
-  defs:
-    - Swedish language
   cat: languages
+  definitions:
+    - typ: f
+      def: Swedish language
 
-Finnia:
-  typ: f
+- key: Finnia
   ety: From Lat. \ipa{Finnia}
-  defs:
-    - Finland
   cat: place-names
+  definitions:
+    - typ: f
+      def: Finland
 
-finniska:
-  typ: f
+- key: finniska
   ety: From Dan. \ipa{Finnia}
-  defs:
-    - Finnish language
   cat: languages
+  definitions:
+    - typ: f
+      def: Finnish language
 
-Berlín:
-  typ: m
-  defs:
-    - Berlin
+- key: Berlín
   cat: place-names
+  definitions:
+    - typ: m
+      def: Berlin
 
-Constantinopolis:
-  typ: f
+- key: Constantinopolis
   ety: From AG \gr{Κωνσταντινούπολις}
-  defs:
-    - Constantinople; Istanbul
   cat: place-names
+  definitions:
+    - typ: f
+      def: Constantinople; Istanbul
 
-Sebastopolis:
-  typ: f
+- key: Sebastopolis
   ety: From AG \gr{Σεβαστόπολις}
-  defs:
-    - Sevastopol
   cat: place-names
+  definitions:
+    - typ: f
+      def: Sevastopol
 
-Sancta Petropolis:
-  typ: f
+- key: Sancta Petropolis
   ety: From Lat. \ipa{sancta + Petropolis}
-  defs:
-    - Saint Petersburg
   cat: place-names
+  definitions:
+    - typ: f
+      def: Saint Petersburg
 
-Londiniom:
-  typ: n
+- key: Londiniom
   ety: From Lat. \ipa{Londīnium}
-  defs:
-    - London
   cat: place-names
+  definitions:
+    - typ: n
+      def: London
 
-Belgia:
-  typ: f
+- key: Belgia
   ety: From Lat. \ipa{Belgia}
-  defs:
-    - Belgium
   cat: place-names
+  definitions:
+    - typ: f
+      def: Belgium
 
-Miami:
-  typ: n
+- key: Miami
   ety: From En. \ipa{Miami}
-  defs:
-    - Miami
   cat: place-names
+  definitions:
+    - typ: n
+      def: Miami
 
-Florida:
-  typ: f
+- key: Florida
   ety: From En. \ipa{Florida}
-  defs:
-    - Florida
   cat: place-names
+  definitions:
+    - typ: f
+      def: Florida
 
-York:
-  typ: f
+- key: York
   ety: From En. \ipa{York}
-  defs:
-    - York
   cat: place-names
+  definitions:
+    - typ: f
+      def: York
 
-Neva York:
-  typ: f
+- key: Neva York
   ety: From Dan. \ipa{neva + York}
-  defs:
-    - New York
   cat: place-names
+  definitions:
+    - typ: f
+      def: New York
 
-Neva Jersis:
-  typ: f
+- key: Neva Jersis
   ety: From Dan. \ipa{neva} and En. \ipa{Jersey}
-  defs:
-    - New Jersey
   cat: place-names
+  definitions:
+    - typ: f
+      def: New Jersey
 
-Cuba:
-  typ: f
+- key: Cuba
   ety: From Sp. \ipa{Cuba}
-  defs:
-    - Cuba
   cat: place-names
+  definitions:
+    - typ: f
+      def: Cuba
 
-mathematica:
-  typ: f
+- key: mathematica
   ety: From Lat. \ipa{mathēmatica}
-  defs:
-    - mathematics
+  definitions:
+    - typ: f
+      def: mathematics
 
-grammatica:
-  typ: f
+- key: grammatica
   ety: From Lat. \ipa{grammatica}
-  defs:
-    - grammar
+  definitions:
+    - typ: f
+      def: grammar
 
-orthographia:
-  typ: f
+- key: orthographia
   ety: From Lat. \ipa{orthographia}, from AG \gr{ὀρθογρᾰφῐ́ᾱ}
-  defs:
-    - orthography
+  definitions:
+    - typ: f
+      def: orthography
 
-chemia:
-  typ: f
+- key: chemia
   ety: From Ger. \ipa{Chemie}
-  defs:
-    - chemistry
+  definitions:
+    - typ: f
+      def: chemistry
 
-philosophia:
-  typ: f
+- key: philosophia
   ety: From Lat. \ipa{philosophia}, from AG \gr{φιλοσοφία}
-  defs:
-    - philosophy
+  definitions:
+    - typ: f
+      def: philosophy
 
-biologia:
-  typ: f
+- key: biologia
   ety: From Lat. \ipa{biologia}
-  defs:
-    - biology
+  definitions:
+    - typ: f
+      def: biology
 
-bibliom:
-  typ: n
+- key: bibliom
   ety: From AG \gr{βῐβλῐ́ον}
-  defs:
-    - book
+  definitions:
+    - typ: n
+      def: book
 
-sanctos:
-  typ: adj
+- key: sanctos
   ety: From Lat. \ipa{sānctus}
-  defs:
-    - saint, holy, sacred
+  definitions:
+    - typ: adj
+      def: saint, holy, sacred
 
-Sancta Bíblia:
-  typ: n
+- key: Sancta Bíblia
   ety: From Lat. \ipa{Sancta Biblia}
-  defs:
-    - holy books; Holy Bible
+  definitions:
+    - typ: n
+      def: holy books; Holy Bible
   note: This term is in plural
 
-Athénai:
-  typ: f
+- key: Athénai
   ety: From Lat. \ipa{Athēnae}, from AG \gr{Ἀθῆναι}
-  defs:
-    - Athens
   cat: place-names
+  definitions:
+    - typ: f
+      def: Athens
   note: This term is in plural
 
-calculos:
-  typ: m
+- key: calculos
   ety: From Lat. \ipa{calculus}
-  defs:
-    - calculus
+  definitions:
+    - typ: m
+      def: calculus
 
-planéta:
-  typ: m
+- key: planéta
   ety: From Lat. \ipa{planeta}, from AG \gr{πλανήτης}
-  defs:
-    - planet
+  definitions:
+    - typ: m
+      def: planet
 
-posme:
-  typ: pv
+- key: posme
   ety: From Dan. \ipa{po}
-  defs:
-    - (interrogative) how
+  definitions:
+    - typ: pv
+      def: (interrogative) how
 
-josme:
-  typ: pv
+- key: josme
   ety: From Dan. \ipa{jo}
-  defs:
-    - (relative) how
+  definitions:
+    - typ: pv
+      def: (relative) how
 
-tridsont:
-  typ: num
+- key: tridsont
   ety: From PIE \ipa{*tridḱómt}
-  defs:
-    - thirty
+  definitions:
+    - typ: num
+      def: thirty
 
-petvardsont:
-  typ: num
+- key: petvardsont
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  defs:
-    - forty
+  definitions:
+    - typ: num
+      def: forty
 
-pempedsont:
-  typ: num
+- key: pempedsont
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  defs:
-    - fifty
+  definitions:
+    - typ: num
+      def: fifty
 
-svedsont:
-  typ: num
+- key: svedsont
   ety: From PIE \ipa{*swéḱsdḱomt}
-  defs:
-    - sixty
+  definitions:
+    - typ: num
+      def: sixty
 
-septandsont:
-  typ: num
+- key: septandsont
   ety: From PIE \ipa{*septḿ̥dḱomt}
-  defs:
-    - seventy
+  definitions:
+    - typ: num
+      def: seventy
 
-oktodsont:
-  typ: num
+- key: oktodsont
   ety: From PIE \ipa{*oḱtódḱomt}
-  defs:
-    - eighty
+  definitions:
+    - typ: num
+      def: eighty
 
-nevandsont:
-  typ: num
+- key: nevandsont
   ety: From PIE \ipa{*h₁néwn̥dḱomt}
-  defs:
-    - ninety
+  definitions:
+    - typ: num
+      def: ninety
 
-satón:
-  typ: num
+- key: satón
   ety: From PIE \ipa{*ḱm̥tóm}
-  defs:
-    - hundred; one hundred
+  definitions:
+    - typ: num
+      def: hundred; one hundred
 
-tusontis:
-  typ: num
+- key: tusontis
   ety: From PIE \ipa{*tuHsont-}
-  defs:
-    - thousand; one thousand
+  definitions:
+    - typ: num
+      def: thousand; one thousand
 
-bevar:
-  typ: num
+- key: bevar
   ety: From Persian \arab{بیور}
-  defs:
-    - ten thousand; one myriad
+  definitions:
+    - typ: num
+      def: ten thousand; one myriad
 
-hertogos:
-  typ: m
-  ety: Ultimately from PG \ipa{*harjatogō}. Compare German \ipa{Herzog} and Dutch \ipa{Hertog}
-  defs:
-    - duke
+- key: hertogos
+  ety: Ultimately from PG \ipa{*harjatogō}. Compare German \ipa{Herzog} and Dutch
+    \ipa{Hertog}
   cat: ranks-of-nobility
+  definitions:
+    - typ: m
+      def: duke
 
-imperiom:
-  typ: n
+- key: imperiom
   ety: From Lat. \ipa{imperium}
-  defs:
-    - empire
+  definitions:
+    - typ: n
+      def: empire
 
-imperator:
-  typ: m
+- key: imperator
   ety: From Lat. \ipa{imperātor}
-  defs:
-    - emperor
   cat: ranks-of-nobility
+  definitions:
+    - typ: m
+      def: emperor
 
-Romiskom Imperiom:
-  typ: n
+- key: Romiskom Imperiom
   ety: From Dan. \ipa{romiskom + imperiom}
-  defs:
-    - Roman Empire
+  definitions:
+    - typ: n
+      def: Roman Empire
 
-redissa:
-  typ: f
+- key: redissa
   ety: From Dan. \ipa{reds}
-  defs:
-    - queen
   cat: ranks-of-nobility
+  definitions:
+    - typ: f
+      def: queen
 
-furistos:
-  typ: m
+- key: furistos
   ety: From PG \ipa{*furistaz}
-  defs:
-    - prince
   cat: ranks-of-nobility
+  definitions:
+    - typ: m
+      def: prince
 
-furista:
-  typ: f
+- key: furista
   ety: From Dan. \ipa{furistos}
-  defs:
-    - princess
   cat: ranks-of-nobility
+  definitions:
+    - typ: f
+      def: princess
 
-humános:
-  typ: adj
+- key: humános
   ety: From Lat. \ipa{hūmānus}
-  defs:
-    - human
-    - humane
+  definitions:
+    - typ: m
+      def: human
 
-humános:
-  typ: m
-  ety: From Lat. \ipa{hūmānus}
-  defs:
-    - human
-
-humánom estin:
-  typ: n
+- key: humánom estin
   ety: From Dan. \ipa{humánom + estin}
-  defs:
-    - human being
+  definitions:
+    - typ: n
+      def: human being
 
-conscientia:
-  typ: f
+- key: conscientia
   ety: From Lat. \ipa{cōnscientia}
-  defs:
-    - conscience
+  definitions:
+    - typ: f
+      def: conscience
 
-scientia:
-  typ: f
+- key: scientia
   ety: From Lat. \ipa{scientia}
-  defs:
-    - science
+  definitions:
+    - typ: f
+      def: science
 
-psychologia:
-  typ: f
+- key: psychologia
   ety: From Lat. \ipa{psychologia}
-  defs:
-    - psychology
+  definitions:
+    - typ: f
+      def: psychology
 
-stelos:
-  typ: adj
+- key: stelos
   ety: From PIE \ipa{*stelh₃ós}
-  defs:
-    - wide
+  definitions:
+    - typ: adj
+      def: wide
 
-pauros:
-  typ: pn
+- key: pauros
   ety: From PIE \ipa{*peh₂w-}
-  defs:
-    - few, little of
+  definitions:
+    - typ: pn
+      def: few, little of
 
-aljos:
-  typ: pn
+- key: aljos
   ety: From PIE \ipa{*h₂élyos}
-  defs:
-    - other, another
+  definitions:
+    - typ: pn
+      def: other, another
 
-furops:
-  typ: m
+- key: furops
   ety: From PIE \ipa{*ǵʰwer-o-h₃kʷs}
-  defs:
-    - wild beast
+  definitions:
+    - typ: m
+      def: wild beast
 
-fastos:
-  typ: m
+- key: fastos
   ety: From PIE \ipa{*ǵʰasto-}
-  defs:
-    - stick
+  definitions:
+    - typ: m
+      def: stick
 
-roinos:
-  typ: m
+- key: roinos
   ety: From PIE \ipa{*roypnós}
-  defs:
-    - rope
+  definitions:
+    - typ: m
+      def: rope
 
-pelnom:
-  typ: n
+- key: pelnom
   ety: From PIE \ipa{*pel}
-  defs:
-    - skin
+  definitions:
+    - typ: n
+      def: skin
 
-pulnis:
-  typ: f
+- key: pulnis
   ety: From PIE \ipa{*pulh₂-}
-  defs:
-    - hair
+  definitions:
+    - typ: f
+      def: hair
 
-pipoti:
-  typ: v
+- key: pipoti
   ety: From PIE \ipa{*píph₃eti}
-  defs:
-    - to drink
+  definitions:
+    - typ: v
+      def: to drink
 
-esti²:
-  typ: v
+- key: esti²
   ety: From PIE \ipa{*h₁édti}
-  defs:
-    - to eat
+  definitions:
+    - typ: v
+      def: to eat
 
-titta:
-  typ: f
+- key: titta
   ety: From PG \ipa{*titt-}
-  defs:
-    - breast, teat, tit
-    - nipple
+  definitions:
+    - typ: f
+      def: breast, teat, tit
+    - typ: f
+      def: nipple
 
-fembeti:
-  typ: v
+- key: fembeti
   ety: From PIE \ipa{*gʷʰemb-}
-  defs:
-    - to spring, hop, jump
+  definitions:
+    - typ: v
+      def: to spring, hop, jump
 
-febeti:
-  typ: v
+- key: febeti
   ety: From PIE \ipa{*bʰegʷ-}
-  defs:
-    - to run
-    - to flee
+  definitions:
+    - typ: v
+      def: to run
+    - typ: v
+      def: to flee
 
-bogeti:
-  typ: v
+- key: bogeti
   ety: From PIE \ipa{*gʷog-}
-  defs:
-    - to shake
-    - to agitate
+  definitions:
+    - typ: v
+      def: to shake
+    - typ: v
+      def: to agitate
 
-theoreman:
-  typ: n
+- key: theoreman
   ety: From Lat. \ipa{theōrēma}, from AG \gr{θεώρημᾰ}
-  defs:
-    - theorem
+  definitions:
+    - typ: n
+      def: theorem
 
-theoria:
-  typ: f
+- key: theoria
   ety: From Lat. \ipa{theōria}, from AG \gr{θεωρῐ́ᾱ}
-  defs:
-    - theory
+  definitions:
+    - typ: f
+      def: theory
 
-generális:
-  typ: adj
+- key: generális
   ety: From Lat. \ipa{generālis}
-  defs:
-    - general
-    - generic
+  definitions:
+    - typ: adj
+      def: general
+    - typ: adj
+      def: generic
 
-tremos:
-  typ: m
+- key: tremos
   ety: From PIE \ipa{*trem-}
-  defs:
-    - trembling, tremor, shudder
-    - fear, terror
+  definitions:
+    - typ: m
+      def: trembling, tremor, shudder
+    - typ: m
+      def: fear, terror
 
-orda:
-  typ: f
+- key: orda
   ety: From OT \ipa{ordu}, from PT \ipa{*or-}. Compare Rus. \cyr{орда}
-  defs:
-    - army
+  definitions:
+    - typ: f
+      def: army
 
-opisvomia:
-  typ: f
+- key: opisvomia
   ety: From Dan. \ipa{opi + svomia}
-  defs:
-    - liberation
+  definitions:
+    - typ: f
+      def: liberation
 
-opisvomíeti:
-  typ: v
+- key: opisvomíeti
   ety: From Dan. \ipa{opisvomia}
-  defs:
-    - to liberate, to free, to set free
+  definitions:
+    - typ: v
+      def: to liberate, to free, to set free
 
-Ludina Opisvomiska Orda:
-  typ: f
-  defs:
-    - People's Liberation Army
+- key: Ludina Opisvomiska Orda
+  definitions:
+    - typ: f
+      def: People's Liberation Army
 
-Rufra Orda:
-  typ: f
-  defs:
-    - Red Army
+- key: Rufra Orda
+  definitions:
+    - typ: f
+      def: Red Army
 
-Rufra Pletia:
-  typ: f
-  defs:
-    - Red Square
+- key: Rufra Pletia
+  definitions:
+    - typ: f
+      def: Red Square
 
-Aicaterína:
-  typ: f
+- key: Aicaterína
   ety: From AG \gr{Αἰκατερῑ́νη}
-  defs:
-    - Catherine, Catalina, Katrina, Caitlin
+  definitions:
+    - typ: f
+      def: Catherine, Catalina, Katrina, Caitlin
 
-Aicaterinapolis:
-  typ: f
+- key: Aicaterinapolis
   ety: From Dan. \ipa{Aicaterina + -polis}
-  defs:
-    - Yekaterinburg
+  definitions:
+    - typ: f
+      def: Yekaterinburg
 
-historia:
-  typ: f
+- key: historia
   ety: From Lat. \ipa{historia}, from AG \gr{ἱστορία}
-  defs:
-    - history
-    - story, account
+  definitions:
+    - typ: f
+      def: history
+    - typ: f
+      def: story, account
 
-computa:
-  typ: f
+- key: computa
   ety: From Fr. \ipa{compte}, influenced by Lat. \ipa{computare}
-  defs:
-    - account (bank or user account)
-    - count (the action of counting)
+  definitions:
+    - typ: f
+      def: account (bank or user account)
+    - typ: f
+      def: count (the action of counting)
 
-boida:
-  typ: f
+- key: boida
   ety: From PIE \ipa{*bʰoydʰ-}
-  defs:
-    - trust
-    - faith
+  definitions:
+    - typ: f
+      def: trust
+    - typ: f
+      def: faith
 
-ordinator:
-  typ: m
+- key: ordinator
   ety: From Fr. \ipa{ordinateur}, influenced by Lat. \ipa{ōrdinātor}
-  defs:
-    - computer
+  definitions:
+    - typ: m
+      def: computer
 
-sjofer:
-  typ: m
+- key: sjofer
   ety: From Fr. \ipa{chauffeur}
-  defs:
-    - chauffeur, driver
+  definitions:
+    - typ: m
+      def: chauffeur, driver
 
-promenada:
-  typ: f
+- key: promenada
   ety: From Fr. \ipa{promenade}
-  defs:
-    - walk, stroll, walk for enjoyment
+  definitions:
+    - typ: f
+      def: walk, stroll, walk for enjoyment
 
-Versaljai:
-  typ: f
+- key: Versaljai
   ety: From Fr. \ipa{Versailles}
-  defs:
-    - Versailles
+  definitions:
+    - typ: f
+      def: Versailles
 
-Palatiom Versaljóm:
-  typ: n
+- key: Palatiom Versaljóm
   ety: From Dan. \ipa{palaciom + Versaljai}
-  defs:
-    - Palace of Versailles
+  definitions:
+    - typ: n
+      def: Palace of Versailles
 
-tractátos:
-  typ: m
+- key: tractátos
   ety: From Lat. \ipa{tractātus}
-  defs:
-    - treaty
-    - treatise, tract
-    - management, treatment
-    - touching, handling, working, treating
+  definitions:
+    - typ: m
+      def: treaty
+    - typ: m
+      def: treatise, tract
+    - typ: m
+      def: management, treatment
+    - typ: m
+      def: touching, handling, working, treating
 
-bagasj:
-  typ: m
+- key: bagasj
   ety: From Fr. \ipa{bagage}
-  defs:
-    - baggage, luggage
+  definitions:
+    - typ: m
+      def: baggage, luggage
 
-bagét:
-  typ: f
+- key: bagét
   ety: From Fr. \ipa{baguette}
-  defs:
-    - baguette
+  definitions:
+    - typ: f
+      def: baguette
 
-balcón:
-  typ: m
+- key: balcón
   ety: From Fr. \ipa{balcon}
-  defs:
-    - balcony
+  definitions:
+    - typ: m
+      def: balcony
 
-afísja:
-  typ: f
+- key: afísja
   ety: From Fr. \ipa{affiche}
-  defs:
-    - poster
-    - placard
-    - sign
+  definitions:
+    - typ: f
+      def: poster
+    - typ: f
+      def: placard
+    - typ: f
+      def: sign
 
-aerodromos:
-  typ: m
+- key: aerodromos
   ety: From Fr. \ipa{aérodrome}, by analogy with \ipa{hippodrome}, from AG \gr{ἱππόδρομος}
-  defs:
-    - airfield, aerodrome
+  definitions:
+    - typ: m
+      def: airfield, aerodrome
 
-aventúra:
-  typ: f
+- key: aventúra
   ety: From Fr. \ipa{aventure}
-  defs:
-    - adventure
-    - venture
-    - (romantic) affair
+  definitions:
+    - typ: f
+      def: adventure
+    - typ: f
+      def: venture
+    - typ: f
+      def: (romantic) affair
 
-automobilis:
-  typ: f
+- key: automobilis
   ety: From Fr. \ipa{automobile}, influenced by Lat. \ipa{mōbilis}
-  defs:
-    - automobile, car
+  definitions:
+    - typ: f
+      def: automotive
 
-automobilis:
-  typ: f
-  ety: From Fr. \ipa{automobile}, influenced by Lat. \ipa{mōbilis}
-  defs:
-    - automotive
-
-abasjur:
-  typ: m
+- key: abasjur
   ety: From Fr. \ipa{abat-jour}
-  defs:
-    - lampshade
+  definitions:
+    - typ: m
+      def: lampshade
 
-vassal:
-  typ: m
+- key: vassal
   ety: From Fr. \ipa{vassal}
-  defs:
-    - vassal
+  definitions:
+    - typ: m
+      def: vassal
 
-vacantia:
-  typ: f
+- key: vacantia
   ety: From Fr. \ipa{vacance}, with a latinized ending
-  defs:
-    - vacation
-    - (in plural) holidays
-    - vacancy, free position
+  definitions:
+    - typ: f
+      def: vacation
+    - typ: f
+      def: (in plural) holidays
+    - typ: f
+      def: vacancy, free position
 
-Valeria:
-  typ: f
+- key: Valeria
   ety: From Lat. \ipa{Valeria}
-  defs:
-    - Valerie
+  definitions:
+    - typ: f
+      def: Valerie
 
-Valerios:
-  typ: m
+- key: Valerios
   ety: From Lat. \ipa{Valerius}
-  defs:
-    - Valerius, Valerio
+  definitions:
+    - typ: m
+      def: Valerius, Valerio
 
-asphaltos:
-  typ: m
+- key: asphaltos
   ety: From AG \gr{ἄσφᾰλτος}
-  defs:
-    - asphalt, bitumen; pitch, tar
-    - asphalt concrete; material used to pave roads
+  definitions:
+    - typ: m
+      def: asphalt, bitumen; pitch, tar
+    - typ: m
+      def: asphalt concrete; material used to pave roads
 
-wagón:
-  typ: m
+- key: wagón
   ety: From Fr. \ipa{wagon}, from En. \ipa{waggon}, from Dutch \ipa{wagen}
-  defs:
-    - railway carriage
+  definitions:
+    - typ: m
+      def: railway carriage
 
-velocipods:
-  typ: m
+- key: velocipods
   ety: From Fr. \ipa{vélocipède}, influenced by Dan. \ipa{pods}
-  defs:
-    - velocipede; bicycle
+  definitions:
+    - typ: m
+      def: velocipede; bicycle
 
-badgjet:
-  typ: m
+- key: badgjet
   ety: From En. \ipa{budget}
-  defs:
-    - budget
+  definitions:
+    - typ: m
+      def: budget
 
-botón:
-  typ: m
+- key: botón
   ety: From Fr. \ipa{bouton}, from OF \ipa{boton}
-  defs:
-    - button
-    - (flower) bud
-    - pimple, spot, zit
+  definitions:
+    - typ: m
+      def: button
+    - typ: m
+      def: (flower) bud
+    - typ: m
+      def: pimple, spot, zit
 
-botíca:
-  typ: f
+- key: botíca
   ety: From Fr. \ipa{boutique}, from Old Occ. \ipa{botica}
-  defs:
-    - small shop; boutique
+  definitions:
+    - typ: f
+      def: small shop; boutique
 
-buljón:
-  typ: m
+- key: buljón
   ety: From Fr. \ipa{bouillon}
-  defs:
-    - broth (water in which food has been boiled)
+  definitions:
+    - typ: m
+      def: broth (water in which food has been boiled)
 
-ensembla:
-  typ: f
+- key: ensembla
   ety: From Fr. \ipa{ensemble}
-  defs:
-    - (mathematics) a set
-    - (music) an ensemble
+  definitions:
+    - typ: f
+      def: (mathematics) a set
+    - typ: f
+      def: (music) an ensemble
 
-tresón:
-  typ: adj
+- key: tresón
   ety: From PIE \ipa{*tres-}
-  defs:
-    - shy, timid
-    - (of doves) timorous, shy, pavid
+  definitions:
+    - typ: adj
+      def: shy, timid
+    - typ: adj
+      def: (of doves) timorous, shy, pavid
 
-rodetis:
-  typ: f
+- key: rodetis
   ety: From Dan. \ipa{rodia}
-  defs:
-    - government
+  definitions:
+    - typ: f
+      def: government
 
-analysis:
-  typ: f
+- key: analysis
   ety: From Lat. \ipa{analysis}, from AG \gr{ᾰ̓νᾰ́λῠσῐς}
-  defs:
-    - analysis
+  definitions:
+    - typ: f
+      def: analysis
 
-synthesis:
-  typ: f
+- key: synthesis
   ety: From Lat. \ipa{synthesis}, from AG \gr{σύνθεσις}
-  defs:
-    - synthesis
+  definitions:
+    - typ: f
+      def: synthesis
 
-climan:
-  typ: n
+- key: climan
   ety: From Lat. \ipa{clima}, from AG \gr{κλίμα}
-  defs:
-    - climate
-    - (mathematics) slope, inclination
+  definitions:
+    - typ: n
+      def: climate
+    - typ: n
+      def: (mathematics) slope, inclination
 
-energia:
-  typ: f
+- key: energia
   ety: From Lat. \ipa{energia}, from AG \gr{ἐνέργειᾰ}
-  defs:
-    - energy (in physics, and in the colloquial sense)
+  definitions:
+    - typ: f
+      def: energy (in physics, and in the colloquial sense)
 
-eleméntom:
-  typ: n
+- key: eleméntom
   ety: From Lat. \ipa{elementum}
-  defs:
-    - element
-    - chemical element
-    - basic principle, rudiment
+  definitions:
+    - typ: n
+      def: element
+    - typ: n
+      def: chemical element
+    - typ: n
+      def: basic principle, rudiment
 
-setoi:
-  typ: proadv
+- key: setoi
   ety: From PIE {*ḱe-}
-  defs:
-    - here
+  definitions:
+    - typ: proadv
+      def: here
 
-sodines:
-  typ: adv
+- key: sodines
   ety: From PIE {*ḱo-} and Dan. \ipa{din}
-  defs:
-    - today
+  definitions:
+    - typ: adv
+      def: today
 
-din:
-  typ: m
+- key: din
   ety: From PIE {*dyew-}
-  defs:
-    - day
+  definitions:
+    - typ: m
+      def: day
 
-ause:
-  typ: adv
+- key: ause
   ety: From Dan. \ipa{ausós}
-  defs:
-    - tomorrow
+  definitions:
+    - typ: adv
+      def: tomorrow
 
-Raikstag:
-  typ: m
+- key: Raikstag
   ety: From Ger. \ipa{Reichstag}
-  defs:
-    - Reichstag
+  definitions:
+    - typ: m
+      def: Reichstag
 
-Abrahám:
-  typ: m
+- key: Abrahám
   ety: From Lat. \ipa{Ābrahām}
-  defs:
-    - Abraham
   cat: personal-names
+  definitions:
+    - typ: m
+      def: Abraham
 
-Edém:
-  typ: m
+- key: Edém
   ety: From Gr. \gr{Εδέμ}
-  defs:
-    - Eden, Garden of Eden
+  definitions:
+    - typ: m
+      def: Eden, Garden of Eden
 
-Artobolos:
-  typ: m
+- key: Artobolos
   ety: From Dan. \ipa{artos + bolos}
-  defs:
-    - Danetian personal name, meaning \textit{strong bear}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{strong bear}
 
-Valpobolos:
-  typ: m
+- key: Valpobolos
   ety: From Dan. \ipa{valpos + bolos}
-  defs:
-    - Danetian personal name, meaning \textit{strong wolf}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{strong wolf}
 
-Usteromoris:
-  typ: m
+- key: Usteromoris
   ety: From Dan. \ipa{usterom + mori}
-  defs:
-    - Danetian personal name, meaning \textit{high seas}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{high seas}
 
-Artoner:
-  typ: m
+- key: Artoner
   ety: From Dan. \ipa{artos + ner}
-  defs:
-    - Danetian personal name, meaning \textit{powerful bear}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{powerful bear}
 
-Valponer:
-  typ: m
+- key: Valponer
   ety: From Dan. \ipa{valpos + ner}
-  defs:
-    - Danetian personal name, meaning \textit{powerful wolf}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{powerful wolf}
 
-Africa:
-  typ: f
+- key: Africa
   ety: From Lat. \ipa{Āfrica}
-  defs:
-    - Africa
   cat: place-names
+  definitions:
+    - typ: f
+      def: Africa
 
-Asia:
-  typ: f
+- key: Asia
   ety: From AG \gr{Ἀσῐ́ᾱ}
-  defs:
-    - Asia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Asia
 
-Nordina America:
-  typ: f
+- key: Nordina America
   ety: From Dan. \ipa{nordina + America}
-  defs:
-    - North America
   cat: place-names
+  definitions:
+    - typ: f
+      def: North America
 
-Sundina America:
-  typ: f
+- key: Sundina America
   ety: From Dan. \ipa{sundina + America}
-  defs:
-    - South America
   cat: place-names
+  definitions:
+    - typ: f
+      def: South America
 
-Australia:
-  typ: f
+- key: Australia
   ety: From En. \ipa{Australia}
-  defs:
-    - Australia
   cat: place-names
+  definitions:
+    - typ: f
+      def: Australia
 
-Antarctica:
-  typ: f
+- key: Antarctica
   ety: From Lat. \ipa{Antarctica}
-  defs:
-    - Antarctica
   cat: place-names
+  definitions:
+    - typ: f
+      def: Antarctica
 
-Albania:
-  typ: f
+- key: Albania
   ety: From Lat. \ipa{Albania}, from BG \gr{Ἀλβανία}
-  defs:
-    - Albania
   cat: place-names
+  definitions:
+    - typ: f
+      def: Albania
 
-Austria:
-  typ: f
+- key: Austria
   ety: From Lat. \ipa{Austria}
-  defs:
-    - Austria
   cat: place-names
+  definitions:
+    - typ: f
+      def: Austria
 
-Cjechia:
-  typ: m
+- key: Cjechia
   ety: From Pol. \ipa{Czech}
-  defs:
-    - Czech Republic, Czechia
+  definitions:
+    - typ: m
+      def: Czech Republic, Czechia
 
-europiskos:
-  typ: adj
+- key: europiskos
   ety: From Dan. \ipa{Európa}
-  defs:
-    - European
+  definitions:
+    - typ: adj
+      def: European
 
-Europiskom Somjugos:
-  typ: n
+- key: Europiskom Somjugos
   ety: From Dan. \ipa{europiskom + somjugos}
-  defs:
-    - European Union
+  definitions:
+    - typ: n
+      def: European Union
 
-Britanniskom Imperiom:
-  typ: n
+- key: Britanniskom Imperiom
   ety: From Dan. \ipa{britanniskom + imperiom}
-  defs:
-    - British Empire
+  definitions:
+    - typ: n
+      def: British Empire
 
-britanniskos:
-  typ: adj
+- key: britanniskos
   ety: From Dan. \ipa{Britannia}
-  defs:
-    - British
+  definitions:
+    - typ: adj
+      def: British
 
-americaniskos:
-  typ: adj
+- key: americaniskos
   ety: From Dan. \ipa{America}
-  defs:
-    - American
+  definitions:
+    - typ: adj
+      def: American
 
-danetiska:
-  typ: f
+- key: danetiska
   ety: From Dan. \ipa{danetiskos}
-  defs:
-    - Danetian language
+  definitions:
+    - typ: f
+      def: Danetian language
 
-dictionariom:
-  typ: n
+- key: dictionariom
   ety: From Lat. \ipa{dictiōnārium}
-  defs:
-    - dictionary
+  definitions:
+    - typ: n
+      def: dictionary
 
-thermometrom:
-  typ: n
+- key: thermometrom
   ety: From Fr. \ipa{thermomètre}, with a latinized ending
-  defs:
-    - thermometer
+  definitions:
+    - typ: n
+      def: thermometer
 
-thermodynamica:
-  typ: f
-  defs:
-    - thermodynamics
+- key: thermodynamica
+  definitions:
+    - typ: f
+      def: thermodynamics
 
-Steloslevés:
-  typ: m
+- key: Steloslevés
   ety: From Dan. \ipa{stelom + slevos}
-  defs:
-    - Danetian personal name, meaning \textit{wide fame}
+  definitions:
+    - typ: m
+      def: Danetian personal name, meaning \textit{wide fame}
 
-linguistica:
-  typ: f
+- key: linguistica
   ety: From Fr. \ipa{linguistique}, with a latinized ending
-  defs:
-    - linguistics
+  definitions:
+    - typ: f
+      def: linguistics
 
-apoluketis:
-  typ: f
+- key: apoluketis
   ety: From Dan. \ipa{apolúketor}
-  defs:
-    - appearance, the way in which something seems
-    - apparition
+  definitions:
+    - typ: f
+      def: appearance, the way in which something seems
+    - typ: f
+      def: apparition
 
-dinosauros:
-  typ: m
+- key: dinosauros
   ety: From Fr. \ipa{dinosaure}, with a latinized ending
-  defs:
-    - dinosaur
+  definitions:
+    - typ: m
+      def: dinosaur
 
-orbita:
-  typ: f
+- key: orbita
   ety: From Lat. \ipa{orbita}
-  defs:
-    - orbit
+  definitions:
+    - typ: f
+      def: orbit
 
-geologia:
-  typ: f
+- key: geologia
   ety: From NL \ipa{geōlogia}
-  defs:
-    - geology
+  definitions:
+    - typ: f
+      def: geology
 
-geographia:
-  typ: f
+- key: geographia
   ety: From Lat. \ipa{geōgraphia}, from AG \gr{γεωγραφία}
-  defs:
-    - geography
+  definitions:
+    - typ: f
+      def: geography
 
-topologia:
-  typ: f
+- key: topologia
   ety: From Fr. \ipa{topologie}, with a latinized ending
-  defs:
-    - (mathematics) topology
+  definitions:
+    - typ: f
+      def: (mathematics) topology
 
-topographia:
-  typ: f
+- key: topographia
   ety: From AG \gr{τοπογραφία}
-  defs:
-    - topography
+  definitions:
+    - typ: f
+      def: topography
 
-curier:
-  typ: m
+- key: curier
   ety: From Fr. \ipa{courrier}
-  defs:
-    - mail
-    - post office
-    - mail postal service
+  definitions:
+    - typ: m
+      def: mail
+    - typ: m
+      def: post office
+    - typ: m
+      def: mail postal service
 
-electroniskos:
-  typ: adj
+- key: electroniskos
   ety: From Fr. \ipa{électronique}, with a Danetian ending
-  defs:
-    - electronic
+  definitions:
+    - typ: adj
+      def: electronic
 
-electroniskos curier:
-  typ: m
+- key: electroniskos curier
   ety: From Dan. \ipa{electroniskos + curier}
-  defs:
-    - email, e-mail, electronic mail
+  definitions:
+    - typ: m
+      def: email, e-mail, electronic mail
 
-Christos:
-  typ: m
+- key: Christos
   ety: From Lat. \ipa{Christus}, from AG \gr{Χριστός}
-  defs:
-    - Christ, Messiah
+  definitions:
+    - typ: m
+      def: Christ, Messiah
 
-christiános:
-  typ: adj
+- key: christiános
   ety: From Lat. \ipa{Chrīstiānus}, from AG \gr{Χρῑστιᾱνός}
-  defs:
-    - Christian
+  definitions:
+    - typ: adj
+      def: Christian
 
-eligeti:
-  typ: v
+- key: eligeti
   ety: From Lat. \ipa{ēligō}
-  defs:
-    - to choose something; to make a decision
-    - (politics) to elect
+  definitions:
+    - typ: v
+      def: to choose something; to make a decision
+    - typ: v
+      def: (politics) to elect
 
-electión:
-  typ: f
+- key: electión
   ety: From Lat. \ipa{ēlēctiō}
-  defs:
-    - a choice, selection
-    - (politics) election
+  definitions:
+    - typ: f
+      def: a choice, selection
+    - typ: f
+      def: (politics) election
 
-natúra:
-  typ: f
+- key: natúra
   ety: From Lat. \ipa{nātūra}
-  defs:
-    - nature
+  definitions:
+    - typ: f
+      def: nature
 
-naturális:
-  typ: adj
+- key: naturális
   ety: From Lat. \ipa{nātūrālis}
-  defs:
-    - natural
+  definitions:
+    - typ: adj
+      def: natural
 
-naturális donvos:
-  typ: m
-  defs:
-    - (mathematics) natural number
+- key: naturális donvos
+  definitions:
+    - typ: m
+      def: (mathematics) natural number
 
-hypothesis:
-  typ: f
+- key: hypothesis
   ety: From Lat. \ipa{hypothesis}, from AG \gr{ὑπόθεσις}
-  defs:
-    - hypothesis
+  definitions:
+    - typ: f
+      def: hypothesis
 
-hyperbola:
-  typ: f
+- key: hyperbola
   ety: From AG \gr{ὑπερβολή}
-  defs:
-    - (mathematics) hyperbola
-    - exaggeration, hyperbole
+  definitions:
+    - typ: f
+      def: (mathematics) hyperbola
+    - typ: f
+      def: exaggeration, hyperbole
 
-parabola:
-  typ: f
+- key: parabola
   ety: From AG \gr{παραβολή}
-  defs:
-    - (mathematics) parabola
-    - parable, proverb
+  definitions:
+    - typ: f
+      def: (mathematics) parabola
+    - typ: f
+      def: parable, proverb
 
-ellípsis:
-  typ: f
+- key: ellípsis
   ety: From Lat. \ipa{ellīpsis}, from AG \gr{ἔλλειψῐς}
-  defs:
-    - (mathematics) ellipse
+  definitions:
+    - typ: f
+      def: (mathematics) ellipse
 
-constitutión:
-  typ: f
+- key: constitutión
   ety: From Lat. \ipa{cōnstitūtiō}
-  defs:
-    - constitution
+  definitions:
+    - typ: f
+      def: constitution
 
-a:
-  typ: n
-  defs:
-    - letter \textit{a}
+- key: a
+  definitions:
+    - typ: n
+      def: letter \textit{a}
 
-be:
-  typ: n
-  defs:
-    - letter \textit{b}
+- key: be
+  definitions:
+    - typ: n
+      def: letter \textit{b}
 
-ce:
-  typ: n
-  defs:
-    - letter \textit{c}
+- key: ce
+  definitions:
+    - typ: n
+      def: letter \textit{c}
 
-de:
-  typ: n
-  defs:
-    - letter \textit{d}
+- key: de
+  definitions:
+    - typ: n
+      def: letter \textit{d}
 
-e:
-  typ: n
-  defs:
-    - letter \textit{e}
+- key: e
+  definitions:
+    - typ: n
+      def: letter \textit{e}
 
-ef:
-  typ: n
-  defs:
-    - letter \textit{f}
+- key: ef
+  definitions:
+    - typ: n
+      def: letter \textit{f}
 
-ge:
-  typ: n
-  defs:
-    - letter \textit{g}
+- key: ge
+  definitions:
+    - typ: n
+      def: letter \textit{g}
 
-ha:
-  typ: n
-  defs:
-    - letter \textit{h}
+- key: ha
+  definitions:
+    - typ: n
+      def: letter \textit{h}
 
-i¹:
-  typ: n
-  defs:
-    - letter \textit{i}
+- key: i¹
+  definitions:
+    - typ: n
+      def: letter \textit{i}
 
-ja:
-  typ: n
-  defs:
-    - letter \textit{j}
+- key: ja
+  definitions:
+    - typ: n
+      def: letter \textit{j}
 
-ka:
-  typ: n
-  defs:
-    - letter \textit{k}
+- key: ka
+  definitions:
+    - typ: n
+      def: letter \textit{k}
 
-el:
-  typ: n
-  defs:
-    - letter \textit{l}
+- key: el
+  definitions:
+    - typ: n
+      def: letter \textit{l}
 
-em:
-  typ: n
-  defs:
-    - letter \textit{m}
+- key: em
+  definitions:
+    - typ: n
+      def: letter \textit{m}
 
-en:
-  typ: n
-  defs:
-    - letter \textit{n}
+- key: o
+  definitions:
+    - typ: n
+      def: letter \textit{o}
 
-o:
-  typ: n
-  defs:
-    - letter \textit{o}
+- key: pe
+  definitions:
+    - typ: n
+      def: letter \textit{p}
 
-pe:
-  typ: n
-  defs:
-    - letter \textit{p}
+- key: qu
+  definitions:
+    - typ: n
+      def: letter \textit{q}
 
-qu:
-  typ: n
-  defs:
-    - letter \textit{q}
+- key: er
+  definitions:
+    - typ: n
+      def: letter \textit{r}
 
-er:
-  typ: n
-  defs:
-    - letter \textit{r}
+- key: es
+  definitions:
+    - typ: n
+      def: letter \textit{s}
 
-es:
-  typ: n
-  defs:
-    - letter \textit{s}
+- key: te
+  definitions:
+    - typ: n
+      def: letter \textit{t}
 
-te:
-  typ: n
-  defs:
-    - letter \textit{t}
+- key: u
+  definitions:
+    - typ: n
+      def: letter \textit{u}
 
-u:
-  typ: n
-  defs:
-    - letter \textit{u}
+- key: ve
+  definitions:
+    - typ: n
+      def: letter \textit{v}
 
-ve:
-  typ: n
-  defs:
-    - letter \textit{v}
+- key: dublevé
+  definitions:
+    - typ: n
+      def: letter \textit{w}
 
-dublevé:
-  typ: n
-  defs:
-    - letter \textit{w}
+- key: ix
+  definitions:
+    - typ: n
+      def: letter \textit{x}
 
-ix:
-  typ: n
-  defs:
-    - letter \textit{x}
+- key: igrek
+  definitions:
+    - typ: n
+      def: letter \textit{y}
 
-igrek:
-  typ: n
-  defs:
-    - letter \textit{y}
+- key: zet
+  definitions:
+    - typ: n
+      def: letter \textit{z}
 
-zet:
-  typ: n
-  defs:
-    - letter \textit{z}
-
-aeroportos:
-  typ: m
+- key: aeroportos
   ety: From Fr. \ipa{aéroport}, with a latinized ending
-  defs:
-    - airport
+  definitions:
+    - typ: m
+      def: airport
 
-Tirána:
-  typ: f
-  defs:
-    - Tirana, capital of Albania
+- key: Tirána
+  definitions:
+    - typ: f
+      def: Tirana, capital of Albania
 
-Andórra:
-  typ: f
+- key: Andórra
   ety: From Sp. \ipa{Andorra}. Compare Fr. \ipa{Andorre}
-  defs:
-    - Andorra
+  definitions:
+    - typ: f
+      def: Andorra
 
-Armenia:
-  typ: f
+- key: Armenia
   ety: From Lat. \ipa{Armenia}, from AG \gr{Ἀρμενία}
-  defs:
-    - Armenia
+  definitions:
+    - typ: f
+      def: Armenia
 
-Jereván:
-  typ: m
+- key: Jereván
   ety: From Rus. \cyr{Ерева́н}
-  defs:
-    - Yerevan, capital of Armenia
+  definitions:
+    - typ: m
+      def: Yerevan, capital of Armenia
 
-Vienna:
-  typ: f
+- key: Vienna
   ety: From It. \ipa{Vienna}
-  defs:
-    - Vienna
+  definitions:
+    - typ: f
+      def: Vienna
 
-Azerbaigján:
-  typ: m
+- key: Azerbaigján
   ety: From Rus. \cyr{Азербайджа́н}
-  defs:
-    - Azerbaijan
+  definitions:
+    - typ: m
+      def: Azerbaijan
 
-Baku:
-  typ: n
+- key: Baku
   ety: From Rus. \cyr{Баку́}
-  defs:
-    - Baku, capital of Azerbaijan
+  definitions:
+    - typ: n
+      def: Baku, capital of Azerbaijan
 
-Miniskos:
-  typ: m
+- key: Miniskos
   ety: From Rus. \cyr{Минск}, with a Danetian ending
-  defs:
-    - Minsk, capital of Belarus
+  definitions:
+    - typ: m
+      def: Minsk, capital of Belarus
 
-Brussellai:
-  typ: f
+- key: Brussellai
   ety: From Fr. \ipa{Bruxelles}, with a latinized ending
-  defs:
-    - Brussels, capital of Belgium
+  definitions:
+    - typ: f
+      def: Brussels, capital of Belgium
 
-i²:
-  typ: conj
+- key: i²
   ety: From PIE \ipa{*ei}
-  defs:
-    - and
+  definitions:
+    - typ: conj
+      def: and
 
-Bosnia i Hertsegovína:
-  typ: f
-  defs:
-    - Bosnia and Herzegovina
+- key: Bosnia i Hertsegovína
+  definitions:
+    - typ: f
+      def: Bosnia and Herzegovina
 
-Trinidad i Tobago:
-  typ: f
-  defs:
-    - Trinidad and Tobago
+- key: Trinidad i Tobago
+  definitions:
+    - typ: f
+      def: Trinidad and Tobago
 
-Sarajevo:
-  typ: n
-  defs:
-    - Sarajevo, capital of Bosnia and Herzegovina
+- key: Sarajevo
+  definitions:
+    - typ: n
+      def: Sarajevo, capital of Bosnia and Herzegovina
 
-Bulgaria:
-  typ: f
-  defs:
-    - Bulgaria
+- key: Bulgaria
+  definitions:
+    - typ: f
+      def: Bulgaria
 
-Sophia:
-  typ: f
+- key: Sophia
   ety: From AG \gr{σοφία}
-  defs:
-    - Sophia, Sofia, Sophie
-    - Sofia, capital of Bularia
+  definitions:
+    - typ: f
+      def: Sophia, Sofia, Sophie
+    - typ: f
+      def: Sofia, capital of Bularia
 
-Croatia:
-  typ: f
+- key: Croatia
   ety: From Lat. \ipa{Croātia}
-  defs:
-    - Croatia
+  definitions:
+    - typ: f
+      def: Croatia
 
-Zagrabia:
-  typ: f
+- key: Zagrabia
   ety: From Lat. \ipa{Zagrabia}
-  defs:
-    - Zagreb, capital of Croatia
+  definitions:
+    - typ: f
+      def: Zagreb, capital of Croatia
 
-Cypros:
-  typ: f
+- key: Cypros
   ety: From Latin \ipa{Cyprus}, from AG \gr{Κύπρος}
-  defs:
-    - Cyprus
+  definitions:
+    - typ: f
+      def: Cyprus
 
-Nicosia:
-  typ: f
+- key: Nicosia
   ety: From Fr. \ipa{Nicosie}, from AG \gr{Λευκωσία}
-  defs:
-    - Nicosia, capital of Cyprus
+  definitions:
+    - typ: f
+      def: Nicosia, capital of Cyprus
 
-Praga:
-  typ: f
+- key: Praga
   ety: From Lat. \ipa{Praga}
-  defs:
-    - Prague
+  definitions:
+    - typ: f
+      def: Prague
 
-Estonia:
-  typ: f
-  defs:
-    - Estonia
+- key: Estonia
+  definitions:
+    - typ: f
+      def: Estonia
 
-Talín:
-  typ: m
+- key: Talín
   ety: From Rus. \cyr{Та́ллин}
-  defs:
-    - Tallinn, capital of Estonia
+  definitions:
+    - typ: m
+      def: Tallinn, capital of Estonia
 
-Helsingia:
-  typ: f
+- key: Helsingia
   ety: From Lat. \ipa{Helsingia}
-  defs:
-    - Helsinki, capital of Finland
+  definitions:
+    - typ: f
+      def: Helsinki, capital of Finland
 
-Tiflis:
-  typ: f
+- key: Tiflis
   ety: From Rus. \cyr{Тифли́с}
-  defs:
-    - Tbilisi, capital of Georgia
+  definitions:
+    - typ: f
+      def: Tbilisi, capital of Georgia
 
-Islandia:
-  typ: f
+- key: Islandia
   ety: From Lat. \ipa{Islandia}
-  defs:
-    - Iceland
+  definitions:
+    - typ: f
+      def: Iceland
 
-Reicjavik:
-  typ: From Icelandic \ipa{Reykjavík}
-  defs:
-    - Reykjavik, capital of Iceland
+- key: Reicjavik
+  definitions:
+    - typ: From Icelandic \ipa{Reykjavík}
+      def: Reykjavik, capital of Iceland
 
-Dublín:
-  typ: m
+- key: Dublín
   ety: From Fr. \ipa{Dublin}
-  defs:
-    - Dublin, capital of Ireland
+  definitions:
+    - typ: m
+      def: Dublin, capital of Ireland
 
-Kazachstán:
-  typ: m
+- key: Kazachstán
   ety: From Rus. \cyr{Казахста́н}
-  defs:
-    - Kazakhstan
+  definitions:
+    - typ: m
+      def: Kazakhstan
 
-Nur-Sultán:
-  typ: m
-  defs:
-    - Nur-Sultan, capital of Kazakhstan
+- key: Nur-Sultán
+  definitions:
+    - typ: m
+      def: Nur-Sultan, capital of Kazakhstan
 
-Lettonia:
-  typ: f
+- key: Lettonia
   ety: From Lat. \ipa{Lettonia}
-  defs:
-    - Latvia
+  definitions:
+    - typ: f
+      def: Latvia
 
-Lithuania:
-  typ: f
+- key: Lithuania
   ety: From Lat. \ipa{Lithuania}
-  defs:
-    - Lithuania
+  definitions:
+    - typ: f
+      def: Lithuania
 
-Lichtenstain:
-  typ: m
+- key: Lichtenstain
   ety: From Ger. \ipa{Liechtenstein}
-  defs:
-    - Liechtenstein
+  definitions:
+    - typ: m
+      def: Liechtenstein
 
-Riga:
-  typ: f
+- key: Riga
   ety: From Rus. \cyr{Ри́га}
-  defs:
-    - Riga, capital of Latvia
+  definitions:
+    - typ: f
+      def: Riga, capital of Latvia
 
-Vadus:
-  typ: m
+- key: Vadus
   ety: From Ger. \ipa{Vaduz}
-  defs:
-    - Vaduz, capital of Liechtenstein
+  definitions:
+    - typ: m
+      def: Vaduz, capital of Liechtenstein
 
-Vilnius:
-  typ: m
+- key: Vilnius
   ety: From Lith. \ipa{Vilnius}
-  defs:
-    - Vilnius, capital of Lithuania
+  definitions:
+    - typ: m
+      def: Vilnius, capital of Lithuania
 
-Luxembúrgom:
-  typ: n
+- key: Luxembúrgom
   ety: From Lat. \ipa{Luxemburgum}
-  defs:
-    - Luxembourg
+  definitions:
+    - typ: n
+      def: Luxembourg
 
-Malta:
-  typ: f
-  defs:
-    - Malta
+- key: Malta
+  definitions:
+    - typ: f
+      def: Malta
 
-Valéta:
-  typ: f
-  defs:
-    - Valletta, capital of Malta
+- key: Valéta
+  definitions:
+    - typ: f
+      def: Valletta, capital of Malta
 
-Moldavia:
-  typ: f
+- key: Moldavia
   ety: From Rus. \cyr{Молда́вия}
-  defs:
-    - Moldova, Moldavia, Moldovia
+  definitions:
+    - typ: f
+      def: Moldova, Moldavia, Moldovia
 
-Kisjinjov:
-  typ: m
+- key: Kisjinjov
   ety: From Rus. \ipa{Кишинёв}
-  defs:
-    - Chisinau, capital of Moldova
+  definitions:
+    - typ: m
+      def: Chisinau, capital of Moldova
 
-Monaco:
-  typ: n
-  defs:
-    - Monaco
+- key: Monaco
+  definitions:
+    - typ: n
+      def: Monaco
 
-bora:
-  typ: f
+- key: bora
   ety: From PIE \ipa{*gʷorH-eh₂}
-  defs:
-    - mountain
+  definitions:
+    - typ: f
+      def: mountain
 
-Karsna Bora:
-  typ: f
-  defs:
-    - Montenegro, Monte Negro
+- key: Karsna Bora
+  definitions:
+    - typ: f
+      def: Montenegro, Monte Negro
 
-Podgoritsa:
-  typ: f
+- key: Podgoritsa
   ety: From Serbo-Croatian \ipa{Pòdgorica} / \cyr{По̀дгорица}
-  defs:
-    - Podgorica, capital of Montenegro
+  definitions:
+    - typ: f
+      def: Podgorica, capital of Montenegro
 
-Haunies Fedomes:
-  typ: f
-  defs:
-    - Low Countries, Netherlands
+- key: Haunies Fedomes
+  definitions:
+    - typ: f
+      def: Low Countries, Netherlands
 
-Amsterdám:
-  typ: m
-  defs:
-    - Amsterdam, capital of the Netherlands
+- key: Amsterdám
+  definitions:
+    - typ: m
+      def: Amsterdam, capital of the Netherlands
 
-Nordina Macedonia:
-  typ: f
-  defs:
-    - North Macedonia
+- key: Nordina Macedonia
+  definitions:
+    - typ: f
+      def: North Macedonia
 
-Scupoi:
-  typ: m
+- key: Scupoi
   ety: From Lat. \ipa{Scūpī}
-  defs:
-    - Skopje, capital of North Macedonia
+  definitions:
+    - typ: m
+      def: Skopje, capital of North Macedonia
 
-Oslo:
-  typ: n
-  defs:
-    - Oslo, capital of Norway
+- key: Oslo
+  definitions:
+    - typ: n
+      def: Oslo, capital of Norway
 
-Varsovia:
-  typ: f
+- key: Varsovia
   ety: From Lat. \ipa{Varsovia}
-  defs:
-    - Warsaw, capital of Poland
+  definitions:
+    - typ: f
+      def: Warsaw, capital of Poland
 
-Olisipón:
-  typ: f
+- key: Olisipón
   ety: From Lat. \ipa{Olisīpō}
-  defs:
-    - Lisbon, capital of Portugal
+  definitions:
+    - typ: f
+      def: Lisbon, capital of Portugal
 
-Romania:
-  typ: f
-  defs:
-    - Romania
+- key: Romania
+  definitions:
+    - typ: f
+      def: Romania
 
-Bucuresjti:
-  typ: n
+- key: Bucuresjti
   ety: From Rom. \ipa{București}
-  defs:
-    - Bucharest, capital of Romania
+  definitions:
+    - typ: n
+      def: Bucharest, capital of Romania
 
-Sanctos Marínos:
-  typ: From It. \ipa{San Marino}
-  defs:
-    - San Marino
+- key: Sanctos Marínos
+  ety: From It. \ipa{San Marino}
+  definitions:
+    - typ: m
+      def: San Marino
 
-Belgrádom:
-  typ: n
-  defs:
-    - Belgrad, capital of Serbia
+- key: Belgrádom
+  definitions:
+    - typ: n
+      def: Belgrad, capital of Serbia
 
-Slovakia:
-  typ: f
+- key: Slovakia
   ety: From Rus. \ipa{Слова́кия}
-  defs:
-    - Slovakia
+  definitions:
+    - typ: f
+      def: Slovakia
 
-Bratisláva:
-  typ: f
+- key: Bratisláva
   ety: From Rus. \ipa{Братисла́ва}
-  defs:
-    - Bratislava, capital of Slovakia
+  definitions:
+    - typ: f
+      def: Bratislava, capital of Slovakia
 
-Slovenía:
-  typ: f
-  defs:
-    - Slovenia
+- key: Slovenía
+  definitions:
+    - typ: f
+      def: Slovenia
 
-Lubiána:
-  typ: f
+- key: Lubiána
   ety: From It. \ipa{Lubiana}
-  defs:
-    - Ljubljana, capital of Slovenia
+  definitions:
+    - typ: f
+      def: Ljubljana, capital of Slovenia
 
-Ankara:
-  typ: f
-  defs:
-    - Ankara, capital of Turkey
+- key: Ankara
+  definitions:
+    - typ: f
+      def: Ankara, capital of Turkey
 
-Kiev:
-  typ: m
+- key: Kiev
   ety: From Rus. \cyr{Ки́ев}
-  defs:
-    - Kyiv, Kiev, capital of Ukraine
+  definitions:
+    - typ: m
+      def: Kyiv, Kiev, capital of Ukraine
 
-sjar:
-  typ: m
+- key: sjar
   ety: From Per. \arab{شهر}
-  defs:
-    - city
+  definitions:
+    - typ: m
+      def: city
 
-Vaticánom:
-  typ: n
-  defs:
-    - Vatican City
+- key: Vaticánom
+  definitions:
+    - typ: n
+      def: Vatican City

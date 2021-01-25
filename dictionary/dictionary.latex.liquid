@@ -1,0 +1,74 @@
+\documentclass[twocolumn,a5paper]{article}
+\title{Dictionariom Danetiskas Danvas}
+\author{Saverios Castro}
+\date{25 januariosjo 2021}
+
+
+
+\usepackage{microtype} % Improves spacing
+\usepackage[top=4em,bottom=5em,left=3em,right=3em,columnsep=24pt]{geometry} % Document margins and spacings
+
+\usepackage{ebgaramond}
+
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+%\setmainfont{SBL_BLit.ttf}
+%\setmainfont{CharisSIL}
+%\setmainfont{DoulosSIL}
+%\usepackage{tgpagella}
+%\usepackage{crimson}
+\setmainfont{Century Gothic}
+
+\usepackage{parskip}
+
+\newfontfamily\ipafont{CharisSIL}
+\newfontfamily\greekfont{SBL_BLit.ttf}
+\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
+%\newfontfamily\cyrillicfont{CharisSIL}
+%\newfontfamily\keyfont{Warownia.otf}
+
+{% raw %}
+\newcommand{\ipa}[1]{{\ipafont\textit{#1}}}
+\newcommand{\gr}[1]{{\greekfont #1}}
+\newcommand{\arab}[1]{{\arabicfont #1}}
+\newcommand{\cyr}[1]{{\ipafont\textit{#1}}}
+\newcommand{\key}[1]{{\textbf{#1}}}
+{% endraw %}
+
+\begin{document}
+\maketitle
+
+{% for key in keys %}
+	{% assign entry = dictionary[key] %}
+
+	{% if entry.parts == '' %}
+		\key{ {{- key -}}.}
+	{%- else -%}
+		\key{ {{- key -}},}
+		\textit{ {{- entry.parts -}}.}
+	{%- endif -%}
+
+	{% raw %} {% endraw %}
+
+	{%- if entry.ety != '' -%}
+		{\footnotesize ({{- entry.ety -}}).}
+	{%- endif -%}
+	{% raw %} {% endraw %}{{ entry.typ }}.
+
+	{%- assign L = entry.defs | size -%}
+	{%- if L == 1 -%}
+		{% raw %} {% endraw %}{{ entry.defs[0] }}
+	{%- else -%}
+		{%- assign i = 0 -%}
+		{%- for def in entry.defs -%}
+			{% assign i = i | plus: 1 %}
+			\textbf{ {{- i -}}.}~{{ def }}
+		{%- endfor -%}
+	{%- endif -%}
+{% endfor %}
+
+\onecolumn
+\section*{Senti tosmí {{ keys | size }} verdóm!}
+
+\end{document}

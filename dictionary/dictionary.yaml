@@ -287,7 +287,7 @@ dustus:
   defs:
     - taste
 
-donfos:
+donvos:
   typ: m
   ety: From PIE \ipa{*ǵómbʰos}
   defs:
@@ -812,6 +812,7 @@ osdos:
   ety: From PIE \ipa{*h₃ósdos}
   defs:
     - branch
+    - (religious) denomination
 
 reds:
   typ: m
@@ -1544,6 +1545,7 @@ valpos:
   ety: From PIE \ipa{*wĺ̥kʷos}
   defs:
     - wolf
+    - thief
 
 vodan:
   typ: n
@@ -3369,6 +3371,13 @@ sagjeti:
     - to give a sign
     - to mark
     - to mean, to signify
+
+sagjetis:
+  typ: f
+  ety: From Dan. \ipa{sagjeti}
+  defs:
+    - meaning, the meaning of something
+    - a sign or a mark
 
 rodis:
   typ: f
@@ -5898,3 +5907,294 @@ dictionariom:
   ety: From Lat. \ipa{dictiōnārium}
   defs:
     - dictionary
+
+thermometrom:
+  typ: n
+  ety: From Fr. \ipa{thermomètre}, with a latinized ending
+  defs:
+    - thermometer
+
+thermodynamica:
+  typ: f
+  defs:
+    - thermodynamics
+
+Steloslevés:
+  typ: m
+  ety: From Dan. \ipa{stelom + slevos}
+  defs:
+    - Danetian personal name, meaning \textit{wide fame}
+
+linguistica:
+  typ: f
+  ety: From Fr. \ipa{linguistique}, with a latinized ending
+  defs:
+    - linguistics
+
+apoluketis:
+  typ: f
+  ety: From Dan. \ipa{apolúketor}
+  defs:
+    - appearance, the way in which something seems
+    - apparition
+
+dinosauros:
+  typ: m
+  ety: From Fr. \ipa{dinosaure}, with a latinized ending
+  defs:
+    - dinosaur
+
+orbita:
+  typ: f
+  ety: From Lat. \ipa{orbita}
+  defs:
+    - orbit
+
+geologia:
+  typ: f
+  ety: From NL \ipa{geōlogia}
+  defs:
+    - geology
+
+geographia:
+  typ: f
+  ety: From Lat. \ipa{geōgraphia}, from AG \gr{γεωγραφία}
+  defs:
+    - geography
+
+topologia:
+  typ: f
+  ety: From Fr. \ipa{topologie}, with a latinized ending
+  defs:
+    - (mathematics) topology
+
+topographia:
+  typ: f
+  ety: From AG \gr{τοπογραφία}
+  defs:
+    - topography
+
+curier:
+  typ: m
+  ety: From Fr. \ipa{courrier}
+  defs:
+    - mail
+    - post office
+    - mail postal service
+
+electroniskos:
+  typ: adj
+  ety: From Fr. \ipa{électronique}, with a Danetian ending
+  defs:
+    - electronic
+
+electroniskos curier:
+  typ: m
+  ety: From Dan. \ipa{electroniskos + curier}
+  defs:
+    - email, e-mail, electronic mail
+
+Christos:
+  typ: m
+  ety: From Lat. \ipa{Christus}, from AG \gr{Χριστός}
+  defs:
+    - Christ, Messiah
+
+christiános:
+  typ: adj
+  ety: From Lat. \ipa{Chrīstiānus}, from AG \gr{Χρῑστιᾱνός}
+  defs:
+    - Christian
+
+eligeti:
+  typ: v
+  ety: From Lat. \ipa{ēligō}
+  defs:
+    - to choose something; to make a decision
+    - (politics) to elect
+
+electión:
+  typ: f
+  ety: From Lat. \ipa{ēlēctiō}
+  defs:
+    - a choice, selection
+    - (politics) election
+
+natúra:
+  typ: f
+  ety: From Lat. \ipa{nātūra}
+  defs:
+    - nature
+
+naturális:
+  typ: adj
+  ety: From Lat. \ipa{nātūrālis}
+  defs:
+    - natural
+
+naturális donvos:
+  typ: m
+  defs:
+    - (mathematics) natural number
+
+hypothesis:
+  typ: f
+  ety: From Lat. \ipa{hypothesis}, from AG \gr{ὑπόθεσις}
+  defs:
+    - hypothesis
+
+hyperbola:
+  typ: f
+  ety: From AG \gr{ὑπερβολή}
+  defs:
+    - (mathematics) hyperbola
+    - exaggeration, hyperbole
+
+parabola:
+  typ: f
+  ety: From AG \gr{παραβολή}
+  defs:
+    - (mathematics) parabola
+    - parable, proverb
+
+ellípsis:
+  typ: f
+  ety: From Lat. \ipa{ellīpsis}, from AG \gr{ἔλλειψῐς}
+  defs:
+    - (mathematics) ellipse
+
+constitutión:
+  typ: f
+  ety: From Lat. \ipa{cōnstitūtiō}
+  defs:
+    - constitution
+
+a:
+  typ: n
+  defs:
+    - letter \textit{a}
+
+be:
+  typ: n
+  defs:
+    - letter \textit{b}
+
+ce:
+  typ: n
+  defs:
+    - letter \textit{c}
+
+de:
+  typ: n
+  defs:
+    - letter \textit{d}
+
+e:
+  typ: n
+  defs:
+    - letter \textit{e}
+
+ef:
+  typ: n
+  defs:
+    - letter \textit{f}
+
+ge:
+  typ: n
+  defs:
+    - letter \textit{g}
+
+ha:
+  typ: n
+  defs:
+    - letter \textit{h}
+
+i:
+  typ: n
+  defs:
+    - letter \textit{i}
+
+ja:
+  typ: n
+  defs:
+    - letter \textit{j}
+
+ka:
+  typ: n
+  defs:
+    - letter \textit{k}
+
+el:
+  typ: n
+  defs:
+    - letter \textit{l}
+
+em:
+  typ: n
+  defs:
+    - letter \textit{m}
+
+en:
+  typ: n
+  defs:
+    - letter \textit{n}
+
+o:
+  typ: n
+  defs:
+    - letter \textit{o}
+
+pe:
+  typ: n
+  defs:
+    - letter \textit{p}
+
+qu:
+  typ: n
+  defs:
+    - letter \textit{q}
+
+er:
+  typ: n
+  defs:
+    - letter \textit{r}
+
+es:
+  typ: n
+  defs:
+    - letter \textit{s}
+
+te:
+  typ: n
+  defs:
+    - letter \textit{t}
+
+u:
+  typ: n
+  defs:
+    - letter \textit{u}
+
+ve:
+  typ: n
+  defs:
+    - letter \textit{v}
+
+dublevé:
+  typ: n
+  defs:
+    - letter \textit{w}
+
+ix:
+  typ: n
+  defs:
+    - letter \textit{x}
+
+igrek:
+  typ: n
+  defs:
+    - letter \textit{y}
+
+zet:
+  typ: n
+  defs:
+    - letter \textit{z}

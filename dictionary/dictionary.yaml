@@ -1,4 +1,3 @@
-
 - key: barda
   ety: From PIE \ipa{*bʰardʰéh₂}
   definitions:
@@ -470,6 +469,8 @@
   definitions:
     - typ: n
       def: (emotional) distress
+    - typ: n
+      def: fear, dread, terror
 
 - key: adros
   ety: From PIE \ipa{*h₂éǵros}
@@ -651,6 +652,7 @@
   definitions:
     - typ: n
       def: copper
+      tag: chemistry
 
 - key: ner
   parts: andres, narmos
@@ -722,6 +724,7 @@
   definitions:
     - typ: n
       def: silver
+      tag: chemistry
 
 - key: artos
   ety: From PIE \ipa{*h₂ŕ̥tḱos}
@@ -1191,6 +1194,7 @@
   definitions:
     - typ: f
       def: vulva
+      tag: vulgar
 
 - key: plotus
   parts: platves
@@ -2164,7 +2168,8 @@
     - typ: adj
       def: square, plaza
     - typ: adj
-      def: area (geometry)
+      def: area of a shape or figure
+      tag: mathematics
 
 - key: martos
   ety: From PIE \ipa{*mr̥tós}
@@ -2207,6 +2212,8 @@
   definitions:
     - typ: adj
       def: middle
+    - typ: m
+      def: sex, gender
 
 - key: kruros
   ety: From PIE \ipa{*kruh₂rós}
@@ -2343,6 +2350,7 @@
   definitions:
     - typ: m
       def: iron
+      tag: chemistry
 
 - key: simap
   ety: From a Turkic language; compare Uzbek \ipa{simob}, Uyghur \ipa{simab}, and
@@ -2351,6 +2359,7 @@
   definitions:
     - typ: m
       def: mercury (metal)
+      tag: chemistry
 
 - key: metrom
   ety: From Fr. \ipa{mètre}, from AG \gr{μέτρον}
@@ -2612,7 +2621,8 @@
   ety: From PIE \ipa{*de + *gʰe}
   definitions:
     - typ: adv
-      def: even; {Dege dorú bivonta. - Even trees are alive.}
+      def: even
+      ex: '\ipa{Dege dorú bivonta.} \textit{Even trees are alive}'
     - typ: adv
       def: indeed, of course, in fact
 
@@ -2741,7 +2751,7 @@
       def: to ask, to question; (Use the dative case for the person receiving the question.)
     - typ: v
       def: to ask for, to petition, to request; (Use the ablative case for the person
-      receiving the request.)
+        receiving the request.)
 
 - key: anapreseti
   ety: From Dan. \ipa{preseti}
@@ -2761,7 +2771,7 @@
     - typ: v
       def: to write
 
-- key: sontíeti
+- key: sontíti
   ety: From PIE \ipa{*sont-éye-}
   definitions:
     - typ: v
@@ -2909,7 +2919,7 @@
     - typ: adj
       def: prepared, arranged
 
-- key: garaidíeti
+- key: garaidíti
   ety: From Dan. \ipa{garaidos}
   definitions:
     - typ: v
@@ -3005,13 +3015,13 @@
     - typ: v
       def: to grow
 
-- key: pleníeti
+- key: pleníti
   ety: From Dan. \ipa{planos}
   definitions:
     - typ: v
       def: to fill
 
-- key: potíeti
+- key: potíti
   ety: From Dan. \ipa{potis}
   definitions:
     - typ: v
@@ -3039,7 +3049,7 @@
     - typ: adj
       def: sad, depressed
 
-- key: upohauníeti
+- key: upohauníti
   ety: From Dan. \ipa{haunis}
   definitions:
     - typ: v
@@ -3085,7 +3095,7 @@
     - typ: m
       def: Michael
 
-- key: Viljelmos
+- key: Vilmos
   ety: Ultimately from PG \ipa{*Wiljahelmaz}
   cat: personal-names
   definitions:
@@ -3662,93 +3672,108 @@
   definitions:
     - typ: n
       def: hydrogen
+      tag: chemistry
 
 - key: heliom
   cat: elements
   definitions:
     - typ: n
       def: helium
+      tag: chemistry
 
 - key: lithiom
   cat: elements
   definitions:
     - typ: n
       def: lithium
+      tag: chemistry
 
 - key: berylliom
   cat: elements
   definitions:
     - typ: n
       def: beryllium
+      tag: chemistry
 
 - key: borom
   cat: elements
   definitions:
     - typ: n
       def: boron
+      tag: chemistry
 
 - key: kulom
   ety: From PG \ipa{*kulą}
   cat: elements
   definitions:
     - typ: n
-      def: carbon
-    - typ: n
       def: coal
+    - typ: n
+      def: carbon
+      tag: chemistry
 
 - key: nitrogenos
   cat: elements
   definitions:
     - typ: n
       def: nitrogen
+      tag: chemistry
 
 - key: oxygenos
   cat: elements
   definitions:
     - typ: n
       def: oxygen
+      tag: chemistry
 
 - key: fluorom
   cat: elements
   definitions:
     - typ: n
       def: fluorine
+      tag: chemistry
 
 - key: neón
   cat: elements
   definitions:
     - typ: m
       def: neon
+      tag: chemistry
 
 - key: natriom
   cat: elements
   definitions:
     - typ: n
       def: sodium
+      tag: chemistry
 
 - key: magnesiom
   cat: elements
   definitions:
     - typ: n
       def: magnesium
+      tag: chemistry
 
 - key: aluminiom
   cat: elements
   definitions:
     - typ: n
       def: aluminium, aluminum
+      tag: chemistry
 
 - key: siliciom
   cat: elements
   definitions:
     - typ: n
       def: silicon
+      tag: chemistry
 
 - key: phosphoros
   cat: elements
   definitions:
     - typ: m
       def: phosphorus
+      tag: chemistry
 
 - key: sveblos
   ety: From PG \ipa{*sweblaz}
@@ -3756,186 +3781,217 @@
   definitions:
     - typ: m
       def: sulfur
+      tag: chemistry
 
 - key: chlorom
   cat: elements
   definitions:
     - typ: n
       def: chlorine
+      tag: chemistry
 
 - key: argón
   cat: elements
   definitions:
     - typ: m
       def: argon
+      tag: chemistry
 
 - key: kaliom
   cat: elements
   definitions:
     - typ: n
       def: potassium
+      tag: chemistry
 
 - key: calciom
   cat: elements
   definitions:
     - typ: n
       def: calcium
+      tag: chemistry
 
 - key: scandiom
   cat: elements
   definitions:
     - typ: n
       def: scandium
+      tag: chemistry
 
 - key: titaniom
   cat: elements
   definitions:
     - typ: n
       def: titanium
+      tag: chemistry
 
 - key: vanadiom
   cat: elements
   definitions:
     - typ: n
       def: vanadium
+      tag: chemistry
 
 - key: chromiom
   cat: elements
   definitions:
     - typ: n
       def: chromium
+      tag: chemistry
 
 - key: manganiom
   cat: elements
   definitions:
     - typ: n
       def: manganese
+      tag: chemistry
 
 - key: cobaltiom
   cat: elements
   definitions:
     - typ: n
       def: cobalt
+      tag: chemistry
 
 - key: niccolom
   cat: elements
   definitions:
     - typ: n
       def: nickel
+      tag: chemistry
 
 - key: zincom
   cat: elements
   definitions:
     - typ: n
       def: zinc
+      tag: chemistry
 
 - key: galliom
   cat: elements
   definitions:
     - typ: n
       def: gallium
+      tag: chemistry
 
 - key: germaniom
   cat: elements
   definitions:
     - typ: n
       def: germanium
+      tag: chemistry
 
 - key: arsenicom
   cat: elements
   definitions:
     - typ: n
       def: arsenic
+      tag: chemistry
 
 - key: seleniom
   cat: elements
   definitions:
     - typ: n
       def: selenium
+      tag: chemistry
 
 - key: bromom
   cat: elements
   definitions:
     - typ: n
       def: bromine
+      tag: chemistry
 
 - key: kryptón
   cat: elements
   definitions:
     - typ: m
       def: krypton
+      tag: chemistry
 
 - key: rubidiom
   cat: elements
   definitions:
     - typ: n
       def: rubidium
+      tag: chemistry
 
 - key: strontiom
   cat: elements
   definitions:
     - typ: n
       def: strontium
+      tag: chemistry
 
 - key: yttriom
   cat: elements
   definitions:
     - typ: n
       def: yttrium
+      tag: chemistry
 
 - key: zirconiom
   cat: elements
   definitions:
     - typ: n
       def: zirconium
+      tag: chemistry
 
 - key: niobiom
   cat: elements
   definitions:
     - typ: n
       def: niobium
+      tag: chemistry
 
 - key: molybdainom
   cat: elements
   definitions:
     - typ: n
       def: molybdenum
+      tag: chemistry
 
 - key: technetiom
   cat: elements
   definitions:
     - typ: n
       def: technetium
+      tag: chemistry
 
 - key: rutheniom
   cat: elements
   definitions:
     - typ: n
       def: ruthenium
+      tag: chemistry
 
 - key: rhodiom
   cat: elements
   definitions:
     - typ: n
       def: rhodium
+      tag: chemistry
 
 - key: palladiom
   cat: elements
   definitions:
     - typ: n
       def: palladium
+      tag: chemistry
 
 - key: cadmiom
   cat: elements
   definitions:
     - typ: n
       def: cadmium
+      tag: chemistry
 
 - key: indiom
   cat: elements
   definitions:
     - typ: n
       def: indium
+      tag: chemistry
 
 - key: galái
   ety: From a Turkic language. Compare Azerbaijani \ipa{qalay}
@@ -3943,6 +3999,7 @@
   definitions:
     - typ: m
       def: tin (metal)
+      tag: chemistry
 
 - key: stibiom
   ety: From Lat. \ipa{stibium}
@@ -3950,72 +4007,84 @@
   definitions:
     - typ: n
       def: antimony
+      tag: chemistry
 
 - key: telluriom
   cat: elements
   definitions:
     - typ: n
       def: tellurium
+      tag: chemistry
 
 - key: jodom
   cat: elements
   definitions:
     - typ: n
       def: iodine
+      tag: chemistry
 
 - key: xenón
   cat: elements
   definitions:
     - typ: m
       def: xenon
+      tag: chemistry
 
 - key: caisiom
   cat: elements
   definitions:
     - typ: n
       def: caesium, cesium
+      tag: chemistry
 
 - key: bariom
   cat: elements
   definitions:
     - typ: n
       def: barium
+      tag: chemistry
 
 - key: lanthanom
   cat: elements
   definitions:
     - typ: n
       def: lanthanum
+      tag: chemistry
 
 - key: ceriom
   cat: elements
   definitions:
     - typ: n
       def: cerium
+      tag: chemistry
 
 - key: praseodymiom
   cat: elements
   definitions:
     - typ: n
       def: praseodymium
+      tag: chemistry
 
 - key: neodymiom
   cat: elements
   definitions:
     - typ: n
       def: neodymium
+      tag: chemistry
 
 - key: promethiom
   cat: elements
   definitions:
     - typ: n
       def: promethium
+      tag: chemistry
 
 - key: samariom
   cat: elements
   definitions:
     - typ: n
       def: samarium
+      tag: chemistry
 
 - key: Európa
   ety: From AG \gr{Εὐρώπη}
@@ -4029,30 +4098,35 @@
   definitions:
     - typ: n
       def: europium
+      tag: chemistry
 
 - key: gadoliniom
   cat: elements
   definitions:
     - typ: n
       def: gadolinium
+      tag: chemistry
 
 - key: terbiom
   cat: elements
   definitions:
     - typ: n
       def: terbium
+      tag: chemistry
 
 - key: dysprosiom
   cat: elements
   definitions:
     - typ: n
       def: dysprosium
+      tag: chemistry
 
 - key: holmiom
   cat: elements
   definitions:
     - typ: n
       def: holmium
+      tag: chemistry
 
 - key: Holmia
   ety: From Lat. \ipa{Holmia}
@@ -4066,30 +4140,35 @@
   definitions:
     - typ: n
       def: erbium
+      tag: chemistry
 
 - key: thuliom
   cat: elements
   definitions:
     - typ: n
       def: thulium
+      tag: chemistry
 
 - key: ytterbiom
   cat: elements
   definitions:
     - typ: n
       def: ytterbium
+      tag: chemistry
 
 - key: lutetiom
   cat: elements
   definitions:
     - typ: n
       def: lutetium
+      tag: chemistry
 
 - key: hafniom
   cat: elements
   definitions:
     - typ: n
       def: hafnium
+      tag: chemistry
 
 - key: Hafnia
   ety: From Lat. \ipa{Hafnia}
@@ -4103,18 +4182,21 @@
   definitions:
     - typ: n
       def: tantalum
+      tag: chemistry
 
 - key: wolframiom
   cat: elements
   definitions:
     - typ: n
       def: wolfram, wolframium, tungsten
+      tag: chemistry
 
 - key: rheniom
   cat: elements
   definitions:
     - typ: n
       def: rhenium
+      tag: chemistry
 
 - key: Rhenos
   cat: place-names
@@ -4127,18 +4209,21 @@
   definitions:
     - typ: n
       def: osmium
+      tag: chemistry
 
 - key: iridiom
   cat: elements
   definitions:
     - typ: n
       def: iridium
+      tag: chemistry
 
 - key: platína
   cat: elements
   definitions:
     - typ: f
       def: platinum
+      tag: chemistry
 
 - key: altin
   ety: From a Turkic language. Compare Turkmen \ipa{altyn} and Uzbek \ipa{oltin}
@@ -4146,12 +4231,14 @@
   definitions:
     - typ: m
       def: gold
+      tag: chemistry
 
 - key: thalliom
   cat: elements
   definitions:
     - typ: n
       def: thallium
+      tag: chemistry
 
 - key: gursjun
   ety: From a Turkic language. Compare Turkmen \ipa{gurşun} and Turkish \ipa{kurşun}
@@ -4159,102 +4246,119 @@
   definitions:
     - typ: m
       def: lead (metal)
+      tag: chemistry
 
 - key: bismútom
   cat: elements
   definitions:
     - typ: n
       def: bismuth
+      tag: chemistry
 
 - key: poloniom
   cat: elements
   definitions:
     - typ: n
       def: polonium
+      tag: chemistry
 
 - key: astatom
   cat: elements
   definitions:
     - typ: n
       def: astatine
+      tag: chemistry
 
 - key: radón
   cat: elements
   definitions:
     - typ: m
       def: radon
+      tag: chemistry
 
 - key: franciom
   cat: elements
   definitions:
     - typ: n
       def: francium
+      tag: chemistry
 
 - key: radiom
   cat: elements
   definitions:
     - typ: n
       def: radium
+      tag: chemistry
 
 - key: actiniom
   cat: elements
   definitions:
     - typ: n
       def: actinium
+      tag: chemistry
 
 - key: thoriom
   cat: elements
   definitions:
     - typ: n
       def: thorium
+      tag: chemistry
 
 - key: protactiniom
   cat: elements
   definitions:
     - typ: n
       def: protactinium
+      tag: chemistry
 
 - key: uraniom
   cat: elements
   definitions:
     - typ: n
       def: uranium
+      tag: chemistry
 
 - key: neptuniom
   cat: elements
   definitions:
     - typ: n
       def: neptunium
+      tag: chemistry
 
 - key: plutoniom
   cat: elements
   definitions:
     - typ: n
       def: plutonium
+      tag: chemistry
 
 - key: americiom
   cat: elements
   definitions:
     - typ: n
       def: americium
+      tag: chemistry
 
 - key: curiom
   cat: elements
   definitions:
     - typ: n
       def: curium
+      tag: chemistry
 
 - key: berkeliom
   cat: elements
   definitions:
     - typ: n
       def: berkelium
+      tag: chemistry
 
 - key: californiom
   cat: elements
   definitions:
     - typ: n
       def: californium
+      tag: chemistry
 
 - key: Albertos Ainstain
   cat: real-people
@@ -4293,30 +4397,35 @@
   definitions:
     - typ: n
       def: einsteinium
+      tag: chemistry
 
 - key: fermiom
   cat: elements
   definitions:
     - typ: n
       def: fermium
+      tag: chemistry
 
 - key: mendeleviom
   cat: elements
   definitions:
     - typ: n
       def: mendelevium
+      tag: chemistry
 
 - key: nobeliom
   cat: elements
   definitions:
     - typ: n
       def: nobelium
+      tag: chemistry
 
 - key: laurentiom
   cat: elements
   definitions:
     - typ: n
       def: lawrencium
+      tag: chemistry
 
 - key: Ernéstos
   ety: From Ger. \ipa{Ernst}, influenced by Sp. \ipa{Ernesto}
@@ -4336,12 +4445,14 @@
   definitions:
     - typ: n
       def: rutherfordium
+      tag: chemistry
 
 - key: dubniom
   cat: elements
   definitions:
     - typ: n
       def: dubnium
+      tag: chemistry
 
 - key: Glen
   ety: From En. \ipa{Glen}
@@ -4368,6 +4479,7 @@
   definitions:
     - typ: n
       def: seaborgium
+      tag: chemistry
 
 - key: Nils
   ety: From Danish \ipa{Niels}
@@ -4387,18 +4499,21 @@
   definitions:
     - typ: n
       def: bohrium
+      tag: chemistry
 
 - key: hassiom
   cat: elements
   definitions:
     - typ: n
       def: hassium
+      tag: chemistry
 
 - key: maitneriom
   cat: elements
   definitions:
     - typ: n
       def: meitnerium
+      tag: chemistry
 
 - key: Daramstat
   ety: From Ger. \ipa{Darmstadt}
@@ -4412,6 +4527,7 @@
   definitions:
     - typ: n
       def: darmstadtium
+      tag: chemistry
 
 - key: Condrados
   ety: Related to Ger. \ipa{Konrad}
@@ -4420,7 +4536,7 @@
     - typ: m
       def: Conrad, Konrad
 
-- key: Viljelmos Condrados Rointgen
+- key: Vilmos Condrados Rointgen
   cat: people
   definitions:
     - typ: m
@@ -4431,48 +4547,56 @@
   definitions:
     - typ: n
       def: roentgenium
+      tag: chemistry
 
 - key: coperniciom
   cat: elements
   definitions:
     - typ: n
       def: copernicium
+      tag: chemistry
 
 - key: nihoniom
   cat: elements
   definitions:
     - typ: n
       def: nihonium
+      tag: chemistry
 
 - key: fleroviom
   cat: elements
   definitions:
     - typ: n
       def: flerovium
+      tag: chemistry
 
 - key: moscoviom
   cat: elements
   definitions:
     - typ: n
       def: moscovium
+      tag: chemistry
 
 - key: livermoriom
   cat: elements
   definitions:
     - typ: n
       def: livermorium
+      tag: chemistry
 
 - key: tennessom
   cat: elements
   definitions:
     - typ: n
       def: tennessine
+      tag: chemistry
 
 - key: oganessón
   cat: elements
   definitions:
     - typ: m
       def: oganesson
+      tag: chemistry
 
 - key: januarios
   ety: From Lat. \ipa{Jānuārius}
@@ -4480,6 +4604,7 @@
   definitions:
     - typ: m
       def: January
+      tag: month
 
 - key: februarios
   ety: From Lat. \ipa{Februārius}
@@ -4487,6 +4612,7 @@
   definitions:
     - typ: m
       def: February
+      tag: month
 
 - key: martios
   ety: From Lat. \ipa{Mārtius}
@@ -4494,6 +4620,7 @@
   definitions:
     - typ: m
       def: March
+      tag: month
 
 - key: aprilis
   ety: From Lat. \ipa{Aprīlis}
@@ -4501,6 +4628,7 @@
   definitions:
     - typ: m
       def: April
+      tag: month
 
 - key: majos
   ety: From Lat. \ipa{Maius}
@@ -4508,6 +4636,7 @@
   definitions:
     - typ: m
       def: May
+      tag: month
 
 - key: junios
   ety: From Lat. \ipa{Jūnius}
@@ -4515,6 +4644,7 @@
   definitions:
     - typ: m
       def: June
+      tag: month
 
 - key: julios
   ety: From Lat. \ipa{Jūlius}
@@ -4522,6 +4652,7 @@
   definitions:
     - typ: m
       def: July
+      tag: month
 
 - key: augustos
   ety: From Lat. \ipa{Augustus}
@@ -4529,6 +4660,7 @@
   definitions:
     - typ: m
       def: August
+      tag: month
 
 - key: september
   ety: From Lat. \ipa{September}
@@ -4536,6 +4668,7 @@
   definitions:
     - typ: m
       def: September
+      tag: month
 
 - key: october
   ety: From Lat. \ipa{Octōber}
@@ -4543,6 +4676,7 @@
   definitions:
     - typ: m
       def: October
+      tag: month
 
 - key: november
   ety: From Lat. \ipa{November}
@@ -4550,6 +4684,7 @@
   definitions:
     - typ: m
       def: November
+      tag: month
 
 - key: december
   ety: From Lat. \ipa{December}
@@ -4557,6 +4692,7 @@
   definitions:
     - typ: m
       def: December
+      tag: month
 
 - key: ludinos
   ety: From Dan. \ipa{ludis}
@@ -4874,7 +5010,7 @@
     - typ: m
       def: Isaac
 
-- key: Isak Newtón
+- key: Isak Njutón
   cat: real-people
   definitions:
     - typ: m
@@ -5543,7 +5679,7 @@
     - typ: f
       def: liberation
 
-- key: opisvomíeti
+- key: opisvomíti
   ety: From Dan. \ipa{opisvomia}
   definitions:
     - typ: v
@@ -5612,7 +5748,7 @@
     - typ: m
       def: chauffeur, driver
 
-- key: promenada
+- key: promenáda
   ety: From Fr. \ipa{promenade}
   definitions:
     - typ: f
@@ -5778,9 +5914,11 @@
   ety: From Fr. \ipa{ensemble}
   definitions:
     - typ: f
-      def: (mathematics) a set
+      def: a set
+      tag: mathematics
     - typ: f
-      def: (music) an ensemble
+      def: an ensemble
+      tag: music
 
 - key: tresón
   ety: From PIE \ipa{*tres-}
@@ -5814,7 +5952,8 @@
     - typ: n
       def: climate
     - typ: n
-      def: (mathematics) slope, inclination
+      def: slope, inclination
+      tag: mathematics
 
 - key: energia
   ety: From Lat. \ipa{energia}, from AG \gr{ἐνέργειᾰ}
@@ -5911,6 +6050,7 @@
   definitions:
     - typ: f
       def: Africa
+      tag: continent
 
 - key: Asia
   ety: From AG \gr{Ἀσῐ́ᾱ}
@@ -5918,6 +6058,7 @@
   definitions:
     - typ: f
       def: Asia
+      tag: continent
 
 - key: Nordina America
   ety: From Dan. \ipa{nordina + America}
@@ -5925,6 +6066,7 @@
   definitions:
     - typ: f
       def: North America
+      tag: continent
 
 - key: Sundina America
   ety: From Dan. \ipa{sundina + America}
@@ -5932,6 +6074,7 @@
   definitions:
     - typ: f
       def: South America
+      tag: continent
 
 - key: Australia
   ety: From En. \ipa{Australia}
@@ -5939,6 +6082,7 @@
   definitions:
     - typ: f
       def: Australia
+      tag: continent
 
 - key: Antarctica
   ety: From Lat. \ipa{Antarctica}
@@ -5946,6 +6090,7 @@
   definitions:
     - typ: f
       def: Antarctica
+      tag: continent
 
 - key: Albania
   ety: From Lat. \ipa{Albania}, from BG \gr{Ἀλβανία}
@@ -6068,7 +6213,8 @@
   ety: From Fr. \ipa{topologie}, with a latinized ending
   definitions:
     - typ: f
-      def: (mathematics) topology
+      def: topology
+      tag: mathematics
 
 - key: topographia
   ety: From AG \gr{τοπογραφία}
@@ -6141,7 +6287,8 @@
 - key: naturális donvos
   definitions:
     - typ: m
-      def: (mathematics) natural number
+      def: natural number
+      tag: mathematics
 
 - key: hypothesis
   ety: From Lat. \ipa{hypothesis}, from AG \gr{ὑπόθεσις}
@@ -6153,7 +6300,8 @@
   ety: From AG \gr{ὑπερβολή}
   definitions:
     - typ: f
-      def: (mathematics) hyperbola
+      def: hyperbola
+      tag: mathematics
     - typ: f
       def: exaggeration, hyperbole
 
@@ -6161,7 +6309,8 @@
   ety: From AG \gr{παραβολή}
   definitions:
     - typ: f
-      def: (mathematics) parabola
+      def: parabola
+      tag: mathematics
     - typ: f
       def: parable, proverb
 
@@ -6169,7 +6318,8 @@
   ety: From Lat. \ipa{ellīpsis}, from AG \gr{ἔλλειψῐς}
   definitions:
     - typ: f
-      def: (mathematics) ellipse
+      def: ellipse
+      tag: mathematics
 
 - key: constitutión
   ety: From Lat. \ipa{cōnstitūtiō}
@@ -6297,7 +6447,7 @@
     - typ: n
       def: letter \textit{y}
 
-- key: zet
+- key: ze
   definitions:
     - typ: n
       def: letter \textit{z}
@@ -6666,3 +6816,157 @@
   definitions:
     - typ: n
       def: Vatican City
+
+- key: biva
+  ety: From PIE \ipa{*gʷih₃wós}
+  definitions:
+    - typ: f
+      def: life
+
+- key: alpha
+  definitions:
+    - typ: f
+      def: Greek letter alpha
+
+- key: beta
+  definitions:
+    - typ: f
+      def: Greek letter beta
+
+- key: gamma
+  definitions:
+    - typ: f
+      def: Greek letter gamma
+
+- key: delta
+  definitions:
+    - typ: f
+      def: Greek letter delta
+
+- key: epsilón
+  definitions:
+    - typ: f
+      def: Greek letter epsilon
+
+- key: zeta
+  definitions:
+    - typ: f
+      def: Greek letter zeta
+
+- key: theta
+  definitions:
+    - typ: f
+      def: Greek letter theta
+
+- key: heta
+  definitions:
+    - typ: f
+      def: Greek letter eta
+
+- key: jota
+  definitions:
+    - typ: f
+      def: Greek letter iota
+
+- key: kappa
+  definitions:
+    - typ: f
+      def: Greek letter kappa
+
+- key: lambda
+  definitions:
+    - typ: f
+      def: Greek letter lambda
+
+- key: my
+  definitions:
+    - typ: n
+      def: Greek letter mu
+
+- key: ny
+  definitions:
+    - typ: n
+      def: Greek letter nu
+
+- key: omicrón
+  definitions:
+    - typ: f
+      def: Greek letter omicron
+
+- key: pi
+  definitions:
+    - typ: n
+      def: Greek letter pi
+    - typ: n
+      def: ratio between the circumference of a circle and its diameter
+      tag: mathematics
+
+- key: rho
+  definitions:
+    - typ: n
+      def: Greek letter rho
+
+- key: sigma
+  definitions:
+    - typ: f
+      def: Greek letter sigma
+
+- key: tau
+  definitions:
+    - typ: n
+      def: Greek letter tau
+    - typ: n
+      def: ratio between the circumference of a circle and its radius. Equivalent to two times pi
+      tag: mathematics
+
+- key: ypsilón
+  definitions:
+    - typ: f
+      def: Greek letter upsilon
+
+- key: phi
+  definitions:
+    - typ: n
+      def: Greek letter phi
+
+- key: chi
+  definitions:
+    - typ: n
+      def: Greek letter chi
+
+- key: psi
+  definitions:
+    - typ: n
+      def: Greek letter psi
+
+- key: omega
+  definitions:
+    - typ: f
+      def: Greek letter omega
+
+- key: pesnom
+  ety: From PIE \ipa{*pes-}
+  definitions:
+    - typ: n
+      def: penis
+      tag: vulgar
+
+- key: Nestor
+  ety: From AG \gr{Νέστωρ}
+  definitions:
+    - typ: m
+      def: Nestor
+      tag: personal name
+      ex: '\ipa{Nestor, tu luvos menjas bivas.} \textit{Nestor, you are the love of my life}'
+
+- key: particula
+  ety: From Lat. \ipa{particula}
+  definitions:
+    - typ: f
+      def: particle
+      tag: physics
+
+- key: januarios fimes
+  definitions:
+    - typ: m
+      def: un janvier d'hiver

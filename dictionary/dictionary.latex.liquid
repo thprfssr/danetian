@@ -39,13 +39,13 @@
 \begin{document}
 \maketitle
 
-{% for key in keys %}
-	{% assign entry = dictionary[key] %}
+{% for entry in dictionary %}
+	{% assign u = 0 %}
 
 	{% if entry.parts == '' %}
-		\key{ {{- key -}}.}
+		\key{ {{- entry.key -}}.}
 	{%- else -%}
-		\key{ {{- key -}},}
+		\key{ {{- entry.key -}},}
 		\textit{ {{- entry.parts -}}.}
 	{%- endif -%}
 
@@ -54,21 +54,43 @@
 	{%- if entry.ety != '' -%}
 		{\footnotesize ({{- entry.ety -}}).}
 	{%- endif -%}
-	{% raw %} {% endraw %}{{ entry.typ }}.
 
-	{%- assign L = entry.defs | size -%}
+	{%- assign L = entry.definitions | size -%}
 	{%- if L == 1 -%}
-		{% raw %} {% endraw %}{{ entry.defs[0] }}
+		{% raw %} {% endraw %}{{ entry.definitions[0].typ }}.
+		{%- if entry.definitions[0]['tag'] != '' -%}
+			{\footnotesize \textit{ {{ entry.definitions[0]['tag'] }}.}}
+		{%- endif -%}
+		{% raw %} {% endraw %}{{ entry.definitions[0].def }}.
+		{%- if entry.definitions[0]['ex'] != '' -%}
+			{% raw %} {% endraw %}{\footnotesize {{ entry.definitions[0]['ex'] }}.}
+		{%- endif -%}
 	{%- else -%}
 		{%- assign i = 0 -%}
-		{%- for def in entry.defs -%}
+		{%- assign typ = entry.definitions[0].typ -%}
+		{% raw %} {% endraw %}{{ typ }}.
+		{%- for item in entry.definitions -%}
+			{%- assign newtyp = item.typ -%}
+			{%- if newtyp != typ -%}
+				{%- assign typ = newtyp -%}
+				{% raw %} {% endraw %}{{ typ }}.
+			{%- endif -%}
 			{% assign i = i | plus: 1 %}
-			\textbf{ {{- i -}}.}~{{ def }}
+			\textbf{ {{- i -}}.}
+			{%- if item.tag != '' -%}
+				{\footnotesize \textit{ {{ item.tag }}.}}
+			{%- endif -%}
+
+			{% raw %} {% endraw %}{{ item.def }}.
+
+			{%- if item.ex != '' -%}
+				{\footnotesize {{ item.ex }}.}
+			{%- endif -%}
 		{%- endfor -%}
 	{%- endif -%}
 {% endfor %}
 
 \onecolumn
-\section*{Senti soi {{ keys | size }} verdóm!}
+\section*{Senti soi {{ dictionary | size }} verdóm!}
 
 \end{document}

@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - edmi
+      - edsi
+      - esti
+      - edmos
+      - este
+      - edanti
+    imperfect:
+      - edam
+      - eds
+      - est
+      - edme
+      - este
+      - edant
+    perfect:
+      - beram
+      - beras
+      - berat
+      - berame
+      - berate
+      - berant
+  subjunctive:
+    present:
+      - edjém
+      - edjés
+      - edjét
+      - edíme
+      - edíte
+      - edínt
+    perfect:
+      - berjém
+      - berjés
+      - berjét
+      - beríme
+      - beríte
+      - berínt
+  imperative:
+    present:
+      - ed
+      - este
+    perfect:
+      - bera
+      - berate
+  participle:
+    present: edants
+    perfect: beravés
+  infinitive:
+    present: estin
+    perfect: vevopetin
+mediopassive:
+  indicative:
+    present:
+      - édar
+      - éstar
+      - éstor
+      - edmosda
+      - esdave
+      - édantor
+    imperfect:
+      - eda
+      - esta
+      - esto
+      - edmeda
+      - esdave
+      - edanto
+    perfect:
+      - bera
+      - berata
+      - berato
+      - berameda
+      - beradave
+      - beranto
+  subjunctive:
+    present:
+      - edí
+      - edíta
+      - edíto
+      - edimeda
+      - edidave
+      - edínto
+    perfect:
+      - berí
+      - beríta
+      - beríto
+      - berímeda
+      - berídave
+      - berínto
+  imperative:
+    present:
+      - edso
+      - esdave
+    perfect:
+      - beraso
+      - beradave
+  participle:
+    present: edmanos
+    perfect: beramnos
+  infinitive:
+    present: edmin
+    perfect: beramin

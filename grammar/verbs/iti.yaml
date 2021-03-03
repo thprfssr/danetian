@@ -1,0 +1,51 @@
+active:
+  indicative:
+    present:
+      - imi
+      - isi
+      - iti
+      - imos
+      - ite
+      - jenti
+    imperfect:
+      - em
+      - is
+      - it
+      - ime
+      - ite
+      - jent
+    perfect:
+      - bem
+      - bems
+      - bemt
+      - bamme
+      - bamte
+      - bament
+  subjunctive:
+    present:
+      - jem
+      - jes
+      - jet
+      - ime
+      - ite
+      - jent
+    perfect:
+      - bamjém
+      - bamjés
+      - bamjét
+      - bamíme
+      - bamíte
+      - bamínt
+  imperative:
+    present:
+      - bem
+      - bamte
+    perfect:
+      - bebom
+      - bebamte
+  participle:
+    present: jonts
+    perfect: bamvés
+  infinitive:
+    present: itin
+    perfect: bemtin

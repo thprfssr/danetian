@@ -1,8 +1,11 @@
 \documentclass{article}
-\title{Grammar of the Danetian Language}
+\title{The Danetian Language}
 \author{Javier Castro}
 \date{\today}
 
+
+
+\usepackage{microtype} % Improves spacing
 
 % Number each paragraph in the style of the Real Academia Española
 \renewcommand{\theparagraph}{\S\arabic{paragraph}}
@@ -44,6 +47,10 @@
 \setmainfont{CharisSIL}
 
 
+\newcommand{\qt}[1]{«#1»} % quotations
+
+% To signal an incomplete section
+\newcommand{\INCOMPLETE}[0]{(THIS SECTION IS INCOMPLETE)}
 
 
 \begin{document}
@@ -51,10 +58,199 @@
 
 \section*{Introduction}
 
+\paragraph{Background}
+
+The Danetian language is an Indo-European constructed language. I started
+this project in 2016, when I decided to take the Proto-Indo-European lexicon
+and apply whichever sound changes satisfied me.
+
+At that time, I had been obsessed with Latin starting a few years prior.
+However, there were several small details that bothered me about the language.
+Therefore, I wanted to have my own personal classical language that I could
+have full creative control over.
+
+I decided that I wanted to emulate an Ancient Greek and Latin aesthetic. Thus,
+my first iteration of Danetian had a phonology resembling that of Ancient
+Greek: long and short vowels, and a three-way contrast between voiced,
+unvoiced, and aspirated plosives. But as I kept writing more things in that
+version of Danetian, I realized that long vowels were really cumbersome to
+pronounce, and aspirated plosives made the language sound ugly to my ears.
+Hence, I decided to revisit the sound changes that I originally applied to
+Proto-Indo-European.
+
+The result is this current iteration of Danetian, which I am more than
+satisfied with. It has a very beautiful European aesthetic both in writing and
+in speech. If you'd like to see a modernized version of Proto-Indo-European,
+this is the conlang for you!
+
+In this book, I intend to give a comprehensive description of Danetian. I
+assume that the reader is as much of a language nerd as I am, or at least that
+they are familiar with basic terms in linguistics.
+
+\paragraph{The name of the language}
+
+In Europe, there are many rivers that have similar names: Danube, Don, Dniepr,
+Dniestr, etc. In Proto-Indo-European, the term \ipa{*déh₂nu} referred to a river
+goddess. Since civilizations throughout history have commonly formed near a
+river, I imagined that whoever spoke my conlang would come from a civilization
+near a river. I envisioned them worshiping a river goddess called
+\textit{Daneta}, so they would call themselves the \textit{Danetians}, or
+\lan{danetiskoi}. Therefore, their native tongue is called \textit{Danetian},
+or \lan{danetiska}.
+
+\paragraph{Classification}
+
+Danetian forms its own branch in the Indo-European language family. It belongs
+to the \textit{satem} side of the family, but it shares some properties
+with the \textit{centum} languages.
+
+\INCOMPLETE
 
 
 
-\newpage
+\section*{Phonology}
+
+\paragraph{Consonants}
+
+Danetian has 20 consonant phonemes: six plosives, six fricatives, two
+affricates, and six sonorants. These phonemes are organized in the table
+below.
+
+\begin{center}
+\begin{tabular}{l|cccc}
+	\toprule
+	~ & Labial & Dental & Palatal & Velar \\
+	\midrule
+	Plosive & \ipa{p~b} & \ipa{t~d} & ~ & \ipa{k~g} \\
+	Affricate & ~ & ~ & \ipa{tʃ~dʒ} & ~ \\
+	Fricative & \ipa{f~v} & \ipa{s~z} & \ipa{ʃ} & \ipa{x} \\
+	Nasal & \ipa{m} & \ipa{n} & \ipa{ɲ} & ~ \\
+	Rhotic & ~ & \ipa{r} & ~ & ~ \\
+	Approximant & ~ & \ipa{l} & \ipa{j} & ~ \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
+\paragraph{Vowels}
+
+Danetian has the very common five-vowel system, summarized in the table below.
+There is no vowel length distinction.
+
+\begin{center}
+\begin{tabular}{l|ccc}
+	\toprule
+	~ & Front & Central & Back \\
+	\midrule
+	Close & i & ~ & u \\
+	Mid & e & ~ & o \\
+	Open & ~ & a & ~ \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
+The vowels \ipa{/a~e~o/} can also be combined with \ipa{/i~u/} to form the
+following five falling diphthongs:
+
+\begin{center}
+\begin{tabular}{c|cc}
+	\toprule
+	~ & \ipa{i} & \ipa{u} \\
+	\midrule
+	\ipa{a} & \ipa{ai̯} & \ipa{au̯} \\
+	\ipa{e} & \ipa{ei̯} & \ipa{eu̯} \\
+	\ipa{o} & \ipa{oi̯} & ~ \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
+\paragraph{Allophones}
+
+Each phoneme can have several allophones depending on the surrounding context.
+The points below summarize how the phonemes are pronounced in the standard
+dialect of Danetian. But of course, this is not the only way to pronounce the
+language, since there are other dialects. Thus, the reader is encouraged to
+pronounce the language in whichever way sounds most beautiful to them.
+\begin{itemize}
+	\item Whenver \ipa{/s/} appears between vowels or before a voiced
+		consonant, it is pronounced as \ipa{[z]}. Otherwise, it is
+		pronounced as \ipa{[s]} by default. Compare
+		\lan{nefesos} \ipa{['nɛ.fɛ.zos]} \qt{of the cloud},
+		\lan{fesor} \ipa{[fɛ'zor]} \qt{hand},
+		\lan{tusontis} \ipa{['tu.zon.tis]} \qt{thousand},
+		\lan{esvos} \ipa{['ɛz.vos]} \qt{horse},
+		\lan{fjestere} \ipa{['fjɛs.tɛ.ɾɛ]} \qt{yesterday},
+		\lan{donvos} \ipa{['don.vos]} \qt{number}.
+	\item \ipa{/r/} is pronounced as \ipa{[r]} by default, but as \ipa{[ɾ]}
+		between vowels. Compare
+		\lan{pater} \ipa{[pa'tɛr]} \qt{father},
+		\lan{kruros} \ipa{['kru.ɾos]} \qt{bloody}.
+	\item \ipa{/l/} is pronounced as \ipa{[l]} by default, but as \ipa{[ɫ]}
+		at the end of a word, before a consonant, or before \ipa{/o/}
+		or \ipa{/u/}. Compare
+		\lan{lana} \ipa{['la.na]} \qt{wool},
+		\lan{luvos} \ipa{['ɫu.vos]} \qt{love},
+		\lan{lokus} \ipa{['ɫo.kus]} \qt{lake},
+		\lan{Michael} \ipa{[mi.xa'ɛɫ]} \qt{Michael},
+		\lan{Vilmos} \ipa{['viɫ.mos]} \qt{William}.
+	\item \ipa{/x/} is pronounced as \ipa{[x~h]}.
+	\item \ipa{/e/} is pronounced as \ipa{[ɛ]} by default, but as \ipa{[e]}
+		whenever the following syllable contains \ipa{/i/} or
+		\ipa{/j/}. Compare
+		\lan{preseti} \ipa{['prɛ.ze.ti]} \qt{he asks},
+		\lan{kreva} \ipa{['krɛ.va]} \qt{raw blood},
+		\lan{drageti} \ipa{['dra.ge.ti]} \qt{he drags}.
+	\item \ipa{/o/} is always pronounced as \ipa{[o]}.
+\end{itemize}
+
+\paragraph{Graphemes}
+
+Danetian orthography uses all 26 letters of the international Latin alphabet.
+Most of the letters follow the International Phonetic Alphabet closely. The
+exceptions are summarized in the table below, along with other remarks.
+
+\begin{multicols}{2}
+\begin{itemize}
+	\item \ipa{⟨c⟩: /k/ always}
+	\item \ipa{⟨g⟩: /g/ always}
+	\item \ipa{⟨h⟩: /x/}
+	\item \ipa{⟨t⟩: /t/ always}
+	\item \ipa{⟨qu⟩: /kw/}
+	\item \ipa{⟨w⟩: /v/}
+	\item \ipa{⟨x⟩: /ks/}
+	\item \ipa{⟨y⟩: /i/}
+	\item \ipa{⟨ch⟩: /x/ always}
+	\item \ipa{⟨ph⟩: /f/}
+	\item \ipa{⟨th⟩: /t/}
+\end{itemize}
+\end{multicols}
+
+\paragraph{Stress accent}
+
+Danetian has a stress accent, much like Modern Greek, Spanish, and Russian.
+Every word has exactly one stressed syllable, pronounced stronger than the
+other syllables. Only the last three syllables of a word have the possibility
+of carrying stress, much like in Modern Greek.
+
+In writing, the stress is marked by an acute accent, as in
+\lan{natúra} \ipa{[na'tu.ɾa]} \qt{nature},
+or it can simply be inferred, as in
+\lan{anapreseti} \ipa{[a.na'prɛ.ze.ti]} \qt{he prays}.
+The orthographic rules for denoting stress are the following:
+\begin{enumerate}
+	\item Stress can only fall in the last three syllables.
+	\item If stress is unmarked in writing, then it is assumed that it
+		falls as far back as it can. Compare
+		\lan{danetiska} \ipa{[da'ne.tis.ka]} \qt{Danetian language},
+		\lan{bena} \ipa{['bɛ.na]} \qt{woman},
+		\lan{en} \ipa{['ɛn]} \qt{in}.
+	\item ... unless it ends in a consonant grapheme other than
+		\ipa{⟨m⟩}, \ipa{⟨n⟩}, \ipa{⟨s⟩}, or \ipa{⟨t⟩}, in which case
+		it is assumed that the stress falls 
+\end{enumerate}
+
+\INCOMPLETE
+
+%\newpage
 \section*{Nouns}
 
 \paragraph{General properties}
@@ -271,7 +467,7 @@ the irregular nouns separately.
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
-	\Nom & \lan{hostis} & \lan{hostes} \\
+	\Nom & \lan{hostis} & \lan{hosties} \\
 	\Acc & \lan{hostim} & \lan{hostins} \\
 	\Gen & \lan{hosties} & \lan{hostióm} \\
 	\Abl & \lan{hosties} & \lan{hostimos} \\
@@ -311,7 +507,7 @@ between the stem and the ending. The inflection table is shown below.
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
-	\Nom & \lan{avis} & \lan{aves} \\
+	\Nom & \lan{avis} & \lan{avies} \\
 	\Acc & \lan{avim} & \lan{avins} \\
 	\Gen & \lan{ujes} & \lan{ujóm} \\
 	\Abl & \lan{ujes} & \lan{vimos} \\
@@ -355,7 +551,7 @@ the masculine and feminine nouns, and one for the neuters.
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
-	\Nom & \lan{sunus} & \lan{sunús} \\
+	\Nom & \lan{sunus} & \lan{sunues} \\
 	\Acc & \lan{sunum} & \lan{sununs} \\
 	\Gen & \lan{sunues} & \lan{sunuóm} \\
 	\Abl & \lan{sunues} & \lan{sunumos} \\
@@ -411,7 +607,7 @@ the neuters.
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
-	\Nom & \lan{odés} & \lan{odeses} \\
+	\Nom & \lan{odés} & \lan{odesos} \\
 	\Acc & \lan{odesam} & \lan{odesans} \\
 	\Gen & \lan{odesos} & \lan{odesóm} \\
 	\Abl & \lan{odesos} & \lan{odesmos} \\
@@ -613,13 +809,13 @@ fleeting \lan{s} nouns.
 \paragraph{Irregular nouns}
 \label{sec:irregular-nouns}
 
+\INCOMPLETE
 
 
-\newpage
 \section*{Adjectives}
+\INCOMPLETE
 
 
-\newpage
 \section*{Numerals}
 
 \paragraph{One}
@@ -699,7 +895,6 @@ according to the three genders, and they're all inherently plural.
 \end{center}
 
 
-\newpage
 \section*{Pronouns}
 
 \paragraph{Personal pronouns}
@@ -745,26 +940,31 @@ The third person pronouns inflect as:
 
 \paragraph{Possessive pronouns}
 
-The possessive pronouns inflect just like regular adjectives, so we will
-simply list them without showing their inflection tables.
+The possessive pronouns for first and second person inflect just like regular
+adjectives, so we will simply list them without showing their inflection
+tables.
 \begin{multicols}{2}
 \begin{itemize}
-	\item \Fsg: \lan{mejos}
-	\item \Ssg: \lan{tejos}
-	\item \Tsg: \lan{sejos}
+	\item \Fsg: \lan{menjos}
+	\item \Ssg: \lan{tevjos}
 	\item \Fpl: \lan{nosjos}
 	\item \Spl: \lan{vosjos}
-	\item \Tpl: \lan{sejos}
 \end{itemize}
 \end{multicols}
 
+However, the third person possessive pronouns are equivalent to the genitive of
+the third person personal pronouns. That is,
+\lan{enosjo, enosjas, enosjo, enosóm, enasóm, enosóm}. These possessives
+do not inflect at all.
+
 \paragraph{Demonstrative pronouns}
+
+\INCOMPLETE
 
 \paragraph{Interrogative and relative pronouns}
 
+\INCOMPLETE
 
-
-\newpage
 \section*{Verbs}
 
 \paragraph{General properties}
@@ -780,56 +980,34 @@ Verbs inflect according to the following categories:
 
 \paragraph{Copula}
 
-The copula is \lan{esti}.
+The copula (the verb \qt{to be}) can be omitted in the present tense.
+Its conjugation is shown in the table below.
 
-\begin{tabular}{l|lll|ll|ll}
-	\hline\hline
-	\multicolumn{8}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{|c|}{Indicative} & \multicolumn{2}{|c|}{Subjunctive} & \multicolumn{2}{c}{Imperative} \\
-	\hline
-	~ & Present & Imperfect & Perfect & Present & Perfect & Present & Perfect \\
-	\hline
-	\lan{edo} & \lan{esmi} & \lan{esam} & \lan{bum} & \lan{sjem} & \lan{bjem} & - & - \\
-	\lan{tu} & \lan{esi} & \lan{es} & \lan{bus} & \lan{sjes} & \lan{bjes} & se & bu \\
-	\lan{eno} & \lan{esti} & \lan{est} & \lan{but} & \lan{sjet} & \lan{bjet} & - & - \\
-	\lan{vi} & \lan{esmos} & \lan{esme} & \lan{bume} & \lan{sime} & \lan{bime} & - & - \\
-	\lan{ju} & \lan{este} & \lan{este} & \lan{bute} & \lan{site} & \lan{bite} & este & bute \\
-	\lan{enoi} & \lan{senti} & \lan{sent} & \lan{bunt} & \lan{sint} & \lan{bint} & - & - \\
-	\hline
-	\multicolumn{4}{r}{Participle} & \lan{sonts} & \lan{bonts} \\
-	\hline\hline
-\end{tabular}
+\INCOMPLETE
 
-\paragraph{Copula}
+\input{compiled/esti-be.latex}
 
-The copula is \lan{esti}.
+\paragraph{Thematic verbs}
 
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{sonts}} & \multicolumn{3}{c}{\lan{esei}} \\
-	Perfect & \multicolumn{3}{c}{\lan{budvés}} & \multicolumn{3}{c}{\lan{busei}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{esmi} & \lan{esi} & \lan{esti} & \lan{esmos} & \lan{este} & \lan{senti} \\
-	Imperfect & \lan{esam} & \lan{es} & \lan{est} & \lan{esme} & \lan{este} & \lan{sent} \\
-	Perfect & \lan{bum} & \lan{bus} & \lan{but} & \lan{bume} & \lan{bute} & \lan{bunt} \\
-	\hline
-	Present & \lan{sjem} & \lan{sjes} & \lan{sjet} & \lan{sime} & \lan{site} & \lan{sint} \\
-	Perfect & \lan{bjem} & \lan{bjes} & \lan{bjet} & \lan{bime} & \lan{bite} & \lan{bint} \\
-	\hline
-	Present & - & se & - & - & este & - \\
-	Perfect & - & bu & - & - & bute & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
+\INCOMPLETE
+
+\input{compiled/vopeti.latex}
+
+\paragraph{Athematic verbs}
+
+\INCOMPLETE
+
+\paragraph{Irregular verbs}
+
+There are only a handful of irregular verbs in Danetian.
+
+\INCOMPLETE
+
+\input{compiled/iti.latex}
+\input{compiled/doti.latex}
+\input{compiled/esti-eat.latex}
+
+
 
 \begin{center}
 \footnotesize
@@ -1095,47 +1273,20 @@ The copula is \lan{esti}.
 \end{center}
 
 
-\footnotesize
-\begin{tabularx}{\textwidth}{lXXXXXX}
-	\toprule
-	\multicolumnxcentered{7}{X}{ACTIVE} \\
-	\toprule
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\midrule
-	Present & \lan{verto} & \lan{vertesi} & \lan{verteti} & \lan{vertomos} & \lan{vertete} & \lan{vertonti} \\
-	Imperfect & \lan{vertom} & \lan{vertes} & \lan{vertet} & \lan{vertome} & \lan{vertete} & \lan{vertont} \\
-	Perfect & \lan{vevertom} & \lan{vevertes} & \lan{vevertet} & \lan{vevertome} & \lan{vevertete} & \lan{vevertont} \\
-	\midrule
-	Present & \lan{vertojam} & \lan{vertois} & \lan{vertoit} & \lan{vertoime} & \lan{vertoite} & \lan{vertojant} \\
-	Perfect & \lan{vevertojam} & \lan{vevertois} & \lan{vevertoit} & \lan{vevertoime} & \lan{vevertoite} & \lan{vevertojant} \\
-	\midrule
-	Present & - & \lan{verte} & - & - & \lan{vertete} & - \\
-	Perfect & - & \lan{veverte} & - & - & \lan{vevertete} & - \\
-
-	\toprule
-	\multicolumnxcentered{7}{X}{MEDIOPASSIVE} \\
-	\toprule
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	Present & \lan{vertar} & \lan{vertetar} & \lan{vertetor} & \lan{vertomosda} & \lan{vertedave} & \lan{vertontor} \\
-	Imperfect & \lan{verta} & \lan{verteta} & \lan{verteto} & \lan{vertomeda} & \lan{vertedave} & \lan{vertonto} \\
-	Perfect & \lan{veverta} & \lan{veverteta} & \lan{veverteto} & \lan{vevertomeda} & \lan{vevertedave} & \lan{vevertonto} \\
-	\midrule
-	Present & \lan{vertoja} & \lan{vertoita} & \lan{vertoito} & \lan{vertoimeda} & \lan{vertoidave} & \lan{vertojanto} \\
-	Perfect & \lan{vevertoja} & \lan{vevertoita} & \lan{vevertoito} & \lan{vevertoimeda} & \lan{vevertoidave} & \lan{vevertojanto} \\
-	\midrule
-	Present & - & \lan{verteso} & - & - & \lan{vertedave} & - \\
-	Perfect & - & \lan{veverteso} & - & - & \lan{vevertedave} & - \\
-	\bottomrule
-\end{tabularx}
-
 to throw: jek, jeks, jekt ime, ite, int
 
 
 
 
-
-\newpage
 \section*{Prepositions}
+
+NOTE: Perhaps treat adverb-like prepositions as if they were prepositions with a null object
+
+\paragraph{General overview}
+
+A preposition accepts a noun or noun phrase.
+
+\INCOMPLETE
 
 
 

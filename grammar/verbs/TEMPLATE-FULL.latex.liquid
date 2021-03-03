@@ -1,0 +1,97 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\\\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\\\
+	\midrule
+	Present
+	& \multicolumn{3}{c}{ \lan{ {{ active.participle.present }} }}
+	& \multicolumn{3}{c}{ \lan{ {{ active.infinitive.present }} }} \\\\
+	Perfect
+	& \multicolumn{3}{c}{ \lan{ {{ active.participle.perfect }} }}
+	& \multicolumn{3}{c}{ \lan{ {{ active.infinitive.perfect }} }} \\\\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\\\
+	\midrule
+	Present
+	{%- for item in active.indicative.present -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Imperfect
+	{%- for item in active.indicative.imperfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in active.indicative.perfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	Present
+	{%- for item in active.subjunctive.present -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in active.subjunctive.perfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	Present
+	{%- for item in active.imperative.present -%}
+		& - & \lan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in active.imperative.perfect -%}
+		& - & \lan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\\\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\\\
+	\midrule
+	Present
+	& \multicolumn{3}{c}{ \lan{ {{ mediopassive.participle.present }} }}
+	& \multicolumn{3}{c}{ \lan{ {{ mediopassive.infinitive.present }} }} \\\\
+	Perfect
+	& \multicolumn{3}{c}{ \lan{ {{ mediopassive.participle.perfect }} }}
+	& \multicolumn{3}{c}{ \lan{ {{ mediopassive.infinitive.perfect }} }} \\\\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\\\
+	\midrule
+	Present
+	{%- for item in mediopassive.indicative.present -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Imperfect
+	{%- for item in mediopassive.indicative.imperfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in mediopassive.indicative.perfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	Present
+	{%- for item in mediopassive.subjunctive.present -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in mediopassive.subjunctive.perfect -%}
+		& \lan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	Present
+	{%- for item in mediopassive.imperative.present -%}
+		& - & \lan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	Perfect
+	{%- for item in mediopassive.imperative.perfect -%}
+		& - & \lan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	\bottomrule
+\end{tabular}
+\end{center}

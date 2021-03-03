@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - denami
+      - denasi
+      - denati
+      - denamos
+      - denate
+      - denanti
+    imperfect:
+      - denam
+      - denas
+      - denat
+      - dename
+      - denate
+      - denant
+    perfect:
+      - dedenam
+      - dedenas
+      - dedenat
+      - dedename
+      - dedenate
+      - dedenant
+  subjunctive:
+    present:
+      - denajém
+      - denajés
+      - denajét
+      - deníme
+      - deníte
+      - denínt
+    perfect:
+      - dedenajém
+      - dedenajés
+      - dedenajét
+      - dedeníme
+      - dedeníte
+      - dedenínt
+  imperative:
+    present:
+      - dena
+      - denate
+    perfect:
+      - dedena
+      - dedenate
+  participle:
+    present: denonts
+    perfect: dedenés
+  infinitive:
+    present: denatin
+    perfect: dedenatin
+mediopassive:
+  indicative:
+    present:
+      - dénar
+      - dénatar
+      - dénator
+      - denamosda
+      - denadave
+      - dénantor
+    imperfect:
+      - dena
+      - denata
+      - denato
+      - denameda
+      - denadave
+      - denanto
+    perfect:
+      - dedena
+      - dedenata
+      - dedenato
+      - dedenameda
+      - dedenadave
+      - dedenanto
+  subjunctive:
+    present:
+      - dení
+      - deníta
+      - deníto
+      - denimeda
+      - denidave
+      - denínto
+    perfect:
+      - dedení
+      - dedeníta
+      - dedeníto
+      - dedenimeda
+      - dedenidave
+      - dedenínto
+  imperative:
+    present:
+      - denaso
+      - denadave
+    perfect:
+      - dedenaso
+      - dedenadave
+  participle:
+    present: denamnos
+    perfect: dedenamnos
+  infinitive:
+    present: denamin
+    perfect: dedenamin

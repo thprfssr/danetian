@@ -1784,7 +1784,7 @@
     - typ: n
       def: palace
 
-- key: palatiális
+- key: palatial
   ety: From Fr. \ipa{palatial}, with a latinized ending
   definitions:
     - typ: adj
@@ -2025,6 +2025,8 @@
   definitions:
     - typ: adj
       def: inside, within
+    - typ: adj
+      def: inner, located inside
 
 - key: juktos
   ety: From PIE \ipa{*yugtós}
@@ -2343,7 +2345,7 @@
     - typ: f
       def: school
 
-- key: tjómir
+- key: temir
   ety: From a Turkic language; compare Uzbek \ipa{temir}, Turkmen \ipa{demir}, Uyghur
     \ipa{tömür}, and Kazakh \cyr{темір}
   cat: elements
@@ -2501,13 +2503,13 @@
     - typ: prep
       def: (+loc) under
     - typ: prep
-      def: (+ins) according to
+      def: (+ins) according to, in accordance with
 
 - key: úper
   ety: From PIE \ipa{*upér}
   definitions:
     - typ: prep
-      def: (+loc) over
+      def: (+loc) above, over
     - typ: prep
       def: (+gen) because of
     - typ: prep
@@ -2516,12 +2518,6 @@
       def: (+acc) over, beyond
     - typ: prep
       def: (+acc) above, exceeding in quantity, upwards of
-
-- key: uper
-  ety: From PIE \ipa{*upér}
-  definitions:
-    - typ: adv
-      def: above
 
 - key: medi
   ety: From PIE \ipa{*médʰyos}
@@ -2622,7 +2618,7 @@
   definitions:
     - typ: adv
       def: even
-      ex: '\ipa{Dege dorú bivonta.} \textit{Even trees are alive}'
+      ex: '\ipa{Dege dorú bivonta}. \textit{Even trees are alive}'
     - typ: adv
       def: indeed, of course, in fact
 
@@ -3043,17 +3039,9 @@
   ety: From PG \ipa{*hauniz}
   definitions:
     - typ: adj
-      def: low
-    - typ: adj
       def: despised, poor, miserable
     - typ: adj
       def: sad, depressed
-
-- key: upohauníti
-  ety: From Dan. \ipa{haunis}
-  definitions:
-    - typ: v
-      def: to duck
 
 - key: dat
   ety: From Dan. \ipa{datos}
@@ -3514,7 +3502,7 @@
     - typ: v
       def: to fall, to fall down
 
-- key: Portugalia
+- key: Portugal
   cat: place-names
   definitions:
     - typ: f
@@ -4871,7 +4859,7 @@
     - typ: f
       def: freedom, liberty
 
-- key: aiquális
+- key: aiqual
   ety: From Lat. \ipa{aequālis}
   definitions:
     - typ: adj
@@ -4883,7 +4871,7 @@
     - typ: adj
       def: bigger
 
-- key: medanjéstos
+- key: medanistos
   ety: From Dan. \ipa{medanos}
   definitions:
     - typ: adj
@@ -5558,13 +5546,13 @@
 - key: pauros
   ety: From PIE \ipa{*peh₂w-}
   definitions:
-    - typ: pn
+    - typ: pron
       def: few, little of
 
 - key: aljos
   ety: From PIE \ipa{*h₂élyos}
   definitions:
-    - typ: pn
+    - typ: pron
       def: other, another
 
 - key: furops
@@ -5651,7 +5639,7 @@
     - typ: f
       def: theory
 
-- key: generális
+- key: general
   ety: From Lat. \ipa{generālis}
   definitions:
     - typ: adj
@@ -5977,7 +5965,7 @@
     - typ: proadv
       def: here
 
-- key: sodines
+- key: sodín
   ety: From PIE {*ḱo-} and Dan. \ipa{din}
   definitions:
     - typ: adv
@@ -6278,13 +6266,13 @@
     - typ: f
       def: nature
 
-- key: naturális
+- key: natural
   ety: From Lat. \ipa{nātūrālis}
   definitions:
     - typ: adj
       def: natural
 
-- key: naturális donvos
+- key: natural donvos
   definitions:
     - typ: m
       def: natural number
@@ -6712,7 +6700,7 @@
     - typ: f
       def: Podgorica, capital of Montenegro
 
-- key: Haunies Fedomes
+- key: Anferai Fedomes
   definitions:
     - typ: f
       def: Low Countries, Netherlands
@@ -6957,7 +6945,7 @@
     - typ: m
       def: Nestor
       tag: personal name
-      ex: '\ipa{Nestor, tu luvos menjas bivas.} \textit{Nestor, you are the love of my life}'
+      ex: '\ipa{Nestor, tu luvos menjas bivas}. \textit{Nestor, you are the love of my life}'
 
 - key: particula
   ety: From Lat. \ipa{particula}
@@ -6970,3 +6958,123 @@
   definitions:
     - typ: m
       def: un janvier d'hiver
+
+- key: sergjant
+  ety: From Fr. \ipa{sergent}
+  definitions:
+    - typ: m
+      def: sergeant
+
+- key: dvis
+  ety: From PIE \ipa{*dwís}
+  definitions:
+    - typ: adv
+      def: twice, doubly
+    - typ: adv
+      def: in two
+
+- key: fjesi
+  ety: From PIE \ipa{*dʰǵʰyési}
+  definitions:
+    - typ: adv
+      def: yesterday
+
+- key: eno
+  ety: From PIE \ipa{*h₁énos}
+  definitions:
+    - typ: pron
+      def: third person pronoun
+
+- key: anferos
+  ety: From PIE \ipa{*h₁n̥dʰér-o-s}
+  definitions:
+    - typ: adj
+      def: low
+
+- key: retos
+  ety: From PIE \ipa{*h₁réh₁}
+  definitions:
+    - typ: adj
+      def: empty
+
+- key: remos
+  ety: From PIE \ipa{*h₁réh₁}
+  definitions:
+    - typ: adj
+      def: alone, lonely
+
+- key: ana
+  ety: From PIE \ipa{*h₂en-h₂}
+  definitions:
+    - typ: prep
+      def: (+loc) on
+      ex: '\ipa{Enosmi pulnis ana enosjo kaputi}. \textit{He has hair on his haid}'
+    - typ: prep
+      def: (+acc) onto
+    - typ: prep
+      def: (+acc) to, towards
+
+- key: airi
+  ety: From PIE \ipa{*h₂éyeri}
+  definitions:
+    - typ: adv
+      def: early in the morning
+
+- key: airístom
+  ety: From PIE \ipa{*h₂éyeri-h₁d-to-m}
+  definitions:
+    - typ: n
+      def: breakfast
+
+- key: peruti
+  ety: From PIE \ipa{*péruti}
+  definitions:
+    - typ: adv
+      def: last year
+
+- key: semi
+  ety: From PIE \ipa{*sēmi}
+  definitions:
+    - typ: adv
+      def: half, partially
+
+- key: semia
+  ety: From PIE \ipa{*sēmi}
+  definitions:
+    - typ: f
+      def: half
+
+- key: ud
+  ety: From PIE \ipa{*úd}
+  definitions:
+    - typ: prep
+      def: (+abl) out from
+
+- key: vinó
+  ety: From PIE \ipa{*wí-noh₁}
+  definitions:
+    - typ: prep
+      def: (+ins) except
+
+- key: insjenior
+  ety: From Fr. \ipa{ingénieur}
+  definitions:
+    - typ: m
+      def: engineer
+
+- key: insjenieria
+  ety: From Fr. \ipa{ingénierie}
+  definitions:
+    - typ: f
+      def: engineering
+
+- key: tualét
+  ety: From Fr. \ipa{toilette}
+  definitions:
+    - typ: f
+      def: toilet
+
+- key: Brasil
+  definitions:
+    - typ: m
+      def: Brazil

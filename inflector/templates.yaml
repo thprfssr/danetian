@@ -1,0 +1,53 @@
+noun-I:
+  singular:
+    nom: a
+    acc: am
+    gen: as
+    abl: as
+    dat: ai
+    loc: i
+    ins: e
+  plural:
+    nom: ai
+    acc: ans
+    gen: óm
+    abl: amos
+    dat: amos
+    loc: asu
+    ins: afi
+
+noun-II-A:
+  singular:
+    nom: os
+    acc: om
+    gen: osjo
+    abl: ad
+    dat: oi
+    loc: i
+    ins: e
+  plural:
+    nom: oi
+    acc: ons
+    gen: óm
+    abl: omos
+    dat: omos
+    loc: osu
+    ins: ois
+
+noun-II-N:
+  singular:
+    nom: om
+    acc: om
+    gen: osjo
+    abl: ad
+    dat: oi
+    loc: i
+    ins: e
+  plural:
+    nom: a
+    acc: a
+    gen: óm
+    abl: omos
+    dat: omos
+    loc: osu
+    ins: ois

@@ -1,31 +1,31 @@
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\toprule
 	\multicolumn{7}{c}{ACTIVE} \\
 	\toprule
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ sonts }}
-	& \multicolumn{3}{c}{ \lan{ estin }} \\
+	& \multicolumn{3}{c}{ \mlan{ sonts }}
+	& \multicolumn{3}{c}{ \mlan{ estin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ budvés }}
-	& \multicolumn{3}{c}{ \lan{ butin }} \\
+	& \multicolumn{3}{c}{ \mlan{ budvés }}
+	& \multicolumn{3}{c}{ \mlan{ butin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ esmi }& \lan{ esi }& \lan{ esti }& \lan{ esmos }& \lan{ este }& \lan{ senti }\\
-	\Impf& \lan{ esam }& \lan{ es }& \lan{ est }& \lan{ esme }& \lan{ este }& \lan{ sent }\\
-	\Prf& \lan{ bum }& \lan{ bus }& \lan{ but }& \lan{ bume }& \lan{ bute }& \lan{ bunt }\\
+	\Prs& \mlan{ esmi }& \mlan{ esi }& \mlan{ esti }& \mlan{ esmos }& \mlan{ este }& \mlan{ senti }\\
+	\Impf& \mlan{ esam }& \mlan{ es }& \mlan{ est }& \mlan{ esme }& \mlan{ este }& \mlan{ sent }\\
+	\Prf& \mlan{ bum }& \mlan{ bus }& \mlan{ but }& \mlan{ bume }& \mlan{ bute }& \mlan{ bunt }\\
 	\midrule
-	\Prs& \lan{ sjem }& \lan{ sjes }& \lan{ sjet }& \lan{ sime }& \lan{ site }& \lan{ sint }\\
-	\Prf& \lan{ bjem }& \lan{ bjes }& \lan{ bjet }& \lan{ bime }& \lan{ bite }& \lan{ bint }\\
+	\Prs& \mlan{ sjem }& \mlan{ sjes }& \mlan{ sjet }& \mlan{ sime }& \mlan{ site }& \mlan{ sint }\\
+	\Prf& \mlan{ bjem }& \mlan{ bjes }& \mlan{ bjet }& \mlan{ bime }& \mlan{ bite }& \mlan{ bint }\\
 	\midrule
-	\Prs& - & \lan{ se } & -& - & \lan{ este } & -\\
-	\Prf& - & \lan{ bu } & -& - & \lan{ bute } & -\\
+	\Prs& - & \mlan{ se } & -& - & \mlan{ este } & -\\
+	\Prf& - & \mlan{ bu } & -& - & \mlan{ bute } & -\\
 	\bottomrule
-\end{tabular}
+\end{tabularx}
 \end{center}
 

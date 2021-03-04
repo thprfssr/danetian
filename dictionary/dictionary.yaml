@@ -1852,12 +1852,6 @@
     - typ: adj
       def: pertaining to yesterday
 
-- key: fjestere
-  ety: From Dan. \ipa{fjesteros}
-  definitions:
-    - typ: adv
-      def: yesterday
-
 - key: dusmenés
   ety: From PIE \ipa{*dusmenḗs}
   definitions:
@@ -2426,7 +2420,7 @@
     - typ: num
       def: three
 
-- key: petvores
+- key: petvóres
   ety: From PIE \ipa{*kʷetwóres}
   definitions:
     - typ: num
@@ -3046,7 +3040,7 @@
 - key: dat
   ety: From Dan. \ipa{datos}
   definitions:
-    - typ: c
+    - typ: conj
       def: if
 
 - key: peris
@@ -5389,18 +5383,6 @@
     - typ: m
       def: planet
 
-- key: posme
-  ety: From Dan. \ipa{po}
-  definitions:
-    - typ: pv
-      def: (interrogative) how
-
-- key: josme
-  ety: From Dan. \ipa{jo}
-  definitions:
-    - typ: pv
-      def: (relative) how
-
 - key: tridsont
   ety: From PIE \ipa{*tridḱómt}
   definitions:
@@ -5454,12 +5436,6 @@
   definitions:
     - typ: num
       def: thousand; one thousand
-
-- key: bevar
-  ety: From Persian \arab{بیور}
-  definitions:
-    - typ: num
-      def: ten thousand; one myriad
 
 - key: hertogos
   ety: Ultimately from PG \ipa{*harjatogō}. Compare German \ipa{Herzog} and Dutch
@@ -7058,7 +7034,7 @@
     - typ: prep
       def: (+ins) except
 
-- key: insjenior
+- key: insjenier
   ety: From Fr. \ipa{ingénieur}
   definitions:
     - typ: m
@@ -7155,3 +7131,264 @@
   definitions:
     - typ: m
       def: Sunday
+
+- key: podi
+  ety: From Dan. \ipa{po- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (interrogative) where
+
+- key: posmad
+  definitions:
+    - typ: proadv
+      def: (interrogative) from where, whence
+
+- key: poimos
+  definitions:
+    - typ: proadv
+      def: (interrogative) to where, whither
+    - typ: proadv
+      def: (interrogative) to what end, why
+
+- key: poives
+  ety: From Dan. \ipa{po- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (interrogative) when
+
+- key: posme
+  definitions:
+    - typ: proadv
+      def: (interrogative) how, in what manner
+
+- key: podi
+  definitions:
+    - typ: proadv
+      def: (interrogative) how much
+
+- key: jodi
+  ety: From Dan. \ipa{jo- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (relative) where
+
+- key: josmad
+  definitions:
+    - typ: proadv
+      def: (relative) from where
+
+- key: joimos
+  definitions:
+    - typ: proadv
+      def: (relative) to where
+    - typ: proadv
+      def: (relative) why, the reason for which
+    - typ: conj
+      def: because
+
+
+- key: joives
+  ety: From Dan. \ipa{jo- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (relative) when
+
+- key: josme
+  definitions:
+    - typ: proadv
+      def: (relative) how
+
+- key: joti
+  definitions:
+    - typ: proadv
+      def: (relative) how much
+
+- key: sodi
+  ety: From Dan. \ipa{so- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (proximal) this place, here
+
+- key: sosmad
+  definitions:
+    - typ: proadv
+      def: (proximal) from this place, from here
+
+- key: soimos
+  definitions:
+    - typ: proadv
+      def: (proximal) to this place, to here
+    - typ: proadv
+      def: (proximal) for this reason
+
+- key: soives
+  ety: From Dan. \ipa{so- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (proximal) at this time, now
+
+- key: sosme
+  definitions:
+    - typ: proadv
+      def: (proximal) in this way, in this manner
+
+- key: soti
+  definitions:
+    - typ: proadv
+      def: (proximal) this much
+
+- key: todi
+  ety: From Dan. \ipa{to- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (distal) that place, there
+
+- key: tosmad
+  definitions:
+    - typ: proadv
+      def: (distal) from that place, from there
+
+- key: toimos
+  definitions:
+    - typ: proadv
+      def: (distal) to that place
+    - typ: proadv
+      def: (distal) for that reason
+
+- key: toives
+  ety: From Dan. \ipa{to- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (distal) at that time, then
+    - typ: conj
+      def: then
+
+- key: tosme
+  definitions:
+    - typ: proadv
+      def: (distal) in that manner, in that way
+
+- key: toti
+  definitions:
+    - typ: proadv
+      def: (distal) that much
+
+- key: visodi
+  ety: From Dan. \ipa{viso- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (universal) everywhere
+
+- key: visosmad
+  definitions:
+    - typ: proadv
+      def: (universal) from everywhere
+
+- key: visoimos
+  definitions:
+    - typ: proadv
+      def: (universal) to everywhere
+
+- key: visoives
+  ety: From Dan. \ipa{viso- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (universal) at every time, always
+
+- key: visosme
+  definitions:
+    - typ: proadv
+      def: (universal) in every way, in every manner
+
+- key: visoti
+  definitions:
+    - typ: proadv
+      def: (universal) by every amount
+
+- key: nipodi
+  ety: From Dan. \ipa{nipo- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (negatory) nowhere
+
+- key: niposmad
+  definitions:
+    - typ: proadv
+      def: (negatory) from nowhere
+
+- key: nipoimos
+  definitions:
+    - typ: proadv
+      def: (negatory) to nowhere
+    - typ: proadv
+      def: (negatory) for no reason
+
+- key: nipoives
+  ety: From Dan. \ipa{nipo- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (negatory) never
+
+- key: niposme
+  definitions:
+    - typ: proadv
+      def: (negatory) in no way, in no manner
+
+- key: nipoti
+  definitions:
+    - typ: proadv
+      def: (negatory) in no amount, by no amount
+
+- key: potodi
+  ety: From Dan. \ipa{poto- + -di}. The suffix \ipa{-di} comes from PIE
+    \ipa{*dʰi}
+  definitions:
+    - typ: proadv
+      def: (existential) somewhere
+
+- key: potosmad
+  definitions:
+    - typ: proadv
+      def: (existential) from somewhere
+
+- key: potoimos
+  definitions:
+    - typ: proadv
+      def: (existential) to somewhere
+    - typ: proadv
+      def: (existential) for some reason
+
+- key: potoives
+  ety: From Dan. \ipa{poto- + -ives}. The suffix \ipa{-ives} comes from
+    \ipa{juves}, the genitive of \ipa{oju}
+  definitions:
+    - typ: proadv
+      def: (existential) some time, sometimes
+
+- key: potosme
+  definitions:
+    - typ: proadv
+      def: (existential) in some way, in some manner
+
+- key: pototi
+  definitions:
+    - typ: proadv
+      def: (existential) by some amount, in some amount
+
+- key: so-
+  ety: From PIE \ipa{*ḱo}
+  definitions:
+    - typ: prefix
+      def: here

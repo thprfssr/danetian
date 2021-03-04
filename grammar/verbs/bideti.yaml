@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - bido
+      - bidesi
+      - bideti
+      - bidomos
+      - bidete
+      - bidonti
+    imperfect:
+      - bidom
+      - bides
+      - bidet
+      - bidome
+      - bidete
+      - bidont
+    perfect:
+      - befidom
+      - befides
+      - befidet
+      - befidome
+      - befidete
+      - befidont
+  subjunctive:
+    present:
+      - bidojam
+      - bidois
+      - bidoit
+      - bidoime
+      - bidoite
+      - bidojant
+    perfect:
+      - befidojam
+      - befidois
+      - befidoit
+      - befidoime
+      - befidoite
+      - befidojant
+  imperative:
+    present:
+      - bide
+      - bidete
+    perfect:
+      - befide
+      - befidete
+  participle:
+    present: bidonts
+    perfect: befidovés
+  infinitive:
+    present: bidetin
+    perfect: befidetin
+mediopassive:
+  indicative:
+    present:
+      - bídar
+      - bídetar
+      - bídetor
+      - bidomosda
+      - bidedave
+      - bídontor
+    imperfect:
+      - bida
+      - bideta
+      - bideto
+      - bidomeda
+      - bidedave
+      - bidonto
+    perfect:
+      - befida
+      - befideta
+      - befideto
+      - befidomeda
+      - befidedave
+      - befidonto
+  subjunctive:
+    present:
+      - bidoja
+      - bidoita
+      - bidoito
+      - bidoimeda
+      - bidoidave
+      - bidojanto
+    perfect:
+      - befidoja
+      - befidoita
+      - befidoito
+      - befidoimeda
+      - befidoidave
+      - befidojanto
+  imperative:
+    present:
+      - bideso
+      - bidedave
+    perfect:
+      - befideso
+      - befidedave
+  participle:
+    present: bidomnos
+    perfect: befidomnos
+  infinitive:
+    present: bidemin
+    perfect: befidemin

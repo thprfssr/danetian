@@ -1,30 +1,30 @@
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\toprule
 	\multicolumn{7}{c}{ACTIVE} \\
 	\toprule
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ donts }}
-	& \multicolumn{3}{c}{ \lan{ dotin }} \\
+	& \multicolumn{3}{c}{ \mlan{ donts }}
+	& \multicolumn{3}{c}{ \mlan{ dotin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ dedants }}
-	& \multicolumn{3}{c}{ \lan{ dedatin }} \\
+	& \multicolumn{3}{c}{ \mlan{ dedants }}
+	& \multicolumn{3}{c}{ \mlan{ dedatin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ domi }& \lan{ dosi }& \lan{ doti }& \lan{ damos }& \lan{ date }& \lan{ danti }\\
-	\Impf& \lan{ dom }& \lan{ dos }& \lan{ dot }& \lan{ dame }& \lan{ date }& \lan{ dant }\\
-	\Prf& \lan{ dedóm }& \lan{ dedós }& \lan{ dedót }& \lan{ dedame }& \lan{ dedate }& \lan{ dedant }\\
+	\Prs& \mlan{ domi }& \mlan{ dosi }& \mlan{ doti }& \mlan{ damos }& \mlan{ date }& \mlan{ danti }\\
+	\Impf& \mlan{ dom }& \mlan{ dos }& \mlan{ dot }& \mlan{ dame }& \mlan{ date }& \mlan{ dant }\\
+	\Prf& \mlan{ dedóm }& \mlan{ dedós }& \mlan{ dedót }& \mlan{ dedame }& \mlan{ dedate }& \mlan{ dedant }\\
 	\midrule
-	\Prs& \lan{ dajém }& \lan{ dajés }& \lan{ dajét }& \lan{ dime }& \lan{ dite }& \lan{ dint }\\
-	\Prf& \lan{ dedajém }& \lan{ dedajés }& \lan{ dedajét }& \lan{ dedíme }& \lan{ dedíte }& \lan{ dedínt }\\
+	\Prs& \mlan{ dajém }& \mlan{ dajés }& \mlan{ dajét }& \mlan{ dime }& \mlan{ dite }& \mlan{ dint }\\
+	\Prf& \mlan{ dedajém }& \mlan{ dedajés }& \mlan{ dedajét }& \mlan{ dedíme }& \mlan{ dedíte }& \mlan{ dedínt }\\
 	\midrule
-	\Prs& - & \lan{ do } & -& - & \lan{ date } & -\\
-	\Prf& - & \lan{ dedó } & -& - & \lan{ dedate } & -\\
+	\Prs& - & \mlan{ do } & -& - & \mlan{ date } & -\\
+	\Prf& - & \mlan{ dedó } & -& - & \mlan{ dedate } & -\\
 
 	\toprule
 	\multicolumn{7}{c}{MEDIOPASSIVE} \\
@@ -32,25 +32,25 @@
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ damanos }}
-	& \multicolumn{3}{c}{ \lan{ damin }} \\
+	& \multicolumn{3}{c}{ \mlan{ damanos }}
+	& \multicolumn{3}{c}{ \mlan{ damin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ dedamanos }}
-	& \multicolumn{3}{c}{ \lan{ dedamin }} \\
+	& \multicolumn{3}{c}{ \mlan{ dedamanos }}
+	& \multicolumn{3}{c}{ \mlan{ dedamin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ dar }& \lan{ dátar }& \lan{ dátor }& \lan{ damosda }& \lan{ dadave }& \lan{ dántor }\\
-	\Impf& \lan{ da }& \lan{ data }& \lan{ dato }& \lan{ dameda }& \lan{ dadave }& \lan{ danto }\\
-	\Prf& \lan{ deda }& \lan{ dedata }& \lan{ dedato }& \lan{ dedameda }& \lan{ dedadave }& \lan{ dedanto }\\
+	\Prs& \mlan{ dar }& \mlan{ dátar }& \mlan{ dátor }& \mlan{ damosda }& \mlan{ dadave }& \mlan{ dántor }\\
+	\Impf& \mlan{ da }& \mlan{ data }& \mlan{ dato }& \mlan{ dameda }& \mlan{ dadave }& \mlan{ danto }\\
+	\Prf& \mlan{ deda }& \mlan{ dedata }& \mlan{ dedato }& \mlan{ dedameda }& \mlan{ dedadave }& \mlan{ dedanto }\\
 	\midrule
-	\Prs& \lan{ dia }& \lan{ dita }& \lan{ dito }& \lan{ dimeda }& \lan{ didave }& \lan{ dinto }\\
-	\Prf& \lan{ dedia }& \lan{ dedíta }& \lan{ dedíto }& \lan{ dedimeda }& \lan{ dedidave }& \lan{ dedínto }\\
+	\Prs& \mlan{ dia }& \mlan{ dita }& \mlan{ dito }& \mlan{ dimeda }& \mlan{ didave }& \mlan{ dinto }\\
+	\Prf& \mlan{ dedia }& \mlan{ dedíta }& \mlan{ dedíto }& \mlan{ dedimeda }& \mlan{ dedidave }& \mlan{ dedínto }\\
 	\midrule
-	\Prs& - & \lan{ daso } & -& - & \lan{ dadave } & -\\
-	\Prf& - & \lan{ dedaso } & -& - & \lan{ dedadave } & -\\
+	\Prs& - & \mlan{ daso } & -& - & \mlan{ dadave } & -\\
+	\Prf& - & \mlan{ dedaso } & -& - & \mlan{ dedadave } & -\\
 	\bottomrule
-\end{tabular}
+\end{tabularx}
 \end{center}
 

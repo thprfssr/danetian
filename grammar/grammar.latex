@@ -1,29 +1,21 @@
-\documentclass[oneside]{book}
+\documentclass[oneside,10pt]{book}
 \title{The Danetian Language}
 \author{Javier Castro}
 \date{\today}
-
-
-\usepackage{tabularx}
-
-
-\usepackage{microtype} % Improves spacing
 
 % Number each paragraph in the style of the Real Academia Española
 \renewcommand{\theparagraph}{\S\arabic{paragraph}}
 \setcounter{secnumdepth}{4}
 
-% For two-column lists
-\usepackage{multicol}
-
-% For beautiful horizontal lines in the tabular environment
-\usepackage{booktabs}
-
-% For multi-column within the tabular environment
-\usepackage{multirow}
-
-% For equal width columns, and for specifying the total width of a table
-\usepackage{tabularx}
+% GENERAL SETUP %
+\usepackage{multicol} % For multi-column in-text
+\usepackage{booktabs} % For tabular horizontal lines
+\usepackage{multirow} % For multi-column within the tabular environment
+\usepackage{tabularx} % For fixed width tables
+\usepackage{enumerate} % For Roman-numeral enumerated lists
+\usepackage{microtype} % Supposedly improves spacing
+%\usepackage{hyperref} % For in-document hyperlinks
+\newcommand{\qt}[1]{«#1»} % French-style quotation marks
 
 % For centered multicolumns inside the tabularx environment
 \newcommand{\multicolumnxcentered}[3]{
@@ -31,38 +23,38 @@
 		>{\centering\hsize=\dimexpr#1\hsize
 		+#1\tabcolsep+\arrayrulewidth\relax}#2}{#3}}
 
-% For roman-numeral enumerated lists
-\usepackage{enumerate}
-
-% For linguistic abbreviations
-\usepackage{leipzig}
-
 % Use a linguistics font under the appropriate environment
 \usepackage{fontspec}
 \usepackage{xunicode}
 \usepackage{xltxtra}
-\newfontfamily\ipafont{CharisSIL}
-\newcommand{\lan}[1]{{\ipafont \textit{#1}}}
+\newfontfamily\ipafont[Scale=1.0]{DoulosSIL}
+%\newfontfamily\ipafont[Scale=0.9]{CharisSIL}
+%\newcommand{\lan}[1]{{\ipafont \textit{#1}}}
+\newcommand{\lan}[1]{\textit{#1}}
+\newcommand{\mlan}[1]{\mbox{\lan{#1}}}
 \newcommand{\ipa}[1]{{\ipafont #1}}
+%\newcommand{\ipa}[1]{#1}
 
-% Set main font
-\setmainfont{CharisSIL}
-
-
-\newcommand{\qt}[1]{«#1»} % quotations
+% SET MAIN FONT %
+%\usepackage{libertinus}
+%\setmainfont{CharisSIL}
+%\setmainfont{DoulosSIL}
+%\setmainfont{Noto Sans}
+%\setmainfont{Noto Serif}
+%\usepackage{crimson}
+%\usepackage{spectral}
+%\usepackage{gentium}
 
 % To signal an incomplete section
 \newcommand{\INCOMPLETE}[0]{(THIS SECTION IS INCOMPLETE)}
 
-
-
-% Define new Leipzig abbreviations
+% Define linguistic abbreviations
+\usepackage{leipzig}
 \newleipzig{Num}{num}{numeral}
 \newleipzig{Int}{int}{interrogative}
 \newleipzig{Uni}{uni}{universal}
 \newleipzig{Exist}{exist}{existential}
 \newleipzig{Impf}{impf}{imperfect}
-
 
 \begin{document}
 \maketitle
@@ -192,7 +184,6 @@ pronounce the language in whichever way sounds most beautiful to them.
 		\lan{fesor} \ipa{[fɛ'zor]} \qt{hand},
 		\lan{tusontis} \ipa{['tu.zon.tis]} \qt{thousand},
 		\lan{esvos} \ipa{['ɛz.vos]} \qt{horse},
-		\lan{fjestere} \ipa{['fjɛs.tɛ.ɾɛ]} \qt{yesterday},
 		\lan{donvos} \ipa{['don.vos]} \qt{number}.
 	\item \ipa{/r/} is pronounced as \ipa{[r]} by default, but as \ipa{[ɾ]}
 		between vowels. Compare
@@ -226,15 +217,16 @@ exceptions are summarized in the table below, along with other remarks.
 
 \begin{multicols}{2}
 \begin{itemize}
-	\item \ipa{⟨c⟩: /k/ always}
-	\item \ipa{⟨g⟩: /g/ always}
+	\item \ipa{⟨c⟩: /k/} always
+	\item \ipa{⟨g⟩: /g/} always
 	\item \ipa{⟨h⟩: /x/}
-	\item \ipa{⟨t⟩: /t/ always}
+	\item \ipa{⟨nj⟩: /ɲ/}
+	\item \ipa{⟨t⟩: /t/} always
 	\item \ipa{⟨qu⟩: /kw/}
 	\item \ipa{⟨w⟩: /v/}
 	\item \ipa{⟨x⟩: /ks/}
 	\item \ipa{⟨y⟩: /i/}
-	\item \ipa{⟨ch⟩: /x/ always}
+	\item \ipa{⟨ch⟩: /x/} always
 	\item \ipa{⟨ph⟩: /f/}
 	\item \ipa{⟨th⟩: /t/}
 \end{itemize}
@@ -368,7 +360,7 @@ Since all \lan{a}-stem nouns inflect regularly, we can choose one of them to
 represent them all.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -418,7 +410,7 @@ simply choose two nouns (one in \lan{-os} and one in \lan{-om}) to serve as
 role models for all the \lan{o}-stems.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -433,7 +425,7 @@ role models for all the \lan{o}-stems.
 \end{tabular}
 \quad
 \quad
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -482,7 +474,7 @@ choose one word to represent all regular nouns in this class, and then treat
 the irregular nouns separately.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -501,7 +493,7 @@ The only neuter \lan{i}-stem noun is \lan{mori}, and it's completely regular,
 albeit with a change of stem.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -522,7 +514,7 @@ of the stems is purely vocalic, an epenthetic consonant is sometimes inserted
 between the stem and the ending. The inflection table is shown below.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -537,7 +529,7 @@ between the stem and the ending. The inflection table is shown below.
 \end{tabular}
 \end{center}
 
-The inflection tables for all irregular nouns can be found in section
+The inflection tables for all irregular nouns can be found in
 \ref{sec:irregular-nouns}.
 
 \paragraph{\lan{u}-stem nouns}
@@ -566,7 +558,7 @@ We can choose two of these to represent the regular \lan{u}-stem nouns: one for
 the masculine and feminine nouns, and one for the neuters.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -580,7 +572,7 @@ the masculine and feminine nouns, and one for the neuters.
 	\bottomrule
 \end{tabular}
 \quad\quad
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -595,7 +587,7 @@ the masculine and feminine nouns, and one for the neuters.
 \end{tabular}
 \end{center}
 
-All the irregular nouns can be found in the tables under section
+All the irregular nouns can be found in the tables in
 \ref{sec:irregular-nouns}.
 
 \paragraph{\lan{es}-stem nouns}
@@ -622,7 +614,7 @@ to represent them all: one for the masculine and feminine nouns, and one for
 the neuters.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -636,7 +628,7 @@ the neuters.
 	\bottomrule
 \end{tabular}
 \quad\quad
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -673,7 +665,7 @@ We can choose one of these to represent all \lan{en}-stem nouns, keeping in
 mind that there may or may not be a change of stem.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -719,7 +711,7 @@ the {\Nom-\Sg} is a monosyllable, then no elision occurs, e.g.
 liquid-stem nouns to serve as a role model for the rest.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -761,7 +753,7 @@ We will choose two nouns to represent the fleeting \lan{s} nouns: one to
 represent the masculines and feminines, and the other to represent the neuters.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -775,7 +767,7 @@ represent the masculines and feminines, and the other to represent the neuters.
 	\bottomrule
 \end{tabular}
 \quad\quad
-	\begin{tabular}{lll}
+	\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -810,7 +802,7 @@ The inflection table of consonant-stem nouns is similar to the liquid-stem and
 fleeting \lan{s} nouns.
 
 \begin{center}
-\begin{tabular}{lll}
+\begin{tabular}{l|ll}
 	\toprule
 	~ & \Sg & \Pl \\
 	\midrule
@@ -862,7 +854,7 @@ inflects just like a regular adjective.
 \paragraph{Two, three, and four}
 
 The numerals for $2$, $3$, and $4$ are \lan{dvo}, \lan{tres}, and
-\lan{petvores}, respectively. They are all similar because they all inflect
+\lan{petvóres}, respectively. They are all similar because they all inflect
 according to the three genders, and they're all inherently plural.
 
 \begin{center}
@@ -902,8 +894,8 @@ according to the three genders, and they're all inherently plural.
 	\toprule
 	~ & \M & \F & \N \\
 	\midrule
-	\Nom & \lan{petvores} & \lan{petestres} & \lan{petvor} \\
-	\Acc & \lan{petvorans} & \lan{petestrans} & \lan{petvor} \\
+	\Nom & \lan{petvóres} & \lan{petestres} & \lan{petvor} \\
+	\Acc & \lan{petvórans} & \lan{petestrans} & \lan{petvor} \\
 	\Gen & \lan{peturóm} & \lan{petestróm} & \lan{peturóm} \\
 	\Abl & \lan{petvarmos} & \lan{petesarmos} & \lan{petvarmos} \\
 	\Dat & \lan{petvarmos} & \lan{petesarmos} & \lan{petvarmos} \\
@@ -964,6 +956,106 @@ The numerals eleven to nineteen inflect just like \textit{desam}:
 \end{itemize}
 \end{multicols}
 
+\paragraph{Twenty and beyond}
+
+Every other numeral inflects like a typical noun.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{vidsant} (\Num): twenty
+	\item \lan{tridsont} (\Num): thirty
+	\item \lan{petvardsont} (\Num): forty
+	\item \lan{pempedsont} (\Num): fifty
+	\item \lan{svedsont} (\Num): sixty
+	\item \lan{septandsont} (\Num): seventy
+	\item \lan{oktodsont} (\Num): eighty
+	\item \lan{nevandsont} (\Num): ninety
+	\item \lan{satón} (\Num): hundred
+	\item \lan{tusontis} (\Num): thousand
+\end{itemize}
+\end{multicols}
+
+The numerals from twenty to ninety inflect like a consonantal-stem noun, and
+they always remain in the singular: \lan{svedsont \~ svedsontam \~ svedsonte}.
+The numerals \lan{satón} and \lan{tusontis} inflect like a consonantal-stem and
+\lan{i}-stem noun, respectively, but they can be either singular or plural.
+
+\paragraph{Complement of a numeral}
+
+A numeral can describe a noun, just like an adjective would:
+\lan{dva benas} (two women), \lan{trins sjarans} (three-{\Acc} cities-{\Acc}),
+\lan{svekamos viróm} (six-{\Abl} men-{\Abl}). A numeral and its complement noun
+form a noun phrase together. The numeral should agree with the gender of the
+its complement noun. However, the case of this noun does not necessarily have
+to agree with the case of the numeral. The case of the noun is determined by
+these rules:
+\begin{itemize}
+	\item The case of the whole noun phrase is determined by the case
+		of the numeral.
+	\item For the numerals \lan{oinos}, \lan{dvo}, \lan{tres}, and
+		\lan{petvores}, the complement noun should agree both in case
+		and number.
+	\item For every other numeral, if the case of the noun phrase is
+		either nominative or accusative, the noun should be inflected
+		in the genitive plural.
+	\item Otherwise, the noun and the numeral should be in full agreement
+		in both case and number.
+\end{itemize}
+
+Some examples will help clarify this.
+
+\begin{center}
+\begin{tabular}{l|lll}
+	\toprule
+	~ & one man & two men & five men \\
+	\midrule
+	\Nom
+	& \lan{oinos viros} & \lan{dvo viroi} & \lan{pempe viróm} \\
+	\Acc
+	& \lan{oinom virom} & \lan{dvons virons} & \lan{pempans viróm} \\
+	\Gen
+	& \lan{oinosjo virosjo} & \lan{dvóm viróm} & \lan{pempóm viróm} \\
+	\Abl
+	& \lan{oinad virad} & \lan{dvamos viromos} & \lan{pempamos viromos} \\
+	\Dat
+	& \lan{oinoi viroi} & \lan{dvamos viromos} & \lan{pempamos viromos} \\
+	\Loc
+	& \lan{oini viri} & \lan{dvasu virosu} & \lan{pempasu virosu} \\
+	\Ins
+	& \lan{oine vire} & \lan{dvafi virois} & \lan{pempafi virois} \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
+\paragraph{Compound numerals}
+
+Several simple numerals can be arranged to form a compound numeral. In English,
+an example of this would be \textit{sixty nine}, or \textit{four hundred and
+twenty}. We can also do this in Danetian:
+\begin{multicols}{2}
+\begin{itemize}
+	\item 21: \lan{vidsant oinos}
+	\item 42: \lan{petvardsont dvo}
+	\item 69: \lan{svedsont nevan}
+	\item 96: \lan{nevandsont sveks}
+	\item 101: \lan{satón oinos}
+	\item 144: \lan{satón petvardsont petvóres}
+	\item 200: \lan{dvo satones}
+	\item 210: \lan{dvo satones desam}
+	\item 365: \lan{tres satones svedsont pempe}
+	\item 420: \lan{petvóres satones vidsant}
+	\item 500: \lan{pempe satonóm}
+	\item 507: \lan{pempe satonóm septam}
+	\item 1001: \lan{tusontis oinos}
+	\item 1200: \lan{tusontis dvo satones}
+	\item 1418: \lan{tusontis petvóres satones octodesam}
+	\item 1999: \lan{tusontis nevan satones nevandsont nevan}
+	\item 2000: \lan{dvo tusonties}
+	\item 2021: \lan{dvo tusonties vidsant oinos}
+	\item 3000: \lan{tres tusonties}
+	\item 5000: \lan{pempe tusontióm}
+	\item 9999: \lan{nevan tusontióm nevan satonóm nevandsont nevan}
+\end{itemize}
+\end{multicols}
 
 \section*{Pronouns}
 
@@ -976,9 +1068,9 @@ also a reflexive pronoun, which does not inflect by number.
 
 \begin{center}
 \begin{tabular}{l|lllll}
-	\hline\hline
+	\toprule
 	~ & \Fsg & \Ssg & \Fpl & \Spl & \Refl \\
-	\hline
+	\midrule
 
 	\Nom & \lan{edo} & \lan{tu}
 	& \lan{vi} & \lan{ju} & - \\
@@ -1001,7 +1093,7 @@ also a reflexive pronoun, which does not inflect by number.
 	\Ins & \lan{moi} & \lan{toi}
 	& \lan{ansa} & \lan{usma} & \lan{soi} \\
 
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -1009,9 +1101,9 @@ The third person pronouns inflect as:
 
 \begin{center}
 \begin{tabular}{l|llllll}
-	\hline\hline
+	\toprule
 	~ & {\M}-\Sg & {\F}-\Sg & {\N}-\Sg & {\M}-\Pl & {\F}-\Pl & {\N}-\Pl \\
-	\hline
+	\midrule
 
 	\Nom & \lan{eno} & \lan{ena} & \lan{enod}
 	& \lan{enoi} & \lan{enai} & \lan{ena} \\
@@ -1034,7 +1126,7 @@ The third person pronouns inflect as:
 	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme}
 	& \lan{enois} & \lan{enafi} & \lan{enois} \\
 
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -1074,16 +1166,16 @@ others. In Danetian, pro-adverbs refer to the following categories:
 \end{multicols}
 
 Moreover, every pro-adverb has its own type, and we can tell what type it is
-based on the pronoun that it's derived from:
+based on the prefix attached to it:
 \begin{multicols}{2}
 \begin{itemize}
-	\item interrogative: \lan{po}
-	\item relative: \lan{jo}
-	\item proximal: \lan{so}
-	\item distal: \lan{to}
-	\item universal: \lan{viso}
-	\item negative: \lan{nipo}
-	\item existential: \lan{poto}
+	\item interrogative: \lan{po-}
+	\item relative: \lan{jo-}
+	\item proximal: \lan{so-}
+	\item distal: \lan{to-}
+	\item universal: \lan{viso-}
+	\item negative: \lan{nipo-}
+	\item existential: \lan{poto-}
 \end{itemize}
 \end{multicols}
 
@@ -1129,20 +1221,12 @@ proximal referse to objects near the speaker
 medial refers to objects near the listener
 distal refers to objects far from both
 
-so: this (from pie *ḱo)
 to: that (from pie so, with analogy from its inflected cases)
 
 poti: From PIE *kwoti, adverb from kwos, kwis. Cognate with AG posos and Lat
 quot.
 
 For poimos: compare AG peemos (when). Even though the meanings are difrent.
-
-perhaps you can use the interrogative destination to ask "to what end?"
-aka Why?
-
--dhe ~ -dhi : locative particle, where
-
-oju (lifetime) ~ juves (of lifetime) > po-juves (at what time) ~ poives
 
 \paragraph{Demonstrative pronouns}
 
@@ -1339,7 +1423,7 @@ There are only a handful of irregular verbs in Danetian.
 
 \begin{center}
 \footnotesize
-\begin{tabularx}{\textwidth}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\hline\hline
 	\multicolumn{7}{c}{ACTIVE} \\
 	\hline\hline
@@ -1404,9 +1488,56 @@ A preposition accepts a noun or noun phrase.
 
 \part{Syntax}
 
-\paragraph{Copula}
-The copula can be optionally omitted if it is in the present tense.
+\paragraph{Standard word order}
+
+Danetian is an SVO language, like many other languages in Europe. However,
+thanks to its rich inflectional morphology, this word order is fairly flexible.
+
 \INCOMPLETE
+
+\paragraph{Copula omission}
+\label{sec:copula-omission}
+
+The copula can be optionally omitted if it is in the present tense.
+\begin{itemize}
+	\item \lan{Aicaterina en Gallí.}
+		(Catherine [is] in France).
+	\item \lan{Petros mechaniskos insjenier.}
+		(Peter [is] a mechanical engineer).
+	\item \lan{Nestor i Antonios physicoi.}
+		(Nestor and Anthony [are] physicists).
+	\item \lan{Benjamín viros, de Alexandra bena.}
+		(Benjamin [is] a man, and Alexandra [is] a woman).
+\end{itemize}
+
+If it's not in the present tense, then the copula can still be omitted,
+provided that it was used in the same tense in a previous sentence. This way,
+the tense of the copula is understood from context.
+\begin{itemize}
+	\item \lan{En prameni but Verdom, da Verdom opi Divosjo, da Divos
+		Verdom.}
+		(In the beginning was the Word, and the Word [was] with God,
+		and the Word [was] God).
+\end{itemize}
+
+
+
+\paragraph{Possession}
+
+Unlike most European languages, Danetian does not typically use a verb
+\textit{to have} to express possession. Rather, it uses a grammatical
+construction: Possessor-{\Dat} copula object-{\Nom}.
+\begin{itemize}
+	\item Medjo iti estin rufra automobilis.
+		(I will have a red car).
+	\item Petroi i Nestorei esti bibliom physicas.
+		(Peter and Nestor have a physics book).
+	\item Aicaterinai bunt tres bles.
+		(Catherine had three apples).
+\end{itemize}
+
+Of course, the copula can also be omitted according to the rules in
+\ref{sec:copula-omission}.
 
 
 \end{document}

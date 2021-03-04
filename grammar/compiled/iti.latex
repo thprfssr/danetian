@@ -1,31 +1,31 @@
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\toprule
 	\multicolumn{7}{c}{ACTIVE} \\
 	\toprule
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ jonts }}
-	& \multicolumn{3}{c}{ \lan{ itin }} \\
+	& \multicolumn{3}{c}{ \mlan{ jonts }}
+	& \multicolumn{3}{c}{ \mlan{ itin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ bamvés }}
-	& \multicolumn{3}{c}{ \lan{ bemtin }} \\
+	& \multicolumn{3}{c}{ \mlan{ bamvés }}
+	& \multicolumn{3}{c}{ \mlan{ bemtin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ imi }& \lan{ isi }& \lan{ iti }& \lan{ imos }& \lan{ ite }& \lan{ jenti }\\
-	\Impf& \lan{ em }& \lan{ is }& \lan{ it }& \lan{ ime }& \lan{ ite }& \lan{ jent }\\
-	\Prf& \lan{ bem }& \lan{ bems }& \lan{ bemt }& \lan{ bamme }& \lan{ bamte }& \lan{ bament }\\
+	\Prs& \mlan{ imi }& \mlan{ isi }& \mlan{ iti }& \mlan{ imos }& \mlan{ ite }& \mlan{ jenti }\\
+	\Impf& \mlan{ em }& \mlan{ is }& \mlan{ it }& \mlan{ ime }& \mlan{ ite }& \mlan{ jent }\\
+	\Prf& \mlan{ bem }& \mlan{ bems }& \mlan{ bemt }& \mlan{ bamme }& \mlan{ bamte }& \mlan{ bament }\\
 	\midrule
-	\Prs& \lan{ jem }& \lan{ jes }& \lan{ jet }& \lan{ ime }& \lan{ ite }& \lan{ jent }\\
-	\Prf& \lan{ bamjém }& \lan{ bamjés }& \lan{ bamjét }& \lan{ bamíme }& \lan{ bamíte }& \lan{ bamínt }\\
+	\Prs& \mlan{ jem }& \mlan{ jes }& \mlan{ jet }& \mlan{ ime }& \mlan{ ite }& \mlan{ jent }\\
+	\Prf& \mlan{ bamjém }& \mlan{ bamjés }& \mlan{ bamjét }& \mlan{ bamíme }& \mlan{ bamíte }& \mlan{ bamínt }\\
 	\midrule
-	\Prs& - & \lan{ bem } & -& - & \lan{ bamte } & -\\
-	\Prf& - & \lan{ bebom } & -& - & \lan{ bebamte } & -\\
+	\Prs& - & \mlan{ bem } & -& - & \mlan{ bamte } & -\\
+	\Prf& - & \mlan{ bebom } & -& - & \mlan{ bebamte } & -\\
 	\bottomrule
-\end{tabular}
+\end{tabularx}
 \end{center}
 

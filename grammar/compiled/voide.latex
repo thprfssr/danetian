@@ -1,30 +1,30 @@
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\toprule
 	\multicolumn{7}{c}{ACTIVE} \\
 	\toprule
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ vindonts }}
-	& \multicolumn{3}{c}{ \lan{ vitin }} \\
+	& \multicolumn{3}{c}{ \mlan{ vindonts }}
+	& \multicolumn{3}{c}{ \mlan{ vitin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ vidvés }}
-	& \multicolumn{3}{c}{ \lan{ vistin }} \\
+	& \multicolumn{3}{c}{ \mlan{ vidvés }}
+	& \multicolumn{3}{c}{ \mlan{ vistin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ voida }& \lan{ voista }& \lan{ voide }& \lan{ vidme }& \lan{ viste }& \lan{ vidant }\\
-	\Impf& \lan{ vindem }& \lan{ vindes }& \lan{ vindet }& \lan{ vindome }& \lan{ vindete }& \lan{ vindont }\\
-	\Prf& \lan{ videm }& \lan{ vides }& \lan{ videt }& \lan{ vidome }& \lan{ videte }& \lan{ vidont }\\
+	\Prs& \mlan{ voida }& \mlan{ voista }& \mlan{ voide }& \mlan{ vidme }& \mlan{ viste }& \mlan{ vidant }\\
+	\Impf& \mlan{ vindem }& \mlan{ vindes }& \mlan{ vindet }& \mlan{ vindome }& \mlan{ vindete }& \mlan{ vindont }\\
+	\Prf& \mlan{ videm }& \mlan{ vides }& \mlan{ videt }& \mlan{ vidome }& \mlan{ videte }& \mlan{ vidont }\\
 	\midrule
-	\Prs& \lan{ vinjém }& \lan{ vinjés }& \lan{ vinjét }& \lan{ vinjíme }& \lan{ vinjíte }& \lan{ vinjínt }\\
-	\Prf& \lan{ vigjém }& \lan{ vigjés }& \lan{ vigjét }& \lan{ vigjíme }& \lan{ vigjíte }& \lan{ vigjínt }\\
+	\Prs& \mlan{ vinjém }& \mlan{ vinjés }& \mlan{ vinjét }& \mlan{ vinjíme }& \mlan{ vinjíte }& \mlan{ vinjínt }\\
+	\Prf& \mlan{ vigjém }& \mlan{ vigjés }& \mlan{ vigjét }& \mlan{ vigjíme }& \mlan{ vigjíte }& \mlan{ vigjínt }\\
 	\midrule
-	\Prs& - & \lan{ vind } & -& - & \lan{ vinte } & -\\
-	\Prf& - & \lan{ vid } & -& - & \lan{ viste } & -\\
+	\Prs& - & \mlan{ vind } & -& - & \mlan{ vinte } & -\\
+	\Prf& - & \mlan{ vid } & -& - & \mlan{ viste } & -\\
 
 	\toprule
 	\multicolumn{7}{c}{MEDIOPASSIVE} \\
@@ -32,25 +32,25 @@
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ vindamnos }}
-	& \multicolumn{3}{c}{ \lan{ vindemin }} \\
+	& \multicolumn{3}{c}{ \mlan{ vindamnos }}
+	& \multicolumn{3}{c}{ \mlan{ vindemin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ vidamnos }}
-	& \multicolumn{3}{c}{ \lan{ videmin }} \\
+	& \multicolumn{3}{c}{ \mlan{ vidamnos }}
+	& \multicolumn{3}{c}{ \mlan{ videmin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ vínar }& \lan{ víntar }& \lan{ víntor }& \lan{ vinmosda }& \lan{ vindave }& \lan{ vínantor }\\
-	\Impf& \lan{ vinda }& \lan{ vinta }& \lan{ vinto }& \lan{ vinmeda }& \lan{ vindave }& \lan{ vindanto }\\
-	\Prf& \lan{ vida }& \lan{ vista }& \lan{ visto }& \lan{ vidmeda }& \lan{ visdave }& \lan{ vidanto }\\
+	\Prs& \mlan{ vínar }& \mlan{ víntar }& \mlan{ víntor }& \mlan{ vinmosda }& \mlan{ vindave }& \mlan{ vínantor }\\
+	\Impf& \mlan{ vinda }& \mlan{ vinta }& \mlan{ vinto }& \mlan{ vinmeda }& \mlan{ vindave }& \mlan{ vindanto }\\
+	\Prf& \mlan{ vida }& \mlan{ vista }& \mlan{ visto }& \mlan{ vidmeda }& \mlan{ visdave }& \mlan{ vidanto }\\
 	\midrule
-	\Prs& \lan{ vindí }& \lan{ vindíta }& \lan{ vindíto }& \lan{ vindímeda }& \lan{ vindídave }& \lan{ vindínto }\\
-	\Prf& \lan{ vidí }& \lan{ vidíta }& \lan{ vidíto }& \lan{ vidímeda }& \lan{ vidídave }& \lan{ vidínto }\\
+	\Prs& \mlan{ vindí }& \mlan{ vindíta }& \mlan{ vindíto }& \mlan{ vindímeda }& \mlan{ vindídave }& \mlan{ vindínto }\\
+	\Prf& \mlan{ vidí }& \mlan{ vidíta }& \mlan{ vidíto }& \mlan{ vidímeda }& \mlan{ vidídave }& \mlan{ vidínto }\\
 	\midrule
-	\Prs& - & \lan{ vinso } & -& - & \lan{ vindave } & -\\
-	\Prf& - & \lan{ viso } & -& - & \lan{ visdave } & -\\
+	\Prs& - & \mlan{ vinso } & -& - & \mlan{ vindave } & -\\
+	\Prf& - & \mlan{ viso } & -& - & \mlan{ visdave } & -\\
 	\bottomrule
-\end{tabular}
+\end{tabularx}
 \end{center}
 

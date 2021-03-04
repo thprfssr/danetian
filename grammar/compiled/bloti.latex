@@ -1,30 +1,30 @@
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|XXXXXX}
 	\toprule
 	\multicolumn{7}{c}{ACTIVE} \\
 	\toprule
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ blonts }}
-	& \multicolumn{3}{c}{ \lan{ blotin }} \\
+	& \multicolumn{3}{c}{ \mlan{ blonts }}
+	& \multicolumn{3}{c}{ \mlan{ blotin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ beblovés }}
-	& \multicolumn{3}{c}{ \lan{ beblótin }} \\
+	& \multicolumn{3}{c}{ \mlan{ beblovés }}
+	& \multicolumn{3}{c}{ \mlan{ beblótin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ blomi }& \lan{ blosi }& \lan{ bloti }& \lan{ blomos }& \lan{ blote }& \lan{ blonti }\\
-	\Impf& \lan{ blom }& \lan{ blos }& \lan{ blot }& \lan{ blome }& \lan{ blote }& \lan{ blont }\\
-	\Prf& \lan{ beblóm }& \lan{ beblós }& \lan{ beblót }& \lan{ beblóme }& \lan{ beblóte }& \lan{ beblónt }\\
+	\Prs& \mlan{ blomi }& \mlan{ blosi }& \mlan{ bloti }& \mlan{ blomos }& \mlan{ blote }& \mlan{ blonti }\\
+	\Impf& \mlan{ blom }& \mlan{ blos }& \mlan{ blot }& \mlan{ blome }& \mlan{ blote }& \mlan{ blont }\\
+	\Prf& \mlan{ beblóm }& \mlan{ beblós }& \mlan{ beblót }& \mlan{ beblóme }& \mlan{ beblóte }& \mlan{ beblónt }\\
 	\midrule
-	\Prs& \lan{ blojém }& \lan{ blojés }& \lan{ blojét }& \lan{ bloíme }& \lan{ bloíte }& \lan{ bloínt }\\
-	\Prf& \lan{ beblojém }& \lan{ beblojés }& \lan{ beblojét }& \lan{ bebloíme }& \lan{ bebloíte }& \lan{ bebloínt }\\
+	\Prs& \mlan{ blojém }& \mlan{ blojés }& \mlan{ blojét }& \mlan{ bloíme }& \mlan{ bloíte }& \mlan{ bloínt }\\
+	\Prf& \mlan{ beblojém }& \mlan{ beblojés }& \mlan{ beblojét }& \mlan{ bebloíme }& \mlan{ bebloíte }& \mlan{ bebloínt }\\
 	\midrule
-	\Prs& - & \lan{ blo } & -& - & \lan{ blote } & -\\
-	\Prf& - & \lan{ bebló } & -& - & \lan{ beblóte } & -\\
+	\Prs& - & \mlan{ blo } & -& - & \mlan{ blote } & -\\
+	\Prf& - & \mlan{ bebló } & -& - & \mlan{ beblóte } & -\\
 
 	\toprule
 	\multicolumn{7}{c}{MEDIOPASSIVE} \\
@@ -32,25 +32,25 @@
 	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
 	\midrule
 	\Prs
-	& \multicolumn{3}{c}{ \lan{ blomnos }}
-	& \multicolumn{3}{c}{ \lan{ blomin }} \\
+	& \multicolumn{3}{c}{ \mlan{ blomnos }}
+	& \multicolumn{3}{c}{ \mlan{ blomin }} \\
 	\Prf
-	& \multicolumn{3}{c}{ \lan{ beblómnos }}
-	& \multicolumn{3}{c}{ \lan{ beblómin }} \\
+	& \multicolumn{3}{c}{ \mlan{ beblómnos }}
+	& \multicolumn{3}{c}{ \mlan{ beblómin }} \\
 	\midrule
-	~ & \lan{edo} & \lan{tu} & \lan{eno}
-	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\
 	\midrule
-	\Prs& \lan{ blor }& \lan{ blótar }& \lan{ blótor }& \lan{ blomosda }& \lan{ blodave }& \lan{ blóntor }\\
-	\Impf& \lan{ blo }& \lan{ blota }& \lan{ bloto }& \lan{ blomeda }& \lan{ blodave }& \lan{ blonto }\\
-	\Prf& \lan{ bebló }& \lan{ beblóta }& \lan{ beblóto }& \lan{ beblomeda }& \lan{ beblodave }& \lan{ beblónto }\\
+	\Prs& \mlan{ blor }& \mlan{ blótar }& \mlan{ blótor }& \mlan{ blomosda }& \mlan{ blodave }& \mlan{ blóntor }\\
+	\Impf& \mlan{ blo }& \mlan{ blota }& \mlan{ bloto }& \mlan{ blomeda }& \mlan{ blodave }& \mlan{ blonto }\\
+	\Prf& \mlan{ bebló }& \mlan{ beblóta }& \mlan{ beblóto }& \mlan{ beblomeda }& \mlan{ beblodave }& \mlan{ beblónto }\\
 	\midrule
-	\Prs& \lan{ bloí }& \lan{ bloíta }& \lan{ bloíto }& \lan{ bloímeda }& \lan{ bloídave }& \lan{ bloínto }\\
-	\Prf& \lan{ bebloí }& \lan{ bebloíta }& \lan{ bebloíto }& \lan{ bebloímeda }& \lan{ bebloídave }& \lan{ bebloínto }\\
+	\Prs& \mlan{ bloí }& \mlan{ bloíta }& \mlan{ bloíto }& \mlan{ bloímeda }& \mlan{ bloídave }& \mlan{ bloínto }\\
+	\Prf& \mlan{ bebloí }& \mlan{ bebloíta }& \mlan{ bebloíto }& \mlan{ bebloímeda }& \mlan{ bebloídave }& \mlan{ bebloínto }\\
 	\midrule
-	\Prs& - & \lan{ bloso } & -& - & \lan{ blodave } & -\\
-	\Prf& - & \lan{ beblóso } & -& - & \lan{ beblodave } & -\\
+	\Prs& - & \mlan{ bloso } & -& - & \mlan{ blodave } & -\\
+	\Prf& - & \mlan{ beblóso } & -& - & \mlan{ beblodave } & -\\
 	\bottomrule
-\end{tabular}
+\end{tabularx}
 \end{center}
 

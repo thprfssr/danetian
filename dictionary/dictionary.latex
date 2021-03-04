@@ -576,10 +576,6 @@
 	
 
 	
-		\key{bevar.} {\footnotesize (From Persian \arab{بیور}).} num. ten thousand; one myriad.
-	
-
-	
 		\key{bibliom.} {\footnotesize (From AG \gr{βῐβλῐ́ον}).} n. book.
 	
 
@@ -992,7 +988,7 @@
 	
 
 	
-		\key{dat.} {\footnotesize (From Dan. \ipa{datos}).} c. if.
+		\key{dat.} {\footnotesize (From Dan. \ipa{datos}).} conj. if.
 	
 
 	
@@ -1999,7 +1995,22 @@
 	
 
 	
+		\key{jodi.}  proadv. (relative) where.
+	
+
+	
 		\key{jodom.}  n.{\footnotesize \textit{ chemistry.}} iodine.
+	
+
+	
+		\key{joimos.}  proadv.
+			\textbf{1.} (relative) to where.
+			\textbf{2.} (relative) why, the reason for which. conj.
+			\textbf{3.} because.
+	
+
+	
+		\key{joives.}  proadv. (relative) when.
 	
 
 	
@@ -2023,7 +2034,11 @@
 	
 
 	
-		\key{josme.} {\footnotesize (From Dan. \ipa{jo}).} pv. (relative) how.
+		\key{josmad.}  proadv. (relative) from where.
+	
+
+	
+		\key{josme.}  proadv. (relative) how.
 	
 
 	
@@ -2032,6 +2047,10 @@
 
 	
 		\key{Jotfredos.} {\footnotesize (Ultimately from PG \ipa{*Gautafriþuz}).} m. Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried.
+	
+
+	
+		\key{joti.}  proadv. (relative) how much.
 	
 
 	
@@ -2665,6 +2684,32 @@
 	
 
 	
+		\key{nipodi.}  proadv. (negatory) nowhere.
+	
+
+	
+		\key{nipoimos.}  proadv.
+			\textbf{1.} (negatory) to nowhere.
+			\textbf{2.} (negatory) for no reason.
+	
+
+	
+		\key{nipoives.}  proadv. (negatory) never.
+	
+
+	
+		\key{niposmad.}  proadv. (negatory) from nowhere.
+	
+
+	
+		\key{niposme.}  proadv. (negatory) in no way, in no manner.
+	
+
+	
+		\key{nipoti.}  proadv. (negatory) in no amount, by no amount.
+	
+
+	
 		\key{nisdos.} {\footnotesize (From PIE \ipa{*nisdós}).} m. nest.
 	
 
@@ -3097,7 +3142,7 @@
 	
 
 	
-		\key{petvores.} {\footnotesize (From PIE \ipa{*kʷetwóres}).} num. four.
+		\key{petvóres.} {\footnotesize (From PIE \ipa{*kʷetwóres}).} num. four.
 	
 
 	
@@ -3210,14 +3255,32 @@
 		\key{Podgoritsa.} {\footnotesize (From Serbo-Croatian \ipa{Pòdgorica} / \cyr{По̀дгорица}).} f. Podgorica, capital of Montenegro.
 	
 
+	
+		\key{podi.}  proadv. (interrogative) where.
+	
+
+	
+		\key{podi.}  proadv. (interrogative) how much.
+	
+
 	\key{pods,}
 		\textit{pedes.} {\footnotesize (From PIE \ipa{*pṓds}).} m. foot.
+	
+
+	
+		\key{poimos.}  proadv.
+			\textbf{1.} (interrogative) to where, whither.
+			\textbf{2.} (interrogative) to what end, why.
 	
 
 	
 		\key{poina.} {\footnotesize (From PIE \ipa{*kʷoynéh₂}).} f.
 			\textbf{1.} payment.
 			\textbf{2.} punishment, vengeance.
+	
+
+	
+		\key{poives.}  proadv. (interrogative) when.
 	
 
 	
@@ -3257,7 +3320,11 @@
 	
 
 	
-		\key{posme.} {\footnotesize (From Dan. \ipa{po}).} pv. (interrogative) how.
+		\key{posmad.}  proadv. (interrogative) from where, whence.
+	
+
+	
+		\key{posme.}  proadv. (interrogative) how, in what manner.
 	
 
 	
@@ -3269,6 +3336,32 @@
 
 	
 		\key{potíti.} {\footnotesize (From Dan. \ipa{potis}).} v. to rule, to govern.
+	
+
+	
+		\key{potodi.}  proadv. (existential) somewhere.
+	
+
+	
+		\key{potoimos.}  proadv.
+			\textbf{1.} (existential) to somewhere.
+			\textbf{2.} (existential) for some reason.
+	
+
+	
+		\key{potoives.}  proadv. (existential) some time, sometimes.
+	
+
+	
+		\key{potosmad.}  proadv. (existential) from somewhere.
+	
+
+	
+		\key{potosme.}  proadv. (existential) in some way, in some manner.
+	
+
+	
+		\key{pototi.}  proadv. (existential) by some amount, in some amount.
 	
 
 	
@@ -3805,6 +3898,10 @@
 	
 
 	
+		\key{sodi.}  proadv. (proximal) this place, here.
+	
+
+	
 		\key{sodínes.} {\footnotesize (From PIE {*ḱo-} and Dan. \ipa{din}).} adv. today.
 	
 
@@ -3813,7 +3910,17 @@
 	
 
 	
+		\key{soimos.}  proadv.
+			\textbf{1.} (proximal) to this place, to here.
+			\textbf{2.} (proximal) for this reason.
+	
+
+	
 		\key{soitos.} {\footnotesize (From PIE \ipa{*soytós}).} m. magic.
+	
+
+	
+		\key{soives.}  proadv. (proximal) at this time, now.
 	
 
 	
@@ -3891,7 +3998,19 @@
 	
 
 	
+		\key{sosmad.}  proadv. (proximal) from this place, from here.
+	
+
+	
+		\key{sosme.}  proadv. (proximal) in this way, in this manner.
+	
+
+	
 		\key{sosna.} {\footnotesize (From PIE \ipa{*(s)h₁es-}).} f. autumn.
+	
+
+	
+		\key{soti.}  proadv. (proximal) this much.
 	
 
 	\key{sovan,}
@@ -4231,6 +4350,22 @@
 	
 
 	
+		\key{todi.}  proadv. (distal) that place, there.
+	
+
+	
+		\key{toimos.}  proadv.
+			\textbf{1.} (distal) to that place.
+			\textbf{2.} (distal) for that reason.
+	
+
+	
+		\key{toives.}  proadv.
+			\textbf{1.} (distal) at that time, then. conj.
+			\textbf{2.} then.
+	
+
+	
 		\key{tonos.} {\footnotesize (From PIE \ipa{*tónos}).} m. chord, fiber, string.
 	
 
@@ -4240,6 +4375,18 @@
 
 	
 		\key{topologia.} {\footnotesize (From Fr. \ipa{topologie}, with a latinized ending).} f.{\footnotesize \textit{ mathematics.}} topology.
+	
+
+	
+		\key{tosmad.}  proadv. (distal) from that place, from there.
+	
+
+	
+		\key{tosme.}  proadv. (distal) in that manner, in that way.
+	
+
+	
+		\key{toti.}  proadv. (distal) that much.
 	
 
 	
@@ -4562,6 +4709,30 @@
 	
 
 	
+		\key{visodi.}  proadv. (universal) everywhere.
+	
+
+	
+		\key{visoimos.}  proadv. (universal) to everywhere.
+	
+
+	
+		\key{visoives.}  proadv. (universal) at every time, always.
+	
+
+	
+		\key{visosmad.}  proadv. (universal) from everywhere.
+	
+
+	
+		\key{visosme.}  proadv. (universal) in every way, in every manner.
+	
+
+	
+		\key{visoti.}  proadv. (universal) by every amount.
+	
+
+	
 		\key{vispotis.} {\footnotesize (From PIE \ipa{*wiḱpótis}).} m.
 			\textbf{1.} clan chief.
 			\textbf{2.} lord.
@@ -4669,7 +4840,7 @@
 		\key{zirconiom.}  n.{\footnotesize \textit{ chemistry.}} zirconium.
 
 \onecolumn
-\section*{Senti soi 1094 verdóm!}
+\section*{Senti soi 1133 verdóm!}
 
 \end{document}
 

@@ -1,0 +1,56 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ vindonts }}
+	& \multicolumn{3}{c}{ \lan{ vitin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ vidvés }}
+	& \multicolumn{3}{c}{ \lan{ vistin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ voida }& \lan{ voista }& \lan{ voide }& \lan{ vidme }& \lan{ viste }& \lan{ vidant }\\
+	\Impf& \lan{ vindem }& \lan{ vindes }& \lan{ vindet }& \lan{ vindome }& \lan{ vindete }& \lan{ vindont }\\
+	\Prf& \lan{ videm }& \lan{ vides }& \lan{ videt }& \lan{ vidome }& \lan{ videte }& \lan{ vidont }\\
+	\midrule
+	\Prs& \lan{ vinjém }& \lan{ vinjés }& \lan{ vinjét }& \lan{ vinjíme }& \lan{ vinjíte }& \lan{ vinjínt }\\
+	\Prf& \lan{ vigjém }& \lan{ vigjés }& \lan{ vigjét }& \lan{ vigjíme }& \lan{ vigjíte }& \lan{ vigjínt }\\
+	\midrule
+	\Prs& - & \lan{ vind } & -& - & \lan{ vinte } & -\\
+	\Prf& - & \lan{ vid } & -& - & \lan{ viste } & -\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ vindamnos }}
+	& \multicolumn{3}{c}{ \lan{ vindemin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ vidamnos }}
+	& \multicolumn{3}{c}{ \lan{ videmin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ vínar }& \lan{ víntar }& \lan{ víntor }& \lan{ vinmosda }& \lan{ vindave }& \lan{ vínantor }\\
+	\Impf& \lan{ vinda }& \lan{ vinta }& \lan{ vinto }& \lan{ vinmeda }& \lan{ vindave }& \lan{ vindanto }\\
+	\Prf& \lan{ vida }& \lan{ vista }& \lan{ visto }& \lan{ vidmeda }& \lan{ visdave }& \lan{ vidanto }\\
+	\midrule
+	\Prs& \lan{ vindí }& \lan{ vindíta }& \lan{ vindíto }& \lan{ vindímeda }& \lan{ vindídave }& \lan{ vindínto }\\
+	\Prf& \lan{ vidí }& \lan{ vidíta }& \lan{ vidíto }& \lan{ vidímeda }& \lan{ vidídave }& \lan{ vidínto }\\
+	\midrule
+	\Prs& - & \lan{ vinso } & -& - & \lan{ vindave } & -\\
+	\Prf& - & \lan{ viso } & -& - & \lan{ visdave } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

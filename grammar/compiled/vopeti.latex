@@ -1,0 +1,56 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ voponts }}
+	& \multicolumn{3}{c}{ \lan{ vopetin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ vevopovés }}
+	& \multicolumn{3}{c}{ \lan{ vevopetin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ vopo }& \lan{ vopesi }& \lan{ vopeti }& \lan{ vopomos }& \lan{ vopete }& \lan{ voponti }\\
+	\Impf& \lan{ vopom }& \lan{ vopes }& \lan{ vopet }& \lan{ vopome }& \lan{ vopete }& \lan{ vopont }\\
+	\Prf& \lan{ vevopom }& \lan{ vevopes }& \lan{ vevopet }& \lan{ vevopome }& \lan{ vevopete }& \lan{ vevopont }\\
+	\midrule
+	\Prs& \lan{ vopojam }& \lan{ vopois }& \lan{ vopoit }& \lan{ vopoime }& \lan{ vopoite }& \lan{ vopojant }\\
+	\Prf& \lan{ vevopojam }& \lan{ vevopois }& \lan{ vevopoit }& \lan{ vevopoime }& \lan{ vevopoite }& \lan{ vevopojant }\\
+	\midrule
+	\Prs& - & \lan{ vope } & -& - & \lan{ vopete } & -\\
+	\Prf& - & \lan{ vevope } & -& - & \lan{ vevopete } & -\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ vopomnos }}
+	& \multicolumn{3}{c}{ \lan{ vopemin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ vevopomnos }}
+	& \multicolumn{3}{c}{ \lan{ vevopemin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ vópar }& \lan{ vópetar }& \lan{ vópetor }& \lan{ vopomosda }& \lan{ vopedave }& \lan{ vópontor }\\
+	\Impf& \lan{ vopa }& \lan{ vopeta }& \lan{ vopeto }& \lan{ vopomeda }& \lan{ vopedave }& \lan{ voponto }\\
+	\Prf& \lan{ vevopa }& \lan{ vevopeta }& \lan{ vevopeto }& \lan{ vevopomeda }& \lan{ vevopedave }& \lan{ vevoponto }\\
+	\midrule
+	\Prs& \lan{ vopoja }& \lan{ vopoita }& \lan{ vopoito }& \lan{ vopoimeda }& \lan{ vopoidave }& \lan{ vopojanto }\\
+	\Prf& \lan{ vevopoja }& \lan{ vevopoita }& \lan{ vevopoito }& \lan{ vevopoimeda }& \lan{ vevopoidave }& \lan{ vevopojanto }\\
+	\midrule
+	\Prs& - & \lan{ vopeso } & -& - & \lan{ vopedave } & -\\
+	\Prf& - & \lan{ vevopeso } & -& - & \lan{ vevopedave } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

@@ -1,0 +1,31 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ jonts }}
+	& \multicolumn{3}{c}{ \lan{ itin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ bamvés }}
+	& \multicolumn{3}{c}{ \lan{ bemtin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ imi }& \lan{ isi }& \lan{ iti }& \lan{ imos }& \lan{ ite }& \lan{ jenti }\\
+	\Impf& \lan{ em }& \lan{ is }& \lan{ it }& \lan{ ime }& \lan{ ite }& \lan{ jent }\\
+	\Prf& \lan{ bem }& \lan{ bems }& \lan{ bemt }& \lan{ bamme }& \lan{ bamte }& \lan{ bament }\\
+	\midrule
+	\Prs& \lan{ jem }& \lan{ jes }& \lan{ jet }& \lan{ ime }& \lan{ ite }& \lan{ jent }\\
+	\Prf& \lan{ bamjém }& \lan{ bamjés }& \lan{ bamjét }& \lan{ bamíme }& \lan{ bamíte }& \lan{ bamínt }\\
+	\midrule
+	\Prs& - & \lan{ bem } & -& - & \lan{ bamte } & -\\
+	\Prf& - & \lan{ bebom } & -& - & \lan{ bebamte } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - blomi
+      - blosi
+      - bloti
+      - blomos
+      - blote
+      - blonti
+    imperfect:
+      - blom
+      - blos
+      - blot
+      - blome
+      - blote
+      - blont
+    perfect:
+      - beblóm
+      - beblós
+      - beblót
+      - beblóme
+      - beblóte
+      - beblónt
+  subjunctive:
+    present:
+      - blojém
+      - blojés
+      - blojét
+      - bloíme
+      - bloíte
+      - bloínt
+    perfect:
+      - beblojém
+      - beblojés
+      - beblojét
+      - bebloíme
+      - bebloíte
+      - bebloínt
+  imperative:
+    present:
+      - blo
+      - blote
+    perfect:
+      - bebló
+      - beblóte
+  participle:
+    present: blonts
+    perfect: beblovés
+  infinitive:
+    present: blotin
+    perfect: beblótin
+mediopassive:
+  indicative:
+    present:
+      - blor
+      - blótar
+      - blótor
+      - blomosda
+      - blodave
+      - blóntor
+    imperfect:
+      - blo
+      - blota
+      - bloto
+      - blomeda
+      - blodave
+      - blonto
+    perfect:
+      - bebló
+      - beblóta
+      - beblóto
+      - beblomeda
+      - beblodave
+      - beblónto
+  subjunctive:
+    present:
+      - bloí
+      - bloíta
+      - bloíto
+      - bloímeda
+      - bloídave
+      - bloínto
+    perfect:
+      - bebloí
+      - bebloíta
+      - bebloíto
+      - bebloímeda
+      - bebloídave
+      - bebloínto
+  imperative:
+    present:
+      - bloso
+      - blodave
+    perfect:
+      - beblóso
+      - beblodave
+  participle:
+    present: blomnos
+    perfect: beblómnos
+  infinitive:
+    present: blomin
+    perfect: beblómin

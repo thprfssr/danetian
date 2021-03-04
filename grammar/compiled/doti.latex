@@ -1,0 +1,56 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ donts }}
+	& \multicolumn{3}{c}{ \lan{ dotin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ dedants }}
+	& \multicolumn{3}{c}{ \lan{ dedatin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ domi }& \lan{ dosi }& \lan{ doti }& \lan{ damos }& \lan{ date }& \lan{ danti }\\
+	\Impf& \lan{ dom }& \lan{ dos }& \lan{ dot }& \lan{ dame }& \lan{ date }& \lan{ dant }\\
+	\Prf& \lan{ dedóm }& \lan{ dedós }& \lan{ dedót }& \lan{ dedame }& \lan{ dedate }& \lan{ dedant }\\
+	\midrule
+	\Prs& \lan{ dajém }& \lan{ dajés }& \lan{ dajét }& \lan{ dime }& \lan{ dite }& \lan{ dint }\\
+	\Prf& \lan{ dedajém }& \lan{ dedajés }& \lan{ dedajét }& \lan{ dedíme }& \lan{ dedíte }& \lan{ dedínt }\\
+	\midrule
+	\Prs& - & \lan{ do } & -& - & \lan{ date } & -\\
+	\Prf& - & \lan{ dedó } & -& - & \lan{ dedate } & -\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ damanos }}
+	& \multicolumn{3}{c}{ \lan{ damin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ dedamanos }}
+	& \multicolumn{3}{c}{ \lan{ dedamin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ dar }& \lan{ dátar }& \lan{ dátor }& \lan{ damosda }& \lan{ dadave }& \lan{ dántor }\\
+	\Impf& \lan{ da }& \lan{ data }& \lan{ dato }& \lan{ dameda }& \lan{ dadave }& \lan{ danto }\\
+	\Prf& \lan{ deda }& \lan{ dedata }& \lan{ dedato }& \lan{ dedameda }& \lan{ dedadave }& \lan{ dedanto }\\
+	\midrule
+	\Prs& \lan{ dia }& \lan{ dita }& \lan{ dito }& \lan{ dimeda }& \lan{ didave }& \lan{ dinto }\\
+	\Prf& \lan{ dedia }& \lan{ dedíta }& \lan{ dedíto }& \lan{ dedimeda }& \lan{ dedidave }& \lan{ dedínto }\\
+	\midrule
+	\Prs& - & \lan{ daso } & -& - & \lan{ dadave } & -\\
+	\Prf& - & \lan{ dedaso } & -& - & \lan{ dedadave } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

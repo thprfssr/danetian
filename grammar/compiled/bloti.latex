@@ -1,0 +1,56 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ blonts }}
+	& \multicolumn{3}{c}{ \lan{ blotin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ beblovés }}
+	& \multicolumn{3}{c}{ \lan{ beblótin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ blomi }& \lan{ blosi }& \lan{ bloti }& \lan{ blomos }& \lan{ blote }& \lan{ blonti }\\
+	\Impf& \lan{ blom }& \lan{ blos }& \lan{ blot }& \lan{ blome }& \lan{ blote }& \lan{ blont }\\
+	\Prf& \lan{ beblóm }& \lan{ beblós }& \lan{ beblót }& \lan{ beblóme }& \lan{ beblóte }& \lan{ beblónt }\\
+	\midrule
+	\Prs& \lan{ blojém }& \lan{ blojés }& \lan{ blojét }& \lan{ bloíme }& \lan{ bloíte }& \lan{ bloínt }\\
+	\Prf& \lan{ beblojém }& \lan{ beblojés }& \lan{ beblojét }& \lan{ bebloíme }& \lan{ bebloíte }& \lan{ bebloínt }\\
+	\midrule
+	\Prs& - & \lan{ blo } & -& - & \lan{ blote } & -\\
+	\Prf& - & \lan{ bebló } & -& - & \lan{ beblóte } & -\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ blomnos }}
+	& \multicolumn{3}{c}{ \lan{ blomin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ beblómnos }}
+	& \multicolumn{3}{c}{ \lan{ beblómin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ blor }& \lan{ blótar }& \lan{ blótor }& \lan{ blomosda }& \lan{ blodave }& \lan{ blóntor }\\
+	\Impf& \lan{ blo }& \lan{ blota }& \lan{ bloto }& \lan{ blomeda }& \lan{ blodave }& \lan{ blonto }\\
+	\Prf& \lan{ bebló }& \lan{ beblóta }& \lan{ beblóto }& \lan{ beblomeda }& \lan{ beblodave }& \lan{ beblónto }\\
+	\midrule
+	\Prs& \lan{ bloí }& \lan{ bloíta }& \lan{ bloíto }& \lan{ bloímeda }& \lan{ bloídave }& \lan{ bloínto }\\
+	\Prf& \lan{ bebloí }& \lan{ bebloíta }& \lan{ bebloíto }& \lan{ bebloímeda }& \lan{ bebloídave }& \lan{ bebloínto }\\
+	\midrule
+	\Prs& - & \lan{ bloso } & -& - & \lan{ blodave } & -\\
+	\Prf& - & \lan{ beblóso } & -& - & \lan{ beblodave } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

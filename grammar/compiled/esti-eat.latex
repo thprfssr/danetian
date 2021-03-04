@@ -1,0 +1,56 @@
+\begin{center}
+\footnotesize
+\begin{tabular}{l|llllll}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ edants }}
+	& \multicolumn{3}{c}{ \lan{ estin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ beravés }}
+	& \multicolumn{3}{c}{ \lan{ vevopetin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ edmi }& \lan{ edsi }& \lan{ esti }& \lan{ edmos }& \lan{ este }& \lan{ edanti }\\
+	\Impf& \lan{ edam }& \lan{ eds }& \lan{ est }& \lan{ edme }& \lan{ este }& \lan{ edant }\\
+	\Prf& \lan{ beram }& \lan{ beras }& \lan{ berat }& \lan{ berame }& \lan{ berate }& \lan{ berant }\\
+	\midrule
+	\Prs& \lan{ edjém }& \lan{ edjés }& \lan{ edjét }& \lan{ edíme }& \lan{ edíte }& \lan{ edínt }\\
+	\Prf& \lan{ berjém }& \lan{ berjés }& \lan{ berjét }& \lan{ beríme }& \lan{ beríte }& \lan{ berínt }\\
+	\midrule
+	\Prs& - & \lan{ ed } & -& - & \lan{ este } & -\\
+	\Prf& - & \lan{ bera } & -& - & \lan{ berate } & -\\
+
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \lan{ edmanos }}
+	& \multicolumn{3}{c}{ \lan{ edmin }} \\
+	\Prf
+	& \multicolumn{3}{c}{ \lan{ beramnos }}
+	& \multicolumn{3}{c}{ \lan{ beramin }} \\
+	\midrule
+	~ & \lan{edo} & \lan{tu} & \lan{eno}
+	& \lan{vi} & \lan{ju} & \lan{enoi} \\
+	\midrule
+	\Prs& \lan{ édar }& \lan{ éstar }& \lan{ éstor }& \lan{ edmosda }& \lan{ esdave }& \lan{ édantor }\\
+	\Impf& \lan{ eda }& \lan{ esta }& \lan{ esto }& \lan{ edmeda }& \lan{ esdave }& \lan{ edanto }\\
+	\Prf& \lan{ bera }& \lan{ berata }& \lan{ berato }& \lan{ berameda }& \lan{ beradave }& \lan{ beranto }\\
+	\midrule
+	\Prs& \lan{ edí }& \lan{ edíta }& \lan{ edíto }& \lan{ edimeda }& \lan{ edidave }& \lan{ edínto }\\
+	\Prf& \lan{ berí }& \lan{ beríta }& \lan{ beríto }& \lan{ berímeda }& \lan{ berídave }& \lan{ berínto }\\
+	\midrule
+	\Prs& - & \lan{ edso } & -& - & \lan{ esdave } & -\\
+	\Prf& - & \lan{ beraso } & -& - & \lan{ beradave } & -\\
+	\bottomrule
+\end{tabular}
+\end{center}
+

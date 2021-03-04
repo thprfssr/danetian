@@ -1,8 +1,10 @@
-\documentclass{article}
+\documentclass[oneside]{book}
 \title{The Danetian Language}
 \author{Javier Castro}
 \date{\today}
 
+
+\usepackage{tabularx}
 
 
 \usepackage{microtype} % Improves spacing
@@ -53,10 +55,20 @@
 \newcommand{\INCOMPLETE}[0]{(THIS SECTION IS INCOMPLETE)}
 
 
+
+% Define new Leipzig abbreviations
+\newleipzig{Num}{num}{numeral}
+\newleipzig{Int}{int}{interrogative}
+\newleipzig{Uni}{uni}{universal}
+\newleipzig{Exist}{exist}{existential}
+\newleipzig{Impf}{impf}{imperfect}
+
+
 \begin{document}
 \maketitle
 
-\section*{Introduction}
+
+\chapter*{Introduction}
 
 \paragraph{Background}
 
@@ -108,7 +120,9 @@ with the \textit{centum} languages.
 
 
 
-\section*{Phonology}
+\part{Phonology}
+
+\section*{Types of sounds}
 
 \paragraph{Consonants}
 
@@ -202,6 +216,8 @@ pronounce the language in whichever way sounds most beautiful to them.
 	\item \ipa{/o/} is always pronounced as \ipa{[o]}.
 \end{itemize}
 
+\section*{Orthography}
+
 \paragraph{Graphemes}
 
 Danetian orthography uses all 26 letters of the international Latin alphabet.
@@ -249,6 +265,9 @@ The orthographic rules for denoting stress are the following:
 \end{enumerate}
 
 \INCOMPLETE
+
+
+\part{Morphology}
 
 %\newpage
 \section*{Nouns}
@@ -848,9 +867,9 @@ according to the three genders, and they're all inherently plural.
 
 \begin{center}
 \begin{tabular}{l|lll}
-	\hline\hline
+	\toprule
 	~ & \M & \F & \N \\
-	\hline
+	\midrule
 	\Nom & \lan{dvo} & \lan{dva} & \lan{dvoi} \\
 	\Acc & \lan{dvons} & \lan{dvans} & \lan{dvoi} \\
 	\Gen & \lan{dvóm} & \lan{dvóm} & \lan{dvóm} \\
@@ -858,15 +877,15 @@ according to the three genders, and they're all inherently plural.
 	\Dat & \lan{dvamos} & \lan{dvamos} & \lan{dvamos} \\
 	\Loc & \lan{dvasu} & \lan{dvasu} & \lan{dvasu} \\
 	\Ins & \lan{dvafi} & \lan{dvafi} & \lan{dvafi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
 \begin{center}
 \begin{tabular}{l|lll}
-	\hline\hline
+	\toprule
 	~ & \M & \F & \N \\
-	\hline
+	\midrule
 	\Nom & \lan{tres} & \lan{tistres} & \lan{tri} \\
 	\Acc & \lan{trins} & \lan{tistrans} & \lan{tri} \\
 	\Gen & \lan{trióm} & \lan{tistróm} & \lan{trióm} \\
@@ -874,15 +893,15 @@ according to the three genders, and they're all inherently plural.
 	\Dat & \lan{trimos} & \lan{tisarmos} & \lan{trimos} \\
 	\Loc & \lan{trisu} & \lan{tisarsu} & \lan{trisu} \\
 	\Ins & \lan{trifi} & \lan{tisarfi} & \lan{trifi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
 \begin{center}
 \begin{tabular}{l|lll}
-	\hline\hline
+	\toprule
 	~ & \M & \F & \N \\
-	\hline
+	\midrule
 	\Nom & \lan{petvores} & \lan{petestres} & \lan{petvor} \\
 	\Acc & \lan{petvorans} & \lan{petestrans} & \lan{petvor} \\
 	\Gen & \lan{peturóm} & \lan{petestróm} & \lan{peturóm} \\
@@ -890,9 +909,60 @@ according to the three genders, and they're all inherently plural.
 	\Dat & \lan{petvarmos} & \lan{petesarmos} & \lan{petvarmos} \\
 	\Loc & \lan{petvarsu} & \lan{petesarsu} & \lan{petvarsu} \\
 	\Ins & \lan{petvarfi} & \lan{petesarfi} & \lan{petvarfi} \\
-	\hline\hline
+	\bottomrule
 \end{tabular}
 \end{center}
+
+
+\paragraph{Five to nineteen}
+The numerals five, six, seven, eight, nine, and ten inflect according to
+case, but not gender.
+
+\begin{center}
+\begin{tabular}{l|llllll}
+	\toprule
+	~ & five & six & seven & eight & nine & ten \\
+	\midrule
+
+	\Nom & \lan{pempe} & \lan{sveks} & \lan{septam}
+	& \lan{okto} & \lan{nevan} & \lan{desam} \\
+
+	\Acc & \lan{pempans} & \lan{svekans} & \lan{septans}
+	& \lan{oktons} & \lan{nevans} & \lan{desans} \\
+
+	\Gen & \lan{pempóm} & \lan{svekóm} & \lan{septóm}
+	& \lan{októm} & \lan{nevóm} & \lan{desóm} \\
+
+	\Abl & \lan{pempamos} & \lan{svekamos} & \lan{septamos}
+	& \lan{oktomos} & \lan{nevamos} & \lan{desamos} \\
+
+	\Dat & \lan{pempamos} & \lan{svekamos} & \lan{septamos}
+	& \lan{oktomos} & \lan{nevamos} & \lan{desamos} \\
+
+	\Loc & \lan{pempasu} & \lan{svekasu} & \lan{septasu}
+	& \lan{oktosu} & \lan{nevasu} & \lan{desasu} \\
+
+	\Ins & \lan{pempafi} & \lan{svekafi} & \lan{septafi}
+	& \lan{oktofi} & \lan{nevafi} & \lan{desafi} \\
+
+	\bottomrule
+\end{tabular}
+\end{center}
+
+The numerals eleven to nineteen inflect just like \textit{desam}:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{oinodesam} (\Num): eleven
+	\item \lan{dvoidesam} (\Num): twelve
+	\item \lan{tridesam} (\Num): thirteen
+	\item \lan{petvordesam} (\Num): fourteen
+	\item \lan{pempedesam} (\Num): fifteen
+	\item \lan{svesdesam} (\Num): sixteen
+	\item \lan{septandesam} (\Num): seventeen
+	\item \lan{oktodesam} (\Num): eighteen
+	\item \lan{nevandesam} (\Num): nineteen
+\end{itemize}
+\end{multicols}
 
 
 \section*{Pronouns}
@@ -909,13 +979,28 @@ also a reflexive pronoun, which does not inflect by number.
 	\hline\hline
 	~ & \Fsg & \Ssg & \Fpl & \Spl & \Refl \\
 	\hline
-	\Nom & \lan{edo} & \lan{tu} & \lan{vi} & \lan{ju} & - \\
-	\Acc & \lan{me} & \lan{tve} & \lan{nos} & \lan{vos} & \lan{sve} \\
-	\Gen & \lan{mene} & \lan{teve} & \lan{ánser} & \lan{júser} & \lan{seve} \\
-	\Abl & \lan{me} & \lan{tve} & \lan{ansme} & \lan{usme} & \lan{sve} \\
-	\Dat & \lan{medjo} & \lan{tefjo} & \lan{ansmi} & \lan{usmi} & \lan{sevjo} \\
-	\Loc & \lan{moi} & \lan{toi} & \lan{ansmi} & \lan{usmi} & \lan{soi} \\
-	\Ins & \lan{moi} & \lan{toi} & \lan{ansa} & \lan{usma} & \lan{soi} \\
+
+	\Nom & \lan{edo} & \lan{tu}
+	& \lan{vi} & \lan{ju} & - \\
+
+	\Acc & \lan{me} & \lan{tve}
+	& \lan{nos} & \lan{vos} & \lan{sve} \\
+
+	\Gen & \lan{mene} & \lan{teve}
+	& \lan{ánser} & \lan{júser} & \lan{seve} \\
+
+	\Abl & \lan{med} & \lan{tved}
+	& \lan{ansmed} & \lan{usmed} & \lan{sved} \\
+
+	\Dat & \lan{medjo} & \lan{tevjo}
+	& \lan{ansmi} & \lan{usmi} & \lan{sevjo} \\
+
+	\Loc & \lan{moi} & \lan{toi}
+	& \lan{ansmi} & \lan{usmi} & \lan{soi} \\
+
+	\Ins & \lan{moi} & \lan{toi}
+	& \lan{ansa} & \lan{usma} & \lan{soi} \\
+
 	\hline\hline
 \end{tabular}
 \end{center}
@@ -927,13 +1012,28 @@ The third person pronouns inflect as:
 	\hline\hline
 	~ & {\M}-\Sg & {\F}-\Sg & {\N}-\Sg & {\M}-\Pl & {\F}-\Pl & {\N}-\Pl \\
 	\hline
-	\Nom & \lan{eno} & \lan{ena} & \lan{enod} & \lan{enos} & \lan{enas} & \lan{ena} \\
-	\Acc & \lan{enom} & \lan{enam} & \lan{enod} & \lan{enons} & \lan{enans} & \lan{ena} \\
-	\Gen & \lan{enosjo} & \lan{enosjas} & \lan{enosjo} & \lan{enosóm} & \lan{enasóm} & \lan{enosóm} \\
-	\Abl & \lan{enosmad} & \lan{enosjas} & \lan{enosmad} & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
-	\Dat & \lan{enosmi} & \lan{enosjai} & \lan{enosmi} & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
-	\Loc & \lan{enosmi} & \lan{enosji} & \lan{enosmi} & \lan{enoisu} & \lan{enasu} & \lan{enoisu} \\
-	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme} & \lan{enois} & \lan{enafi} & \lan{enois} \\
+
+	\Nom & \lan{eno} & \lan{ena} & \lan{enod}
+	& \lan{enoi} & \lan{enai} & \lan{ena} \\
+
+	\Acc & \lan{enom} & \lan{enam} & \lan{enod}
+	& \lan{enons} & \lan{enans} & \lan{ena} \\
+
+	\Gen & \lan{enosjo} & \lan{enosjas} & \lan{enosjo}
+	& \lan{enosóm} & \lan{enasóm} & \lan{enosóm} \\
+
+	\Abl & \lan{enosmad} & \lan{enosjas} & \lan{enosmad}
+	& \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+
+	\Dat & \lan{enosmi} & \lan{enosjai} & \lan{enosmi}
+	& \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+
+	\Loc & \lan{enosmi} & \lan{enosi} & \lan{enosmi}
+	& \lan{enoisu} & \lan{enasu} & \lan{enoisu} \\
+
+	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme}
+	& \lan{enois} & \lan{enafi} & \lan{enois} \\
+
 	\hline\hline
 \end{tabular}
 \end{center}
@@ -956,6 +1056,93 @@ However, the third person possessive pronouns are equivalent to the genitive of
 the third person personal pronouns. That is,
 \lan{enosjo, enosjas, enosjo, enosóm, enasóm, enosóm}. These possessives
 do not inflect at all.
+
+\paragraph{Pro-adverbs}
+
+A pro-adverb is a word that substitutes an adverb, such as
+\textit{when}, \textit{where}, \textit{somewhere}, \textit{like this}, among
+others. In Danetian, pro-adverbs refer to the following categories:
+\begin{multicols}{2}
+\begin{itemize}
+	\item location: where?
+	\item source: where from?
+	\item destination: where to?
+	\item time: when?
+	\item manner: how?
+	\item amount: how much?
+\end{itemize}
+\end{multicols}
+
+Moreover, every pro-adverb has its own type, and we can tell what type it is
+based on the pronoun that it's derived from:
+\begin{multicols}{2}
+\begin{itemize}
+	\item interrogative: \lan{po}
+	\item relative: \lan{jo}
+	\item proximal: \lan{so}
+	\item distal: \lan{to}
+	\item universal: \lan{viso}
+	\item negative: \lan{nipo}
+	\item existential: \lan{poto}
+\end{itemize}
+\end{multicols}
+
+Every possible combination is shown in the following table:
+\begin{center}
+\begin{tabular}{l|llllll}
+	\toprule
+	~ & location & source & destination
+	& time & manner & amount \\
+	\midrule
+
+	\Int & \lan{podi} & \lan{posmad} & \lan{poimos}
+	& \lan{poives} & \lan{posme} & \lan{poti} \\
+
+	\Rel & \lan{jodi} & \lan{josmad} & \lan{joimos}
+	& \lan{joives} & \lan{josme} & \lan{joti} \\
+
+	\Prox & \lan{sodi} & \lan{sosmad} & \lan{soimos}
+	& \lan{soives} & \lan{sosme} & \lan{soti} \\
+
+	\Dist & \lan{todi} & \lan{tosmad} & \lan{toimos}
+	& \lan{toives} & \lan{tosme} & \lan{toti} \\
+
+	\Uni & \lan{visodi} & \lan{visosmad} & \lan{visoimos}
+	& \lan{visoives} & \lan{visosme} & \lan{visoti} \\
+
+	\Neg & \lan{nipodi} & \lan{niposmad} & \lan{nipoimos}
+	& \lan{nipoives} & \lan{niposme} & \lan{nipoti} \\
+
+	\Exist & \lan{potodi} & \lan{potosmad} & \lan{potoimos}
+	& \lan{potoives} & \lan{potosme} & \lan{pototi} \\
+
+	\bottomrule
+\end{tabular}
+\end{center}
+
+When using a pro-adverb that refers to the amount of something, the genitive
+case should be used.
+
+(e.g. combien de grand)\INCOMPLETE
+
+proximal referse to objects near the speaker
+medial refers to objects near the listener
+distal refers to objects far from both
+
+so: this (from pie *ḱo)
+to: that (from pie so, with analogy from its inflected cases)
+
+poti: From PIE *kwoti, adverb from kwos, kwis. Cognate with AG posos and Lat
+quot.
+
+For poimos: compare AG peemos (when). Even though the meanings are difrent.
+
+perhaps you can use the interrogative destination to ask "to what end?"
+aka Why?
+
+-dhe ~ -dhi : locative particle, where
+
+oju (lifetime) ~ juves (of lifetime) > po-juves (at what time) ~ poives
 
 \paragraph{Demonstrative pronouns}
 
@@ -1152,7 +1339,7 @@ There are only a handful of irregular verbs in Danetian.
 
 \begin{center}
 \footnotesize
-\begin{tabular}{l|llllll}
+\begin{tabularx}{\textwidth}{l|llllll}
 	\hline\hline
 	\multicolumn{7}{c}{ACTIVE} \\
 	\hline\hline
@@ -1193,84 +1380,10 @@ There are only a handful of irregular verbs in Danetian.
 	Present & - & \lan{bideso} & - & - & \lan{bidedave} & - \\
 	Perfect & - & \lan{befideso} & - & - & \lan{befidedave} & - \\
 	\hline\hline
-\end{tabular}
+\end{tabularx}
 \end{center}
 
 
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{jonts} & \multicolumn{3}{c}{isei} \\
-	Perfect & \multicolumn{3}{c}{sekvés} & \multicolumn{3}{c}{seksei} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{imi} & \lan{isi} & \lan{iti} & \lan{imos} & \lan{ite} & \lan{jenti} \\
-	Imperfect & \lan{im} & \lan{is} & \lan{it} & \lan{ime} & \lan{ite} & \lan{jent} \\
-	Perfect & \lan{sem} & \lan{seks} & \lan{set} & \lan{semme} & \lan{septe} & \lan{sepant} \\
-	\hline
-	Present & \lan{jem} & \lan{jes} & \lan{jet} & \lan{sepime} & \lan{sepite} & \lan{sepint} \\
-	Perfect & \lan{secjém} & \lan{secjés} & \lan{secjét} & \lan{sekíme} & \lan{sekíte} & \lan{sekínt} \\
-	\hline
-	Present & - & \lan{sep} & - & - & \lan{septe} & - \\
-	Perfect & - & \lan{sek} & - & - & \lan{sekte} & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
-
-
-
-
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{denonts} & \multicolumn{3}{c}{denasei} \\
-	Perfect & \multicolumn{3}{c}{dedenés} & \multicolumn{3}{c}{dedenasei} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{denami} & \lan{denasi} & \lan{denati} & \lan{denamos} & \lan{denate} & \lan{denanti} \\
-	Imperfect & \lan{denam} & \lan{denas} & \lan{denat} & \lan{dename} & \lan{denate} & \lan{denant} \\
-	Perfect & \lan{dedenam} & \lan{dedenas} & \lan{dedenat} & \lan{dedename} & \lan{dedenate} & \lan{dedenant} \\
-	\hline
-	Present & \lan{denajém} & \lan{denajés} & \lan{denajét} & \lan{deníme} & \lan{deníte} & \lan{denínt} \\
-	Perfect & \lan{dedenajém} & \lan{dedenajés} & \lan{dedenajét} & \lan{dedeníme} & \lan{dedeníte} & \lan{dedenínt} \\
-	\hline
-	Present & - & \lan{dena} & - & - & \lan{denate} & - \\
-	Perfect & - & \lan{dedena} & - & - & \lan{dedenate} & - \\
-
-	\hline\hline
-	\multicolumn{7}{c}{MEDIOPASSIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{denamnos}} & \multicolumn{3}{c}{\lan{denamenai}} \\
-	Perfect & \multicolumn{3}{c}{\lan{dedenamnos}} & \multicolumn{3}{c}{\lan{dedenamenai}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{denar} & \lan{denatar} & \lan{denator} & \lan{denamosda} & \lan{denadave} & \lan{denantor} \\
-	Imperfect & \lan{dena} & \lan{denata} & \lan{denato} & \lan{denameda} & \lan{denadave} & \lan{denanto} \\
-	Perfect & \lan{dedena} & \lan{dedenata} & \lan{dedenato} & \lan{dedenameda} & \lan{dedenadave} & \lan{dedenanto} \\
-	\hline
-	Present & \lan{dení} & \lan{deníta} & \lan{deníto} & \lan{denímeda} & \lan{denídave} & \lan{denínto} \\
-	Perfect & \lan{dedení} & \lan{dedeníta} & \lan{dedeníto} & \lan{dedenímeda} & \lan{dedenídave} & \lan{dedenínto} \\
-	\hline
-	Present & - & \lan{denaso} & - & - & \lan{denadave} & - \\
-	Perfect & - & \lan{dedenaso} & - & - & \lan{dedenadave} & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
 
 
 to throw: jek, jeks, jekt ime, ite, int
@@ -1288,6 +1401,12 @@ A preposition accepts a noun or noun phrase.
 
 \INCOMPLETE
 
+
+\part{Syntax}
+
+\paragraph{Copula}
+The copula can be optionally omitted if it is in the present tense.
+\INCOMPLETE
 
 
 \end{document}

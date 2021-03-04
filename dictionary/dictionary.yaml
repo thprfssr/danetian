@@ -977,11 +977,11 @@
     - typ: m
       def: lake
 
-- key: luksna
-  ety: From PIE \ipa{*lówksneh₂}
+- key: Luna
+  ety: From PIE \ipa{*lówksneh₂}, with influence from Lat. \ipa{lūna}
   definitions:
     - typ: f
-      def: moon
+      def: the Moon
 
 - key: loisa
   ety: From PIE \ipa{*lóyseh₂}
@@ -3187,6 +3187,8 @@
   definitions:
     - typ: m
       def: Andrew, André, Andrés
+    - typ: f
+      def: Andrea
 
 - key: Jesus
   ety: From AG \gr{Ἰησοῦς}
@@ -5965,7 +5967,7 @@
     - typ: proadv
       def: here
 
-- key: sodín
+- key: sodínes
   ety: From PIE {*ḱo-} and Dan. \ipa{din}
   definitions:
     - typ: adv
@@ -7078,3 +7080,78 @@
   definitions:
     - typ: m
       def: Brazil
+
+- key: Marts
+  definitions:
+    - typ: m
+      def: Mars (the god)
+    - typ: m
+      def: Mars (the planet)
+
+- key: Mercurios
+  definitions:
+    - typ: m
+      def: Mercury (the god)
+    - typ: m
+      def: Mercury  (the planet)
+
+- key: Jovis
+  definitions:
+    - typ: m
+      def: Jove, Jupiter (the god)
+
+- key: Venés
+  definitions:
+    - typ: f
+      def: Venus (the goddess)
+    - typ: f
+      def: Venus (the planet)
+
+- key: Satúrnos
+  definitions:
+    - typ: m
+      def: Saturn (the god)
+    - typ: m
+      def: Saturn (the planet)
+
+- key: Sols
+  definitions:
+    - typ: m
+      def: Sun (the god)
+    - typ: m
+      def: the Sun
+
+- key: din Lunas
+  definitions:
+    - typ: m
+      def: Monday
+
+- key: din Martes
+  definitions:
+    - typ: m
+      def: Tuesday
+
+- key: din Mercuriosjo
+  definitions:
+    - typ: m
+      def: Wednesday
+
+- key: din Jovies
+  definitions:
+    - typ: m
+      def: Thursday
+
+- key: din Venesos
+  definitions:
+    - typ: m
+      def: Friday
+
+- key: din Saturnosjo
+  definitions:
+    - typ: m
+      def: Saturday
+
+- key: din Soles
+  definitions:
+    - typ: m
+      def: Sunday

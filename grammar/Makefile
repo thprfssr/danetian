@@ -1,5 +1,5 @@
 all:
-	make tables
+	#make tables
 	xelatex grammar.latex
 
 tables:

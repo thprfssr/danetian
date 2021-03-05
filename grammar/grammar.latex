@@ -1,4 +1,4 @@
-\documentclass[oneside,10pt]{book}
+\documentclass[oneside,a5paper]{book}
 \title{The Danetian Language}
 \author{Javier Castro}
 \date{\today}
@@ -44,6 +44,7 @@
 %\usepackage{crimson}
 %\usepackage{spectral}
 %\usepackage{gentium}
+\usepackage{ebgaramond}
 
 % To signal an incomplete section
 \newcommand{\INCOMPLETE}[0]{(THIS SECTION IS INCOMPLETE)}

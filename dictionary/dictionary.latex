@@ -209,7 +209,7 @@
 		\key{ana.} {\footnotesize (From PIE \ipa{*h₂en-h₂}).} prep.
 			\textbf{1.} (+loc) on.{\footnotesize \ipa{Enosmi pulnis ana enosjo kaputi}. \textit{He has hair on his haid}.}
 			\textbf{2.} (+acc) onto.
-			\textbf{3.} (+acc) to, towards.
+			\textbf{3.} (+acc) along.
 	
 
 	
@@ -290,6 +290,10 @@
 
 	
 		\key{ankos.} {\footnotesize (From PIE \ipa{*h₂énkos}).} n. curve, bend.
+	
+
+	
+		\key{ans.} {\footnotesize (Unknown).} prep. (+gen) without.
 	
 
 	
@@ -471,6 +475,10 @@
 
 	
 		\key{balnia.} {\footnotesize (From Dan. \ipa{baljo}).} f. failure, error.
+	
+
+	
+		\key{bankis.} {\footnotesize (From PG \ipa{*bankiz}).} f. bench.
 	
 
 	
@@ -946,6 +954,13 @@
 	
 
 	
+		\key{dalgos.} {\footnotesize (From PIE \ipa{*dl̥h₁gʰós}).} adj.
+			\textbf{1.} long.
+			\textbf{2.} tall.
+			\textbf{3.} far, far away.
+	
+
+	
 		\key{Daneta.} {\footnotesize (From Dan. \ipa{danu}).} f. Danetian river goddess, freed from the clutches of the water serpent.
 	
 
@@ -1143,7 +1158,7 @@
 	
 
 	
-		\key{do.} {\footnotesize (From PIE \ipa{*do}).} prep. up to, till, until.
+		\key{do.} {\footnotesize (From PIE \ipa{*do}).} prep. (+gen) up to, till, until.
 	
 
 	
@@ -1216,6 +1231,14 @@
 
 	
 		\key{dulgos.} {\footnotesize (From PG \ipa{*dulgaz}).} m. debt.
+	
+
+	
+		\key{dus-.} {\footnotesize (From PIE \ipa{*dus-}).} pref. bad.
+	
+
+	
+		\key{dusdjus.} {\footnotesize (From Dan. \ipa{dus- + -djus}).} m. bad sky, stormy sky, stormy weather.
 	
 
 	
@@ -1300,7 +1323,13 @@
 	
 
 	
-		\key{en.}  n. letter \textit{n}.
+		\key{en¹.}  prep.
+			\textbf{1.} (+loc) in.
+			\textbf{2.} (+acc) into.
+	
+
+	
+		\key{en².}  n. letter \textit{n}.
 	
 
 	
@@ -1493,10 +1522,6 @@
 	
 
 	
-		\key{fjestere.} {\footnotesize (From Dan. \ipa{fjesteros}).} adv. yesterday.
-	
-
-	
 		\key{fjesteros.} {\footnotesize (From PIE \ipa{*dʰǵʰyésteros}).} adj. pertaining to yesterday.
 	
 
@@ -1580,6 +1605,18 @@
 
 	
 		\key{furops.} {\footnotesize (From PIE \ipa{*ǵʰwer-o-h₃kʷs}).} m. wild beast.
+	
+
+	
+		\key{futi.} {\footnotesize (From PIE \ipa{*dʰéw-e-ti}).} v. to run.
+	
+
+	
+		\key{futje.} {\footnotesize (From Dan. \ipa{futjos}).} adv. fast, rapidly.
+	
+
+	
+		\key{futjos.} {\footnotesize (From Dan. \ipa{futi}).} adj. fast.
 	
 
 	
@@ -1845,7 +1882,17 @@
 	
 
 	
+		\key{igra.} {\footnotesize (From PIE \ipa{*h₂ig-réh₂}).} f. game.
+	
+
+	
 		\key{igrek.}  n. letter \textit{y}.
+	
+
+	
+		\key{igreti.} {\footnotesize (From Dan. \ipa{igra}).} v.
+			\textbf{1.} to play a game (use the accusative).
+			\textbf{2.} to play an instrument (use \ipa{ana} + the musical instrument).
 	
 
 	
@@ -1865,11 +1912,11 @@
 	
 
 	
-		\key{insjenieria.} {\footnotesize (From Fr. \ipa{ingénierie}).} f. engineering.
+		\key{insjenier.} {\footnotesize (From Fr. \ipa{ingénieur}).} m. engineer.
 	
 
 	
-		\key{insjenior.} {\footnotesize (From Fr. \ipa{ingénieur}).} m. engineer.
+		\key{insjenieria.} {\footnotesize (From Fr. \ipa{ingénierie}).} f. engineering.
 	
 
 	
@@ -1918,6 +1965,10 @@
 
 	
 		\key{itos.} {\footnotesize (From PIE \ipa{*h₁itós}).} adj. passable.
+	
+
+	
+		\key{ive.} {\footnotesize (From PIE \ipa{*(h₁)i-we}).} conj. as, like, in the same manner as.
 	
 
 	
@@ -1995,7 +2046,7 @@
 	
 
 	
-		\key{jodi.}  proadv. (relative) where.
+		\key{jodi.} {\footnotesize (From Dan. \ipa{jo- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (relative) where.
 	
 
 	
@@ -2010,7 +2061,9 @@
 	
 
 	
-		\key{joives.}  proadv. (relative) when.
+		\key{joives.} {\footnotesize (From Dan. \ipa{jo- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv.
+			\textbf{1.} (relative) when. conj.
+			\textbf{2.} when.
 	
 
 	
@@ -2050,7 +2103,9 @@
 	
 
 	
-		\key{joti.}  proadv. (relative) how much.
+		\key{joti.}  proadv.
+			\textbf{1.} (relative) how much. conj.
+			\textbf{2.} than (for making comparisons).
 	
 
 	
@@ -2358,6 +2413,12 @@
 	
 
 	
+		\key{mánjetor.} {\footnotesize (From PIE \ipa{*mn̥-yé-tor}).} v.
+			\textbf{1.} to be thinking, to ponder.
+			\textbf{2.} to think about something (use the preposition about).
+	
+
+	
 		\key{Marcos.} {\footnotesize (From Lat. \ipa{Marcus}).} m. Mark.
 	
 
@@ -2365,6 +2426,16 @@
 		\key{mardus.} {\footnotesize (From PIE \ipa{*mr̥ǵʰús}).} adj.
 			\textbf{1.} short.
 			\textbf{2.} brief.
+	
+
+	
+		\key{mardus.} {\footnotesize (From PIE \ipa{*mr̥ǵʰús}).} adj.
+			\textbf{1.} short.
+			\textbf{2.} brief.
+	
+
+	
+		\key{márjetor.} {\footnotesize (From PIE \ipa{*mr̥-yé-tor}).} v. to die.
 	
 
 	
@@ -2412,7 +2483,9 @@
 	
 
 	
-		\key{medi.} {\footnotesize (From PIE \ipa{*médʰyos}).} prep. (+ins) between, among.
+		\key{medi.} {\footnotesize (From PIE \ipa{*médʰyos}).} prep.
+			\textbf{1.} (+ins) between, among, in the middle of (stationary, answers the question "where?").
+			\textbf{2.} (+acc) between, among (with movement, answers the question "where to?").
 	
 
 	
@@ -2453,6 +2526,10 @@
 			\textbf{2.} Mercury  (the planet).
 	
 
+	
+		\key{merti.} {\footnotesize (From PIE \ipa{*mér-ti}).} v. to die.
+	
+
 	\key{mertis,}
 		\textit{marties.} {\footnotesize (From PIE \ipa{*mértis}).} f. death.
 	
@@ -2485,6 +2562,16 @@
 		\key{misdos.} {\footnotesize (From PIE \ipa{*misdʰós}).} m.
 			\textbf{1.} reward, prize.
 			\textbf{2.} wages, payment.
+	
+
+	
+		\key{mjan.} {\footnotesize (Onomatopoeia).} intj. meow.
+	
+
+	
+		\key{mjanka.} {\footnotesize (From the diminutive of Dan. \ipa{mjan}).} f.
+			\textbf{1.} gentle meow.
+			\textbf{2.} little cat, kitten.
 	
 
 	
@@ -2684,7 +2771,7 @@
 	
 
 	
-		\key{nipodi.}  proadv. (negatory) nowhere.
+		\key{nipodi.} {\footnotesize (From Dan. \ipa{nipo- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (negatory) nowhere.
 	
 
 	
@@ -2694,7 +2781,7 @@
 	
 
 	
-		\key{nipoives.}  proadv. (negatory) never.
+		\key{nipoives.} {\footnotesize (From Dan. \ipa{nipo- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (negatory) never.
 	
 
 	
@@ -3076,6 +3163,12 @@
 	
 
 	
+		\key{peri.}  prep.
+			\textbf{1.} (+gen) around.
+			\textbf{2.} (+gen) about, concerning.
+	
+
+	
 		\key{peris.} {\footnotesize (From PIE \ipa{*per-}).} f. fear.
 	
 
@@ -3238,6 +3331,10 @@
 	
 
 	
+		\key{pluti.} {\footnotesize (From PIE \ipa{*pléw-e-ti}).} v. to rain.
+	
+
+	
 		\key{plutoniom.}  n.{\footnotesize \textit{ chemistry.}} plutonium.
 	
 
@@ -3256,7 +3353,7 @@
 	
 
 	
-		\key{podi.}  proadv. (interrogative) where.
+		\key{podi.} {\footnotesize (From Dan. \ipa{po- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (interrogative) where.
 	
 
 	
@@ -3280,7 +3377,7 @@
 	
 
 	
-		\key{poives.}  proadv. (interrogative) when.
+		\key{poives.} {\footnotesize (From Dan. \ipa{po- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (interrogative) when.
 	
 
 	
@@ -3316,6 +3413,13 @@
 	
 
 	
+		\key{pos.} {\footnotesize (From PIE \ipa{*pós}).} prep.
+			\textbf{1.} (+loc) behind, at the back side of (stationary, answers the question "where?").
+			\textbf{2.} (+loc) after (temporal).
+			\textbf{3.} (+acc) behind (with movement, answers the question "where to?").
+	
+
+	
 		\key{posjolik.} {\footnotesize (From a Turkic language; compare Uzbek \ipa{podsholik}).} m. kingdom.
 	
 
@@ -3339,7 +3443,7 @@
 	
 
 	
-		\key{potodi.}  proadv. (existential) somewhere.
+		\key{potodi.} {\footnotesize (From Dan. \ipa{poto- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (existential) somewhere.
 	
 
 	
@@ -3349,7 +3453,7 @@
 	
 
 	
-		\key{potoives.}  proadv. (existential) some time, sometimes.
+		\key{potoives.} {\footnotesize (From Dan. \ipa{poto- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (existential) some time, sometimes.
 	
 
 	
@@ -3394,8 +3498,10 @@
 
 	
 		\key{pro.} {\footnotesize (From PIE \ipa{*pró}).} prep.
-			\textbf{1.} (+gen) before.
-			\textbf{2.} (+dat) on behalf of, for the sake of.
+			\textbf{1.} (+loc) in front of (spatial; stationary, answers the question "where?").
+			\textbf{2.} (+loc) before (temporal).
+			\textbf{3.} (+acc) in front of (spatial; with movement, answers the question "where to?").
+			\textbf{4.} (+dat) on behalf of, for the sake of, for the benefit of.
 	
 
 	
@@ -3408,6 +3514,12 @@
 
 	
 		\key{protactiniom.}  n.{\footnotesize \textit{ chemistry.}} protactinium.
+	
+
+	
+		\key{proti.} {\footnotesize (From PIE \ipa{*pr-ó-ti}).} prep.
+			\textbf{1.} (+gen) against.
+			\textbf{2.} (+dat) towards, in the direction of, facing towards.
 	
 
 	
@@ -3732,6 +3844,10 @@
 	
 
 	
+		\key{sédjetor.} {\footnotesize (From PIE \ipa{*sed-}).} v. to sit, to sit down.
+	
+
+	
 		\key{sedos.} {\footnotesize (From PIE \ipa{*séǵʰos}).} n. power, strength.
 	
 
@@ -3755,6 +3871,10 @@
 
 	
 		\key{semia.} {\footnotesize (From PIE \ipa{*sēmi}).} f. half.
+	
+
+	
+		\key{sénjetor.} {\footnotesize (From Dan. \ipa{senos}).} v. to get older, to grow old.
 	
 
 	
@@ -3894,11 +4014,15 @@
 	
 
 	
+		\key{so-.} {\footnotesize (From PIE \ipa{*ḱo}).} pref. here.
+	
+
+	
 		\key{socialistiskos.} {\footnotesize (From Fr. \ipa{socialiste}).} adj. socialist.
 	
 
 	
-		\key{sodi.}  proadv. (proximal) this place, here.
+		\key{sodi.} {\footnotesize (From Dan. \ipa{so- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (proximal) this place, here.
 	
 
 	
@@ -3920,7 +4044,7 @@
 	
 
 	
-		\key{soives.}  proadv. (proximal) at this time, now.
+		\key{soives.} {\footnotesize (From Dan. \ipa{so- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (proximal) at this time, now.
 	
 
 	
@@ -4162,6 +4286,10 @@
 	
 
 	
+		\key{svenati.} {\footnotesize (From PIE \ipa{*swénh₂-ti}).} v. to make a sound.
+	
+
+	
 		\key{svenis.} {\footnotesize (From Danetian \ipa{sve}).} f. image, likeness.
 	
 
@@ -4171,6 +4299,10 @@
 
 	
 		\key{svennos.} {\footnotesize (From PIE \ipa{*supnós}).} m. sleep, slumber.
+	
+
+	
+		\key{svenos.} {\footnotesize (From Dan. \ipa{svenati}).} m. sound.
 	
 
 	
@@ -4350,7 +4482,7 @@
 	
 
 	
-		\key{todi.}  proadv. (distal) that place, there.
+		\key{todi.} {\footnotesize (From Dan. \ipa{to- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (distal) that place, there.
 	
 
 	
@@ -4360,7 +4492,7 @@
 	
 
 	
-		\key{toives.}  proadv.
+		\key{toives.} {\footnotesize (From Dan. \ipa{to- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv.
 			\textbf{1.} (distal) at that time, then. conj.
 			\textbf{2.} then.
 	
@@ -4475,17 +4607,14 @@
 
 	
 		\key{úper.} {\footnotesize (From PIE \ipa{*upér}).} prep.
-			\textbf{1.} (+loc) above, over.
-			\textbf{2.} (+gen) because of.
-			\textbf{3.} (+ins) about, concerning.
-			\textbf{4.} (+acc) over, beyond.
-			\textbf{5.} (+acc) above, exceeding in quantity, upwards of.
+			\textbf{1.} (+loc) above, over, on top of (stationary, answers the question "where?").
+			\textbf{2.} (+acc) over, beyond, above (with movement, answers the question "where to?").
 	
 
 	
 		\key{upo.} {\footnotesize (From PIE \ipa{*upó}).} prep.
-			\textbf{1.} (+loc) under.
-			\textbf{2.} (+ins) according to, in accordance with.
+			\textbf{1.} (+loc) under, beneath (stationary, answers the question "where?").
+			\textbf{2.} (+acc) under, beneath (with movement, answers the question "where to?").
 	
 
 	
@@ -4694,7 +4823,7 @@
 	
 
 	
-		\key{vinó.} {\footnotesize (From PIE \ipa{*wí-noh₁}).} prep. (+ins) except.
+		\key{vinó.} {\footnotesize (From PIE \ipa{*wí-noh₁}).} prep. (+gen) except.
 	
 
 	
@@ -4709,7 +4838,7 @@
 	
 
 	
-		\key{visodi.}  proadv. (universal) everywhere.
+		\key{visodi.} {\footnotesize (From Dan. \ipa{viso- + -di}. The suffix \ipa{-di} comes from PIE \ipa{*dʰi}).} proadv. (universal) everywhere.
 	
 
 	
@@ -4717,7 +4846,7 @@
 	
 
 	
-		\key{visoives.}  proadv. (universal) at every time, always.
+		\key{visoives.} {\footnotesize (From Dan. \ipa{viso- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (universal) at every time, always.
 	
 
 	
@@ -4763,9 +4892,15 @@
 	
 
 	
-		\key{voide.} {\footnotesize (From PIE \ipa{*weyd-}).} v.
-			\textbf{1.} to see (when used in the imperfective aspect).
-			\textbf{2.} to look (when used in the perfective aspect).
+		\key{voide.} {\footnotesize (From PIE \ipa{*weyd-}).} v. to know.
+	
+
+	
+		\key{vojasj.} {\footnotesize (From Fr. \ipa{voyage}).} m. trip, voyage.
+	
+
+	
+		\key{vojasjeti.} {\footnotesize (From Dan. \ipa{vojasj}).} v. to travel, to take a trip, to go on a trip.
 	
 
 	
@@ -4840,7 +4975,7 @@
 		\key{zirconiom.}  n.{\footnotesize \textit{ chemistry.}} zirconium.
 
 \onecolumn
-\section*{Senti soi 1133 verdóm!}
+\section*{Senti soi 1161 verdóm!}
 
 \end{document}
 

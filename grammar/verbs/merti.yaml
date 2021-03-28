@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - mermi
+      - mersi
+      - merti
+      - marmos
+      - marte
+      - marenti
+    imperfect:
+      - meram
+      - mers
+      - mert
+      - marme
+      - marte
+      - marant
+    perfect:
+      - memeram
+      - memers
+      - memert
+      - memarme
+      - memarte
+      - memarant
+  subjunctive:
+    present:
+      - merjém
+      - merjés
+      - merjét
+      - maríme
+      - maríte
+      - marínt
+    perfect:
+      - memerjém
+      - memerjés
+      - memerjét
+      - memaríme
+      - memaríte
+      - memarínt
+  imperative:
+    present:
+      - mer
+      - marte
+    perfect:
+      - mémer
+      - memarte
+  participle:
+    present: meronts
+    perfect: memarvés
+  infinitive:
+    present: mertin
+    perfect: memartin
+mediopassive:
+  indicative:
+    present:
+      - mérar
+      - mértar
+      - mértor
+      - mermosda
+      - merdave
+      - mérantor
+    imperfect:
+      - mera
+      - merta
+      - merto
+      - mermeda
+      - merdave
+      - meranto
+    perfect:
+      - memera
+      - memerta
+      - memerto
+      - memermeda
+      - memerdave
+      - memeranto
+  subjunctive:
+    present:
+      - merí
+      - meríta
+      - meríto
+      - merimeda
+      - meridave
+      - merínto
+    perfect:
+      - memerí
+      - memeríta
+      - memeríto
+      - memerimeda
+      - memeridave
+      - memerínto
+  imperative:
+    present:
+      - merso
+      - merdave
+    perfect:
+      - memerso
+      - memerdave
+  participle:
+    present: mermanos
+    perfect: memermanos
+  infinitive:
+    present: mermin
+    perfect: memermin

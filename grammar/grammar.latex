@@ -1,11 +1,11 @@
 \documentclass[oneside,a5paper]{book}
-\title{The Danetian Language}
+\title{\Huge \textbf{The Danetian Language}}
 \author{Javier Castro}
 \date{\today}
 
-% Number each paragraph in the style of the Real Academia Española
-\renewcommand{\theparagraph}{\S\arabic{paragraph}}
-\setcounter{secnumdepth}{4}
+% DOCUMENT MARGINS %
+%\usepackage[top=4em,bottom=5em,left=3em,right=3em]{geometry}
+\usepackage{geometry}
 
 % GENERAL SETUP %
 \usepackage{multicol} % For multi-column in-text
@@ -14,7 +14,7 @@
 \usepackage{tabularx} % For fixed width tables
 \usepackage{enumerate} % For Roman-numeral enumerated lists
 \usepackage{microtype} % Supposedly improves spacing
-%\usepackage{hyperref} % For in-document hyperlinks
+\usepackage{hyperref} % For in-document hyperlinks
 \newcommand{\qt}[1]{«#1»} % French-style quotation marks
 
 % For centered multicolumns inside the tabularx environment
@@ -36,34 +36,33 @@
 %\newcommand{\ipa}[1]{#1}
 
 % SET MAIN FONT %
-%\usepackage{libertinus}
-%\setmainfont{CharisSIL}
-%\setmainfont{DoulosSIL}
-%\setmainfont{Noto Sans}
-%\setmainfont{Noto Serif}
-%\usepackage{crimson}
-%\usepackage{spectral}
-%\usepackage{gentium}
 \usepackage{ebgaramond}
 
 % To signal an incomplete section
 \newcommand{\INCOMPLETE}[0]{(THIS SECTION IS INCOMPLETE)}
 
 % Define linguistic abbreviations
-\usepackage{leipzig}
+\usepackage[mcolblock]{leipzig}
+\makeglossaries
+\usepackage{gb4e} % For typesetting interlinear glosses
 \newleipzig{Num}{num}{numeral}
 \newleipzig{Int}{int}{interrogative}
 \newleipzig{Uni}{uni}{universal}
 \newleipzig{Exist}{exist}{existential}
 \newleipzig{Impf}{impf}{imperfect}
 
+
 \begin{document}
+\frontmatter
 \maketitle
+\tableofcontents
+\printglossaries
+\mainmatter
+
+
 
 
 \chapter*{Introduction}
-
-\paragraph{Background}
 
 The Danetian language is an Indo-European constructed language. I started
 this project in 2016, when I decided to take the Proto-Indo-European lexicon
@@ -112,12 +111,11 @@ with the \textit{centum} languages.
 \INCOMPLETE
 
 
-
 \part{Phonology}
 
-\section*{Types of sounds}
+\chapter{Types of sounds}
 
-\paragraph{Consonants}
+\section{Consonants}
 
 Danetian has 20 consonant phonemes: six plosives, six fricatives, two
 affricates, and six sonorants. These phonemes are organized in the table
@@ -138,9 +136,37 @@ below.
 \end{tabular}
 \end{center}
 
-\paragraph{Vowels}
+The main dialect of Danetian has several allophonical variations for
+consonants, summarized below. However, the reader is encouraged to speak the
+language with their own regional accent, and to pronounce words in whichever
+way feels more natural to them. The points below are intended as a guideline,
+and are not strictly authoritative.
+\begin{itemize}
+	\item Whenver \ipa{/s/} appears between vowels or before a voiced
+		consonant, it is pronounced as \ipa{[z]}:
+		\subitem \lan{nefesos} \ipa{['nɛ.fɛ.zos]} \qt{of the cloud}
+		\subitem \lan{fesor} \ipa{[fɛ'zor]} \qt{hand}
+		\subitem \lan{tusontis} \ipa{['tu.zon.tis]} \qt{thousand}
+		\subitem \lan{esvos} \ipa{['ɛz.vos]} \qt{horse}
+		\subitem \lan{donvos} \ipa{['don.vos]} \qt{number}
+	\item \ipa{/r/} is pronounced as \ipa{[r]} by default, but as \ipa{[ɾ]}
+		between vowels:
+		\subitem \lan{pater} \ipa{[pa'tɛr]} \qt{father}
+		\subitem \lan{kruros} \ipa{['kru.ɾos]} \qt{bloody}
+	\item \ipa{/l/} is pronounced as \ipa{[l]} by default, but as \ipa{[ɫ]}
+		at the end of a word, before a consonant, or before \ipa{/o/}
+		or \ipa{/u/}:
+		\subitem \lan{lana} \ipa{['la.na]} \qt{wool},
+		\subitem \lan{luvos} \ipa{['ɫu.vos]} \qt{love},
+		\subitem \lan{lokus} \ipa{['ɫo.kus]} \qt{lake},
+		\subitem \lan{Michael} \ipa{[mi.xa'ɛɫ]} \qt{Michael},
+		\subitem \lan{Vilmos} \ipa{['viɫ.mos]} \qt{William}.
+	\item \ipa{/x/} is pronounced as \ipa{[x~h]}.
+\end{itemize}
 
-Danetian has the very common five-vowel system, summarized in the table below.
+\section{Vowels}
+
+Like many other languages around the world, Danetian has five vowel phonemes.
 There is no vowel length distinction.
 
 \begin{center}
@@ -156,7 +182,7 @@ There is no vowel length distinction.
 \end{center}
 
 The vowels \ipa{/a~e~o/} can also be combined with \ipa{/i~u/} to form the
-following five falling diphthongs:
+following falling diphthongs:
 
 \begin{center}
 \begin{tabular}{c|cc}
@@ -170,47 +196,26 @@ following five falling diphthongs:
 \end{tabular}
 \end{center}
 
-\paragraph{Allophones}
-
-Each phoneme can have several allophones depending on the surrounding context.
-The points below summarize how the phonemes are pronounced in the standard
-dialect of Danetian. But of course, this is not the only way to pronounce the
-language, since there are other dialects. Thus, the reader is encouraged to
-pronounce the language in whichever way sounds most beautiful to them.
+In the main dialect of Danetian, vowels undergo a couple of allophonical
+variations. Once again, each speaker will have their own unique pronounciation
+based on their regional accent, so the following points are merely a guideline.
 \begin{itemize}
-	\item Whenver \ipa{/s/} appears between vowels or before a voiced
-		consonant, it is pronounced as \ipa{[z]}. Otherwise, it is
-		pronounced as \ipa{[s]} by default. Compare
-		\lan{nefesos} \ipa{['nɛ.fɛ.zos]} \qt{of the cloud},
-		\lan{fesor} \ipa{[fɛ'zor]} \qt{hand},
-		\lan{tusontis} \ipa{['tu.zon.tis]} \qt{thousand},
-		\lan{esvos} \ipa{['ɛz.vos]} \qt{horse},
-		\lan{donvos} \ipa{['don.vos]} \qt{number}.
-	\item \ipa{/r/} is pronounced as \ipa{[r]} by default, but as \ipa{[ɾ]}
-		between vowels. Compare
-		\lan{pater} \ipa{[pa'tɛr]} \qt{father},
-		\lan{kruros} \ipa{['kru.ɾos]} \qt{bloody}.
-	\item \ipa{/l/} is pronounced as \ipa{[l]} by default, but as \ipa{[ɫ]}
-		at the end of a word, before a consonant, or before \ipa{/o/}
-		or \ipa{/u/}. Compare
-		\lan{lana} \ipa{['la.na]} \qt{wool},
-		\lan{luvos} \ipa{['ɫu.vos]} \qt{love},
-		\lan{lokus} \ipa{['ɫo.kus]} \qt{lake},
-		\lan{Michael} \ipa{[mi.xa'ɛɫ]} \qt{Michael},
-		\lan{Vilmos} \ipa{['viɫ.mos]} \qt{William}.
-	\item \ipa{/x/} is pronounced as \ipa{[x~h]}.
 	\item \ipa{/e/} is pronounced as \ipa{[ɛ]} by default, but as \ipa{[e]}
 		whenever the following syllable contains \ipa{/i/} or
-		\ipa{/j/}. Compare
-		\lan{preseti} \ipa{['prɛ.ze.ti]} \qt{he asks},
-		\lan{kreva} \ipa{['krɛ.va]} \qt{raw blood},
-		\lan{drageti} \ipa{['dra.ge.ti]} \qt{he drags}.
+		\ipa{/j/}:
+		\subitem \lan{preseti} \ipa{['prɛ.ze.ti]} \qt{he asks}
+		\subitem \lan{kreva} \ipa{['krɛ.va]} \qt{raw blood}
+		\subitem \lan{drageti} \ipa{['dra.ge.ti]} \qt{he drags}
 	\item \ipa{/o/} is always pronounced as \ipa{[o]}.
 \end{itemize}
 
-\section*{Orthography}
+\chapter{Syllables}
 
-\paragraph{Graphemes}
+\chapter{Stress}
+
+\chapter{Phonotactics}
+
+\chapter{Orthography}
 
 Danetian orthography uses all 26 letters of the international Latin alphabet.
 Most of the letters follow the International Phonetic Alphabet closely. The
@@ -233,7 +238,7 @@ exceptions are summarized in the table below, along with other remarks.
 \end{itemize}
 \end{multicols}
 
-\paragraph{Stress accent}
+\section{Orthographic rules for stress}
 
 Danetian has a stress accent, much like Modern Greek, Spanish, and Russian.
 Every word has exactly one stressed syllable, pronounced stronger than the
@@ -260,12 +265,67 @@ The orthographic rules for denoting stress are the following:
 \INCOMPLETE
 
 
+
+\chapter{Writing system}
+
+Danetian orthography makes the language look just like any other European
+language. The writing system uses the 26 letters of the standard Latin
+alphabet, along with the accute accent (\lan{áéíóúý}) and a couple of
+digraphs.
+
+\section{Letters}
+
+Most letters in the Danetian alphabet represent a single sound. The table
+below sumarizes the names of every letter, and their phonemic value.
+
+\begin{center}
+\begin{tabular}{c|cc}
+	\toprule
+	letter & name & sound \\
+	\midrule
+	a & \lan{a} & \ipa{/a/} \\
+	b & \lan{b} & \ipa{/b/} \\
+	c & \lan{ce} & \ipa{/k/} \\
+	d & \lan{de} & \ipa{/d/} \\
+	e & \lan{e} & \ipa{/e/} \\
+	f & \lan{ef} & \ipa{/f/} \\
+	g & \lan{ge} & \ipa{/g/} \\
+	h & \lan{hasj} & \ipa{/x/} \\
+	i & \lan{i} & \ipa{/i/} \\
+	j & \lan{jota} & \ipa{/j/} \\
+	k & \lan{ka} & \ipa{/k/} \\
+	l & \lan{el} & \ipa{/l/} \\
+	m & \lan{em} & \ipa{/m/} \\
+	n & \lan{en} & \ipa{/n/} \\
+	o & \lan{o} & \ipa{/o/} \\
+	p & \lan{pe} & \ipa{/p/} \\
+	q & \lan{qu} & \ipa{/k/} \\
+	r & \lan{er} & \ipa{/r/} \\
+	s & \lan{es} & \ipa{/s/} \\
+	t & \lan{te} & \ipa{/t/} \\
+	u & \lan{u} & \ipa{/u/} \\
+	v & \lan{ve} & \ipa{/v/} \\
+	w & \lan{dublevé} & \ipa{/v/} \\
+	x & \lan{ix} & \ipa{/s/, /ks/} \\
+	y & \lan{igrek} & \ipa{/i/, /j/} \\
+	z & \lan{zeta} & \ipa{/z/} \\
+	\bottomrule
+\end{tabular}
+\end{center}
+
+The letter \ipa{⟨c⟩} always sounds like a hard \ipa{/k/}, and
+is never palatalized as it is in other European languages. The letter
+\ipa{⟨x⟩} sounds like /s/ at the beginning of a word (usually Greek loans).
+The letter \ipa{⟨y⟩} can take on a vocalic or consonantal value, depending on
+context, but it's very intuitive to figure out which one is the case.
+
+
 \part{Morphology}
 
-%\newpage
-\section*{Nouns}
+\chapter{Nominal Morphology}
 
-\paragraph{General properties}
+\section{General properties}
+
 Nouns inflect according to three genders (\textit{masculine},
 \textit{feminine}, and \textit{neuter}), two
 numbers (\textit{singular} and \textit{plural}), and seven cases
@@ -275,9 +335,8 @@ and \textit{instrumental}). However, gender is a property that is inherent
 to a noun. Therefore, an inflection table for a noun should have $2\times 7$
 entries.
 
-\paragraph{Case}
+\section{Strong and weak cases}
 
-\paragraph{Strong and weak cases}
 The seven cases can be divided into two types: the strong cases ({\Nom} and
 \Acc), and the weak cases (\Gen, \Abl, \Dat, \Loc, and \Ins). There are two
 main reasons for this.
@@ -314,7 +373,7 @@ main reasons for this.
 \end{enumerate}
 
 
-\paragraph{Inflection classes}
+\section{Inflection classes}
 By examining how each noun inflects, we can come up with several broad
 categories:
 \begin{multicols}{2}
@@ -336,7 +395,7 @@ declension} (\textbf{I}), \textit{second declension} (\textbf{II}), and
 \textit{third declension} (\textbf{III}). As can be seen from the list above,
 the third declension contains many subcategories.
 
-\paragraph{\lan{a}-stem nouns}
+\subsection{\lan{a}-stem nouns}
 
 Another of the biggest classes of nouns are the \lan{a}-stems. The vast
 majority of these are feminine, but there are some masculines here and there.
@@ -376,7 +435,7 @@ represent them all.
 \end{tabular}
 \end{center}
 
-\paragraph{\lan{o}-stem nouns}
+\subsection{\lan{o}-stem nouns}
 
 One of the biggest classes of nouns are the \lan{o}-stem nouns. The vast
 majority of nouns in this class are masculine and neuter, but there are a few
@@ -443,7 +502,7 @@ role models for all the \lan{o}-stems.
 
 
 
-\paragraph{\lan{i}-stem nouns}
+\subsection{\lan{i}-stem nouns}
 
 The \lan{i}-stem nouns include both masculine and feminine nouns, and exactly
 one neuter noun. Many nouns in this class have one stem for the strong cases
@@ -533,7 +592,7 @@ between the stem and the ending. The inflection table is shown below.
 The inflection tables for all irregular nouns can be found in
 \ref{sec:irregular-nouns}.
 
-\paragraph{\lan{u}-stem nouns}
+\subsection{\lan{u}-stem nouns}
 
 The \lan{u}-stem nouns include nouns from all three genders. Since this class
 is a relic from PIE, there are relatively many irregular nouns here. Some
@@ -591,7 +650,7 @@ the masculine and feminine nouns, and one for the neuters.
 All the irregular nouns can be found in the tables in
 \ref{sec:irregular-nouns}.
 
-\paragraph{\lan{es}-stem nouns}
+\subsection{\lan{es}-stem nouns}
 
 The class of \lan{es}-stem nouns includes all three genders. All of these nouns
 are regular. Some familiar examples are:
@@ -644,7 +703,7 @@ the neuters.
 \end{tabular}
 \end{center}
 
-\paragraph{\lan{en}-stem nouns}
+\subsection{\lan{en}-stem nouns}
 
 The \lan{en}-stem nouns are all neuter, and most of them are regular. Some
 common examples are:
@@ -681,7 +740,7 @@ mind that there may or may not be a change of stem.
 \end{tabular}
 \end{center}
 
-\paragraph{Liquid-stem nouns}
+\subsection{Liquid-stem nouns}
 
 The liquid consonants are \lan{l} and \lan{r}. If the {\Nom-\Sg} of a noun ends
 in a liquid consonant, then it belongs to the class of liquid-stem nouns. This
@@ -727,7 +786,7 @@ liquid-stem nouns to serve as a role model for the rest.
 \end{tabular}
 \end{center}
 
-\paragraph{Fleeting \lan{s} nouns}
+\subsection{Fleeting \lan{s} nouns}
 
 There are some nouns that end in \lan{-s} in the {\Nom-\Sg}, but this \lan{-s}
 gets dropped in all other inflections. This is called the fleeting \lan{s}.
@@ -783,7 +842,7 @@ represent the masculines and feminines, and the other to represent the neuters.
 \end{tabular}
 \end{center}
 
-\paragraph{Consonant-stem nouns}
+\subsection{Consonant-stem nouns}
 
 If a noun doesn't fall into any of the categories mentioned above, then we can
 usually take the stem and just append the inflectional endings directly to it.
@@ -818,48 +877,118 @@ fleeting \lan{s} nouns.
 \end{tabular}
 \end{center}
 
-\paragraph{Irregular nouns}
+\subsection{Irregular nouns}
 \label{sec:irregular-nouns}
 
 \INCOMPLETE
 
 
-\section*{Adjectives}
+\section{Adjectives}
 \INCOMPLETE
 
 
-\section*{Numerals}
+\chapter{Numerals}
 
-\paragraph{One}
+\section{Cardinals}
 
-The numeral for $1$ is \lan{oinos}, and it can be singular or plural. It
-inflects just like a regular adjective.
+Cardinals are used for counting things: \textit{one}, \textit{two},
+\textit{three}, \textit{four}... They can be simple, like \textit{twenty},
+or compound, like \textit{four hundred}. A cardinal number governs a noun or
+a noun phrase, forming a numeral phrase as a whole.
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{trifi}
+	\lan{berdantifi}
+	\lan{virois} \\
+	three-{\Ins} tall-{\Ins}-{\Pl} men-{\Ins}-{\Pl} \\
+	\glt \qt{with the three tall men}
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{nevandsont}
+	\lan{pempe}
+	\lan{thesióm}
+	\lan{Martines}
+	\lan{Lutheres} \\
+	ninety five theses-{\Gen}-{\Pl} Martin-{\Gen} Luther-{\Gen} \\
+	\glt \qt{the ninety five theses of Martin Luther}
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{tusontis}
+	\lan{petvóres}
+	\lan{satones}
+	\lan{octodesam}
+	\lan{pavenjóm}
+	\lan{dinóm}
+	\lan{i}
+	\lan{neptóm}
+	\lan{Medanosjo}
+	\lan{Patriotiskosjo}
+	\lan{Urusjes} \\
+	thousand four hundred eighteen fiery-{\Gen}-{\Pl}
+	days-{\Gen}-{\Pl} and nights-{\Gen}-{\Pl}
+	Great-{\Gen} Patriotic-{\Gen} War-{\Gen} \\
+	\glt \qt{one thousand four hundred and eighteen fiery days and nights
+	of the Great Patriotic War}
+\end{exe}
+
+\subsection{One}
+\label{sec:one}
+
+The numeral for $1$ is \lan{oinos}, and it is the only cardinal that can be
+both singular and plural. It inflects just like a regular adjective.
 
 \begin{center}
-\begin{tabular}{l|lll|lll}
-	\hline\hline
-	~ & \M-\Sg & \F-\Sg & \N-\Sg & \M-\Pl & \F-\Pl & \N-\Pl \\
-	\hline
-	\Nom & \lan{oinos} & \lan{oina} & \lan{oinom} & \lan{oinoi} & \lan{oinai} & \lan{oina} \\
-	\Acc & \lan{oinom} & \lan{oinam} & \lan{oinom} & \lan{oinons} & \lan{oinans} & \lan{oina} \\
-	\Gen & \lan{oinosjo} & \lan{oinas} & \lan{oinosjo} & \lan{oinóm} & \lan{oinóm} & \lan{oinóm} \\
-	\Abl & \lan{oinad} & \lan{oinas} & \lan{oinad} & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
-	\Dat & \lan{oinoi} & \lan{oinai} & \lan{oinoi} & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
-	\Loc & \lan{oini} & \lan{oini} & \lan{oini} & \lan{oinosu} & \lan{oinasu} & \lan{oinosu} \\
-	\Ins & \lan{oine} & \lan{oine} & \lan{oine} & \lan{oinois} & \lan{oinafi} & \lan{oinois} \\
-	\hline\hline
+\begin{tabular}{l|lll}
+	\toprule
+	\multicolumn{4}{c}{Singular} \\
+	\toprule
+	~ & \M & \F & \N \\
+	\midrule
+	\Nom & \lan{oinos} & \lan{oina} & \lan{oinom} \\
+	\Acc & \lan{oinom} & \lan{oinam} & \lan{oinom} \\
+	\Gen & \lan{oinosjo} & \lan{oinas} & \lan{oinosjo} \\
+	\Abl & \lan{oinad} & \lan{oinas} & \lan{oinad} \\
+	\Dat & \lan{oinoi} & \lan{oinai} & \lan{oinoi} \\
+	\Loc & \lan{oini} & \lan{oini} & \lan{oini} \\
+	\Ins & \lan{oine} & \lan{oine} & \lan{oine} \\
+	\toprule
+	\multicolumn{4}{c}{Plural} \\
+	\toprule
+	~ & \M & \F & \N \\
+	\midrule
+	\Nom & \lan{oinoi} & \lan{oinai} & \lan{oina} \\
+	\Acc & \lan{oinons} & \lan{oinans} & \lan{oina} \\
+	\Gen & \lan{oinóm} & \lan{oinóm} & \lan{oinóm} \\
+	\Abl & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
+	\Dat & \lan{oinomos} & \lan{oinamos} & \lan{oinomos} \\
+	\Loc & \lan{oinosu} & \lan{oinasu} & \lan{oinosu} \\
+	\Ins & \lan{oinois} & \lan{oinafi} & \lan{oinois} \\
+	\bottomrule
 \end{tabular}
 \end{center}
 
+The cardinal \lan{oinos}, like adjectives, must always agree with the gender,
+number, and case of the noun phrase that it governs.
 
-\paragraph{Two, three, and four}
+\subsection{Two, three, and four}
+\label{sec:two-three-and-four}
 
-The numerals for $2$, $3$, and $4$ are \lan{dvo}, \lan{tres}, and
+The cardinals for $2$, $3$, and $4$ are \lan{dvo}, \lan{tres}, and
 \lan{petvóres}, respectively. They are all similar because they all inflect
 according to the three genders, and they're all inherently plural.
 
 \begin{center}
 \begin{tabular}{l|lll}
+	\toprule
+	\multicolumn{4}{c}{Two} \\
 	\toprule
 	~ & \M & \F & \N \\
 	\midrule
@@ -870,12 +999,8 @@ according to the three genders, and they're all inherently plural.
 	\Dat & \lan{dvamos} & \lan{dvamos} & \lan{dvamos} \\
 	\Loc & \lan{dvasu} & \lan{dvasu} & \lan{dvasu} \\
 	\Ins & \lan{dvafi} & \lan{dvafi} & \lan{dvafi} \\
-	\bottomrule
-\end{tabular}
-\end{center}
-
-\begin{center}
-\begin{tabular}{l|lll}
+	\toprule
+	\multicolumn{4}{c}{Three} \\
 	\toprule
 	~ & \M & \F & \N \\
 	\midrule
@@ -886,12 +1011,8 @@ according to the three genders, and they're all inherently plural.
 	\Dat & \lan{trimos} & \lan{tisarmos} & \lan{trimos} \\
 	\Loc & \lan{trisu} & \lan{tisarsu} & \lan{trisu} \\
 	\Ins & \lan{trifi} & \lan{tisarfi} & \lan{trifi} \\
-	\bottomrule
-\end{tabular}
-\end{center}
-
-\begin{center}
-\begin{tabular}{l|lll}
+	\toprule
+	\multicolumn{4}{c}{Four} \\
 	\toprule
 	~ & \M & \F & \N \\
 	\midrule
@@ -906,12 +1027,21 @@ according to the three genders, and they're all inherently plural.
 \end{tabular}
 \end{center}
 
+Since these three cardinals are inherently plural, the noun phrase that they
+govern must also be plural. Moreover, these three cardinals must agree with
+the case of their noun phrase.
 
-\paragraph{Five to nineteen}
-The numerals five, six, seven, eight, nine, and ten inflect according to
-case, but not gender.
+\subsection{Five to nineteen}
+\label{sec:five-to-nineteen}
+
+The cardinals $5-19$ inflect according to case, but not gender.
+Moreover, they're all inherently plural, so the noun phrase that they govern
+must also be plural. However, they may not necessarily agree with the case of
+the noun phrase. Case agreement follows a simple set of rules, discussed in
+section \ref{sec:case-agreement-for-simple-cardinals}.
 
 \begin{center}
+\footnotesize
 \begin{tabular}{l|llllll}
 	\toprule
 	~ & five & six & seven & eight & nine & ten \\
@@ -942,7 +1072,8 @@ case, but not gender.
 \end{tabular}
 \end{center}
 
-The numerals eleven to nineteen inflect just like \textit{desam}:
+The cardinals $11-19$ inflect just like \textit{desam}, so it is not
+necessary to show their inflection tables.
 \begin{multicols}{2}
 \begin{itemize}
 	\item \lan{oinodesam} (\Num): eleven
@@ -957,9 +1088,13 @@ The numerals eleven to nineteen inflect just like \textit{desam}:
 \end{itemize}
 \end{multicols}
 
-\paragraph{Twenty and beyond}
+\subsection{Simple cardinals beyond twenty}
+\label{sec:simple-cardinals-beyond-twenty}
 
-Every other numeral inflects like a typical noun.
+Every simple cardinal $20$ and above inflects like any Danetian noun. They're
+all inherently plural, so the noun phrase that they govern must also be in the
+plural. However, they may not necessarily agree in case; the case agreement
+rules are discussed in section \ref{sec:case-agreement-for-simple-cardinals}.
 \begin{multicols}{2}
 \begin{itemize}
 	\item \lan{vidsant} (\Num): twenty
@@ -975,34 +1110,76 @@ Every other numeral inflects like a typical noun.
 \end{itemize}
 \end{multicols}
 
-The numerals from twenty to ninety inflect like a consonantal-stem noun, and
-they always remain in the singular: \lan{svedsont \~ svedsontam \~ svedsonte}.
+The simple cardinals between $20$ and $90$ inflect like a consonantal-stem
+noun, with the caveat that they're always in the singular.
 The numerals \lan{satón} and \lan{tusontis} inflect like a consonantal-stem and
-\lan{i}-stem noun, respectively, but they can be either singular or plural.
+\lan{i}-stem noun, respectively, and they can be either singular or plural.
 
-\paragraph{Complement of a numeral}
+\section{Case agreement for simple cardinals}
+\label{sec:case-agreement-for-simple-cardinals}
 
-A numeral can describe a noun, just like an adjective would:
-\lan{dva benas} (two women), \lan{trins sjarans} (three-{\Acc} cities-{\Acc}),
-\lan{svekamos viróm} (six-{\Abl} men-{\Abl}). A numeral and its complement noun
-form a noun phrase together. The numeral should agree with the gender of the
-its complement noun. However, the case of this noun does not necessarily have
-to agree with the case of the numeral. The case of the noun is determined by
-these rules:
-\begin{itemize}
-	\item The case of the whole noun phrase is determined by the case
-		of the numeral.
-	\item For the numerals \lan{oinos}, \lan{dvo}, \lan{tres}, and
-		\lan{petvores}, the complement noun should agree both in case
-		and number.
-	\item For every other numeral, if the case of the noun phrase is
-		either nominative or accusative, the noun should be inflected
-		in the genitive plural.
-	\item Otherwise, the noun and the numeral should be in full agreement
-		in both case and number.
-\end{itemize}
+As we saw in sections \ref{sec:one} and \ref{sec:two-three-and-four}, the
+cardinals $1-4$ must agree with the gender, number, and case of the noun phrase
+that they govern. Of course, the numerals $2-4$ are inherently plural, so the
+noun phrase must be cast into the plural.
 
-Some examples will help clarify this.
+However, the simple cardinals greater than or equal to $5$ follow a slightly
+more complicated set of rules:
+\begin{enumerate}[i]
+	\item The case of the cardinal determines the case of the entire
+		numeral phrase.
+	\item If we wish to inflect the numeral phrase into one of the
+		strong cases ({\Nom} and {\Acc}), then the noun phrase
+		must be inflected in the genitive plural.
+
+		\begin{exe}
+			\ex
+			\gll
+			\lan{pempe}
+			\lan{viróm}
+			\lan{i}
+			\lan{benóm} \\
+			five-{\Nom} men-{\Gen}-{\Pl} and women-{\Gen}-{\Pl} \\
+			\glt \qt{five men and women}
+		\end{exe}
+
+		\begin{exe}
+			\ex
+			\gll
+			\lan{tusontim}
+			\lan{dranóm}
+			\lan{sales} \\
+			thousand-{\Acc} grains-{\Gen}-{\Pl}
+			of-salt-{\Gen}-{\Sg} \\
+			\glt \qt{one thousand grains of salt}
+		\end{exe}
+
+	\item If we wish to inflect the numeral phrase into one of the weak
+		cases ({\Gen}, {\Abl}, {\Dat}, {\Loc}, {\Ins}), then the noun
+		phrase also agrees with that case.
+
+		\begin{exe}
+			\ex
+			\gll
+			\lan{som}
+			\lan{petvardsonte}
+			\lan{virois} \\
+			with forty-{\Ins} men-{\Ins}-{\Pl} \\
+			\glt with the forty men
+		\end{exe}
+
+		\begin{exe}
+			\ex
+			\gll
+			\lan{apo}
+			\lan{oktomos}
+			\lan{stadimos} \\
+			from eight-{\Abl} locations-{\Abl}-{\Pl} \\
+			\glt from eight locations
+		\end{exe}
+\end{enumerate}
+
+A brief table should illustrate these simple rules.
 
 \begin{center}
 \begin{tabular}{l|lll}
@@ -1027,7 +1204,7 @@ Some examples will help clarify this.
 \end{tabular}
 \end{center}
 
-\paragraph{Compound numerals}
+\section{Compound numerals}
 
 Several simple numerals can be arranged to form a compound numeral. In English,
 an example of this would be \textit{sixty nine}, or \textit{four hundred and
@@ -1058,9 +1235,14 @@ twenty}. We can also do this in Danetian:
 \end{itemize}
 \end{multicols}
 
-\section*{Pronouns}
+Notice that a numeral can govern another numeral, as in \textit{two thousand}.
+In this case, the subordinate numeral follows the case agreement rules
+discussed in section \ref{sec:case-agreement-for-simple-cardinals}. The
+gender of this subordinate numeral is assumed to be masculine.
 
-\paragraph{Personal pronouns}
+\chapter{Pronouns and pro-adverbs}
+
+\section{Personal pronouns}
 The personal pronouns are classified according to three persons
 (\textit{first}, \textit{second}, and \textit{third}), and two numbers
 (\textit{singular} and \textit{plural}). The first and second person pronouns
@@ -1098,40 +1280,38 @@ also a reflexive pronoun, which does not inflect by number.
 \end{tabular}
 \end{center}
 
-The third person pronouns inflect as:
-
+The third person pronoun inflects according to the table below.
 \begin{center}
-\begin{tabular}{l|llllll}
+\begin{tabular}{l|lll}
 	\toprule
-	~ & {\M}-\Sg & {\F}-\Sg & {\N}-\Sg & {\M}-\Pl & {\F}-\Pl & {\N}-\Pl \\
+	\multicolumn{4}{c}{Singular} \\
+	\toprule
+	~ & \M & \F & \N \\
 	\midrule
-
-	\Nom & \lan{eno} & \lan{ena} & \lan{enod}
-	& \lan{enoi} & \lan{enai} & \lan{ena} \\
-
-	\Acc & \lan{enom} & \lan{enam} & \lan{enod}
-	& \lan{enons} & \lan{enans} & \lan{ena} \\
-
-	\Gen & \lan{enosjo} & \lan{enosjas} & \lan{enosjo}
-	& \lan{enosóm} & \lan{enasóm} & \lan{enosóm} \\
-
-	\Abl & \lan{enosmad} & \lan{enosjas} & \lan{enosmad}
-	& \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
-
-	\Dat & \lan{enosmi} & \lan{enosjai} & \lan{enosmi}
-	& \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
-
-	\Loc & \lan{enosmi} & \lan{enosi} & \lan{enosmi}
-	& \lan{enoisu} & \lan{enasu} & \lan{enoisu} \\
-
-	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme}
-	& \lan{enois} & \lan{enafi} & \lan{enois} \\
-
+	\Nom & \lan{eno} & \lan{ena} & \lan{enod} \\
+	\Acc & \lan{enom} & \lan{enam} & \lan{enod} \\
+	\Gen & \lan{enosjo} & \lan{enosjas} & \lan{enosjo} \\
+	\Abl & \lan{enosmad} & \lan{enosjas} & \lan{enosmad} \\
+	\Dat & \lan{enosmoi} & \lan{enosjai} & \lan{enosmoi} \\
+	\Loc & \lan{enosmi} & \lan{enosji} & \lan{enosmi} \\
+	\Ins & \lan{enosme} & \lan{enosje} & \lan{enosme} \\
+	\toprule
+	\multicolumn{4}{c}{Plural} \\
+	\toprule
+	~ & \M & \F & \N \\
+	\midrule
+	\Nom & \lan{enoi} & \lan{enai} & \lan{ena} \\
+	\Acc & \lan{enons} & \lan{enans} & \lan{ena} \\
+	\Gen & \lan{enosóm} & \lan{enasóm} & \lan{enosóm} \\
+	\Abl & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+	\Dat & \lan{enoimos} & \lan{enamos} & \lan{enoimos} \\
+	\Loc & \lan{enoisu} & \lan{enasu} & \lan{enoisu} \\
+	\Ins & \lan{enois} & \lan{enafi} & \lan{enois} \\
 	\bottomrule
 \end{tabular}
 \end{center}
 
-\paragraph{Possessive pronouns}
+\section{Possessive pronouns}
 
 The possessive pronouns for first and second person inflect just like regular
 adjectives, so we will simply list them without showing their inflection
@@ -1150,7 +1330,7 @@ the third person personal pronouns. That is,
 \lan{enosjo, enosjas, enosjo, enosóm, enasóm, enosóm}. These possessives
 do not inflect at all.
 
-\paragraph{Pro-adverbs}
+\section{Pro-adverbs}
 
 A pro-adverb is a word that substitutes an adverb, such as
 \textit{when}, \textit{where}, \textit{somewhere}, \textit{like this}, among
@@ -1182,10 +1362,15 @@ based on the prefix attached to it:
 
 Every possible combination is shown in the following table:
 \begin{center}
+\footnotesize
 \begin{tabular}{l|llllll}
 	\toprule
-	~ & location & source & destination
-	& time & manner & amount \\
+	~ & location
+	& source
+	& destination
+	& time
+	& manner
+	& amount \\
 	\midrule
 
 	\Int & \lan{podi} & \lan{posmad} & \lan{poimos}
@@ -1229,17 +1414,17 @@ quot.
 
 For poimos: compare AG peemos (when). Even though the meanings are difrent.
 
-\paragraph{Demonstrative pronouns}
+\section{Demonstrative pronouns}
 
 \INCOMPLETE
 
-\paragraph{Interrogative and relative pronouns}
+\section{Interrogative and relative pronouns}
 
 \INCOMPLETE
 
-\section*{Verbs}
+\chapter{Verbal Morphology}
 
-\paragraph{General properties}
+\section{General properties}
 
 Verbs inflect according to the following categories:
 \begin{itemize}
@@ -1250,7 +1435,7 @@ Verbs inflect according to the following categories:
 	\item \textbf{aspect}: perfective, imperfective
 \end{itemize}
 
-\paragraph{Copula}
+\section{Copula}
 
 The copula (the verb \qt{to be}) can be omitted in the present tense.
 Its conjugation is shown in the table below.
@@ -1259,17 +1444,17 @@ Its conjugation is shown in the table below.
 
 \input{compiled/esti-be.latex}
 
-\paragraph{Thematic verbs}
+\section{Thematic verbs}
 
 \INCOMPLETE
 
 \input{compiled/vopeti.latex}
 
-\paragraph{Athematic verbs}
+\section{Athematic verbs}
 
 \INCOMPLETE
 
-\paragraph{Irregular verbs}
+\section{Irregular verbs}
 
 There are only a handful of irregular verbs in Danetian.
 
@@ -1476,27 +1661,33 @@ to throw: jek, jeks, jekt ime, ite, int
 
 
 
-\section*{Prepositions}
+\chapter{Prepositions}
 
 NOTE: Perhaps treat adverb-like prepositions as if they were prepositions with a null object
 
-\paragraph{General overview}
+\section{General overview}
 
 A preposition accepts a noun or noun phrase.
 
 \INCOMPLETE
 
+\chapter{Conjunctions}
+
+\INCOMPLETE
+
+
+\chapter{Derivational morphology}
 
 \part{Syntax}
 
-\paragraph{Standard word order}
+\section{Standard word order}
 
 Danetian is an SVO language, like many other languages in Europe. However,
 thanks to its rich inflectional morphology, this word order is fairly flexible.
 
 \INCOMPLETE
 
-\paragraph{Copula omission}
+\section{Copula omission}
 \label{sec:copula-omission}
 
 The copula can be optionally omitted if it is in the present tense.
@@ -1523,7 +1714,7 @@ the tense of the copula is understood from context.
 
 
 
-\paragraph{Possession}
+\section{Possession}
 
 Unlike most European languages, Danetian does not typically use a verb
 \textit{to have} to express possession. Rather, it uses a grammatical
@@ -1537,8 +1728,25 @@ construction: Possessor-{\Dat} copula object-{\Nom}.
 		(Catherine had three apples).
 \end{itemize}
 
-Of course, the copula can also be omitted according to the rules in
+Of course, the copula can also be omitted according to the rules in section
 \ref{sec:copula-omission}.
 
+\chapter{Time expressions}
+
+\section{Hours and minutes}
+
+\section{Days of the week}
+
+\section{Days of the month}
+
+\section{Months and years}
+
+\chapter{Negation}
+
+\chapter{Questions}
+\section{Binary questions}
+\section{Open-ended questions}
+
+\chapter{Emphasis and word order}
 
 \end{document}

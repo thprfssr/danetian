@@ -1139,6 +1139,12 @@
     - typ: n
       def: bonfire
 
+- key: pavinos
+  ety: From Dan. \ipa{pavan}
+  definitions:
+    - typ: adj
+      def: fiery
+
 - key: pesu
   parts: pasves
   ety: From PIE \ipa{*péḱu}
@@ -1303,6 +1309,12 @@
   definitions:
     - typ: n
       def: power, strength
+
+- key: anasedos
+  ety: From Dan. \ipa{ana- + sedos}
+  definitions:
+    - typ: n
+      def: victory
 
 - key: seman
   parts: samens
@@ -1957,6 +1969,23 @@
     - typ: adj
       def: young
 
+- key: junisos
+  ety: From Dan. \ipa{junsos}
+  definitions:
+    - typ: adj
+      def: younger
+
+- key: junistos
+  ety: From Dan. \ipa{junsos}
+  definitions:
+    - typ: adj
+      def: youngest
+
+- key: junisos sergjant
+  definitions:
+    - typ: m
+      def: (military) junior sergeant; corporal
+
 - key: moldus
   ety: From PIE \ipa{*(h₂)moldus}
   definitions:
@@ -2486,7 +2515,7 @@
     - typ: v
       def: to go
 
-- key: en
+- key: en²
   definitions:
     - typ: n
       def: letter \textit{n}
@@ -2495,29 +2524,27 @@
   ety: From PIE \ipa{*upó}
   definitions:
     - typ: prep
-      def: (+loc) under
+      def: (+loc) under, beneath (stationary, answers the question "where?")
     - typ: prep
-      def: (+ins) according to, in accordance with
+      def: (+acc) under, beneath (with movement, answers the question
+        "where to?")
 
 - key: úper
   ety: From PIE \ipa{*upér}
   definitions:
     - typ: prep
-      def: (+loc) above, over
+      def: (+loc) above, over, on top of (stationary, answers the question "where?")
     - typ: prep
-      def: (+gen) because of
-    - typ: prep
-      def: (+ins) about, concerning
-    - typ: prep
-      def: (+acc) over, beyond
-    - typ: prep
-      def: (+acc) above, exceeding in quantity, upwards of
+      def: (+acc) over, beyond, above (with movement, answers the question "where to?")
 
 - key: medi
   ety: From PIE \ipa{*médʰyos}
   definitions:
     - typ: prep
-      def: (+ins) between, among
+      def: (+ins) between, among, in the middle of (stationary, answers the
+        question "where?")
+    - typ: prep
+      def: (+acc) between, among (with movement, answers the question "where to?")
 
 - key: som
   ety: From PIE \ipa{*ḱóm}
@@ -2597,6 +2624,12 @@
 
 - key: enu
   ety: From PIE \ipa{*h₁(n̥)new}
+  definitions:
+    - typ: prep
+      def: (+gen) without
+
+- key: ans
+  ety: Unknown
   definitions:
     - typ: prep
       def: (+gen) without
@@ -2859,9 +2892,7 @@
   ety: From PIE \ipa{*weyd-}
   definitions:
     - typ: v
-      def: to see (when used in the imperfective aspect)
-    - typ: v
-      def: to look (when used in the perfective aspect)
+      def: to know
 
 - key: bideti
   ety: From PIE \ipa{*bʰeyd-}
@@ -2897,9 +2928,15 @@
   ety: From PIE \ipa{*pró}
   definitions:
     - typ: prep
-      def: (+gen) before
+      def: (+loc) in front of (spatial; stationary, answers the question
+        "where?")
     - typ: prep
-      def: (+dat) on behalf of, for the sake of
+      def: (+loc) before (temporal)
+    - typ: prep
+      def: (+acc) in front of (spatial; with movement, answers the question
+        "where to?")
+    - typ: prep
+      def: (+dat) on behalf of, for the sake of, for the benefit of
 
 - key: garaidos
   ety: From PG \ipa{*garaidaz}
@@ -2921,7 +2958,7 @@
   ety: From PIE \ipa{*do}
   definitions:
     - typ: prep
-      def: up to, till, until
+      def: (+gen) up to, till, until
 
 - key: stadis
   ety: From PG \ipa{*stadiz}
@@ -6990,7 +7027,7 @@
     - typ: prep
       def: (+acc) onto
     - typ: prep
-      def: (+acc) to, towards
+      def: (+acc) along
 
 - key: airi
   ety: From PIE \ipa{*h₂éyeri}
@@ -7032,15 +7069,15 @@
   ety: From PIE \ipa{*wí-noh₁}
   definitions:
     - typ: prep
-      def: (+ins) except
+      def: (+gen) except
 
-- key: insjenier
+- key: ingjenier
   ety: From Fr. \ipa{ingénieur}
   definitions:
     - typ: m
       def: engineer
 
-- key: insjenieria
+- key: ingjenieria
   ety: From Fr. \ipa{ingénierie}
   definitions:
     - typ: f
@@ -7196,6 +7233,8 @@
   definitions:
     - typ: proadv
       def: (relative) when
+    - typ: conj
+      def: when
 
 - key: josme
   definitions:
@@ -7206,6 +7245,8 @@
   definitions:
     - typ: proadv
       def: (relative) how much
+    - typ: conj
+      def: than (for making comparisons)
 
 - key: sodi
   ety: From Dan. \ipa{so- + -di}. The suffix \ipa{-di} comes from PIE
@@ -7390,5 +7431,230 @@
 - key: so-
   ety: From PIE \ipa{*ḱo}
   definitions:
-    - typ: prefix
+    - typ: pref
       def: here
+
+- key: merti
+  ety: From PIE \ipa{*mér-ti}
+  definitions:
+    - typ: v
+      def: to die
+
+- key: márjetor
+  ety: From PIE \ipa{*mr̥-yé-tor}
+  definitions:
+    - typ: v
+      def: to die
+
+- key: sénjetor
+  ety: From Dan. \ipa{senos}
+  definitions:
+    - typ: v
+      def: to get older, to grow old
+
+- key: mánjetor
+  ety: From PIE \ipa{*mn̥-yé-tor}
+  definitions:
+    - typ: v
+      def: to be thinking, to ponder
+    - typ: v
+      def: to think about something (use the preposition about)
+
+- key: sédjetor
+  ety: From PIE \ipa{*sed-}
+  definitions:
+    - typ: v
+      def: to sit, to sit down
+
+- key: bankis
+  ety: From PG \ipa{*bankiz}
+  definitions:
+    - typ: f
+      def: bench
+
+- key: vojasj
+  ety: From Fr. \ipa{voyage}
+  definitions:
+    - typ: m
+      def: trip, voyage
+
+- key: dalgos
+  ety: From PIE \ipa{*dl̥h₁gʰós}
+  definitions:
+    - typ: adj
+      def: long
+    - typ: adj
+      def: tall
+    - typ: adj
+      def: far, far away
+
+- key: dus-
+  ety: From PIE \ipa{*dus-}
+  definitions:
+    - typ: pref
+      def: bad
+
+- key: dusdjus
+  ety: From Dan. \ipa{dus- + -djus}
+  definitions:
+    - typ: m
+      def: bad sky, stormy sky, stormy weather
+
+- key: pluti
+  ety: From PIE \ipa{*pléw-e-ti}
+  definitions:
+    - typ: v
+      def: to rain
+
+- key: mardus
+  ety: From PIE \ipa{*mr̥ǵʰús}
+  definitions:
+    - typ: adj
+      def: short
+    - typ: adj
+      def: brief
+
+- key: igra
+  ety: From PIE \ipa{*h₂ig-réh₂}
+  definitions:
+    - typ: f
+      def: game
+
+- key: igreti
+  ety: From Dan. \ipa{igra}
+  definitions:
+    - typ: v
+      def: to play a game (use the accusative)
+    - typ: v
+      def: to play an instrument (use \ipa{ana} + the musical instrument)
+
+- key: mjan
+  ety: Onomatopoeia
+  definitions:
+    - typ: intj
+      def: meow
+
+- key: mjanka
+  ety: From the diminutive of Dan. \ipa{mjan}
+  definitions:
+    - typ: f
+      def: gentle meow
+    - typ: f
+      def: little cat, kitten
+
+- key: vojasjeti
+  ety: From Dan. \ipa{vojasj}
+  definitions:
+    - typ: v
+      def: to travel, to take a trip, to go on a trip
+
+- key: futi
+  ety: From PIE \ipa{*dʰéw-e-ti}
+  definitions:
+    - typ: v
+      def: to run
+
+- key: futjos
+  ety: From Dan. \ipa{futi}
+  definitions:
+    - typ: adj
+      def: fast
+
+- key: futje
+  ety: From Dan. \ipa{futjos}
+  definitions:
+    - typ: adv
+      def: fast, rapidly
+
+- key: ive
+  ety: From PIE \ipa{*(h₁)i-we}
+  definitions:
+    - typ: conj
+      def: as, like, in the same manner as
+
+- key: svenati
+  ety: From PIE \ipa{*swénh₂-ti}
+  definitions:
+    - typ: v
+      def: to make a sound
+
+- key: svenos
+  ety: From Dan. \ipa{svenati}
+  definitions:
+    - typ: m
+      def: sound
+
+- key: en¹
+  definitions:
+    - typ: prep
+      def: (+loc) in
+    - typ: prep
+      def: (+acc) into
+
+- key: peri
+  definitions:
+    - typ: prep
+      def: (+gen) around
+    - typ: prep
+      def: (+gen) about, concerning
+
+- key: proti
+  ety: From PIE \ipa{*pr-ó-ti}
+  definitions:
+    - typ: prep
+      def: (+gen) against
+    - typ: prep
+      def: (+dat) towards, in the direction of, facing towards
+
+- key: pos
+  ety: From PIE \ipa{*pós}
+  definitions:
+    - typ: prep
+      def: (+loc) behind, at the back side of (stationary, answers the question
+        "where?")
+    - typ: prep
+      def: (+loc) after (temporal)
+    - typ: prep
+      def: (+acc) behind (with movement, answers the question "where to?")
+
+- key: paráda
+  ety: From Fr. \ipa{parade}
+  definitions:
+    - typ: f
+      def: parade
+
+- key: sagjeman
+  ety: From Dan. \ipa{sagjeti}
+  definitions:
+    - typ: n
+      def: flag, banner
+
+- key: esclerier
+  ety: From Fr. \ipa{éclaireur}, with ending analogous to Dan. \ipa{ingjenier}
+  definitions:
+    - typ: m
+      def: (military) scout
+
+- key: fusilier
+  ety: From Fr. \ipa{fusilier}
+  definitions:
+    - typ: m
+      def: (military) rifleman
+
+- key: stanga
+  ety: From PG \ipa{*stangō}
+  definitions:
+    - typ: f
+      def: bar, rod, stake, pole, beam
+
+- key: enstangeti
+  ety: From Dan. \ipa{en- + stanga + -eti}
+  definitions:
+    - typ: v
+      def: to erect, to raise, to hoist
+
+- key: assot
+  ety: From Fr. \ipa{assaut}
+  definitions:
+    - typ: m
+      def: assault

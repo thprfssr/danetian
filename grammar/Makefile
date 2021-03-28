@@ -1,6 +1,8 @@
 all:
 	#make tables
 	xelatex grammar.latex
+	makeglossaries grammar
+	xelatex grammar.latex
 
 tables:
 	python parse.py verbs/vopeti.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/vopeti.latex

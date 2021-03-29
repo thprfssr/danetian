@@ -4,54 +4,8 @@
   trans: one, one, one
 
 - date: 2017-06-29
-  text: |
-    1. antiterman denot dīwos djuns pe xeθomam.
-    2. xeθōm esot ampalenos pe amplūtos. pe rebotatis esot eti werutatī
-    wodanes. pe numan dīwosjo īot eti wodan.
-    3. pe ūkot dīwos jom «denoso pitis!». pe denoto pitis.
-    4. pe wītset dīwos pitim ja esot deta. pe φīdot dīwos pitis rebotatīs.
-    5. pe nomandet dīwos pitī jom «sandis» pe rebotatī jom «noptis». pe
-    termanoto sambīwis pe sammartis. esot semejma sandis.
-    6. pe ūkot dīwos jom «denoso drotatis meθi wodan! pe φīdoso wodō wodanes!».
-    7. pe denot dīwos drotatis. pe φīdot wodō ja esont upo drotatī tomos ja
-    esont eti drotatī. pe termanoto.
-    8. nomandet dīwos drotatī jom «djus». pe termanoto sambīwis pe sammartis.
-    esot dawejma sandis.
-    9. pe ūkot dīwos jom «sembastontu wodō, ja upo djusu esonti, semaj
-    senastajatī! pe anteleso torsos!». pe termanoto.
-    10. pe nomandet dīwos torsoj jom «xeθōm» pe senastajatī wodanes jom «moru».
-    pe wītset dīwos jom esot detom.
-    11. pe ūkot dīwos jom «deno xeθōm φūins plūtāns jās denonti semō pe dorū
-    abōl esas denese, esom semō aj esonti eti xeθom!». pe termanoto.
-    12. pe denot xeθōm φūins plūtāns, pe φūins jās denonti semō denese esas, pe
-    dorū ja denonti ablans, īsu esonti semō denese esas. pe wītset dīwos jom
-    esot detom.
-  trans: |
-    1. In the before-boundary, God produced the skies and the earth.
-    2. The earth was not-full and not-rich. And darkness was over the broadness
-    of the waters. And the breath of God went over the waters.
-    3. And God said «Light, be produced!». And light was produced.
-    4. And God saw the light, which was good. And God split light from
-    darkness.
-    5. And God gave the name «day» to the light, and the name «night» to the
-    darkness.
-    6. And God said «Strongness between the waters, be produced! Separate
-    waters from waters!».
-    7. And God produced the strongness. And He separated the waters which were
-    over the strongness from those which were under the strongness. And it was
-    finished.
-    8. God gave the name «sky» to the strongness. And sunrise and sunset were
-    finished. That was the first day.
-    9. And God said «Waters under the sky, come together into one sole stance!
-    Dry, be produced!». And it was finished.
-    10. And God gave the name «earth» to the dry, and the name «seas» to the
-    one sole stance of waters. And God saw that it was good.
-    11. And God said, «Earth, produce rich plants which produce seeds and trees
-    of fruit with their own race, whose seeds in them are over the earth!». And
-    it was finished.
-    12. And the earth produced rich plants, and plants which produce seeds with
-    their race, and trees which produce fruits in which are seeds with their
-    race. And God saw that it was good.
+  text-file: 2017-06-29.md
+  trans-file: 2017-06-29.trans.md
   notes: The first ever partial translation of Genesis 1
   class: bible
 
@@ -9213,41 +9167,9 @@
     To the tall and steep river bank.
 
 - date: 2021-01-19
-  text: |
-    Physica (apo seniskas graicas «φυσική (ἐπιστήμη)», significontas «vidia
-    naturas», apo «φύσις», significontas «natura») naturals scientia studionts
-    materiam, energiam, spatiom-tempos, rodians-pe potíontans universom.
-    Physica fundamentalista disciplina scientifica, enosja terman
-    protislabjetin posme sonféretor universom.
-
-    Paltania physicas extraordinarie medana, includonts diversons adrons, tosme
-    quanticam mechanicam, opticam, electromagnetismom, physicam-pe particulóm,
-    etc. Physica oina senistóm disciplinóm academicóm, uposme includeti
-    astronomiam tosme subdisciplinam.
-  gloss: |
-    Physics (from ancient.ABL greek.ABL «φυσική (ἐπιστήμη)», meaning.ABL
-    «knowledge.NOM nature.GEN», from «φύσις», meaning.ABL «nature.NOM»)
-    natural.NOM science.NOM studying.NOM matter.ACC, energy.ACC,
-    space.ACC=time.ACC, laws.ACC-PL=and governing.ACC-PL universe.ACC. Physics
-    most-fundamental discipline scientific, of-her end to-understand how
-    behaves universe.
-
-    Width.NOM physics.GEN extraordinarily big.NOM, including.NOM diverse.ACC-PL
-    fields.ACC-PL, like quantum.ACC mechanics.ACC, optics.ACC,
-    electromagnetism.ACC, physics.ACC=and particles.GEN-PL, etc. Physics one
-    oldest.GEN-PL disciplines.GEN-PL academic.GEN-PL, since it-includes
-    astronomy.ACC as subdiscipline.ACC.
-  trans: |
-    Physics (from Ancient Greek «φυσική (ἐπιστήμη)», meaning «knowledge of
-    nature», from «φύσις», meaning «nature») is the natural science that
-    studies matter, energy, space-time, and the laws that govern the universe.
-    Physics is one of the most fundamental scientific disciplines, whose goal
-    is to understand how the universe behaves.
-
-    The scope of physics is extraordinarily large, including diverse fields
-    such as quantum mechanics, optics, electromagnetism, particle physics, etc.
-    Physics is one of the oldest academic disciplines, as it includes astronomy
-    as a subdiscipline.
+  text-file: 2021-01-19.md
+  gloss-file: 2021-01-19.gloss.md
+  trans-file: 2021-01-19.trans.md
   notes: Translating Wikipedia's article about Physics.
 
 - date: 2021-01-24
@@ -9403,3 +9325,7 @@
   text: Ne imi estin haunis joives memeríta.
   gloss: Not I-am-going to-be depressed when that-you-have-die.
   trans: I will not be sad when you die.
+
+- date: 2021-03-29
+  text-file: 2021-03-29.md
+  rec-file: 2021-03-29.mp3

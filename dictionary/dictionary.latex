@@ -1,12 +1,12 @@
 \documentclass[twocolumn,a5paper]{article}
 \title{Dictionariom Danetiskas Danvas}
 \author{Saverios Castro}
-\date{25 januariosjo 2021}
+\date{29 martiosjo 2021}
 
 
 
 \usepackage{microtype} % Improves spacing
-\usepackage[top=4em,bottom=5em,left=3em,right=3em,columnsep=24pt]{geometry} % Document margins and spacings
+%\usepackage[top=4em,bottom=5em,left=3em,right=3em,columnsep=24pt]{geometry} % Document margins and spacings
 
 \usepackage{ebgaramond}
 
@@ -18,7 +18,7 @@
 %\setmainfont{DoulosSIL}
 %\usepackage{tgpagella}
 %\usepackage{crimson}
-\setmainfont{Century Gothic}
+%\setmainfont{Century Gothic}
 
 \usepackage{parskip}
 
@@ -43,11 +43,21 @@
 	
 
 	
+		\key{-ilos.} {\footnotesize (Perhaps from PIE \ipa{*-lós}).} elem. diminutive suffix.
+	
+
+	
 		\key{a.}  n. letter \textit{a}.
 	
 
 	
 		\key{abasjur.} {\footnotesize (From Fr. \ipa{abat-jour}).} m. lampshade.
+	
+
+	
+		\key{abjón.} {\footnotesize (From PG \ipa{*abjǭ}).} f.
+			\textbf{1.} ebb, the receding movement of the tide.
+			\textbf{2.} a gradual decline.
 	
 
 	\key{abol,}
@@ -63,7 +73,25 @@
 	
 
 	
+		\key{adalos.} {\footnotesize (From PG \ipa{*adisô}).} m.
+			\textbf{1.} liquid manure.
+			\textbf{2.} filth.
+			\textbf{3.} mire, mud.
+			\textbf{4.} urine.
+	
+
+	
 		\key{Adám.} {\footnotesize (From AG \gr{Ᾱ̓δᾱ́μ}).} m. Adam.
+	
+
+	
+		\key{adisa.} {\footnotesize (From PG \ipa{*adisô}).} m.
+			\textbf{1.} adze.
+			\textbf{2.} axe.
+	
+
+	
+		\key{administratión.} {\footnotesize (From Lat. \ipa{administrātiō}).} f. administration.
 	
 
 	
@@ -90,7 +118,52 @@
 	
 
 	
+		\key{aflom.} {\footnotesize (From PG \ipa{*aflą}).} n. power, strength, might.
+	
+
+	
+		\key{aflos.} {\footnotesize (From PG \ipa{*aflaz}).} m. hearth.
+	
+
+	
 		\key{Africa.} {\footnotesize (From Lat. \ipa{Āfrica}).} f.{\footnotesize \textit{ continent.}} Africa.
+	
+
+	
+		\key{ageti.} {\footnotesize (From PG \ipa{*aganą}).} v. to fear, to be afraid.
+	
+
+	
+		\key{agida.} {\footnotesize (From PG \ipa{*agiþō}).} f. harrow.
+	
+
+	
+		\key{agja.} {\footnotesize (From PG \ipa{*agjō}).} f. edge, corner.
+	
+
+	
+		\key{agjostainos.} {\footnotesize (From PG \ipa{*agjōstainaz}).} m. sharp-stone, cornerstone.
+	
+
+	
+		\key{agjóti.} {\footnotesize (From PG \ipa{*agjōną}).} v. to harrow.
+	
+
+	
+		\key{aglatiom.} {\footnotesize (From PG \ipa{*agalaitiją}).} n.
+			\textbf{1.} licentiousness.
+			\textbf{2.} lewdness, lasciviousness.
+			\textbf{3.} impudence, importunity.
+	
+
+	
+		\key{aglíti.} {\footnotesize (From PG \ipa{*aglijaną}).} v.
+			\textbf{1.} to damage.
+			\textbf{2.} to offend.
+	
+
+	
+		\key{aglos.} {\footnotesize (From PG \ipa{*agraz}).} m. flood.
 	
 
 	
@@ -108,6 +181,22 @@
 	
 
 	
+		\key{ahana.} {\footnotesize (From PG \ipa{*ahanō}).} f. chaff, awns.
+	
+
+	
+		\key{ahla.} {\footnotesize (From PG \ipa{*anhulō}).} f. strap, band, thong.
+	
+
+	
+		\key{ahos.} {\footnotesize (From PG \ipa{*ahaz}).} n. ear of grain.
+	
+
+	
+		\key{ahurnos.} {\footnotesize (From PG \ipa{*ahurnaz}).} m. maple.
+	
+
+	
 		\key{Aicaterína.} {\footnotesize (From AG \gr{Αἰκατερῑ́νη}).} f. Catherine, Catalina, Katrina, Caitlin.
 	
 
@@ -116,7 +205,47 @@
 	
 
 	
+		\key{aidom.} {\footnotesize (From PG \ipa{*aidą}).} n. isthmus, strait.
+	
+
+	
+		\key{aidos.} {\footnotesize (From PG \ipa{*aidaz}).} m. fire, pyre.
+	
+
+	
+		\key{aigineti.} {\footnotesize (From PG \ipa{*aigināną}).} v. to appropriate, to take possession by force.
+	
+
+	
+		\key{aiglos.} {\footnotesize (From PG \ipa{*aiglaz}).} m. shoot, barb.
+	
+
+	
 		\key{Aigyptos.} {\footnotesize (From Lat. \ipa{Aegyptus}, from AG \gr{Αἴγυπτος}, from Egyptian \ipa{ḥwt-kꜣ-ptḥ}).} f. Egypt.
+	
+
+	
+		\key{aikila.} {\footnotesize (From PG \ipa{*aikilǭ}).} f. acorn.
+	
+
+	
+		\key{ailíti.} {\footnotesize (From PG \ipa{*ailijaną}).} v. to kindle, to light on fire.
+	
+
+	
+		\key{aimos.} {\footnotesize (From PG \ipa{*aimaz}).} m. steam, smoke.
+	
+
+	
+		\key{aimurja.} {\footnotesize (From PG \ipa{*aimuzjǭ}).} f. ember, hot ash.
+	
+
+	
+		\key{ainacja.} {\footnotesize (From PG \ipa{*ainakjǭ}).} f. widow.
+	
+
+	
+		\key{ainios.} {\footnotesize (From PG \ipa{*ainijaz}).} m. juniper.
 	
 
 	
@@ -128,6 +257,20 @@
 	
 
 	
+		\key{aira.} {\footnotesize (From PG \ipa{*airō}).} f. oar.
+	
+
+	
+		\key{aira.} {\footnotesize (From PG \ipa{*aizō}).} f.
+			\textbf{1.} reverence.
+			\textbf{2.} honour.
+	
+
+	
+		\key{airáti.} {\footnotesize (From PG \ipa{*aizāną}).} v. to honor.
+	
+
+	
 		\key{airi.} {\footnotesize (From PIE \ipa{*h₂éyeri}).} adv. early in the morning.
 	
 
@@ -136,7 +279,78 @@
 	
 
 	
+		\key{airos.} {\footnotesize (From PG \ipa{*airuz}).} m.
+			\textbf{1.} messenger.
+			\textbf{2.} servant.
+			\textbf{3.} herald.
+	
+
+	
+		\key{airundiom.} {\footnotesize (From PG \ipa{*airundiją}).} n.
+			\textbf{1.} message.
+			\textbf{2.} errand.
+	
+
+	
+		\key{aisa.} {\footnotesize (From PG \ipa{*aisǭ}).} f. fireplace.
+	
+
+	
+		\key{aisóti.} {\footnotesize (From PG \ipa{*aisōną}).} v. to rush.
+	
+
+	
+		\key{aistáti.} {\footnotesize (From PG \ipa{*aistāną}).} v. to respect.
+	
+
+	
+		\key{aitos.} {\footnotesize (From PG \ipa{*aitaz}).} m. ulcer.
+	
+
+	
+		\key{aitrom.} {\footnotesize (From PG \ipa{*aitrą}).} n.
+			\textbf{1.} poison.
+			\textbf{2.} pus.
+	
+
+	
+		\key{aive.} {\footnotesize (From Dan. \ipa{aivos}).} adv. forever, always.
+	
+
+	
+		\key{aivíti.} {\footnotesize (From PG \ipa{*aiwijaną}).} v. to graze.
+	
+
+	
+		\key{aivos.} {\footnotesize (From PG \ipa{*aiwaz}).} m. eternity.
+	
+
+	
 		\key{ajos.} {\footnotesize (From PIE \ipa{*h₂éyos}).} n.{\footnotesize \textit{ chemistry.}} copper.
+	
+
+	
+		\key{aketi.} {\footnotesize (From PG \ipa{*akaną}).} v. to drive, sail, navigate.
+	
+
+	
+		\key{akis.} {\footnotesize (From PG \ipa{*akiz}).} m. ache, pain.
+	
+
+	
+		\key{akros.} {\footnotesize (From PG \ipa{*akraz}).} m. farm.
+	
+
+	
+		\key{aksa.} {\footnotesize (From PG \ipa{*ahsō}).} f. axle.
+	
+
+	
+		\key{aksla.} {\footnotesize (From PG \ipa{*ahslō}).} f. shoulder.
+	
+
+	
+		\key{alasna.} {\footnotesize (From PG \ipa{*alasnō}).} f. awl.
 	
 
 	
@@ -145,6 +359,25 @@
 
 	
 		\key{Albertos Ainstain.}  m. Albert Einstein.
+	
+
+	
+		\key{aldis.} {\footnotesize (From PG \ipa{*aldiz}).} f. age, generation, lifetime.
+	
+
+	
+		\key{aldíti.} {\footnotesize (From PG \ipa{*aldijaną}).} v. to delay.
+	
+
+	
+		\key{aldrom.} {\footnotesize (From PG \ipa{*aldrą}).} n. lifetime, age, generation.
+	
+
+	
+		\key{aleti.} {\footnotesize (From PG \ipa{*alaną}).} v.
+			\textbf{1.} to grow.
+			\textbf{2.} to grow old, to mature.
+			\textbf{3.} to breed.
 	
 
 	
@@ -160,6 +393,18 @@
 	
 
 	
+		\key{algis.} {\footnotesize (From PG \ipa{*algiz}).} m. elk.
+	
+
+	
+		\key{algóti.} {\footnotesize (From PG \ipa{*algōną}).} v. to defend, to protect.
+	
+
+	
+		\key{alina.} {\footnotesize (From PG \ipa{*alinō}).} f. elbow.
+	
+
+	
 		\key{alisa.} {\footnotesize (From PIE \ipa{*h₂élis-}).} f. alder.
 	
 
@@ -168,7 +413,29 @@
 	
 
 	
+		\key{aljanom.} {\footnotesize (From PG \ipa{*aljaną}).} n.
+			\textbf{1.} zeal, eagerness.
+			\textbf{2.} strength, courage.
+	
+
+	
 		\key{aljos.} {\footnotesize (From PIE \ipa{*h₂élyos}).} pron. other, another.
+	
+
+	
+		\key{alka.} {\footnotesize (From PG \ipa{*alkǭ}).} f. a kind of sea bird, auk.
+	
+
+	\key{alks,}
+		\textit{alkes.} {\footnotesize (From PG \ipa{*alhs}).} m.
+			\textbf{1.} shelter.
+			\textbf{2.} building.
+			\textbf{3.} temple, sanctuary.
+			\textbf{4.} settlement, residence.
+	
+
+	
+		\key{alnóti.} {\footnotesize (From PG \ipa{*aljanōną}).} v. to be zealous for, to strive for.
 	
 
 	
@@ -176,11 +443,61 @@
 	
 
 	
+		\key{alsóti.} {\footnotesize (From PG \ipa{*aliskōną}).} v. to tend to, to care for.
+	
+
+	
 		\key{altin.} {\footnotesize (From a Turkic language. Compare Turkmen \ipa{altyn} and Uzbek \ipa{oltin}).} m.{\footnotesize \textit{ chemistry.}} gold.
 	
 
 	
+		\key{altjeti.} {\footnotesize (From PG \ipa{*alatjaną}).} v. to drive, to move.
+	
+
+	
+		\key{alu.} {\footnotesize (From PG \ipa{*alu}).} n. beer, ale.
+	
+
+	
 		\key{aluminiom.}  n.{\footnotesize \textit{ chemistry.}} aluminium, aluminum.
+	
+
+	
+		\key{alvis.} {\footnotesize (From PG \ipa{*albiz}).} m. elf, fairy.
+	
+
+	
+		\key{amara.} {\footnotesize (From PG \ipa{*amazǭ}).} f.
+			\textbf{1.} blackbird.
+			\textbf{2.} yellowhammer.
+	
+
+	
+		\key{amba.} {\footnotesize (From PG \ipa{*ambô}).} m. belly.
+	
+
+	
+		\key{ambaktos.} {\footnotesize (From PG \ipa{*ambahtaz}).} m. servant.
+	
+
+	
+		\key{ambindeti.} {\footnotesize (From PG \ipa{*andabindaną}).} v. to unbind, to loosen, to set free.
+	
+
+	
+		\key{amblis.} {\footnotesize (From PG \ipa{*amliz}).} m.
+			\textbf{1.} spelt, emmer.
+			\textbf{2.} starch produced from it.
+	
+
+	
+		\key{ambudeti.} {\footnotesize (From PG \ipa{*anabeudaną}).} v. to command, to order, to instruct.
+	
+
+	
+		\key{ambúsnis.} {\footnotesize (From PG \ipa{*anabūsniz}).} f.
+			\textbf{1.} commandment.
+			\textbf{2.} precept.
 	
 
 	
@@ -233,11 +550,35 @@
 	
 
 	
+		\key{anasedeti.} {\footnotesize (From Dan. \ipa{anasedos}).} v. to triumph, to be victorious over, to win.
+	
+
+	
+		\key{anasedos.} {\footnotesize (From Dan. \ipa{ana- + sedos}).} n. victory.
+	
+
+	
 		\key{anats.} {\footnotesize (From PIE \ipa{*h₂énh₂ts}).} f. duck.
 	
 
 	
+		\key{ancja.} {\footnotesize (From PG \ipa{*ankijǭ}).} f. ankle.
+	
+
+	
+		\key{anda.} {\footnotesize (From PG \ipa{*anadô}).} m. zeal.
+	
+
+	
 		\key{andeti.} {\footnotesize (From PIE \ipa{*h₂enǵʰ-}).} v. to obligate, to bind.
+	
+
+	
+		\key{andios.} {\footnotesize (From PG \ipa{*andijaz}).} m. end.
+	
+
+	
+		\key{andjóti.} {\footnotesize (From PG \ipa{*andijōną}).} v. to end, to bring to an end, to finish.
 	
 
 	
@@ -277,6 +618,28 @@
 	
 
 	
+		\key{anga.} {\footnotesize (From PG \ipa{*angô}).} m.
+			\textbf{1.} a bend, crook.
+			\textbf{2.} hook, barb, angle.
+			\textbf{3.} spear, dart.
+			\textbf{4.} arrow.
+	
+
+	
+		\key{angastis.} {\footnotesize (From PG \ipa{*angustiz}).} f.
+			\textbf{1.} narrowness, tightness.
+			\textbf{2.} fear, anxiety.
+	
+
+	
+		\key{angja.} {\footnotesize (From PG \ipa{*angijō}).} f. a low lying meadow in a valley or near a river.
+	
+
+	
+		\key{angla.} {\footnotesize (From PG \ipa{*angulō}).} f. a hook, fishhook.
+	
+
+	
 		\key{Anglia.}  f. England.
 	
 
@@ -285,7 +648,19 @@
 	
 
 	
+		\key{angros¹.} {\footnotesize (From PG \ipa{*angraz}).} m. lowland, meadow.
+	
+
+	
+		\key{angros².} {\footnotesize (From PG \ipa{*angazaz}).} m. worry, grief, anxiety.
+	
+
+	
 		\key{Ankara.}  f. Ankara, capital of Turkey.
+	
+
+	
+		\key{anklos.} {\footnotesize (From PG \ipa{*ankulaz}).} m. hip.
 	
 
 	
@@ -293,7 +668,37 @@
 	
 
 	
+		\key{ankva.} {\footnotesize (From PG \ipa{*ankwô}).} m. ointment, butter.
+	
+
+	
 		\key{ans.} {\footnotesize (Unknown).} prep. (+gen) without.
+	
+
+	
+		\key{ansaketi.} {\footnotesize (From PG \ipa{*andasakaną}).} v. to speak against, to refute.
+	
+
+	
+		\key{ansja.} {\footnotesize (From PG \ipa{*ansijō}).} f. eyelet, eye of a needle.
+	
+
+	
+		\key{ansos.} {\footnotesize (From PG \ipa{*ansaz}).} m. beam, wooden beam, support beam.
+	
+
+	
+		\key{anstis.} {\footnotesize (From PG \ipa{*anstiz}).} f.
+			\textbf{1.} favor, affection, grace.
+			\textbf{2.} joy.
+	
+
+	
+		\key{anstíti.} {\footnotesize (From PG \ipa{*anstijaną}).} v. to ask, to request.
+	
+
+	
+		\key{ansuros.} {\footnotesize (From PG \ipa{*ansuz}).} adj. powerful.
 	
 
 	
@@ -308,6 +713,22 @@
 
 	
 		\key{Antonios.} {\footnotesize (From Lat. \ipa{Antonius}).} m. Anthony.
+	
+
+	
+		\key{anvlitiom.} {\footnotesize (From PG \ipa{*andawlitją}).} n. appearance, form.
+	
+
+	
+		\key{anvurdjom.} {\footnotesize (From PG \ipa{*andawurdiją}).} n. answer, reply.
+	
+
+	
+		\key{apaldros.} {\footnotesize (From PG \ipa{*apaldraz}).} m. apple tree.
+	
+
+	
+		\key{aplos.} {\footnotesize (From PG \ipa{*aplaz}).} m. potato.
 	
 
 	
@@ -329,7 +750,42 @@
 	
 
 	
+		\key{arbaidis.} {\footnotesize (From PG \ipa{*arbaidiz}).} f.
+			\textbf{1.} labour, work, toil.
+			\textbf{2.} hardship, suffering.
+	
+
+	
+		\key{arbja.} {\footnotesize (From PG \ipa{*arbijô}).} m. heir.
+	
+
+	
+		\key{arbjom.} {\footnotesize (From PG \ipa{*arbiją}).} n. heritage, inheritance.
+	
+
+	
+		\key{arbos.} {\footnotesize (From PG \ipa{*arbaz}).} m. working animal, ox.
+	
+
+	
 		\key{ardantom.} {\footnotesize (From PIE \ipa{*h₂r̥ǵn̥tóm}).} n.{\footnotesize \textit{ chemistry.}} silver.
+	
+
+	
+		\key{ardis.} {\footnotesize (From PG \ipa{*ardiz}).} m.
+			\textbf{1.} characteristic, inborn quality.
+			\textbf{2.} nature, character.
+			\textbf{3.} type; kind; manner; sort.
+	
+
+	
+		\key{argíti.} {\footnotesize (From PG \ipa{*argijaną}).} v.
+			\textbf{1.} to spoil, to ruin.
+			\textbf{2.} to become a coward.
+	
+
+	
+		\key{argíti.} {\footnotesize (From PG \ipa{*artijaną}).} v. to tease, to taunt, to grill, to provoke.
 	
 
 	
@@ -337,11 +793,43 @@
 	
 
 	
+		\key{arja.}  f. unit of area equivalent to one hundred square meters.
+	
+
+	
+		\key{armáti.} {\footnotesize (From PG \ipa{*armāną}).} v. to pity.
+	
+
+	
 		\key{Armenia.} {\footnotesize (From Lat. \ipa{Armenia}, from AG \gr{Ἀρμενία}).} f. Armenia.
 	
 
 	
+		\key{armodiom.} {\footnotesize (From PG \ipa{*armōdiją}).} n. poverty.
+	
+
+	
+		\key{armos.} {\footnotesize (From PG \ipa{*armaz}).} m. arm.
+	
+
+	
+		\key{arnis.} {\footnotesize (From PG \ipa{*azaniz}).} f. harvest, harvest time.
+	
+
+	
+		\key{arnóti.} {\footnotesize (From PG \ipa{*azanōną}).} v. to harvest, to reap.
+	
+
+	
 		\key{arsenicom.}  n.{\footnotesize \textit{ chemistry.}} arsenic.
+	
+
+	
+		\key{arsos.} {\footnotesize (From PG \ipa{*arsaz}).} m.{\footnotesize \textit{ vulgar.}} arse, ass, anus, buttocks.
+	
+
+	
+		\key{arta.} {\footnotesize (From PG \ipa{*artǭ}).} f. wagtail, a type of bird.
 	
 
 	
@@ -360,12 +848,62 @@
 		\key{artrom.} {\footnotesize (From PIE \ipa{*h₂érh₃trom}).} n. plough, ard.
 	
 
+	\key{arts,}
+		\textit{artes.} {\footnotesize (From PG \ipa{*aruts}).} m. ore.
+	
+
+	
+		\key{arva¹.} {\footnotesize (From PG \ipa{*arfô}).} m. chickweed.
+	
+
+	
+		\key{arva².} {\footnotesize (From PG \ipa{*arhwō}).} f. arrow.
+	
+
+	
+		\key{arvíti.} {\footnotesize (From PG \ipa{*arbijaną}).} v. to inherit.
+	
+
+	\key{arvíts,}
+		\textit{arvítes.} {\footnotesize (From PG \ipa{*arwīts}).} f. pea.
+	
+
+	
+		\key{arvos.} {\footnotesize (From PG \ipa{*arwaz}).} n. scar.
+	
+
 	
 		\key{Asia.} {\footnotesize (From AG \gr{Ἀσῐ́ᾱ}).} f.{\footnotesize \textit{ continent.}} Asia.
 	
 
+	
+		\key{asja.} {\footnotesize (From PG \ipa{*asjǭ}).} f.{\footnotesize \textit{ geology.}} soapstone.
+	
+
+	
+		\key{aska.} {\footnotesize (From PG \ipa{*askǭ}).} f. ash, ashes.
+	
+
+	
+		\key{askos.} {\footnotesize (From PG \ipa{*askaz}).} m.{\footnotesize \textit{ botany.}} ash tree.
+	
+
 	\key{asmón,}
 		\textit{samnes, smanmos.} {\footnotesize (From PIE \ipa{*h₂éḱmō}).} m. stone.
+	
+
+	
+		\key{asna.} {\footnotesize (From PG \ipa{*asnō}).} f.
+			\textbf{1.} harvest.
+			\textbf{2.} earning, wage, payment.
+	
+
+	
+		\key{asnjos.} {\footnotesize (From PG \ipa{*asnijaz}).} m. servant, laborer.
+	
+
+	
+		\key{aspa.} {\footnotesize (From PG \ipa{*aspō}).} f. aspen.
 	
 
 	
@@ -375,7 +913,15 @@
 	
 
 	
+		\key{assót.} {\footnotesize (From Fr. \ipa{assaut}).} m. assault.
+	
+
+	
 		\key{astatom.}  n.{\footnotesize \textit{ chemistry.}} astatine.
+	
+
+	
+		\key{astos.} {\footnotesize (From PG \ipa{*astaz}).} m. bush.
 	
 
 	
@@ -391,7 +937,23 @@
 	
 
 	
+		\key{audia.} {\footnotesize (From PG \ipa{*awadī}).} f. eider.
+	
+
+	
+		\key{audos.} {\footnotesize (From PG \ipa{*audaz}).} m. wealth, riches.
+	
+
+	
+		\key{augíti.} {\footnotesize (From PG \ipa{*augijaną}).} v. to show, to display.
+	
+
+	
 		\key{augustos.} {\footnotesize (From Lat. \ipa{Augustus}).} m.{\footnotesize \textit{ month.}} August.
+	
+
+	
+		\key{auria.} {\footnotesize (From PG \ipa{*aurī}).} f. a river bank, or sandbank at the river's mouth.
 	
 
 	
@@ -433,8 +995,46 @@
 			\textbf{3.} (romantic) affair.
 	
 
+	
+		\key{averón.} {\footnotesize (From PG \ipa{*aferô}).} m. offspring, descendant, successor.
+	
+
+	
+		\key{avidiom.} {\footnotesize (From PG \ipa{*awidiją}).} n. a herd or flock of sheep.
+	
+
 	\key{avis,}
 		\textit{uvies, vimos.} {\footnotesize (From PIE \ipa{*h₂éwis}).} f. bird.
+	
+
+	
+		\key{avisjeti.} {\footnotesize (From PG \ipa{*abisjaną}).} v. to cut, shear.
+	
+
+	
+		\key{avja.} {\footnotesize (From PG \ipa{*awjō}).} f.
+			\textbf{1.} floodplain, meadow.
+			\textbf{2.} island.
+	
+
+	
+		\key{avlóti.} {\footnotesize (From PG \ipa{*aflōną}).} v. to acquire, to contrive.
+	
+
+	
+		\key{avniom.} {\footnotesize (From PG \ipa{*abniją}).} n. material, stuff.
+	
+
+	
+		\key{avón.} {\footnotesize (From PG \ipa{*abô}).} m. husband.
+	
+
+	
+		\key{avundis.} {\footnotesize (From PG \ipa{*abundiz}).} f. envy.
+	
+
+	
+		\key{avurdíti.} {\footnotesize (From PG \ipa{*andawurdijaną}).} v. to answer, to respond.
 	
 
 	
@@ -446,11 +1046,23 @@
 	
 
 	
+		\key{badjom.} {\footnotesize (From PG \ipa{*badją}).} n. bed.
+	
+
+	
 		\key{bados.} {\footnotesize (From PIE \ipa{*bʰeh₂ǵos}).} f. beech.
 	
 
 	
+		\key{badóti.} {\footnotesize (From PG \ipa{*badōną}).} v. to press, to distress, to frighten.
+	
+
+	
 		\key{badus.} {\footnotesize (From PIE \ipa{*bʰeh₂ǵʰús}).} m. arm.
+	
+
+	
+		\key{badva.} {\footnotesize (From PG \ipa{*badwō}).} f. battle, fight.
 	
 
 	
@@ -462,6 +1074,36 @@
 	
 
 	
+		\key{bainom.} {\footnotesize (From PG \ipa{*bainą}).} n. leg.
+	
+
+	
+		\key{bairos.} {\footnotesize (From PG \ipa{*bairaz}).} m. boar.
+	
+
+	
+		\key{baita.} {\footnotesize (From PG \ipa{*baitō}).} f.
+			\textbf{1.} food.
+			\textbf{2.} bait.
+	
+
+	
+		\key{baitilos.} {\footnotesize (From PG \ipa{*baitilaz}).} m. chisel.
+	
+
+	
+		\key{baitos.} {\footnotesize (From PG \ipa{*baitaz}).} m. boat, ship.
+	
+
+	
+		\key{bakarios.} {\footnotesize (From PG \ipa{*bakārijaz}).} m. baker.
+	
+
+	
+		\key{bakis.} {\footnotesize (From PG \ipa{*bakiz}).} f. beach.
+	
+
+	
 		\key{Baku.} {\footnotesize (From Rus. \cyr{Баку́}).} n. Baku, capital of Azerbaijan.
 	
 
@@ -470,11 +1112,35 @@
 	
 
 	
+		\key{baldia.} {\footnotesize (From PG \ipa{*balþį̄}).} f. boldness, strength, courage.
+	
+
+	
+		\key{balgis.} {\footnotesize (From PG \ipa{*balgiz}).} m. bag.
+	
+
+	
 		\key{baljo.} {\footnotesize (From PIE \ipa{*bʰāl-}).} v. to fail, to err, to miss.
 	
 
 	
 		\key{balnia.} {\footnotesize (From Dan. \ipa{baljo}).} f. failure, error.
+	
+
+	
+		\key{baltiskos.}  adj. pertaining to the Baltic region.
+	
+
+	
+		\key{baltjos.} {\footnotesize (From PG \ipa{*baltijaz}).} m. belt.
+	
+
+	
+		\key{balvom.} {\footnotesize (From PG \ipa{*balwą}).} n. evil, misfortune.
+	
+
+	
+		\key{bandia.} {\footnotesize (From PG \ipa{*bandī}).} f. fetter, bond.
 	
 
 	
@@ -499,6 +1165,10 @@
 
 	
 		\key{bariom.}  n.{\footnotesize \textit{ chemistry.}} barium.
+	
+
+	
+		\key{bataljón.} {\footnotesize (From Fr. \ipa{bataillon}).} m. batallion.
 	
 
 	
@@ -554,6 +1224,10 @@
 	
 
 	
+		\key{bereti.} {\footnotesize (From PIE \ipa{*bʰéreti}).} v. to carry.
+	
+
+	
 		\key{berkeliom.}  n.{\footnotesize \textit{ chemistry.}} berkelium.
 	
 
@@ -587,10 +1261,18 @@
 		\key{bibliom.} {\footnotesize (From AG \gr{βῐβλῐ́ον}).} n. book.
 	
 
-	
-		\key{bideti.} {\footnotesize (From PIE \ipa{*bʰeyd-}).} v.
+	\key{bideti¹,}
+		\textit{befideti.} {\footnotesize (From PIE \ipa{*bʰeyd-}).} v.
 			\textbf{1.} to split.
 			\textbf{2.} to separate, to divide.
+	
+
+	\key{bideti²,}
+		\textit{befideti.} {\footnotesize (From PIE \ipa{*bʰeydʰ-}).} v. to trust.
+	
+
+	
+		\key{bidinos.} {\footnotesize (From Dan. \ipa{bideti²}).} adj. believable, credible.
 	
 
 	
@@ -611,6 +1293,18 @@
 
 	
 		\key{biva.} {\footnotesize (From PIE \ipa{*gʷih₃wós}).} f. life.
+	
+
+	
+		\key{biveter.} {\footnotesize (From Dan. \ipa{biveti}).} m. resident, inhabitant.
+	
+
+	
+		\key{biveti.} {\footnotesize (From Dan. \ipa{biva}).} v. to live.
+	
+
+	
+		\key{bivetis.} {\footnotesize (From Dan. \ipa{biveti}).} f. residence, habitat.
 	
 
 	
@@ -740,6 +1434,10 @@
 	
 
 	
+		\key{brigáda.} {\footnotesize (From Fr. \ipa{brigade}).} f. brigade.
+	
+
+	
 		\key{Britannia.}  f. Britain.
 	
 
@@ -767,7 +1465,10 @@
 	
 
 	\key{brus¹,}
-		\textit{bruves, brumos.} {\footnotesize (From PIE \ipa{*gʷr̥h₂ús}).} adj. heavy.
+		\textit{bruves, brumos.} {\footnotesize (From PIE \ipa{*gʷr̥h₂ús}).} adj.
+			\textbf{1.} heavy.
+			\textbf{2.} difficult, hard.
+			\textbf{3.} severe, grave.
 	
 
 	\key{brus²,}
@@ -831,6 +1532,10 @@
 	
 
 	
+		\key{capitalismos.}  m. capitalism.
+	
+
+	
 		\key{ce.}  n. letter \textit{c}.
 	
 
@@ -889,9 +1594,28 @@
 	
 
 	
+		\key{commander.} {\footnotesize (From Fr. \ipa{commandeur}).} m. commander.
+	
+
+	
+		\key{communismos.}  m. communism.
+	
+
+	
+		\key{companjia.} {\footnotesize (From Fr. \ipa{compagnie}).} f.
+			\textbf{1.} a team; a group of people who work together professionally.
+			\textbf{2.} military company.
+			\textbf{3.} (business) company.
+	
+
+	
 		\key{computa.} {\footnotesize (From Fr. \ipa{compte}, influenced by Lat. \ipa{computare}).} f.
 			\textbf{1.} account (bank or user account).
 			\textbf{2.} count (the action of counting).
+	
+
+	
+		\key{conditión.}  f. condition.
 	
 
 	
@@ -1138,6 +1862,14 @@
 	
 
 	
+		\key{districtos.} {\footnotesize (From Lat. \ipa{districtus}).} m. district.
+	
+
+	
+		\key{división.}  f. division.
+	
+
+	
 		\key{divjos.} {\footnotesize (From PIE \ipa{*diwyós}).} adj. heavenly.
 	
 
@@ -1147,6 +1879,10 @@
 
 	
 		\key{djolet.} {\footnotesize (From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}).} m. (political) state.
+	
+
+	
+		\key{djoletiskos.} {\footnotesize (From Dan. \ipa{djolet}).} adj. pertaining to a political state or sovereign polity.
 	
 
 	\key{djus,}
@@ -1175,6 +1911,10 @@
 
 	
 		\key{Donald Tramp.}  m. Donald Trump.
+	
+
+	
+		\key{donia.} {\footnotesize (From Dan. \ipa{denatis}).} f. motherland.
 	
 
 	
@@ -1230,6 +1970,12 @@
 	
 
 	
+		\key{dukti.} {\footnotesize (From PIE \ipa{*dewk-ti}).} v.
+			\textbf{1.} to lead.
+			\textbf{2.} to pull, to draw.
+	
+
+	
 		\key{dulgos.} {\footnotesize (From PG \ipa{*dulgaz}).} m. debt.
 	
 
@@ -1272,6 +2018,10 @@
 	
 
 	
+		\key{ecjíti.} {\footnotesize (From PG \ipa{*aikijaną}).} v. to irritate, to annoy, to bother.
+	
+
+	
 		\key{Edém.} {\footnotesize (From Gr. \gr{Εδέμ}).} m. Eden, Garden of Eden.
 	
 
@@ -1281,6 +2031,28 @@
 
 	
 		\key{ef.}  n. letter \textit{f}.
+	
+
+	\key{eks,}
+		\textit{ekes.} {\footnotesize (From PG \ipa{*aiks}).} f.
+			\textbf{1.} oak tree.
+			\textbf{2.} oak wood.
+	
+
+	
+		\key{ekter.} {\footnotesize (From PG \ipa{*aihtēr}).} m. owner, possessor.
+	
+
+	
+		\key{ektis.} {\footnotesize (From PG \ipa{*aihtiz}).} f. property, possessions.
+	
+
+	
+		\key{ektróti.} {\footnotesize (From PG \ipa{*aihtrōną}).} v. to beg.
+	
+
+	
+		\key{ekverna.} {\footnotesize (From PG \ipa{*aikwernô}).} m. squirrel.
 	
 
 	
@@ -1351,6 +2123,10 @@
 	
 
 	
+		\key{enstangeti.} {\footnotesize (From Dan. \ipa{en- + stanga + -eti}).} v. to erect, to raise, to hoist.
+	
+
+	
 		\key{enteros.} {\footnotesize (From PIE \ipa{*h₁énteros}).} adj.
 			\textbf{1.} inside, within.
 			\textbf{2.} inner, located inside.
@@ -1365,6 +2141,10 @@
 	
 
 	
+		\key{envigjom.} {\footnotesize (From PG \ipa{*ainawīgiją}).} n. single combat.
+	
+
+	
 		\key{epsilón.}  f. Greek letter epsilon.
 	
 
@@ -1374,6 +2154,12 @@
 
 	
 		\key{erbiom.}  n.{\footnotesize \textit{ chemistry.}} erbium.
+	
+
+	
+		\key{erdagos.} {\footnotesize (From PG \ipa{*airidagaz}).} m.
+			\textbf{1.} days of yore; bygone days.
+			\textbf{2.} the past.
 	
 
 	
@@ -1401,6 +2187,10 @@
 	
 
 	
+		\key{esclerier.} {\footnotesize (From Fr. \ipa{éclaireur}, with ending analogous to Dan. \ipa{ingjenier}).} m. (military) scout.
+	
+
+	
 		\key{esti¹.} {\footnotesize (From PIE \ipa{*h₁ésti}).} v. to be.
 	
 
@@ -1409,7 +2199,15 @@
 	
 
 	
+		\key{estom.} {\footnotesize (From PG \ipa{*aistô}).} n. testicle.
+	
+
+	
 		\key{Estonia.}  f. Estonia.
+	
+
+	
+		\key{estos.} {\footnotesize (From PG \ipa{*aistaz}).} m. kiln.
 	
 
 	
@@ -1438,6 +2236,10 @@
 
 	
 		\key{fans.} {\footnotesize (From PIE \ipa{*ǵʰh₂éns}).} f. goose.
+	
+
+	
+		\key{fascismos.}  m. fascism.
 	
 
 	
@@ -1498,7 +2300,10 @@
 	
 
 	\key{fetis,}
-		\textit{faties.} {\footnotesize (From PIE \ipa{*dʰéh₁tis}).} f. act of putting, placement.
+		\textit{faties.} {\footnotesize (From PIE \ipa{*dʰéh₁tis}).} f.
+			\textbf{1.} act of putting, placement.
+			\textbf{2.} act of doing.
+			\textbf{3.} heroic deed, feat.
 	
 
 	
@@ -1605,6 +2410,14 @@
 
 	
 		\key{furops.} {\footnotesize (From PIE \ipa{*ǵʰwer-o-h₃kʷs}).} m. wild beast.
+	
+
+	
+		\key{fusilier.} {\footnotesize (From Fr. \ipa{fusilier}).} m. (military) rifleman.
+	
+
+	
+		\key{fusilieriskos.} {\footnotesize (From Dan. \ipa{fusilier}).} adj. pertaining to riflemen.
 	
 
 	
@@ -1752,6 +2565,14 @@
 	
 
 	
+		\key{gruppos.} {\footnotesize (From Italian \ipa{gruppo}).} m. group.
+	
+
+	
+		\key{guarda.} {\footnotesize (From OF \ipa{guarde}).} f. guard.
+	
+
+	
 		\key{gursjun.} {\footnotesize (From a Turkic language. Compare Turkmen \ipa{gurşun} and Turkish \ipa{kurşun}).} m.{\footnotesize \textit{ chemistry.}} lead (metal).
 	
 
@@ -1844,6 +2665,10 @@
 	
 
 	
+		\key{honor.} {\footnotesize (From Lat. \ipa{honor}).} m. honor.
+	
+
+	
 		\key{hostis.} {\footnotesize (From PIE \ipa{*gʰóstis}).} m. guest.
 	
 
@@ -1882,6 +2707,10 @@
 	
 
 	
+		\key{ideologia.}  f. ideology.
+	
+
+	
 		\key{igra.} {\footnotesize (From PIE \ipa{*h₂ig-réh₂}).} f. game.
 	
 
@@ -1912,11 +2741,17 @@
 	
 
 	
-		\key{insjenier.} {\footnotesize (From Fr. \ipa{ingénieur}).} m. engineer.
+		\key{ingjenier.} {\footnotesize (From Fr. \ipa{ingénieur}).} m. engineer.
 	
 
 	
-		\key{insjenieria.} {\footnotesize (From Fr. \ipa{ingénierie}).} f. engineering.
+		\key{ingjenieria.} {\footnotesize (From Fr. \ipa{ingénierie}).} f. engineering.
+	
+
+	
+		\key{intelligentia.}  f.
+			\textbf{1.} intelligence.
+			\textbf{2.} intelligentsia, intellectual elite.
 	
 
 	
@@ -2135,6 +2970,18 @@
 	
 
 	
+		\key{junisos.} {\footnotesize (From Dan. \ipa{junsos}).} adj. younger.
+	
+
+	
+		\key{junisos sergjant.}  m. (military) junior sergeant; corporal.
+	
+
+	
+		\key{junistos.} {\footnotesize (From Dan. \ipa{junsos}).} adj. youngest.
+	
+
+	
 		\key{junsos.} {\footnotesize (From PIE \ipa{*h₂yuHn̥ḱós}).} adj. young.
 	
 
@@ -2164,6 +3011,10 @@
 
 	
 		\key{kamán.} {\footnotesize (From Persian \arab{کمان}).} m. bow (weapon).
+	
+
+	
+		\key{kania.}  f. song.
 	
 
 	
@@ -2245,6 +3096,10 @@
 	
 
 	
+		\key{kudeti.} {\footnotesize (From PIE \ipa{*kéwdʰh₁-e-ti}).} v. to forge.
+	
+
+	
 		\key{kulom.} {\footnotesize (From PG \ipa{*kulą}).} n.
 			\textbf{1.} coal.
 			\textbf{2.}{\footnotesize \textit{ chemistry.}} carbon.
@@ -2283,7 +3138,19 @@
 	
 
 	
+		\key{lekseter.} {\footnotesize (From Dan. \ipa{lekseti}).} m. defender, defensor, protector.
+	
+
+	
 		\key{lekseti.} {\footnotesize (From PIE \ipa{*h₂lékseti}).} v. to protect, defend.
+	
+
+	
+		\key{leksetis.} {\footnotesize (From Dan. \ipa{lekseti}).} f. defense, protection.
+	
+
+	
+		\key{Leningrad.} {\footnotesize (From Rus. \cyr{Ленингра́д}).} m. Leningrad.
 	
 
 	
@@ -2336,6 +3203,10 @@
 
 	
 		\key{Lubiána.} {\footnotesize (From It. \ipa{Lubiana}).} f. Ljubljana, capital of Slovenia.
+	
+
+	
+		\key{lucta.} {\footnotesize (From Lat. \ipa{lucta}).} f. fight.
 	
 
 	
@@ -2499,6 +3370,10 @@
 	
 
 	
+		\key{memorabilis.} {\footnotesize (From Lat. \ipa{memorabilis}).} adj. memorable.
+	
+
+	
 		\key{mendeleviom.}  n.{\footnotesize \textit{ chemistry.}} mendelevium.
 	
 
@@ -2517,7 +3392,9 @@
 	
 
 	\key{mentis,}
-		\textit{manties.} {\footnotesize (From PIE \ipa{*méntis}).} f. thought.
+		\textit{manties.} {\footnotesize (From PIE \ipa{*méntis}).} f.
+			\textbf{1.} thought.
+			\textbf{2.} memory.
 	
 
 	
@@ -2528,6 +3405,10 @@
 
 	
 		\key{merti.} {\footnotesize (From PIE \ipa{*mér-ti}).} v. to die.
+	
+
+	
+		\key{mertinos.} {\footnotesize (From Dan. \ipa{mertis + -inos}).} adj. deadly.
 	
 
 	\key{mertis,}
@@ -2552,6 +3433,14 @@
 
 	
 		\key{mihla.} {\footnotesize (From PIE \ipa{*h₃migʰleh₂}).} f. mist, fog.
+	
+
+	
+		\key{militar.} {\footnotesize (From Lat. \ipa{mīlitāris}).} adj. military.
+	
+
+	
+		\key{militia.}  f. militia.
 	
 
 	
@@ -2621,6 +3510,10 @@
 	
 
 	
+		\key{musica.} {\footnotesize (From Fr. \ipa{musique}).} f. music.
+	
+
+	
 		\key{mutrom.} {\footnotesize (From PIE \ipa{*múHtrom}).} n.
 			\textbf{1.} excrement, urine.
 			\textbf{2.} filth, sediment.
@@ -2666,6 +3559,10 @@
 		\textit{naves, naumos.} {\footnotesize (From PIE \ipa{*néh₂us}).} f. boat, ship.
 	
 
+	
+		\key{nebidinos.} {\footnotesize (From Dan. \ipa{bidinos}).} adj. unbelievable, incredible.
+	
+
 	\key{nebufmén,}
 		\textit{nebufnes, nebudanmos.} {\footnotesize (From Dan. \ipa{ne + bufmén}).} m. abyss, bottomless pit.
 	
@@ -2680,6 +3577,14 @@
 
 	
 		\key{nege.} {\footnotesize (From PIE \ipa{*ne + *gʰe}).} adv. not even.
+	
+
+	
+		\key{nemartos.} {\footnotesize (From Dan. \ipa{ne + martos}).} adj. immortal, unperishable.
+	
+
+	
+		\key{nemeti.} {\footnotesize (From PG \ipa{*nemaną}).} v. to take.
 	
 
 	
@@ -2991,6 +3896,10 @@
 	
 
 	
+		\key{opistanati.}  v. to remain.
+	
+
+	
 		\key{opisvomia.} {\footnotesize (From Dan. \ipa{opi + svomia}).} f. liberation.
 	
 
@@ -3101,6 +4010,10 @@
 	
 
 	
+		\key{paráda.} {\footnotesize (From Fr. \ipa{parade}).} f. parade.
+	
+
+	
 		\key{París.}  f. Paris.
 	
 
@@ -3113,7 +4026,15 @@
 	
 
 	
+		\key{partisaniskos.}  adj. pertaining to guerrillas.
+	
+
+	
 		\key{pater.} {\footnotesize (From PIE \ipa{*ph₂tḗr}).} m. father.
+	
+
+	
+		\key{patrinos.} {\footnotesize (From Dan. \ipa{pater + inos}).} adj. patriotic.
 	
 
 	
@@ -3130,6 +4051,10 @@
 
 	
 		\key{pavan.} {\footnotesize (From PIE \ipa{*péh₂wr̥}).} n. bonfire.
+	
+
+	
+		\key{pavinos.} {\footnotesize (From Dan. \ipa{pavan}).} adj. fiery.
 	
 
 	
@@ -3365,6 +4290,12 @@
 	
 
 	
+		\key{poiman.} {\footnotesize (From PIE \ipa{*poh₂-i-mn̥}).} n.
+			\textbf{1.} salvation.
+			\textbf{2.} cover, lid.
+	
+
+	
 		\key{poimos.}  proadv.
 			\textbf{1.} (interrogative) to where, whither.
 			\textbf{2.} (interrogative) to what end, why.
@@ -3378,6 +4309,10 @@
 
 	
 		\key{poives.} {\footnotesize (From Dan. \ipa{po- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (interrogative) when.
+	
+
+	
+		\key{polar.} {\footnotesize (From Lat. \ipa{polaris}).} adj. polar.
 	
 
 	
@@ -3505,6 +4440,16 @@
 	
 
 	
+		\key{probereti.} {\footnotesize (From Dan. \ipa{bereti}).} v. to carry forth, to bring forth.
+	
+
+	
+		\key{proiti.} {\footnotesize (From Dan. \ipa{pro- + iti}).} v.
+			\textbf{1.} to occur, to happen.
+			\textbf{2.} (of days, weeks, years, etc.) to pass.
+	
+
+	
 		\key{promenáda.} {\footnotesize (From Fr. \ipa{promenade}).} f. walk, stroll, walk for enjoyment.
 	
 
@@ -3520,6 +4465,10 @@
 		\key{proti.} {\footnotesize (From PIE \ipa{*pr-ó-ti}).} prep.
 			\textbf{1.} (+gen) against.
 			\textbf{2.} (+dat) towards, in the direction of, facing towards.
+	
+
+	
+		\key{protiaerios.}  m. anti-aircraft.
 	
 
 	
@@ -3739,6 +4688,10 @@
 	
 
 	
+		\key{sagjeman.} {\footnotesize (From Dan. \ipa{sagjeti}).} n. flag, banner.
+	
+
+	
 		\key{sagjeti.} {\footnotesize (From PIE \ipa{*séh₂gyeti}).} v.
 			\textbf{1.} to give a sign.
 			\textbf{2.} to mark.
@@ -3840,6 +4793,10 @@
 	
 
 	
+		\key{sebastopoliskos.} {\footnotesize (From Dan. \ipa{Sebastopolis}).} adj. pertaining to Sevastopol.
+	
+
+	
 		\key{secundom.} {\footnotesize (From Lat. \ipa{secundum}).} n. second (unit of measurement).
 	
 
@@ -3857,6 +4814,10 @@
 
 	
 		\key{selos.} {\footnotesize (From PIE \ipa{*sélos}).} n. marsh.
+	
+
+	
+		\key{selva.} {\footnotesize (From OF \ipa{selve}).} f. forest, thick forest.
 	
 
 	\key{seman,}
@@ -3923,6 +4884,10 @@
 
 	
 		\key{siborgiom.}  n.{\footnotesize \textit{ chemistry.}} seaborgium.
+	
+
+	
+		\key{siesj.} {\footnotesize (From Fr. \ipa{siège}).} m. siege.
 	
 
 	
@@ -4018,6 +4983,10 @@
 	
 
 	
+		\key{socialismos.}  m. socialism.
+	
+
+	
 		\key{socialistiskos.} {\footnotesize (From Fr. \ipa{socialiste}).} adj. socialist.
 	
 
@@ -4045,6 +5014,10 @@
 
 	
 		\key{soives.} {\footnotesize (From Dan. \ipa{so- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (proximal) at this time, now.
+	
+
+	
+		\key{soldátos.}  m. soldier.
 	
 
 	
@@ -4091,6 +5064,10 @@
 
 	
 		\key{sonfis.} {\footnotesize (From PIE \ipa{*som-dʰh₁-is}, from \ipa{*dʰeh₁-}).} m. judge.
+	
+
+	
+		\key{sontis.} {\footnotesize (From Dan. \ipa{esti}).} f. essence.
 	
 
 	
@@ -4179,6 +5156,10 @@
 
 	
 		\key{staman.} {\footnotesize (From PIE \ipa{*stéh₂mn̥}).} n. that which stands, stature.
+	
+
+	
+		\key{stanga.} {\footnotesize (From PG \ipa{*stangō}).} f. bar, rod, stake, pole, beam.
 	
 
 	
@@ -4330,6 +5311,10 @@
 	
 
 	
+		\key{symbolom.} {\footnotesize (From Lat. \ipa{symbolum}, from AG \ipa{σύμβολον}).} n. symbol.
+	
+
+	
 		\key{synthesis.} {\footnotesize (From Lat. \ipa{synthesis}, from AG \gr{σύνθεσις}).} f. synthesis.
 	
 
@@ -4417,6 +5402,10 @@
 
 	\key{terman,}
 		\textit{tarmens.} {\footnotesize (From PIE \ipa{*térmn̥}).} n. boundary, end.
+	
+
+	
+		\key{terribilis.} {\footnotesize (From Lat. \ipa{terribilis}).} adj. terrible.
 	
 
 	
@@ -4562,6 +5551,10 @@
 	
 
 	
+		\key{trostanati.} {\footnotesize (From Dan. \ipa{tros- + stanati}).} v. to persevere.
+	
+
+	
 		\key{tualét.} {\footnotesize (From Fr. \ipa{toilette}).} f. toilet.
 	
 
@@ -4615,6 +5608,10 @@
 		\key{upo.} {\footnotesize (From PIE \ipa{*upó}).} prep.
 			\textbf{1.} (+loc) under, beneath (stationary, answers the question "where?").
 			\textbf{2.} (+acc) under, beneath (with movement, answers the question "where to?").
+	
+
+	
+		\key{upoiti.} {\footnotesize (From Dan. \ipa{upo- + iti}).} v. to go down, to come down, to descend, to get off.
 	
 
 	
@@ -4757,6 +5754,10 @@
 	
 
 	
+		\key{verster.} {\footnotesize (From Dan. \ipa{verd- + ter}).} m. worker.
+	
+
+	
 		\key{verteti.} {\footnotesize (From PIE \ipa{*wert-}).} v. to turn, to spin.
 	
 
@@ -4846,7 +5847,7 @@
 	
 
 	
-		\key{visoives.} {\footnotesize (From Dan. \ipa{viso- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (universal) at every time, always.
+		\key{visoives.} {\footnotesize (From Dan. \ipa{viso- + -ives}. The suffix \ipa{-ives} comes from \ipa{juves}, the genitive of \ipa{oju}).} proadv. (universal) at every time, always, forever.
 	
 
 	
@@ -4901,6 +5902,10 @@
 
 	
 		\key{vojasjeti.} {\footnotesize (From Dan. \ipa{vojasj}).} v. to travel, to take a trip, to go on a trip.
+	
+
+	
+		\key{volhoviskos.}  adj. pertaining to the Volkhov region in Russia.
 	
 
 	
@@ -4975,7 +5980,7 @@
 		\key{zirconiom.}  n.{\footnotesize \textit{ chemistry.}} zirconium.
 
 \onecolumn
-\section*{Senti soi 1161 verdóm!}
+\section*{Senti soi 1392 verdóm!}
 
 \end{document}
 

@@ -170,6 +170,8 @@
       def: earth
     - typ: f
       def: land
+    - typ: f
+      def: country
 
 - key: feman
   parts: famens
@@ -892,6 +894,18 @@
     - typ: n
       def: fame
 
+- key: uperslevos
+  ety: From Dan. \ipa{uper- + slevos}
+  definitions:
+    - typ: n
+      def: glory
+
+- key: uperslevjos
+  ety: From Dan. \ipa{uperslevos}
+  definitions:
+    - typ: adj
+      def: glorious
+
 - key: slita
   ety: From PIE \ipa{*ḱléyteh₂}
   definitions:
@@ -946,6 +960,18 @@
   definitions:
     - typ: n
       def: head
+
+- key: kaputjos
+  ety: From Dan. \ipa{kaput}
+  definitions:
+    - typ: adj
+      def: main, principal
+
+- key: pekaputjeti
+  ety: From Dan. \ipa{pe- + kaput + -jeti}
+  definitions:
+    - typ: v
+      def: to lead, to head, to be at head
 
 - key: kotus
   parts: katves
@@ -1691,6 +1717,14 @@
     - typ: adj
       def: united
 
+- key: somjugeti
+  ety: From Dan. \ipa{somjugos}
+  definitions:
+    - typ: v
+      def: to unite (transitive)
+    - typ: v
+      def: to gather
+
 - key: djolet
   ety: From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}
   definitions:
@@ -1923,6 +1957,12 @@
   definitions:
     - typ: adj
       def: ill-disposed, wicked, evil
+
+- key: dusmenistos
+  ety: From Dan. \ipa{dusmenés}
+  definitions:
+    - typ: adj
+      def: most wicked, most evil
 
 - key: longos
   ety: From PIE \ipa{*dlongʰos}
@@ -3592,6 +3632,12 @@
       def: to mark
     - typ: v
       def: to mean, to signify
+
+- key: opisagjeti
+  ety: From Dan. \ipa{opi- + sagjeti}
+  definitions:
+    - typ: v
+      def: to celebrate
 
 - key: sagjetis
   ety: From Dan. \ipa{sagjeti}
@@ -7594,6 +7640,15 @@
     - typ: v
       def: to think about something (use the preposition about)
 
+- key: pemanjeti
+  ety: From Dan. \ipa{pe- + mánjetor}
+  definitions:
+    - typ: v
+      def: to remind (in the active voice. Use dative case for the person being
+        reminded)
+    - typ: v
+      def: to remember (in the passive voice)
+
 - key: sédjetor
   ety: From PIE \ipa{*sed-}
   definitions:
@@ -9059,3 +9114,29 @@
   definitions:
     - typ: v
       def: to press, to distress, to frighten
+
+- key: stultos
+  ety: From PG \ipa{*stultaz}
+  definitions:
+    - typ: adj
+      def: proud
+
+- key: linja
+  ety: From Fr. \ipa{ligne}
+  definitions:
+    - typ: f
+      def: line
+
+- key: veterános
+  ety: From Lat. \ipa{veterānus}
+  definitions:
+    - typ: m
+      def: veteran
+
+- key: vargos
+  ety: From PG \ipa{*wargaz}
+  definitions:
+    - typ: m
+      def: enemy
+    - typ: m
+      def: outlaw, criminal

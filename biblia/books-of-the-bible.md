@@ -63,9 +63,9 @@
 
 ## Evangeliom
 * Matthaios
-* Upo Marce
-* Upo Luce
-* Upo Joánne
+* Marcos
+* Luca
+* Joanna
 
 ## Feties Apostolóm
 * Feties Apostolóm
@@ -87,12 +87,12 @@
 
 ## Generales Epistolai
 * Hebraiskoi
-* Jacobos
+* Jacóbos
 * I Petrosjo
 * II Petrosjo
-* I Joánnas
-* II Joánnas
-* III Joánnas
+* I Joannas
+* II Joannas
+* III Joannas
 * Juda
 
 ## Apocalypsis

@@ -133,6 +133,20 @@ will-be one flesh.
 25. And they-were they two naked. Adam and his woman, and not were-ashamed.
 
 
+# Exodus
+
+## Chapter 20
+
+1. And said God all these words:
+2. «I am Lord, your God, who brought you (singular) out from-land of-Egypt,
+out from-house of-slavery.
+3. To-you not-be other gods except me.
+4. Do-not-produce for-yourself idol, nor not-any image of-nothing in heaven
+above, nor on earth below, nor in waters under earth.
+5. Do-not-worship to-them nor serve to-them, for I, Lord, your God, am jealous
+(incomplete)
+
+
 # Mark
 
 ## Chapter 1

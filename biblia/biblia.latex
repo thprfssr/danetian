@@ -3,7 +3,9 @@
 \date{}
 
 \usepackage{microtype}
-\usepackage[sfdefault,light]{roboto} % Font
+%\usepackage[sfdefault,light]{roboto} % Font
+\usepackage{ebgaramond}
+\usepackage{geometry}
 
 \renewcommand\contentsname{Tabula Materióm}
 
@@ -19,31 +21,85 @@
 
 \begin{document}
 \maketitle
-\tableofcontents
+%\tableofcontents
 
 \biblebook{Denatis}
 
+\subsubsection*{Denatis jehanias}
+
 \v{1:1}{En prameni dedenat Divos djum i fedomam.}
-\v{2}{Fedóm est nevidma i nutipretiopés, da rebos úper pretiopi
-nebufnes, da numan Divosjo bereto úper vedensu.}
+\v{2}{Fedóm est nevidma i nutipretiopés, da rebos úper
+nebufni, da numan Divosjo bereto úper vedensu.}
 
-\v{3}{Pós uket Divos: \qt{Deníto lukos}, da dedenato lukos.}
-\v{4}{Da videt Divos lukom, jom vesom. Pós apobídet Divos lukom rebesos.}
-\v{5}{Vevopet Divos lukom \textit{dine}, od rebos \textit{nopte}. Set
-veksperos, set ausós; But pramos din.}
+\v{3}{Toives uket Divos: \qt{Deníto lukos}, i dedenato lukos.}
+\v{4}{Da vevidet Divos lukom, jom vesum. De apobidet Divos lukom apo rebesos.}
+\v{5}{Vevopet Divos lukom \textit{dine}, da rebos \textit{nopte}. Set-pe
+veksperos, set-pe ausós. But pramos din.}
 
-\v{6}{Pós uket Divos: \qt{Deníto atirama medi vedenfi, da apobidoit vodó
-vedenmos}.}
-\v{7}{Dedenat Divos atiramam, da apobefidet vodó, ja upo atirami, tosmad,
+\v{6}{Toives uket Divos: \qt{Deníto atirama medi vedenfi, da apobidoit vodó
+apo vedenmos}.}
+\v{7}{Sep dedenat Divos atiramam, da apobefidet vodó, ja upo atirami, apo toimos,
 ja úper atirami.}
-\v{8}{Vevopet Divos atiramam \textit{dive}. Da videt Divos jod vesu. Set
-veksperos, set ausós; But viteros din.}
+\v{8}{Vevopet Divos atiramam \textit{dive}. Da vevidet Divos jod vesu. Set-pe
+veksperos, set-pe ausós. But viteros din.}
 
-\v{9}{Pós uket Divos: \qt{Opjugojanto vodó, ja upo atirami, en oinom stadim, da
-apolukoito susna}. Da but tosme. Da opjejugonto vodó, ja upo atirami, en
-enosóm stadins, da apolelukoito susna.}
-\v{10}{Vevopet Divos susnam \textit{fame}, od opjugos vedóm vevopet
-\textit{marie}. Da videt Divos, jod vesu.}
+\v{9}{Toives uket Divos: \qt{Opjugojanto vodó, ja upo atirami, en oinom statim,
+da apolukoito susna}. Da but tosme. Opjejugonto vodó, ja upo atirami, en
+enosóm statins, da apolelukoito susna.}
+\v{10}{Vevopet Divos susnam \textit{fame}, da opjugos vedóm vevopet
+\textit{marie}. Da vevidet Divos jod vesu.}
+\v{11}{Toives uket Divos: \qt{Blojét fedóm grontans sugontans semó pro
+enosóm ardim e iveman, da dorú denonta pelmó som samenfi en soi ana fami.} Da
+but tosme.}
+\v{12}{Beblót fedóm grontans sugontans semó pro enosóm ardim e iveman, da dorú
+denonta pelmó som samenfi en soi ana fami pro enosóm ardim. Da vevidet Divos
+jod vesu.}
+\v{13}{Set-pe veksperos, set-pe ausós. But tritos din.}
+
+\v{14}{Da uket Divos: «Deníto lukons en atiramam dives pro luketin fedomam,
+bidontans dinam apo noptes, da sint pro sagjemenmos, pro erstidimos, pro
+dinimos, i pro jeromos,}
+\v{15}{da sint luketres en atirami dives gar lukojanto ana fedomam». Da but
+tosme.}
+\v{16}{Dedenat Divos dvons medanons lukons: pelvjesam pro potíetin dinam, i
+melvjesam pro potíetin noptam. Dedenat ipelve astrans.}
+\v{17}{Enons fedét Divos en atirami dives, gar lukojanto ana fedomam,}
+\v{18}{i potíanto dinam i noptam, i bidojant lukom apo rebesos. Da vevidet
+Divos jod vesu.}
+\v{19}{Set-pe veksperos, set-pe ausós. But petvártos din.}
+
+\v{20}{Toives uket Divos: \qt{Deníto vodó reptilins bivontes psychas, i
+petenjesans avins ana fami upo atirami dives}. Da but tosme.}
+\v{21}{Dedenat Divos medanons cetons i visam bivontam psycham pro enosjas
+ardim, da visam petenjesam avim pro enosjas ardim. Da vevidet Divos jod vesu.}
+\v{22}{Enons vesuveverdíet Divos: \qt{Alojanto i anapelvíanto.
+Pleníete vodó en marisu. Anapelvíanto avies ana fami}.}
+\v{23}{Set-pe veksperos, set-pe ausós. But pemptos din.}
+
+\v{24}{Da uket Divos: \qt{Deníto fedóm bivontans psychans pro enasóm ardim:
+petvarpodans, reptilins, i furopans fames pro enosóm ardim}. Da but tosme.}
+\v{25}{Dedenat Divos furopans fames pro enosóm ardim, da pesu pro enosjo ardim,
+da visom reptilim fames pro enosjo ardim. Da vevidet Divos jod vesu.}
+
+\v{26}{Toives uket Divos: \qt{Deníme manum pro nosjam iconam e iveman, da
+potíanto úper pistisu maries, i úper avisu dives, i úper pesvi, i úper visi
+jehaní, i úper visosu reptilisu dragomnosu ana fedomam}.}
+\v{27}{Sep dedenat Divos manum. Pro iconam e iveman Divosjo enons dedenat.
+Virom i benam dedenat enons.}
+\v{28}{Vesuveverdíet enons: \qt{Alojanto i anapelvíanto. Pleníete fedomam i
+enam uperpotíete. Potíete úper pistisu maries, i úper avisu dives, i úper
+visi pesvi, i úper visi jehaní, i úper visosu reptilisu dragomnosu ana
+fedomam}.}
+
+\v{29}{Toives uket Divos: «Vid, usmi dedóm visam grontam sugontam seman
+úper visi jehaní, da visom doru dont pelmó som semenfi en soi. Jenti estin
+baita usmi,}
+\v{30}{i visomos furopimos fames, i visamos avimos dives, i visomos
+reptilimos som bivonte psyche dragomnomos ana fedomam. Visom grontam baite».
+Da but tosme.}
+
+\v{31}{Sep vevidet Divos visom jod dedenat, da vevidet jod pelviste vesu.
+Set-pe veksperos, set-pe ausós. But svektos din.}
 
 %\biblebook{Ubbastia}
 %\biblebook{Levitiskom}
@@ -98,6 +154,8 @@ enosóm stadins, da apolelukoito susna.}
 
 \biblebook{Matthaios}
 
+\subsubsection{Denamó Jesues Christosjo}
+
 \v{1:1}{Bibliom danamens Jesues Christosjo, sunus Davides, sunus Abrahames.}
 \v{2}{Abrahám dedenat Isakam. Isak dedenat Jacobom. Jacobos dedenat Judam i
 enosjo bratrans.}
@@ -123,22 +181,48 @@ Azoram.}
 Jacobom.}
 \v{16}{Jacobos dedenat Josephom, virom Marias, apo josjas dedenato Jesus,
 vopomnos Christos.}
-\v{17}{Sépetor, bunt totali petvordasam danamenóm apo Abrahames do Davides,
-od petvordasam apo Davides do atidemias Babylonai, od petvordasam apo atidemias
+\v{17}{Septoives, bunt totali petvordasam danamenóm apo Abrahames do Davides,
+petvordasam apo Davides do atidemias Babylonai, da petvordasam apo atidemias
 Babylonai do Christosjo.}
 
+\subsubsection{Anapresetis}
 
-%\biblebook{Marcos}
-%\biblebook{Luca}
+\v{6:9}{Tosme dégar dolgjete anapresesei: «Nosjos Pater, jo en divi, svensoito
+tevjom noman.}
+\v{10}{Opjét tevjos posjolik. Fenuíto tevja velja, i en divi i ana fami.}
+\v{11}{Nosjam naumenesam fonam dó ansmi sodines,}
+\v{12}{De apojek ansme nosjons dulgons, tosme da vi apime nosjomos dulgjetrimos.}
+\v{13}{Da ne nos ducjés en somblesom, nu lekse nos apo dusmenesos.}
 
-\biblebook{Joánna}
 
-\v{1:1}{En prameni but verdom, da verdom opi Divosjo, da Divos verdom.}
+\biblebook{Marcos}
+
+\subsubsection{Joanna Baptísta garaidíeti pontam}
+
+\v{1:1}{Praman evangeliosjo Jesues Christosjo.}
+\v{2}{Ive pepisjeto en Esaí prophéti: \qt{Vid, sontío menjom sonvistiesam
+pro tve, jo iti garaidetin tevjom pontam}.}
+
+\biblebook{Luca}
+
+\subsubsection{Anapresetis}
+
+\v{11:2}{Uket enoimos: «Joives pretois, vep: «Nosjos Pater, jo en divi,
+sveníto tevjom noman. Opjét tevjos posjolik.}
+\v{3}{Nosjam fonam naumenjam dó ansmi podegom dinam.}
+\v{4}{Apojek ansme nosjans balnians, dégar vi apime solnomons, jos protibaljenti
+enoimos, da ne nos ducjés en somblesnom.}
+
+\biblebook{Joanna}
+
+\subsubsection{Verdom bujeti en Manum}
+
+\v{1:1}{En prameni but Verdom, da Verdom opi Divosjo, da Divos Verdom.}
 \v{2}{Enod but en prameni opi Divosjo.}
-\v{3}{Solnoi tros enod dedenanto, da enu enosjo ne dedenato nege nepod, jod
+\v{3}{Solnoi tros Enod dedenanto, da enu Enosjo ne dedenato nege nepod, jod
 dedenato.}
-\v{4}{En enosmi but biva, da biva lukos viróm.}
-\v{5}{Da lukos en rebesi lúketor, da rebos enod ne protiseslabjont.}
+\v{4}{En Enosmi but biva, da biva lukos viróm.}
+\v{5}{Da lukos en rebesi lúketor, da rebos Enod ne protiseslabjont.}
 
 %\biblebook{Feties Apostolóm}
 %\biblebook{Romiskoi}
@@ -158,9 +242,9 @@ dedenato.}
 %\biblebook{Jacobos}
 %\biblebook{I Petrosjo}
 %\biblebook{II Petrosjo}
-%\biblebook{I Joánnas}
-%\biblebook{II Joánnas}
-%\biblebook{III Joánnas}
+%\biblebook{I Joannas}
+%\biblebook{II Joannas}
+%\biblebook{III Joannas}
 %\biblebook{Juda}
 %\biblebook{Apocalypsis}
 

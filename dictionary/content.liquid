@@ -1,44 +1,3 @@
-\documentclass[twocolumn, a5paper]{article}
-\title{Dictionariom Danetiskas Danvas}
-\author{Saverios Castro}
-\date{5 juniosjo 2021}
-
-
-
-\usepackage{microtype} % Improves spacing
-%\usepackage[top=4em,bottom=5em,left=3em,right=3em,columnsep=24pt]{geometry} % Document margins and spacings
-
-\usepackage{ebgaramond}
-
-\usepackage{fontspec}
-\usepackage{xunicode}
-\usepackage{xltxtra}
-%\setmainfont{SBL_BLit.ttf}
-%\setmainfont{CharisSIL}
-%\setmainfont{DoulosSIL}
-%\usepackage{tgpagella}
-%\usepackage{crimson}
-%\setmainfont{Century Gothic}
-
-\usepackage{parskip}
-
-\newfontfamily\ipafont{CharisSIL}
-\newfontfamily\greekfont{SBL_BLit.ttf}
-\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
-%\newfontfamily\cyrillicfont{CharisSIL}
-%\newfontfamily\keyfont{Warownia.otf}
-
-{% raw %}
-\newcommand{\ipa}[1]{{\ipafont\textit{#1}}}
-\newcommand{\gr}[1]{{\greekfont #1}}
-\newcommand{\arab}[1]{{\arabicfont #1}}
-\newcommand{\cyr}[1]{{\ipafont\textit{#1}}}
-\newcommand{\key}[1]{{\textbf{#1}}}
-{% endraw %}
-
-\begin{document}
-\maketitle
-
 {% for entry in dictionary %}
 	{% assign u = 0 %}
 
@@ -89,10 +48,3 @@
 		{%- endfor -%}
 	{%- endif -%}
 {% endfor %}
-
-\onecolumn
-\section*{Senti soi {{ dictionary | size }} verdóm!}
-
-Test | rtew || dlafjakl
-
-\end{document}

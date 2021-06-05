@@ -1,5 +1,13 @@
 all:
-	python parse.py > dictionary.latex
-	#awk NF dictionary.latex > /tmp/dictionary.latex
-	#mv /tmp/dictionary.latex .
+	make content.latex
+	make dictionary.pdf
+
+content.latex: parse.py content.liquid words.yaml
+	python parse.py > content.latex
+
+dictionary.pdf: content.latex dictionary.latex
 	xelatex dictionary.latex
+
+.PHONY: clean
+clean:
+	rm *.aux *.log dictionary.pdf content.latex

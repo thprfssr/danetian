@@ -9618,6 +9618,12 @@
     - typ: adj
       def: communist
 
+- key: socialísta
+  ety: From Dan. \ipa{socialismos}
+  content:
+    - typ: adj
+      def: socialist
+
 - key: fundamental
   ety: From Lat. \ipa{fundāmentālis}
   content:
@@ -9640,3 +9646,13 @@
   content:
     - typ: m
       def: judge
+
+- key: udbastia
+  content:
+    - typ: f
+      def: exodus
+
+- key: praman
+  content:
+    - typ: n
+      def: beginning, start

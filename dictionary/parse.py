@@ -3,7 +3,7 @@ from liquid import Liquid
 from unidecode import unidecode
 
 dictionary = 'words.yaml'
-template = 'dictionary.latex.liquid'
+template = 'content.liquid'
 
 with open(dictionary) as f:
     df = yaml.full_load(f)

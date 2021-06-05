@@ -14,6 +14,8 @@ for e in df:
         e['ety'] = ''
     if not 'parts' in e.keys():
         e['parts'] = ''
+    if not 'note' in e.keys():
+        e['note'] = ''
     for item in e['content']:
         if 'tag' not in item.keys():
             item['tag'] = ''

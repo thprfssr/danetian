@@ -10,8 +10,12 @@
 
 	{% raw %} {% endraw %}
 
-	{%- if entry.ety != '' -%}
+	{%- if entry.ety != '' and entry.note == '' -%}
 		{\footnotesize ({{- entry.ety -}}).}
+	{%- elsif entry.ety != '' and entry.note != '' -%}
+		{\footnotesize ({{- entry.ety -}}. $\blacklozenge$~{{- entry.note -}}).}
+	{%- elsif entry.ety == '' and entry.note != '' -%}
+		{\footnotesize ($\blacklozenge$~{{- entry.note -}}).}
 	{%- endif -%}
 
 	{%- assign L = entry.content | size -%}

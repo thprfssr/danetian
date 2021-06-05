@@ -1,15 +1,19 @@
 \documentclass[twocolumn, a5paper]{article}
 \title{Dictionariom Danetiskas Danvas}
-\author{Xavier Castros}
-\date{5 juniosjo 2021}
+\author{Xavier Castro}
+\date{\today}
+
+% Set up the date format
+\usepackage{datetime}
+\renewcommand{\dateseparator}{-}
+\yyyymmdddate
 
 
 
 \usepackage{microtype} % Improves spacing
 %\usepackage[top=4em,bottom=5em,left=3em,right=3em,columnsep=24pt]{geometry} % Document margins and spacings
 
-\usepackage{ebgaramond}
-
+% Set up the main font
 \usepackage{fontspec}
 \usepackage{xunicode}
 \usepackage{xltxtra}
@@ -19,9 +23,12 @@
 %\usepackage{tgpagella}
 %\usepackage{crimson}
 %\setmainfont{Century Gothic}
+\usepackage{ebgaramond}
 
 \usepackage{parskip}
+\usepackage{amssymb} % For the \blacklozenge symbol
 
+% Set up the specific language fonts
 \newfontfamily\ipafont{CharisSIL}
 \newfontfamily\greekfont{SBL_BLit.ttf}
 \newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
@@ -41,5 +48,7 @@
 
 \onecolumn
 \section*{Senti soi {{ dictionary | size }} verdóm!}
+
+Test $\blacklozenge$ dfdf
 
 \end{document}

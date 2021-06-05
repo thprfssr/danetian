@@ -5290,14 +5290,14 @@
     - typ: m
       def: Paul Adrien Maurice Dirac
 
-- key: Saverios
+- key: Xavier
   ety: From Basque \ipa{etxeberria}
   cat: personal-names
   content:
     - typ: m
       def: Javier, Xavier, Saverio
 
-- key: Saverios Castro
+- key: Xavier Castro
   cat: real-people
   content:
     - typ: m

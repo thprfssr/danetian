@@ -56,6 +56,8 @@
   definitions:
     - typ: m
       def: brother
+    - typ: m
+      def: Gemini (in the plural, constellation)
 
 - key: bufmén
   parts: bufnes, budanmos
@@ -234,6 +236,10 @@
   definitions:
     - typ: f
       def: daughter
+    - typ: f
+      def: Virgo (constellation)
+    - typ: f
+      def: girl
 
 - key: fumos
   ety: From PIE \ipa{*dʰuh₂mós}
@@ -708,6 +714,8 @@
   definitions:
     - typ: f
       def: sheep
+    - typ: f
+      def: Aries (constellation)
 
 - key: us
   parts: auses
@@ -746,6 +754,12 @@
 
 - key: ster
   ety: From PIE \ipa{*h₂stḗr}
+  definitions:
+    - typ: m
+      def: star
+
+- key: aster
+  ety: Variant of Dan. \ipa{ster}
   definitions:
     - typ: m
       def: star
@@ -954,6 +968,8 @@
   definitions:
     - typ: m
       def: goat
+    - typ: m
+      def: Capricornus (constellation)
 
 - key: kaput
   ety: From PIE \ipa{*káput}
@@ -1486,6 +1502,8 @@
   definitions:
     - typ: f
       def: standing, position
+    - typ: f
+      def: place, location
 
 - key: stoigos
   ety: From PIE \ipa{*stóygʰos}
@@ -1517,6 +1535,8 @@
   definitions:
     - typ: m
       def: bull
+    - typ: m
+      def: Taurus (constellation)
 
 - key: tenos
   ety: From PIE \ipa{*ténos}
@@ -1682,14 +1702,6 @@
   definitions:
     - typ: f
       def: root
-
-- key: Ren
-  parts: Ranes
-  ety: From PIE \ipa{*wr̥h₁ḗn}
-  cat: constellations
-  definitions:
-    - typ: m
-      def: Aries
 
 - key: jemos
   ety: From PIE \ipa{*yémHos}
@@ -2609,6 +2621,13 @@
     - typ: v
       def: to make holy, to hallow, to make sacred, to sanctify
 
+- key: sveníeti
+  ety: From PIE \ipa{*ḱwen-}
+  definitions:
+    - typ: v
+      def: to make holy, to hallow, to make sacred, to sanctify
+
+
 - key: iti
   ety: From PIE \ipa{*h₁éyti}, with some inflectional forms suppleted by \ipa{*gʷem-}
   definitions:
@@ -2849,6 +2868,12 @@
     - typ: v
       def: to shine, to illuminate
 
+- key: luketer
+  ety: From Dan. \ipa{lúketor}
+  definitions:
+    - typ: v
+      def: shiner, illuminator, source of light
+
 - key: slabjeti
   ety: From PIE \ipa{*sl̥h₂gʷ-}
   definitions:
@@ -2881,6 +2906,12 @@
   definitions:
     - typ: v
       def: to pray (Use the dative case on the person being prayed to.)
+
+- key: anapresetis
+  ety: From Dan. \ipa{anapreseti}
+  definitions:
+    - typ: f
+      def: prayer
 
 - key: lekseti
   ety: From PIE \ipa{*h₂lékseti}
@@ -2954,7 +2985,7 @@
     - typ: num
       def: fifteen
 
-- key: svesdesam
+- key: svekdesam
   ety: From PIE \ipa{*swéḱs + *déḱm̥}
   definitions:
     - typ: num
@@ -2984,7 +3015,7 @@
     - typ: v
       def: to be
 
-- key: fet
+- key: fekti
   ety: From PIE \ipa{*dʰeh₁-}
   definitions:
     - typ: v
@@ -3068,7 +3099,11 @@
       def: (+acc) in front of (spatial; with movement, answers the question
         "where to?")
     - typ: prep
+      def: (+acc) according to
+    - typ: prep
       def: (+dat) on behalf of, for the sake of, for the benefit of
+    - typ: prep
+      def: (+dat) so that, for the purpose of
 
 - key: garaidos
   ety: From PG \ipa{*garaidaz}
@@ -3078,7 +3113,7 @@
     - typ: adj
       def: prepared, arranged
 
-- key: garaidíti
+- key: garaidíeti
   ety: From Dan. \ipa{garaidos}
   definitions:
     - typ: v
@@ -3174,23 +3209,33 @@
     - typ: v
       def: to grow
 
-- key: pleníti
+- key: gronts
+  ety: From Dan. \ipa{groti}
+  definitions:
+    - typ: m
+      def: vegetation; herbs, pasture; plants
+
+- key: pleníeti
   ety: From Dan. \ipa{planos}
   definitions:
     - typ: v
       def: to fill
 
-- key: potíti
+- key: potíeti
   ety: From Dan. \ipa{potis}
   definitions:
     - typ: v
-      def: to rule, to govern
+      def: (with accusative) to govern, to administer
+    - typ: v
+      def: (with \ipa{úper}) to rule over, to govern, to dominate
 
 - key: pistis
   ety: From PIE \ipa{*peysḱ-}
   definitions:
     - typ: m
       def: fish
+    - typ: m
+      def: Pisces (in the plural, constellation)
 
 - key: fodón
   ety: From PG \ipa{*fōdô}
@@ -3381,7 +3426,7 @@
     - typ: m
       def: Edward, Eduardo
 
-- key: Reginvaldos
+- key: Renvaldos
   ety: Ultimately from PG \ipa{*Raginawaldaz}
   cat: personal-names
   definitions:
@@ -3530,6 +3575,8 @@
   definitions:
     - typ: v
       def: to drag
+    - typ: v
+      def: (in the passive) to drag oneself, to crawl
 
 - key: tendeti
   ety: From PIE \ipa{*tend-}
@@ -5594,7 +5641,7 @@
     - typ: num
       def: fifty
 
-- key: svedsont
+- key: svekdsont
   ety: From PIE \ipa{*swéḱsdḱomt}
   definitions:
     - typ: num
@@ -6858,7 +6905,7 @@
   ety: From PIE \ipa{*gʷorH-eh₂}
   definitions:
     - typ: f
-      def: mountain
+      def: mountain; hill
 
 - key: Karsna Bora
   definitions:
@@ -7301,7 +7348,7 @@
     - typ: m
       def: Saturn (the planet)
 
-- key: Sols
+- key: Sol
   definitions:
     - typ: m
       def: Sun (the god)
@@ -7761,6 +7808,12 @@
     - typ: conj
       def: as, like, in the same manner as
 
+- key: iveman
+  ety: From Dan. \ipa{ive}
+  definitions:
+    - typ: n
+      def: similarity
+
 - key: svenati
   ety: From PIE \ipa{*swénh₂-ti}
   definitions:
@@ -7817,6 +7870,8 @@
   definitions:
     - typ: n
       def: flag, banner
+    - typ: n
+      def: sign
 
 - key: esclerier
   ety: From Fr. \ipa{éclaireur}, with ending analogous to Dan. \ipa{ingjenier}
@@ -7877,7 +7932,7 @@
       def: siege
 
 - key: symbolom
-  ety: From Lat. \ipa{symbolum}, from AG \ipa{σύμβολον}
+  ety: From Lat. \ipa{symbolum}, from AG \gr{σύμβολον}
   definitions:
     - typ: n
       def: symbol
@@ -9140,3 +9195,389 @@
       def: enemy
     - typ: m
       def: outlaw, criminal
+
+- key: smernos
+  ety: From PIE \ipa{*smerd-nós}
+  definitions:
+    - typ: m
+      def: terrible, dreadful, horrible
+
+- key: smerdeti
+  ety: From PIE \ipa{*(s)merd-}
+  definitions:
+    - typ: v
+      def: to bite
+
+- key: damis
+  ety: From PIE \ipa{*ǵm̥-is}
+  definitions:
+    - typ: f
+      def: marriage, matrimony
+
+- key: dambros
+  ety: From PIE \ipa{*ǵm̥-rós}
+  definitions:
+    - typ: m
+      def: son in law
+
+- key: drajus
+  ety: From PIE \ipa{*ǵr̥h₂-yéw-s}
+  definitions:
+    - typ: f
+      def: old woman
+
+- key: dera
+  ety: From PIE \ipa{*ǵērh₂-s}
+  definitions:
+    - typ: f
+      def: old age
+
+- key: doros
+  ety: From PIE \ipa{*ǵorh₂-o-s}
+  definitions:
+    - typ: adj
+      def: free (having freedom)
+
+- key: duseti
+  ety: From PIE \ipa{*ǵéwseti}
+  definitions:
+    - typ: v
+      def: to taste, to try, to choose
+
+- key: dveleti
+  ety: From PIE \ipa{*ǵwélH-e-ti}
+  definitions:
+    - typ: v
+      def: to burn, to shine
+
+- key: feljeti
+  ety: From PIE \ipa{*ǵʰélh₃-ye-ti}
+  definitions:
+    - typ: v
+      def: to flourish
+
+- key: flaros
+  ety: From PIE \ipa{*ǵʰl̥h₃-ró-s}
+  definitions:
+    - typ: v
+      def: yellow
+
+- key: stridos
+  ety: From PIE \ipa{*strīdaz}
+  definitions:
+    - typ: m
+      def: dispute
+
+- key: videti
+  ety: From PIE \ipa{*weyd-e-ti}
+  definitions:
+    - typ: v
+      def: to see
+
+- key: Ephraím
+  ety: From AG \gr{Ἐφραΐμ}
+  definitions:
+    - typ: m
+      def: Ephraim
+
+- key: Elia
+  ety: From AG \gr{Ἠλίᾱς}
+  definitions:
+    - typ: m
+      def: Elijah
+
+- key: pelus
+  ety: From PIE \ipa{*pélh₁-u-}
+  definitions:
+    - typ: pron
+      def: much; a lot; plenty
+
+- key: melus
+  definitions:
+    - typ: pron
+      def: little; few; not much
+
+- key: pelman
+  ety: From Dan. \ipa{pelus + -man}
+  definitions:
+    - typ: n
+      def: fruit
+
+- key: pelvjés
+  ety: From Dan. \ipa{pelus}
+  definitions:
+    - typ: adj
+      def: bigger; major
+    - typ: adj
+      def: older
+
+- key: anapelvíeti
+  ety: From Dan. \ipa{opi- + pelv- + -íeti}
+  definitions:
+    - typ: v
+      def: to multiply
+
+- key: melvjés
+  ety: From Dan. \ipa{melus}
+  definitions:
+    - typ: adj
+      def: smaller; minor
+    - typ: adj
+      def: younger
+
+- key: ipelve
+  ety: Related to Dan. \ipa{pelus}
+  definitions:
+    - typ: c
+      def: also, in addition, moreover
+
+- key: sep
+  definitions:
+    - typ: c
+      def: so, thus, then
+
+- key: septoives
+  ety: From Dan. \ipa{sep + toives}
+  definitions:
+    - typ: c
+      def: therefore, thus, hence
+
+- key: psycha
+  definitions:
+    - typ: f
+      def: soul
+
+- key: cetos
+  definitions:
+    - typ: m
+      def: sea monster
+    - typ: m
+      def: whale; cetacean
+
+- key: vesuverdíeti
+  definitions:
+    - typ: v
+      def: to bless
+
+- key: icón
+  definitions:
+    - typ: f
+      def: image
+    - typ: f
+      def: icon
+
+- key: manus
+  definitions:
+    - typ: m
+      def: person, human
+
+- key: bujeti
+  definitions:
+    - typ: v
+      def: (+\ipa{en} + accusative) to become, to turn into
+
+- key: pramos
+  definitions:
+    - typ: adj
+      def: first
+
+- key: viteros
+  definitions:
+    - typ: adj
+      def: second
+
+- key: tritos
+  definitions:
+    - typ: adj
+      def: third
+
+- key: petvártos
+  definitions:
+    - typ: adj
+      def: fourth
+
+- key: pemptos
+  definitions:
+    - typ: adj
+      def: fifth
+
+- key: svektos
+  definitions:
+    - typ: adj
+      def: sixth
+
+- key: septamos
+  definitions:
+    - typ: adj
+      def: seventh
+
+- key: oktamos
+  definitions:
+    - typ: adj
+      def: eighth
+
+- key: nevamos
+  definitions:
+    - typ: adj
+      def: ninth
+
+- key: desamos
+  definitions:
+    - typ: adj
+      def: tenth
+
+- key: oinodesamos
+  definitions:
+    - typ: adj
+      def: eleventh
+
+- key: dvoidesamos
+  definitions:
+    - typ: adj
+      def: twelfth
+
+- key: tridesamos
+  definitions:
+    - typ: adj
+      def: thirteenth
+
+- key: petvordesamos
+  definitions:
+    - typ: adj
+      def: fourteenth
+
+- key: pempedesamos
+  definitions:
+    - typ: adj
+      def: fifteenth
+
+- key: svekdesamos
+  definitions:
+    - typ: adj
+      def: sixteenth
+
+- key: septandesamos
+  definitions:
+    - typ: adj
+      def: seventeenth
+
+- key: oktodesamos
+  definitions:
+    - typ: adj
+      def: eighteenth
+
+- key: nevandesamos
+  definitions:
+    - typ: adj
+      def: nineteenth
+
+- key: vidsantos
+  definitions:
+    - typ: adj
+      def: twentieth
+
+- key: tridsontos
+  ety: From PIE \ipa{*tridḱómt}
+  definitions:
+    - typ: adj
+      def: thirtieth
+
+- key: petvardsontos
+  ety: From PIE \ipa{*kʷétwr̥dḱomt}
+  definitions:
+    - typ: adj
+      def: fortieth
+
+- key: pempedsontos
+  ety: From PIE \ipa{*kʷétwr̥dḱomt}
+  definitions:
+    - typ: adj
+      def: fiftieth
+
+- key: svekdsontos
+  ety: From PIE \ipa{*swéḱsdḱomt}
+  definitions:
+    - typ: adj
+      def: sixtieth
+
+- key: septandsontos
+  ety: From PIE \ipa{*septḿ̥dḱomt}
+  definitions:
+    - typ: adj
+      def: seventieth
+
+- key: oktodsontos
+  ety: From PIE \ipa{*oḱtódḱomt}
+  definitions:
+    - typ: adj
+      def: eightieth
+
+- key: nevandsontos
+  ety: From PIE \ipa{*h₁néwn̥dḱomt}
+  definitions:
+    - typ: adj
+      def: ninetieth
+
+- key: satenjos
+  ety: From PIE \ipa{*ḱm̥tóm}
+  definitions:
+    - typ: adj
+      def: hundredth
+
+- key: tusontjos
+  ety: From PIE \ipa{*tuHsont-}
+  definitions:
+    - typ: adj
+      def: thousandth
+
+- key: gorbos
+  definitions:
+    - typ: m
+      def: crab
+    - typ: m
+      def: Cancer (constellation)
+
+- key: león
+  definitions:
+    - typ: m
+      def: lion
+    - typ: m
+      def: Leo (constellation)
+
+- key: dvibrus
+  definitions:
+    - typ: m
+      def: balance, scale
+    - typ: m
+      def: Libra (constellation)
+
+- key: scorpios
+  definitions:
+    - typ: m
+      def: scorpion
+    - typ: m
+      def: Scorpius (constellation)
+
+- key: istrom
+  definitions:
+    - typ: m
+      def: bow (weapon)
+    - typ: m
+      def: Sagittarius (constellation)
+
+- key: vedenjos
+  definitions:
+    - typ: m
+      def: water-bearer, water-pourer
+    - typ: m
+      def: Aquarius (constellation)
+
+- key: uperjeros
+  definitions:
+    - typ: adj
+      def: intercalary, epagomenal
+
+- key: Abrám
+  definitions:
+    - typ: m
+      def: Abram

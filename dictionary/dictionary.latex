@@ -69,6 +69,10 @@
 	
 
 	
+		\key{Abrám.}  m. Abram.
+	
+
+	
 		\key{actiniom.}  n.{\footnotesize \textit{ chemistry.}} actinium.
 	
 
@@ -546,7 +550,15 @@
 	
 
 	
+		\key{anapelvíeti.} {\footnotesize (From Dan. \ipa{opi- + pelv- + -íeti}).} v. to multiply.
+	
+
+	
 		\key{anapreseti.} {\footnotesize (From Dan. \ipa{preseti}).} v. to pray (Use the dative case on the person being prayed to.).
+	
+
+	
+		\key{anapresetis.} {\footnotesize (From Dan. \ipa{anapreseti}).} f. prayer.
 	
 
 	
@@ -918,6 +930,10 @@
 
 	
 		\key{astatom.}  n.{\footnotesize \textit{ chemistry.}} astatine.
+	
+
+	
+		\key{aster.} {\footnotesize (Variant of Dan. \ipa{ster}).} m. star.
 	
 
 	
@@ -1363,7 +1379,7 @@
 	
 
 	
-		\key{bora.} {\footnotesize (From PIE \ipa{*gʷorH-eh₂}).} f. mountain.
+		\key{bora.} {\footnotesize (From PIE \ipa{*gʷorH-eh₂}).} f. mountain; hill.
 	
 
 	
@@ -1414,7 +1430,9 @@
 	
 
 	
-		\key{brater.} {\footnotesize (From PIE \ipa{*bʰréh₂tēr}).} m. brother.
+		\key{brater.} {\footnotesize (From PIE \ipa{*bʰréh₂tēr}).} m.
+			\textbf{1.} brother.
+			\textbf{2.} Gemini (in the plural, constellation).
 	
 
 	
@@ -1496,6 +1514,10 @@
 	
 
 	
+		\key{bujeti.}  v. (+\ipa{en} + accusative) to become, to turn into.
+	
+
+	
 		\key{Bulgaria.}  f. Bulgaria.
 	
 
@@ -1541,6 +1563,12 @@
 
 	
 		\key{ceriom.}  n.{\footnotesize \textit{ chemistry.}} cerium.
+	
+
+	
+		\key{cetos.}  m.
+			\textbf{1.} sea monster.
+			\textbf{2.} whale; cetacean.
 	
 
 	
@@ -1685,6 +1713,14 @@
 	
 
 	
+		\key{dambros.} {\footnotesize (From PIE \ipa{*ǵm̥-rós}).} m. son in law.
+	
+
+	
+		\key{damis.} {\footnotesize (From PIE \ipa{*ǵm̥-is}).} f. marriage, matrimony.
+	
+
+	
 		\key{Daneta.} {\footnotesize (From Dan. \ipa{danu}).} f. Danetian river goddess, freed from the clutches of the water serpent.
 	
 
@@ -1810,11 +1846,19 @@
 	
 
 	
+		\key{dera.} {\footnotesize (From PIE \ipa{*ǵērh₂-s}).} f. old age.
+	
+
+	
 		\key{deronts.} {\footnotesize (From PIE \ipa{*ǵérh₂onts}).} adj. old.
 	
 
 	
 		\key{desam.} {\footnotesize (From PIE \ipa{*déḱm̥}).} num. ten.
+	
+
+	
+		\key{desamos.}  adj. tenth.
 	
 
 	
@@ -1937,6 +1981,10 @@
 		\key{donvos.} {\footnotesize (From PIE \ipa{*ǵómbʰos}).} m. number.
 	
 
+	
+		\key{doros.} {\footnotesize (From PIE \ipa{*ǵorh₂-o-s}).} adj. free (having freedom).
+	
+
 	\key{doru,}
 		\textit{dreves, drumos.} {\footnotesize (From PIE \ipa{*dóru}).} n. tree.
 	
@@ -1950,7 +1998,13 @@
 	
 
 	
-		\key{drageti.} {\footnotesize (From PG \ipa{*draganą}).} v. to drag.
+		\key{drageti.} {\footnotesize (From PG \ipa{*draganą}).} v.
+			\textbf{1.} to drag.
+			\textbf{2.} (in the passive) to drag oneself, to crawl.
+	
+
+	
+		\key{drajus.} {\footnotesize (From PIE \ipa{*ǵr̥h₂-yéw-s}).} f. old woman.
 	
 
 	
@@ -1988,11 +2042,29 @@
 	
 
 	
+		\key{duseti.} {\footnotesize (From PIE \ipa{*ǵéwseti}).} v. to taste, to try, to choose.
+	
+
+	
 		\key{dusmenés.} {\footnotesize (From PIE \ipa{*dusmenḗs}).} adj. ill-disposed, wicked, evil.
 	
 
 	
+		\key{dusmenistos.} {\footnotesize (From Dan. \ipa{dusmenés}).} adj. most wicked, most evil.
+	
+
+	
 		\key{dustus.} {\footnotesize (From PIE \ipa{*ǵéwstus}).} m. taste.
+	
+
+	
+		\key{dveleti.} {\footnotesize (From PIE \ipa{*ǵwélH-e-ti}).} v. to burn, to shine.
+	
+
+	
+		\key{dvibrus.}  m.
+			\textbf{1.} balance, scale.
+			\textbf{2.} Libra (constellation).
 	
 
 	
@@ -2007,6 +2079,10 @@
 
 	
 		\key{dvoidesam.} {\footnotesize (From PIE \ipa{*dwóh₁ + *déḱm̥}).} num. twelve.
+	
+
+	
+		\key{dvoidesamos.}  adj. twelfth.
 	
 
 	
@@ -2081,6 +2157,10 @@
 	
 
 	
+		\key{Elia.} {\footnotesize (From AG \gr{Ἠλίᾱς}).} m. Elijah.
+	
+
+	
 		\key{eligeti.} {\footnotesize (From Lat. \ipa{ēligō}).} v.
 			\textbf{1.} to choose something; to make a decision.
 			\textbf{2.} (politics) to elect.
@@ -2142,6 +2222,10 @@
 
 	
 		\key{envigjom.} {\footnotesize (From PG \ipa{*ainawīgiją}).} n. single combat.
+	
+
+	
+		\key{Ephraím.} {\footnotesize (From AG \gr{Ἐφραΐμ}).} m. Ephraim.
 	
 
 	
@@ -2260,6 +2344,7 @@
 		\textit{fames.} {\footnotesize (From PIE \ipa{*dʰéǵʰōm}).} f.
 			\textbf{1.} earth.
 			\textbf{2.} land.
+			\textbf{3.} country.
 	
 
 	
@@ -2268,6 +2353,16 @@
 
 	\key{fejóm,}
 		\textit{fimes.} {\footnotesize (From PIE \ipa{*ǵʰéyōm}).} f. winter.
+	
+
+	
+		\key{fekti.} {\footnotesize (From PIE \ipa{*dʰeh₁-}).} v.
+			\textbf{1.} to make, to do.
+			\textbf{2.} to put, to place.
+	
+
+	
+		\key{feljeti.} {\footnotesize (From PIE \ipa{*ǵʰélh₃-ye-ti}).} v. to flourish.
 	
 
 	\key{feman,}
@@ -2291,12 +2386,6 @@
 
 	
 		\key{fesor.} {\footnotesize (From PIE \ipa{*ǵʰésōr}).} f. hand.
-	
-
-	
-		\key{fet.} {\footnotesize (From PIE \ipa{*dʰeh₁-}).} v.
-			\textbf{1.} to make, to do.
-			\textbf{2.} to put, to place.
 	
 
 	\key{fetis,}
@@ -2328,6 +2417,10 @@
 
 	
 		\key{fjesteros.} {\footnotesize (From PIE \ipa{*dʰǵʰyésteros}).} adj. pertaining to yesterday.
+	
+
+	
+		\key{flaros.} {\footnotesize (From PIE \ipa{*ǵʰl̥h₃-ró-s}).} v. yellow.
 	
 
 	
@@ -2393,7 +2486,10 @@
 	
 
 	\key{fugater,}
-		\textit{fugtres.} {\footnotesize (From PIE \ipa{*dʰugh₂tḗr}).} f. daughter.
+		\textit{fugtres.} {\footnotesize (From PIE \ipa{*dʰugh₂tḗr}).} f.
+			\textbf{1.} daughter.
+			\textbf{2.} Virgo (constellation).
+			\textbf{3.} girl.
 	
 
 	
@@ -2469,7 +2565,7 @@
 	
 
 	
-		\key{garaidíti.} {\footnotesize (From Dan. \ipa{garaidos}).} v.
+		\key{garaidíeti.} {\footnotesize (From Dan. \ipa{garaidos}).} v.
 			\textbf{1.} to make ready.
 			\textbf{2.} to get ready (when used in the mediopassive voice).
 	
@@ -2539,6 +2635,12 @@
 	
 
 	
+		\key{gorbos.}  m.
+			\textbf{1.} crab.
+			\textbf{2.} Cancer (constellation).
+	
+
+	
 		\key{graftos.} {\footnotesize (From PIE \ipa{*gr̥bʰtós}).} adj.
 			\textbf{1.} carved.
 			\textbf{2.} written.
@@ -2558,6 +2660,10 @@
 
 	
 		\key{gronis.} {\footnotesize (From PG \ipa{*grōniz}).} adj. green.
+	
+
+	
+		\key{gronts.} {\footnotesize (From Dan. \ipa{groti}).} m. vegetation; herbs, pasture; plants.
 	
 
 	
@@ -2707,6 +2813,12 @@
 	
 
 	
+		\key{icón.}  f.
+			\textbf{1.} image.
+			\textbf{2.} icon.
+	
+
+	
 		\key{ideologia.}  f. ideology.
 	
 
@@ -2755,6 +2867,10 @@
 	
 
 	
+		\key{ipelve.} {\footnotesize (Related to Dan. \ipa{pelus}).} c. also, in addition, moreover.
+	
+
+	
 		\key{Irania.}  f. Iran.
 	
 
@@ -2776,6 +2892,12 @@
 
 	
 		\key{istrom.} {\footnotesize (From Dan. \ipa{isus}).} n. bow (weapon).
+	
+
+	
+		\key{istrom.}  m.
+			\textbf{1.} bow (weapon).
+			\textbf{2.} Sagittarius (constellation).
 	
 
 	
@@ -2804,6 +2926,10 @@
 
 	
 		\key{ive.} {\footnotesize (From PIE \ipa{*(h₁)i-we}).} conj. as, like, in the same manner as.
+	
+
+	
+		\key{iveman.} {\footnotesize (From Dan. \ipa{ive}).} n. similarity.
 	
 
 	
@@ -3022,7 +3148,9 @@
 	
 
 	
-		\key{kapros.} {\footnotesize (From PIE \ipa{*kápros}).} m. goat.
+		\key{kapros.} {\footnotesize (From PIE \ipa{*kápros}).} m.
+			\textbf{1.} goat.
+			\textbf{2.} Capricornus (constellation).
 	
 
 	
@@ -3031,6 +3159,10 @@
 
 	
 		\key{kaput.} {\footnotesize (From PIE \ipa{*káput}).} n. head.
+	
+
+	
+		\key{kaputjos.} {\footnotesize (From Dan. \ipa{kaput}).} adj. main, principal.
 	
 
 	
@@ -3154,6 +3286,12 @@
 	
 
 	
+		\key{león.}  m.
+			\textbf{1.} lion.
+			\textbf{2.} Leo (constellation).
+	
+
+	
 		\key{Leonardos Óiler.}  m. Leonhard Euler.
 	
 
@@ -3167,6 +3305,10 @@
 
 	
 		\key{linguistica.} {\footnotesize (From Fr. \ipa{linguistique}, with a latinized ending).} f. linguistics.
+	
+
+	
+		\key{linja.} {\footnotesize (From Fr. \ipa{ligne}).} f. line.
 	
 
 	
@@ -3221,6 +3363,10 @@
 
 	
 		\key{ludis.} {\footnotesize (From PIE \ipa{*h₁léwdʰis}).} m. people.
+	
+
+	
+		\key{luketer.} {\footnotesize (From Dan. \ipa{lúketor}).} v. shiner, illuminator, source of light.
 	
 
 	
@@ -3287,6 +3433,10 @@
 		\key{mánjetor.} {\footnotesize (From PIE \ipa{*mn̥-yé-tor}).} v.
 			\textbf{1.} to be thinking, to ponder.
 			\textbf{2.} to think about something (use the preposition about).
+	
+
+	
+		\key{manus.}  m. person, human.
 	
 
 	
@@ -3367,6 +3517,16 @@
 
 	\key{melit,}
 		\textit{malites.} {\footnotesize (From PIE \ipa{*mélit}).} n. honey.
+	
+
+	
+		\key{melus.}  pron. little; few; not much.
+	
+
+	
+		\key{melvjés.} {\footnotesize (From Dan. \ipa{melus}).} adj.
+			\textbf{1.} smaller; minor.
+			\textbf{2.} younger.
 	
 
 	
@@ -3628,6 +3788,10 @@
 	
 
 	
+		\key{nevamos.}  adj. ninth.
+	
+
+	
 		\key{nevan.} {\footnotesize (From PIE \ipa{*h₁néwn̥}).} num. nine.
 	
 
@@ -3636,7 +3800,15 @@
 	
 
 	
+		\key{nevandesamos.}  adj. nineteenth.
+	
+
+	
 		\key{nevandsont.} {\footnotesize (From PIE \ipa{*h₁néwn̥dḱomt}).} num. ninety.
+	
+
+	
+		\key{nevandsontos.} {\footnotesize (From PIE \ipa{*h₁néwn̥dḱomt}).} adj. ninetieth.
 	
 
 	
@@ -3812,6 +3984,10 @@
 	
 
 	
+		\key{oinodesamos.}  adj. eleventh.
+	
+
+	
 		\key{oinos.} {\footnotesize (From PIE \ipa{*óynos}).} num. one.
 	
 
@@ -3834,6 +4010,10 @@
 	
 
 	
+		\key{oktamos.}  adj. eighth.
+	
+
+	
 		\key{okto.} {\footnotesize (From PIE \ipa{*oḱtṓw}).} num. eight.
 	
 
@@ -3842,7 +4022,15 @@
 	
 
 	
+		\key{oktodesamos.}  adj. eighteenth.
+	
+
+	
 		\key{oktodsont.} {\footnotesize (From PIE \ipa{*oḱtódḱomt}).} num. eighty.
+	
+
+	
+		\key{oktodsontos.} {\footnotesize (From PIE \ipa{*oḱtódḱomt}).} adj. eightieth.
 	
 
 	
@@ -3893,6 +4081,10 @@
 
 	
 		\key{opigladjeti.} {\footnotesize (From Dan. \ipa{gladjeti}).} v. to comfort, to console.
+	
+
+	
+		\key{opisagjeti.} {\footnotesize (From Dan. \ipa{opi- + sagjeti}).} v. to celebrate.
 	
 
 	
@@ -3968,7 +4160,9 @@
 	
 
 	\key{ovis,}
-		\textit{avies.} {\footnotesize (From PIE \ipa{*h₂ówis}).} f. sheep.
+		\textit{avies.} {\footnotesize (From PIE \ipa{*h₂ówis}).} f.
+			\textbf{1.} sheep.
+			\textbf{2.} Aries (constellation).
 	
 
 	
@@ -4062,7 +4256,31 @@
 	
 
 	
+		\key{pekaputjeti.} {\footnotesize (From Dan. \ipa{pe- + kaput + -jeti}).} v. to lead, to head, to be at head.
+	
+
+	
+		\key{pelman.} {\footnotesize (From Dan. \ipa{pelus + -man}).} n. fruit.
+	
+
+	
 		\key{pelnom.} {\footnotesize (From PIE \ipa{*pel}).} n. skin.
+	
+
+	
+		\key{pelus.} {\footnotesize (From PIE \ipa{*pélh₁-u-}).} pron. much; a lot; plenty.
+	
+
+	
+		\key{pelvjés.} {\footnotesize (From Dan. \ipa{pelus}).} adj.
+			\textbf{1.} bigger; major.
+			\textbf{2.} older.
+	
+
+	
+		\key{pemanjeti.} {\footnotesize (From Dan. \ipa{pe- + mánjetor}).} v.
+			\textbf{1.} to remind (in the active voice. Use dative case for the person being reminded).
+			\textbf{2.} to remember (in the passive voice).
 	
 
 	
@@ -4074,7 +4292,19 @@
 	
 
 	
+		\key{pempedesamos.}  adj. fifteenth.
+	
+
+	
 		\key{pempedsont.} {\footnotesize (From PIE \ipa{*kʷétwr̥dḱomt}).} num. fifty.
+	
+
+	
+		\key{pempedsontos.} {\footnotesize (From PIE \ipa{*kʷétwr̥dḱomt}).} adj. fiftieth.
+	
+
+	
+		\key{pemptos.}  adj. fifth.
 	
 
 	
@@ -4156,7 +4386,19 @@
 	
 
 	
+		\key{petvardsontos.} {\footnotesize (From PIE \ipa{*kʷétwr̥dḱomt}).} adj. fortieth.
+	
+
+	
+		\key{petvártos.}  adj. fourth.
+	
+
+	
 		\key{petvordesam.} {\footnotesize (From PIE \ipa{*kʷetwóres + *déḱm̥}).} num. fourteen.
+	
+
+	
+		\key{petvordesamos.}  adj. fourteenth.
 	
 
 	
@@ -4202,7 +4444,9 @@
 	
 
 	
-		\key{pistis.} {\footnotesize (From PIE \ipa{*peysḱ-}).} m. fish.
+		\key{pistis.} {\footnotesize (From PIE \ipa{*peysḱ-}).} m.
+			\textbf{1.} fish.
+			\textbf{2.} Pisces (in the plural, constellation).
 	
 
 	
@@ -4218,7 +4462,7 @@
 	
 
 	
-		\key{pleníti.} {\footnotesize (From Dan. \ipa{planos}).} v. to fill.
+		\key{pleníeti.} {\footnotesize (From Dan. \ipa{planos}).} v. to fill.
 	
 
 	
@@ -4367,14 +4611,16 @@
 	
 
 	
+		\key{potíeti.} {\footnotesize (From Dan. \ipa{potis}).} v.
+			\textbf{1.} (with accusative) to govern, to administer.
+			\textbf{2.} (with \ipa{úper}) to rule over, to govern, to dominate.
+	
+
+	
 		\key{potis.} {\footnotesize (From PIE \ipa{*pótis}).} m.
 			\textbf{1.} master, ruler.
 			\textbf{2.} husband.
 			\textbf{3.} lord.
-	
-
-	
-		\key{potíti.} {\footnotesize (From Dan. \ipa{potis}).} v. to rule, to govern.
 	
 
 	
@@ -4412,6 +4658,10 @@
 	
 
 	
+		\key{pramos.}  adj. first.
+	
+
+	
 		\key{praseodymiom.}  n.{\footnotesize \textit{ chemistry.}} praseodymium.
 	
 
@@ -4436,7 +4686,9 @@
 			\textbf{1.} (+loc) in front of (spatial; stationary, answers the question "where?").
 			\textbf{2.} (+loc) before (temporal).
 			\textbf{3.} (+acc) in front of (spatial; with movement, answers the question "where to?").
-			\textbf{4.} (+dat) on behalf of, for the sake of, for the benefit of.
+			\textbf{4.} (+acc) according to.
+			\textbf{5.} (+dat) on behalf of, for the sake of, for the benefit of.
+			\textbf{6.} (+dat) so that, for the purpose of.
 	
 
 	
@@ -4477,6 +4729,10 @@
 
 	
 		\key{psi.}  n. Greek letter psi.
+	
+
+	
+		\key{psycha.}  f. soul.
 	
 
 	
@@ -4544,10 +4800,6 @@
 	
 
 	
-		\key{Reginvaldos.} {\footnotesize (Ultimately from PG \ipa{*Raginawaldaz}).} m. Ronald, Reginald, Reynold, Reinhold.
-	
-
-	
 		\key{Reicjavik.}  From Icelandic \ipa{Reykjavík}. Reykjavik, capital of Iceland.
 	
 
@@ -4559,8 +4811,8 @@
 		\key{remos.} {\footnotesize (From PIE \ipa{*h₁réh₁}).} adj. alone, lonely.
 	
 
-	\key{Ren,}
-		\textit{Ranes.} {\footnotesize (From PIE \ipa{*wr̥h₁ḗn}).} m. Aries.
+	
+		\key{Renvaldos.} {\footnotesize (Ultimately from PG \ipa{*Raginawaldaz}).} m. Ronald, Reginald, Reynold, Reinhold.
 	
 
 	
@@ -4688,7 +4940,9 @@
 	
 
 	
-		\key{sagjeman.} {\footnotesize (From Dan. \ipa{sagjeti}).} n. flag, banner.
+		\key{sagjeman.} {\footnotesize (From Dan. \ipa{sagjeti}).} n.
+			\textbf{1.} flag, banner.
+			\textbf{2.} sign.
 	
 
 	
@@ -4747,6 +5001,10 @@
 	
 
 	
+		\key{satenjos.} {\footnotesize (From PIE \ipa{*ḱm̥tóm}).} adj. hundredth.
+	
+
+	
 		\key{satjeti.} {\footnotesize (From PG \ipa{satjaną}).} v. to set, to place down.
 	
 
@@ -4778,6 +5036,12 @@
 
 	
 		\key{scientia.} {\footnotesize (From Lat. \ipa{scientia}).} f. science.
+	
+
+	
+		\key{scorpios.}  m.
+			\textbf{1.} scorpion.
+			\textbf{2.} Scorpius (constellation).
 	
 
 	
@@ -4843,7 +5107,15 @@
 	
 
 	
+		\key{sep.}  c. so, thus, then.
+	
+
+	
 		\key{septam.} {\footnotesize (From PIE \ipa{*septḿ̥}).} num. seven.
+	
+
+	
+		\key{septamos.}  adj. seventh.
 	
 
 	
@@ -4851,11 +5123,23 @@
 	
 
 	
+		\key{septandesamos.}  adj. seventeenth.
+	
+
+	
 		\key{septandsont.} {\footnotesize (From PIE \ipa{*septḿ̥dḱomt}).} num. seventy.
 	
 
 	
+		\key{septandsontos.} {\footnotesize (From PIE \ipa{*septḿ̥dḱomt}).} adj. seventieth.
+	
+
+	
 		\key{september.} {\footnotesize (From Lat. \ipa{September}).} m.{\footnotesize \textit{ month.}} September.
+	
+
+	
+		\key{septoives.} {\footnotesize (From Dan. \ipa{sep + toives}).} c. therefore, thus, hence.
 	
 
 	
@@ -4962,6 +5246,14 @@
 			\textbf{2.} known, famous.
 	
 
+	
+		\key{smerdeti.} {\footnotesize (From PIE \ipa{*(s)merd-}).} v. to bite.
+	
+
+	
+		\key{smernos.} {\footnotesize (From PIE \ipa{*smerd-nós}).} m. terrible, dreadful, horrible.
+	
+
 	\key{smerus,}
 		\textit{smarves.} {\footnotesize (From PIE \ipa{*smérus}).} m. grease.
 	
@@ -5017,17 +5309,17 @@
 	
 
 	
+		\key{Sol.}  m.
+			\textbf{1.} Sun (the god).
+			\textbf{2.} the Sun.
+	
+
+	
 		\key{soldátos.}  m. soldier.
 	
 
 	
 		\key{solnos.} {\footnotesize (From PIE \ipa{*solh₂-}).} pron. whole (in singular), all (in plural).
-	
-
-	
-		\key{Sols.}  m.
-			\textbf{1.} Sun (the god).
-			\textbf{2.} the Sun.
 	
 
 	
@@ -5044,6 +5336,12 @@
 
 	
 		\key{somjugestos.} {\footnotesize (From Dan. \ipa{somjugos}).} adj. united.
+	
+
+	
+		\key{somjugeti.} {\footnotesize (From Dan. \ipa{somjugos}).} v.
+			\textbf{1.} to unite (transitive).
+			\textbf{2.} to gather.
 	
 
 	
@@ -5163,7 +5461,9 @@
 	
 
 	
-		\key{statis.} {\footnotesize (From PIE \ipa{*stéh₂tis}).} f. standing, position.
+		\key{statis.} {\footnotesize (From PIE \ipa{*stéh₂tis}).} f.
+			\textbf{1.} standing, position.
+			\textbf{2.} place, location.
 	
 
 	
@@ -5207,7 +5507,15 @@
 	
 
 	
+		\key{stridos.} {\footnotesize (From PIE \ipa{*strīdaz}).} m. dispute.
+	
+
+	
 		\key{strontiom.}  n.{\footnotesize \textit{ chemistry.}} strontium.
+	
+
+	
+		\key{stultos.} {\footnotesize (From PG \ipa{*stultaz}).} adj. proud.
 	
 
 	
@@ -5259,7 +5567,19 @@
 	
 
 	
-		\key{svedsont.} {\footnotesize (From PIE \ipa{*swéḱsdḱomt}).} num. sixty.
+		\key{svekdesam.} {\footnotesize (From PIE \ipa{*swéḱs + *déḱm̥}).} num. sixteen.
+	
+
+	
+		\key{svekdesamos.}  adj. sixteenth.
+	
+
+	
+		\key{svekdsont.} {\footnotesize (From PIE \ipa{*swéḱsdḱomt}).} num. sixty.
+	
+
+	
+		\key{svekdsontos.} {\footnotesize (From PIE \ipa{*swéḱsdḱomt}).} adj. sixtieth.
 	
 
 	
@@ -5267,7 +5587,15 @@
 	
 
 	
+		\key{svektos.}  adj. sixth.
+	
+
+	
 		\key{svenati.} {\footnotesize (From PIE \ipa{*swénh₂-ti}).} v. to make a sound.
+	
+
+	
+		\key{sveníeti.} {\footnotesize (From PIE \ipa{*ḱwen-}).} v. to make holy, to hallow, to make sacred, to sanctify.
 	
 
 	
@@ -5290,10 +5618,6 @@
 		\key{svenseti.} {\footnotesize (From PIE \ipa{*ḱwen-}).} v. to make holy, to hallow, to make sacred, to sanctify.
 	
 
-	
-		\key{svesdesam.} {\footnotesize (From PIE \ipa{*swéḱs + *déḱm̥}).} num. sixteen.
-	
-
 	\key{svesor,}
 		\textit{sustres, susarmos.} {\footnotesize (From PIE \ipa{*swésōr}).} f. sister.
 	
@@ -5311,7 +5635,7 @@
 	
 
 	
-		\key{symbolom.} {\footnotesize (From Lat. \ipa{symbolum}, from AG \ipa{σύμβολον}).} n. symbol.
+		\key{symbolom.} {\footnotesize (From Lat. \ipa{symbolum}, from AG \gr{σύμβολον}).} n. symbol.
 	
 
 	
@@ -5341,7 +5665,9 @@
 	
 
 	
-		\key{tauros.} {\footnotesize (From PIE \ipa{*táwros}).} m. bull.
+		\key{tauros.} {\footnotesize (From PIE \ipa{*táwros}).} m.
+			\textbf{1.} bull.
+			\textbf{2.} Taurus (constellation).
 	
 
 	
@@ -5539,11 +5865,23 @@
 	
 
 	
+		\key{tridesamos.}  adj. thirteenth.
+	
+
+	
 		\key{tridsont.} {\footnotesize (From PIE \ipa{*tridḱómt}).} num. thirty.
 	
 
 	
+		\key{tridsontos.} {\footnotesize (From PIE \ipa{*tridḱómt}).} adj. thirtieth.
+	
+
+	
 		\key{Trinidad i Tobago.}  f. Trinidad and Tobago.
+	
+
+	
+		\key{tritos.}  adj. third.
 	
 
 	
@@ -5564,6 +5902,10 @@
 
 	
 		\key{tusontis.} {\footnotesize (From PIE \ipa{*tuHsont-}).} num. thousand; one thousand.
+	
+
+	
+		\key{tusontjos.} {\footnotesize (From PIE \ipa{*tuHsont-}).} adj. thousandth.
 	
 
 	
@@ -5602,6 +5944,18 @@
 		\key{úper.} {\footnotesize (From PIE \ipa{*upér}).} prep.
 			\textbf{1.} (+loc) above, over, on top of (stationary, answers the question "where?").
 			\textbf{2.} (+acc) over, beyond, above (with movement, answers the question "where to?").
+	
+
+	
+		\key{uperjeros.}  adj. intercalary, epagomenal.
+	
+
+	
+		\key{uperslevjos.} {\footnotesize (From Dan. \ipa{uperslevos}).} adj. glorious.
+	
+
+	
+		\key{uperslevos.} {\footnotesize (From Dan. \ipa{uper- + slevos}).} n. glory.
 	
 
 	
@@ -5690,6 +6044,12 @@
 	
 
 	
+		\key{vargos.} {\footnotesize (From PG \ipa{*wargaz}).} m.
+			\textbf{1.} enemy.
+			\textbf{2.} outlaw, criminal.
+	
+
+	
 		\key{Varsovia.} {\footnotesize (From Lat. \ipa{Varsovia}).} f. Warsaw, capital of Poland.
 	
 
@@ -5707,6 +6067,12 @@
 
 	
 		\key{ve.}  n. letter \textit{v}.
+	
+
+	
+		\key{vedenjos.}  m.
+			\textbf{1.} water-bearer, water-pourer.
+			\textbf{2.} Aquarius (constellation).
 	
 
 	
@@ -5788,7 +6154,19 @@
 	
 
 	
+		\key{vesuverdíeti.}  v. to bless.
+	
+
+	
+		\key{veterános.} {\footnotesize (From Lat. \ipa{veterānus}).} m. veteran.
+	
+
+	
 		\key{vid.} {\footnotesize (From Dan. \ipa{voide}).} interj. lo, behold, look.
+	
+
+	
+		\key{videti.} {\footnotesize (From PIE \ipa{*weyd-e-ti}).} v. to see.
 	
 
 	
@@ -5801,6 +6179,10 @@
 
 	
 		\key{vidsant.} {\footnotesize (From PIE \ipa{*wídḱm̥ti}).} num. twenty.
+	
+
+	
+		\key{vidsantos.}  adj. twentieth.
 	
 
 	
@@ -5880,6 +6262,10 @@
 
 	
 		\key{vistos.} {\footnotesize (From PIE \ipa{*widtós}).} adj. seen, known.
+	
+
+	
+		\key{viteros.}  adj. second.
 	
 
 	
@@ -5980,7 +6366,7 @@
 		\key{zirconiom.}  n.{\footnotesize \textit{ chemistry.}} zirconium.
 
 \onecolumn
-\section*{Senti soi 1392 verdóm!}
+\section*{Senti soi 1476 verdóm!}
 
 \end{document}
 

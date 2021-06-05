@@ -1,7 +1,7 @@
-\documentclass[twocolumn,a5paper]{article}
+\documentclass[twocolumn, a5paper]{article}
 \title{Dictionariom Danetiskas Danvas}
 \author{Saverios Castro}
-\date{29 martiosjo 2021}
+\date{5 juniosjo 2021}
 
 
 
@@ -40,10 +40,6 @@
 \maketitle
 
 
-	
-
-	
-		\key{-ilos.} {\footnotesize (Perhaps from PIE \ipa{*-lós}).} elem. diminutive suffix.
 	
 
 	
@@ -1172,6 +1168,10 @@
 	
 
 	
+		\key{baptisman.} {\footnotesize (From AG \gr{βάπτισμα}).} n. baptism.
+	
+
+	
 		\key{barda.} {\footnotesize (From PIE \ipa{*bʰardʰéh₂}).} f. beard.
 	
 
@@ -1622,11 +1622,15 @@
 	
 
 	
-		\key{commander.} {\footnotesize (From Fr. \ipa{commandeur}).} m. commander.
+		\key{commandier.} {\footnotesize (From Fr. \ipa{commandeur}).} m. commander.
 	
 
 	
 		\key{communismos.}  m. communism.
+	
+
+	
+		\key{communísta.} {\footnotesize (From Dan. \ipa{communismos}).} adj. communist.
 	
 
 	
@@ -1955,6 +1959,10 @@
 
 	
 		\key{Donald Tramp.}  m. Donald Trump.
+	
+
+	
+		\key{donfíeti.} {\footnotesize (From Dan. \ipa{donvos}).} v. to count.
 	
 
 	
@@ -2497,6 +2505,18 @@
 	
 
 	
+		\key{fundamental.} {\footnotesize (From Lat. \ipa{fundāmentālis}).} adj. fundamental.
+	
+
+	
+		\key{fundamentalista.} {\footnotesize (From Dan. \ipa{fundamental}).} adj. most fundamental.
+	
+
+	
+		\key{fundamentalísta.} {\footnotesize (From Dan. \ipa{fundamental}).} adj. fundamentalist.
+	
+
+	
 		\key{furista.} {\footnotesize (From Dan. \ipa{furistos}).} f. princess.
 	
 
@@ -2834,6 +2854,10 @@
 		\key{igreti.} {\footnotesize (From Dan. \ipa{igra}).} v.
 			\textbf{1.} to play a game (use the accusative).
 			\textbf{2.} to play an instrument (use \ipa{ana} + the musical instrument).
+	
+
+	
+		\key{-ilos.} {\footnotesize (Perhaps from PIE \ipa{*-lós}).} elem. diminutive suffix.
 	
 
 	
@@ -3366,6 +3390,10 @@
 	
 
 	
+		\key{lufjeti.} {\footnotesize (From PIE \ipa{*lewbʰ-}).} v. to love.
+	
+
+	
 		\key{luketer.} {\footnotesize (From Dan. \ipa{lúketor}).} v. shiner, illuminator, source of light.
 	
 
@@ -3390,11 +3418,7 @@
 	
 
 	
-		\key{luvjeti.} {\footnotesize (From PIE \ipa{*lewbʰ-}).} v. to love.
-	
-
-	
-		\key{luvos.} {\footnotesize (From Dan. \ipa{luvjeti}).} m. love.
+		\key{luvos.} {\footnotesize (From Dan. \ipa{lufjeti}).} m. love.
 	
 
 	
@@ -3605,6 +3629,18 @@
 
 	
 		\key{Miniskos.} {\footnotesize (From Rus. \cyr{Минск}, with a Danetian ending).} m. Minsk, capital of Belarus.
+	
+
+	
+		\key{ministos.} {\footnotesize (From Dan. \ipa{minos}).} adj. smallest.
+	
+
+	
+		\key{minjés.} {\footnotesize (From Dan. \ipa{minos}).} adj. smaller.
+	
+
+	
+		\key{minos.}  adj. small.
 	
 
 	
@@ -4732,7 +4768,7 @@
 	
 
 	
-		\key{psycha.}  f. soul.
+		\key{psycha.} {\footnotesize (From AG \ipa{ψῡχή}).} f. soul.
 	
 
 	
@@ -4873,6 +4909,10 @@
 		\key{rodis.} {\footnotesize (From Dan. \ipa{reds}).} f.
 			\textbf{1.} rule (regla).
 			\textbf{2.} rule (reino).
+	
+
+	
+		\key{rodukter.}  m. judge.
 	
 
 	
@@ -6366,7 +6406,9 @@
 		\key{zirconiom.}  n.{\footnotesize \textit{ chemistry.}} zirconium.
 
 \onecolumn
-\section*{Senti soi 1476 verdóm!}
+\section*{Senti soi 1486 verdóm!}
+
+Test | rtew || dlafjakl
 
 \end{document}
 

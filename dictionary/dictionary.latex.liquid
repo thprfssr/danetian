@@ -1,7 +1,7 @@
-\documentclass[twocolumn,a5paper]{article}
+\documentclass[twocolumn, a5paper]{article}
 \title{Dictionariom Danetiskas Danvas}
 \author{Saverios Castro}
-\date{29 martiosjo 2021}
+\date{5 juniosjo 2021}
 
 
 
@@ -55,21 +55,21 @@
 		{\footnotesize ({{- entry.ety -}}).}
 	{%- endif -%}
 
-	{%- assign L = entry.definitions | size -%}
+	{%- assign L = entry.content | size -%}
 	{%- if L == 1 -%}
-		{% raw %} {% endraw %}{{ entry.definitions[0].typ }}.
-		{%- if entry.definitions[0]['tag'] != '' -%}
-			{\footnotesize \textit{ {{ entry.definitions[0]['tag'] }}.}}
+		{% raw %} {% endraw %}{{ entry.content[0].typ }}.
+		{%- if entry.content[0]['tag'] != '' -%}
+			{\footnotesize \textit{ {{ entry.content[0]['tag'] }}.}}
 		{%- endif -%}
-		{% raw %} {% endraw %}{{ entry.definitions[0].def }}.
-		{%- if entry.definitions[0]['ex'] != '' -%}
-			{% raw %} {% endraw %}{\footnotesize {{ entry.definitions[0]['ex'] }}.}
+		{% raw %} {% endraw %}{{ entry.content[0].def }}.
+		{%- if entry.content[0]['ex'] != '' -%}
+			{% raw %} {% endraw %}{\footnotesize {{ entry.content[0]['ex'] }}.}
 		{%- endif -%}
 	{%- else -%}
 		{%- assign i = 0 -%}
-		{%- assign typ = entry.definitions[0].typ -%}
+		{%- assign typ = entry.content[0].typ -%}
 		{% raw %} {% endraw %}{{ typ }}.
-		{%- for item in entry.definitions -%}
+		{%- for item in entry.content -%}
 			{%- assign newtyp = item.typ -%}
 			{%- if newtyp != typ -%}
 				{%- assign typ = newtyp -%}
@@ -92,5 +92,7 @@
 
 \onecolumn
 \section*{Senti soi {{ dictionary | size }} verdóm!}
+
+Test | rtew || dlafjakl
 
 \end{document}

@@ -1,30 +1,30 @@
 - key: barda
   ety: From PIE \ipa{*bʰardʰéh₂}
-  definitions:
+  content:
     - typ: f
       def: beard
 
 - key: befrus
   ety: From PIE \ipa{*bʰébʰrus}
-  definitions:
+  content:
     - typ: m
       def: beaver
 
 - key: bados
   ety: From PIE \ipa{*bʰeh₂ǵos}
-  definitions:
+  content:
     - typ: f
       def: beech
 
 - key: badus
   ety: From PIE \ipa{*bʰeh₂ǵʰús}
-  definitions:
+  content:
     - typ: m
       def: arm
 
 - key: berdos
   ety: From PIE \ipa{*bʰerHǵós}
-  definitions:
+  content:
     - typ: m
       def: birch
     - typ: m
@@ -33,27 +33,27 @@
 - key: bertis
   parts: barties
   ety: From PIE \ipa{*bʰértis}
-  definitions:
+  content:
     - typ: f
       def: the act of carrying, bearing
 
 - key: bor
   parts: beres, barmos
   ety: From PIE \ipa{*bʰṓr}
-  definitions:
+  content:
     - typ: m
       def: thief
 
 - key: brevan
   parts: bravens, brunamos
   ety: From PIE \ipa{*bʰréh₁wr̥}
-  definitions:
+  content:
     - typ: n
       def: well, spring, source
 
 - key: brater
   ety: From PIE \ipa{*bʰréh₂tēr}
-  definitions:
+  content:
     - typ: m
       def: brother
     - typ: m
@@ -62,82 +62,82 @@
 - key: bufmén
   parts: bufnes, budanmos
   ety: From PIE \ipa{*bʰudʰmḗn}
-  definitions:
+  content:
     - typ: m
       def: bottom
 
 - key: nebufmén
   parts: nebufnes, nebudanmos
   ety: From Dan. \ipa{ne + bufmén}
-  definitions:
+  content:
     - typ: m
       def: abyss, bottomless pit
 
 - key: buga
   ety: From PIE \ipa{*bʰugéh₂}
-  definitions:
+  content:
     - typ: f
       def: flight, escape
 
 - key: dakru
   ety: From PIE \ipa{*dáḱru}
-  definitions:
+  content:
     - typ: n
       def: tear (in the eyes)
 
 - key: daitis
   ety: From PIE \ipa{*déh₂itis}
-  definitions:
+  content:
     - typ: f
       def: time
 
 - key: danu
   ety: From PIE \ipa{*déh₂nu}
-  definitions:
+  content:
     - typ: n
       def: river
 
 - key: donom
   ety: From PIE \ipa{*déh₃nom}
-  definitions:
+  content:
     - typ: n
       def: gift
 
 - key: dotis
   parts: daties
   ety: From PIE \ipa{*déh₃tis}
-  definitions:
+  content:
     - typ: f
       def: act of giving
 
 - key: dotor
   parts: datres
   ety: From PIE \ipa{*déh₃tōr}
-  definitions:
+  content:
     - typ: m
       def: giver
 
 - key: desos
   ety: From PIE \ipa{*déḱos}
-  definitions:
+  content:
     - typ: n
       def: that which is proper
 
 - key: denspotis
   ety: From PIE \ipa{*déms pótis}
-  definitions:
+  content:
     - typ: m
       def: master of the house
 
 - key: divos
   ety: From PIE \ipa{*deywós}
-  definitions:
+  content:
     - typ: m
       def: god
 
 - key: danva
   ety: From PIE \ipa{*dn̥ǵʰwéh₂s}
-  definitions:
+  content:
     - typ: f
       def: tongue
     - typ: f
@@ -146,28 +146,28 @@
 - key: dom
   parts: dems
   ety: From PIE \ipa{*dṓm}
-  definitions:
+  content:
     - typ: m
       def: house, home
 
 - key: doru
   parts: dreves, drumos
   ety: From PIE \ipa{*dóru}
-  definitions:
+  content:
     - typ: n
       def: tree
 
 - key: djus
   parts: dives, djumos
   ety: From PIE \ipa{*dyḗws}
-  definitions:
+  content:
     - typ: m
       def: sky, heaven
 
 - key: fedóm
   parts: fames
   ety: From PIE \ipa{*dʰéǵʰōm}
-  definitions:
+  content:
     - typ: f
       def: earth
     - typ: f
@@ -178,7 +178,7 @@
 - key: feman
   parts: famens
   ety: From PIE \ipa{*dʰéh₁mn̥}
-  definitions:
+  content:
     - typ: n
       def: abode, dwelling
     - typ: n
@@ -189,7 +189,7 @@
 - key: fetis
   parts: faties
   ety: From PIE \ipa{*dʰéh₁tis}
-  definitions:
+  content:
     - typ: f
       def: act of putting, placement
     - typ: f
@@ -199,13 +199,13 @@
 
 - key: fitis
   ety: From PIE \ipa{*dʰgʷʰéytis}
-  definitions:
+  content:
     - typ: f
       def: decay, destruction
 
 - key: fomos
   ety: From PIE \ipa{*dʰóh₁mos}
-  definitions:
+  content:
     - typ: m
       def: that which is put, placed
     - typ: m
@@ -213,27 +213,27 @@
 
 - key: fona
   ety: From PIE \ipa{*dʰoHnéh₂}
-  definitions:
+  content:
     - typ: f
       def: bread
 
 - key: frags
   acc-sg: fragam
   ety: From PIE \ipa{*dʰrā́ks}
-  definitions:
+  content:
     - typ: m
       def: dregs, sediment (of wine, oil, fat)
 
 - key: frugos
   ety: From PIE \ipa{*dʰrówgʰos}
-  definitions:
+  content:
     - typ: m
       def: a deception, falsehood, lie
 
 - key: fugater
   parts: fugtres
   ety: From PIE \ipa{*dʰugh₂tḗr}
-  definitions:
+  content:
     - typ: f
       def: daughter
     - typ: f
@@ -243,27 +243,27 @@
 
 - key: fumos
   ety: From PIE \ipa{*dʰuh₂mós}
-  definitions:
+  content:
     - typ: m
       def: smoke
 
 - key: vor
   parts: fures, varmos
   ety: From PIE \ipa{*dʰwṓr}
-  definitions:
+  content:
     - typ: m
       def: door
 
 - key: delus
   ety: From PIE \ipa{*ǵelu-}
-  definitions:
+  content:
     - typ: m
       def: leech
 
 - key: denaman
   parts: danamens
   ety: From PIE \ipa{*ǵénh₁mn̥}
-  definitions:
+  content:
     - typ: n
       def: offspring, seed
     - typ: n
@@ -271,14 +271,14 @@
 
 - key: denos
   ety: From PIE \ipa{*ǵénh₁os}
-  definitions:
+  content:
     - typ: n
       def: race, lineage
 
 - key: denatis
   parts: danaties
   ety: From PIE \ipa{*ǵénh₁tis}
-  definitions:
+  content:
     - typ: f
       def: birth
     - typ: f
@@ -286,14 +286,14 @@
 
 - key: donia
   ety: From Dan. \ipa{denatis}
-  definitions:
+  content:
     - typ: f
       def: motherland
 
 - key: denator
   parts: danatres
   ety: From PIE \ipa{*ǵénh₁tōr}
-  definitions:
+  content:
     - typ: m
       def: one who begets
     - typ: m
@@ -304,7 +304,7 @@
 - key: denus
   parts: danves, danumos
   ety: From PIE \ipa{*ǵénus}
-  definitions:
+  content:
     - typ: f
       def: cheek
     - typ: f
@@ -314,44 +314,50 @@
 
 - key: dustus
   ety: From PIE \ipa{*ǵéwstus}
-  definitions:
+  content:
     - typ: m
       def: taste
 
 - key: donvos
   ety: From PIE \ipa{*ǵómbʰos}
-  definitions:
+  content:
     - typ: m
       def: number
 
+- key: donfíeti
+  ety: From Dan. \ipa{donvos}
+  content:
+    - typ: v
+      def: to count
+
 - key: donos
   ety: From PIE \ipa{*ǵónh₁os}
-  definitions:
+  content:
     - typ: m
       def: offspring
 
 - key: donu
   parts: danves, danumos
   ety: From PIE \ipa{*ǵónu}
-  definitions:
+  content:
     - typ: n
       def: knee
 
 - key: dranom
   ety: From PIE \ipa{*ǵr̥h₂nóm}
-  definitions:
+  content:
     - typ: n
       def: grain
 
 - key: fer
   ety: From PIE \ipa{*ǵʰḗr}
-  definitions:
+  content:
     - typ: m
       def: hedgehog
 
 - key: fesor
   ety: From PIE \ipa{*ǵʰésōr}
-  definitions:
+  content:
     - typ: f
       def: hand
 
@@ -359,21 +365,21 @@
   parts: fimes
   ety: From PIE \ipa{*ǵʰéyōm}
   cat: seasons
-  definitions:
+  content:
     - typ: f
       def: winter
 
 - key: brasmos
   ety: From PIE \ipa{*semh₂-}
   cat: seasons
-  definitions:
+  content:
     - typ: m
       def: summer
 
 - key: sosna
   ety: From PIE \ipa{*(s)h₁es-}
   cat: seasons
-  definitions:
+  content:
     - typ: f
       def: autumn
 
@@ -381,80 +387,80 @@
   parts: vesens
   ety: From PIE \ipa{*wósr̥}
   cat: seasons
-  definitions:
+  content:
     - typ: n
       def: spring
 
 - key: famón
   parts: famnes, famanmos
   ety: From PIE \ipa{*ǵʰm̥nés}
-  definitions:
+  content:
     - typ: m
       def: earthling
 
 - key: fortos
   ety: From PIE \ipa{*ǵʰórtos}
-  definitions:
+  content:
     - typ: m
       def: enclosure
 
 - key: gerán
   parts: granes, granmos
   ety: From PIE \ipa{*gerh₂ḗn}
-  definitions:
+  content:
     - typ: m
       def: crane, heron
 
 - key: glis
   parts: gladies, glimos
   ety: From PIE \ipa{*gl̥h₁éys}
-  definitions:
+  content:
     - typ: m
       def: weasel
 
 - key: hostis
   ety: From PIE \ipa{*gʰóstis}
-  definitions:
+  content:
     - typ: m
       def: guest
 
 - key: bentis
   parts: banties
   ety: From PIE \ipa{*gʷémtis}
-  definitions:
+  content:
     - typ: f
       def: step, act of walking
 
 - key: bena
   ety: From PIE \ipa{*gʷḗn}
-  definitions:
+  content:
     - typ: f
       def: woman
 
 - key: beru
   parts: breves, brumos
   ety: From PIE \ipa{*gʷéru}
-  definitions:
+  content:
     - typ: n
       def: spear
 
 - key: bovs
   parts: beves, bumos
   ety: From PIE \ipa{*gʷṓws}
-  definitions:
+  content:
     - typ: m
       def: cattle
 
 - key: bravón
   parts: brunes, bravanmos
   ety: From PIE \ipa{*gʷréh₂wō}
-  definitions:
+  content:
     - typ: m
       def: quern, millstone
 
 - key: beros
   ety: From PIE \ipa{*gʷʰéros}
-  definitions:
+  content:
     - typ: n
       def: heat
     - typ: n
@@ -462,13 +468,13 @@
 
 - key: bantis
   ety: From PIE \ipa{*gʷʰn̥téys}
-  definitions:
+  content:
     - typ: f
       def: striking, killing
 
 - key: briva
   ety: From PIE \ipa{*gʷriHwéh₂}
-  definitions:
+  content:
     - typ: f
       def: mane, nape
     - typ: f
@@ -478,13 +484,13 @@
 
 - key: agnos
   ety: From PIE \ipa{*h₂egʷnós}
-  definitions:
+  content:
     - typ: m
       def: lamb
 
 - key: agos
   ety: From PIE \ipa{*h₂égʰos}
-  definitions:
+  content:
     - typ: n
       def: (emotional) distress
     - typ: n
@@ -492,56 +498,56 @@
 
 - key: adros
   ety: From PIE \ipa{*h₂éǵros}
-  definitions:
+  content:
     - typ: m
       def: field
 
 - key: abol
   parts: bles, balmos
   ety: From PIE \ipa{*h₂ébōl}
-  definitions:
+  content:
     - typ: m
       def: apple
 
 - key: videva
   ety: From PIE \ipa{*h₁widʰéwh₂}
-  definitions:
+  content:
     - typ: f
       def: widow
 
 - key: rebos
   ety: From PIE \ipa{*h₁régʷos}
-  definitions:
+  content:
     - typ: n
       def: darkness
 
 - key: oitos
   ety: From PIE \ipa{*h₁óytos}
-  definitions:
+  content:
     - typ: m
       def: oath, covenant
 
 - key: udan
   ety: From PIE \ipa{*h₁ówdʰr̥}
-  definitions:
+  content:
     - typ: n
       def: udder
 
 - key: ombol
   ety: From PIE \ipa{*h₂óngʷōl}
-  definitions:
+  content:
     - typ: m
       def: charcoal
 
 - key: olos
   ety: From PIE \ipa{*h₁ólos}
-  definitions:
+  content:
     - typ: m
       def: awl
 
 - key: os
   ety: From PIE \ipa{*h₁óh₃s}
-  definitions:
+  content:
     - typ: n
       def: mouth
   inflection: III-C
@@ -549,76 +555,76 @@
 - key: noman
   parts: nemens
   ety: From PIE \ipa{*h₁nómn̥}
-  definitions:
+  content:
     - typ: n
       def: name
 
 - key: ludis
   ety: From PIE \ipa{*h₁léwdʰis}
-  definitions:
+  content:
     - typ: m
       def: people
 
 - key: itan
   ety: From PIE \ipa{*h₁éytr̥}
-  definitions:
+  content:
     - typ: n
       def: way, course
 
 - key: esan
   parts: sens, sanmos
   ety: From PIE \ipa{*h₁ésh₂r̥}
-  definitions:
+  content:
     - typ: n
       def: (flowing) blood
 
 - key: esvos
   ety: From PIE \ipa{*h₁éḱwos}
-  definitions:
+  content:
     - typ: m
       def: horse, stallion
 
 - key: fans
   ety: From PIE \ipa{*ǵʰh₂éns}
-  definitions:
+  content:
     - typ: f
       def: goose
 
 - key: asmón
   parts: samnes, smanmos
   ety: From PIE \ipa{*h₂éḱmō}
-  definitions:
+  content:
     - typ: m
       def: stone
 
 - key: alfit
   parts: alfites, alfitmos
   ety: From PIE \ipa{*h₂élbʰit}
-  definitions:
+  content:
     - typ: n
       def: barley
 
 - key: alisa
   ety: From PIE \ipa{*h₂élis-}
-  definitions:
+  content:
     - typ: f
       def: alder
 
 - key: anfos
   ety: From PIE \ipa{*h₂éndʰos}
-  definitions:
+  content:
     - typ: n
       def: bloom
 
 - key: anfis
   ety: From PIE \ipa{*h₂éngʷʰis}
-  definitions:
+  content:
     - typ: m
       def: snake
 
 - key: anamos
   ety: From PIE \ipa{*h₂enh₁mos}
-  definitions:
+  content:
     - typ: m
       def: breath
 
@@ -626,19 +632,19 @@
   abl-pl: anatmos
   acc-sg: anatam
   ety: From PIE \ipa{*h₂énh₂ts}
-  definitions:
+  content:
     - typ: f
       def: duck
 
 - key: ankos
   ety: From PIE \ipa{*h₂énkos}
-  definitions:
+  content:
     - typ: n
       def: curve, bend
 
 - key: antjos
   ety: From PIE \ipa{*h₂entíos}
-  definitions:
+  content:
     - typ: m
       def: front
     - typ: m
@@ -646,28 +652,28 @@
 
 - key: artrom
   ety: From PIE \ipa{*h₂érh₃trom}
-  definitions:
+  content:
     - typ: n
       def: plough, ard
 
 - key: avis
   parts: uvies, vimos
   ety: From PIE \ipa{*h₂éwis}
-  definitions:
+  content:
     - typ: f
       def: bird
 
 - key: ausós
   parts: uses
   ety: From PIE \ipa{*h₂éwsōs}
-  definitions:
+  content:
     - typ: f
       def: dawn
 
 - key: ajos
   ety: From PIE \ipa{*h₂éyos}
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: copper
       tag: chemistry
@@ -675,14 +681,14 @@
 - key: ner
   parts: andres, narmos
   ety: From PIE \ipa{*h₂nḗr}
-  definitions:
+  content:
     - typ: m
       def: power, force, vital energy
 
 - key: okris
   parts: ekris
   ety: From PIE \ipa{*h₂óḱris}
-  definitions:
+  content:
     - typ: f
       def: top, protrusion
     - typ: f
@@ -691,27 +697,27 @@
 - key: oms
   parts: ames
   ety: From PIE \ipa{*h₂ṓms}
-  definitions:
+  content:
     - typ: m
       def: shoulder
 
 - key: onkos
   ety: From PIE \ipa{*h₂ónkos}
-  definitions:
+  content:
     - typ: m
       def: bend, turn
 
 - key: ost
   parts: astes
   ety: From PIE \ipa{*h₂óst}
-  definitions:
+  content:
     - typ: n
       def: bone
 
 - key: ovis
   parts: avies
   ety: From PIE \ipa{*h₂ówis}
-  definitions:
+  content:
     - typ: f
       def: sheep
     - typ: f
@@ -720,72 +726,72 @@
 - key: us
   parts: auses
   ety: From PIE \ipa{*h₂ṓws}
-  definitions:
+  content:
     - typ: n
       def: ear
   inflection: III-C
 
 - key: ojom
   ety: From PIE \ipa{*h₂ōwyóm}
-  definitions:
+  content:
     - typ: n
       def: egg
 
 - key: oju
   parts: juves, jumos
   ety: From PIE \ipa{*h₂óyu}
-  definitions:
+  content:
     - typ: n
       def: long life, lifetime
 
 - key: ardantom
   ety: From PIE \ipa{*h₂r̥ǵn̥tóm}
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: silver
       tag: chemistry
 
 - key: artos
   ety: From PIE \ipa{*h₂ŕ̥tḱos}
-  definitions:
+  content:
     - typ: m
       def: bear
 
 - key: ster
   ety: From PIE \ipa{*h₂stḗr}
-  definitions:
+  content:
     - typ: m
       def: star
 
 - key: aster
   ety: Variant of Dan. \ipa{ster}
-  definitions:
+  content:
     - typ: m
       def: star
 
 - key: lana
   ety: From PIE \ipa{*h₂wĺ̥h₁neh₂}
-  definitions:
+  content:
     - typ: f
       def: wool
 
 - key: vostu
   ety: From PIE \ipa{*h₂wóstu}
-  definitions:
+  content:
     - typ: n
       def: home, dwelling
 
 - key: junta
   ety: From PIE \ipa{*h₂yuHn̥téh₂}
-  definitions:
+  content:
     - typ: f
       def: youth
 
 - key: brus¹
   parts: bruves, brumos
   ety: From PIE \ipa{*gʷr̥h₂ús}
-  definitions:
+  content:
     - typ: adj
       def: heavy
     - typ: adj
@@ -796,65 +802,65 @@
 - key: brus²
   parts: bruves, brumos
   ety: From PIE \ipa{*h₃bʰrúHs}
-  definitions:
+  content:
     - typ: f
       def: eyebrow
 
 - key: donts
   parts: dantes
   ety: From PIE \ipa{*h₃dónts}
-  definitions:
+  content:
     - typ: m
       def: tooth
 
 - key: odés
   ety: From PIE \ipa{*h₃edʰḗs}
-  definitions:
+  content:
     - typ: m
       def: adze, axe, hatchet
 
 - key: omban
   parts: ambens
   ety: From PIE \ipa{*h₃éngʷn̥}
-  definitions:
+  content:
     - typ: n
       def: fat, butter
 
 - key: onos
   ety: From PIE \ipa{*h₃énh₂os}
-  definitions:
+  content:
     - typ: n
       def: load, burden
 
 - key: orón
   parts: arnes, ranmos
   ety: From PIE \ipa{*h₃érō}
-  definitions:
+  content:
     - typ: m
       def: eagle
 
 - key: mihla
   ety: From PIE \ipa{*h₃migʰleh₂}
-  definitions:
+  content:
     - typ: f
       def: mist, fog
 
 - key: nofilos
   ety: From PIE \ipa{*h₃nobʰilos}
-  definitions:
+  content:
     - typ: m
       def: navel
 
 - key: nogs
   parts: neges
   ety: From PIE \ipa{*h₃nṓgʰs}
-  definitions:
+  content:
     - typ: m
       def: nail (of the finger or toe)
 
 - key: orfos
   ety: From PIE \ipa{*h₃órbʰos}
-  definitions:
+  content:
     - typ: m
       def: orphan
     - typ: m
@@ -862,7 +868,7 @@
 
 - key: osdos
   ety: From PIE \ipa{*h₃ósdos}
-  definitions:
+  content:
     - typ: m
       def: branch
     - typ: m
@@ -872,100 +878,100 @@
   acc-sg: redam
   ety: From PIE \ipa{*h₃rḗǵs}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: m
       def: king, ruler
 
 - key: isus
   ety: From PIE \ipa{*(H)ísus}
-  definitions:
+  content:
     - typ: m
       def: arrow
 
 - key: ordis
   ety: From PIE \ipa{*h₄órǵʰis}
-  definitions:
+  content:
     - typ: m
       def: testicle
 
 - key: serd
   parts: sardes
   ety: From PIE \ipa{*ḱḗr}
-  definitions:
+  content:
     - typ: n
       def: heart
 
 - key: sersón
   parts: krasnes, krasanmos
   ety: From PIE \ipa{*ḱérh₂sō}
-  definitions:
+  content:
     - typ: m
       def: head, skull
 
 - key: slevos
   ety: From PIE \ipa{*ḱléwos}
-  definitions:
+  content:
     - typ: n
       def: fame
 
 - key: uperslevos
   ety: From Dan. \ipa{uper- + slevos}
-  definitions:
+  content:
     - typ: n
       def: glory
 
 - key: uperslevjos
   ety: From Dan. \ipa{uperslevos}
-  definitions:
+  content:
     - typ: adj
       def: glorious
 
 - key: slita
   ety: From PIE \ipa{*ḱléyteh₂}
-  definitions:
+  content:
     - typ: f
       def: slope, incline
 
 - key: slitra
   ety: From PIE \ipa{*ḱléytreh₂}
-  definitions:
+  content:
     - typ: f
       def: shelter, covering
 
 - key: slunis
   ety: From PIE \ipa{*ḱlównis}
-  definitions:
+  content:
     - typ: f
       def: buttocks, kip
 
 - key: sopos²
   ety: From PIE \ipa{*ḱoph₂ós}
-  definitions:
+  content:
     - typ: m
       def: hoof
 
 - key: sarsos
   ety: From PIE \ipa{*ḱr̥sós}
-  definitions:
+  content:
     - typ: m
       def: vehicle
 
 - key: svon
   parts: sunes, svanmos
   ety: From PIE \ipa{*ḱwṓ}
-  definitions:
+  content:
     - typ: m
       def: dog
 
 - key: kagjom
   ety: From PIE \ipa{*kagʰyóm}
-  definitions:
+  content:
     - typ: n
       def: enclosure, hedge
 
 - key: kapros
   ety: From PIE \ipa{*kápros}
-  definitions:
+  content:
     - typ: m
       def: goat
     - typ: m
@@ -973,38 +979,38 @@
 
 - key: kaput
   ety: From PIE \ipa{*káput}
-  definitions:
+  content:
     - typ: n
       def: head
 
 - key: kaputjos
   ety: From Dan. \ipa{kaput}
-  definitions:
+  content:
     - typ: adj
       def: main, principal
 
 - key: pekaputjeti
   ety: From Dan. \ipa{pe- + kaput + -jeti}
-  definitions:
+  content:
     - typ: v
       def: to lead, to head, to be at head
 
 - key: kotus
   parts: katves
   ety: From PIE \ipa{*kéh₃tus}
-  definitions:
+  content:
     - typ: m
       def: fight
 
 - key: koksa
   ety: From PIE \ipa{*kóḱs-}
-  definitions:
+  content:
     - typ: f
       def: (anatomy) joint
 
 - key: peplos
   ety: From PIE \ipa{*kʷékʷlos}
-  definitions:
+  content:
     - typ: m
       def: wheel
     - typ: m
@@ -1012,7 +1018,7 @@
 
 - key: poina
   ety: From PIE \ipa{*kʷoynéh₂}
-  definitions:
+  content:
     - typ: f
       def: payment
     - typ: f
@@ -1020,14 +1026,14 @@
 
 - key: parmis
   ety: From PIE \ipa{*kʷŕ̥mis}
-  definitions:
+  content:
     - typ: m
       def: worm
 
 - key: lokus
   parts: alkves
   ety: From PIE \ipa{*lókus}
-  definitions:
+  content:
     - typ: m
       def: pond, pool
     - typ: m
@@ -1035,13 +1041,13 @@
 
 - key: Luna
   ety: From PIE \ipa{*lówksneh₂}, with influence from Lat. \ipa{lūna}
-  definitions:
+  content:
     - typ: f
       def: the Moon
 
 - key: loisa
   ety: From PIE \ipa{*lóyseh₂}
-  definitions:
+  content:
     - typ: f
       def: following, track
     - typ: f
@@ -1049,7 +1055,7 @@
 
 - key: mens¹
   ety: From PIE \ipa{*mḗh₁n̥s}
-  definitions:
+  content:
     - typ: m
       def: moon
     - typ: m
@@ -1058,34 +1064,34 @@
 
 - key: mater
   ety: From PIE \ipa{*méh₂tēr}
-  definitions:
+  content:
     - typ: f
       def: mother
 
 - key: melit
   parts: malites
   ety: From PIE \ipa{*mélit}
-  definitions:
+  content:
     - typ: n
       def: honey
 
 - key: mens²
   ety: From PIE \ipa{*mḗms}
-  definitions:
+  content:
     - typ: n
       def: flesh, meat
   irregular: true
 
 - key: menos
   ety: From PIE \ipa{*ménos}
-  definitions:
+  content:
     - typ: n
       def: mind
 
 - key: mentis
   parts: manties
   ety: From PIE \ipa{*méntis}
-  definitions:
+  content:
     - typ: f
       def: thought
     - typ: f
@@ -1094,13 +1100,13 @@
 - key: mertis
   parts: marties
   ety: From PIE \ipa{*mértis}
-  definitions:
+  content:
     - typ: f
       def: death
 
 - key: misdos
   ety: From PIE \ipa{*misdʰós}
-  definitions:
+  content:
     - typ: m
       def: reward, prize
     - typ: m
@@ -1109,20 +1115,20 @@
 - key: mori
   parts: maries
   ety: From PIE \ipa{*móri}
-  definitions:
+  content:
     - typ: n
       def: sea
 
 - key: morvis
   parts: marvies
   ety: From PIE \ipa{*morwi-}
-  definitions:
+  content:
     - typ: f
       def: ant
 
 - key: mosgos
   ety: From PIE \ipa{*mosgʰós}
-  definitions:
+  content:
     - typ: m
       def: marrow
     - typ: m
@@ -1131,14 +1137,14 @@
 - key: mus
   parts: muses
   ety: From PIE \ipa{*múh₂s}
-  definitions:
+  content:
     - typ: m
       def: mouse
   inflection: III-C
 
 - key: mutrom
   ety: From PIE \ipa{*múHtrom}
-  definitions:
+  content:
     - typ: n
       def: excrement, urine
     - typ: n
@@ -1146,7 +1152,7 @@
 
 - key: anfros
   ety: From PIE \ipa{*n̥bʰrós}
-  definitions:
+  content:
     - typ: m
       def: rain-cloud
     - typ: m
@@ -1154,25 +1160,25 @@
 
 - key: nefos
   ety: From PIE \ipa{*nébʰos}
-  definitions:
+  content:
     - typ: n
       def: cloud
 
 - key: nefros
   ety: From PIE \ipa{*negʷʰrós}
-  definitions:
+  content:
     - typ: m
       def: kidney
 
 - key: nas
   ety: From PIE \ipa{*néh₂s}
-  definitions:
+  content:
     - typ: f
       def: nose
 
 - key: nemos
   ety: From PIE \ipa{*némos}
-  definitions:
+  content:
     - typ: n
       def: sacrifice
     - typ: n
@@ -1180,40 +1186,40 @@
 
 - key: nisdos
   ety: From PIE \ipa{*nisdós}
-  definitions:
+  content:
     - typ: m
       def: nest
 
 - key: nopts
   parts: neptes
   ety: From PIE \ipa{*nókʷts}
-  definitions:
+  content:
     - typ: f
       def: night
 
 - key: pavan
   ety: From PIE \ipa{*péh₂wr̥}
-  definitions:
+  content:
     - typ: n
       def: bonfire
 
 - key: pavinos
   ety: From Dan. \ipa{pavan}
-  definitions:
+  content:
     - typ: adj
       def: fiery
 
 - key: pesu
   parts: pasves
   ety: From PIE \ipa{*péḱu}
-  definitions:
+  content:
     - typ: n
       def: livestock
 
 - key: persus
   parts: parsves
   ety: From PIE \ipa{*pérḱus}
-  definitions:
+  content:
     - typ: f
       def: chest
     - typ: f
@@ -1222,40 +1228,40 @@
 - key: perkus
   parts: parkves
   ety: From PIE \ipa{*pérkus}
-  definitions:
+  content:
     - typ: m
       def: oak
 
 - key: pertus
   parts: partves
   ety: From PIE \ipa{*pértus}
-  definitions:
+  content:
     - typ: m
       def: crossing
 
 - key: pervan
   parts: parvens, prumos
   ety: From PIE \ipa{*pérwr̥}
-  definitions:
+  content:
     - typ: n
       def: ford, crossing
 
 - key: petan
   parts: patens
   ety: From PIE \ipa{*péth₂r̥}
-  definitions:
+  content:
     - typ: n
       def: wing
 
 - key: pater
   ety: From PIE \ipa{*ph₂tḗr}
-  definitions:
+  content:
     - typ: m
       def: father
 
 - key: pisda
   ety: From PIE \ipa{*písdeh₂}
-  definitions:
+  content:
     - typ: f
       def: vulva
       tag: vulgar
@@ -1263,39 +1269,39 @@
 - key: plotus
   parts: platves
   ety: From PIE \ipa{*pléh₃tus}
-  definitions:
+  content:
     - typ: m
       def: flood
 
 - key: pletos
   ety: From PIE \ipa{*pléth₂os}
-  definitions:
+  content:
     - typ: n
       def: breadth
 
 - key: plumón
   parts: palvamnes, plumanmos
   ety: From PIE \ipa{*pléwmō}
-  definitions:
+  content:
     - typ: m
       def: lung
 
 - key: pluksna
   ety: From PIE \ipa{*plúnksneh₂}
-  definitions:
+  content:
     - typ: f
       def: feather
 
 - key: plusis
   ety: From PIE \ipa{*plúsis}
-  definitions:
+  content:
     - typ: f
       def: flea
 
 - key: numan
   abl-pl: panvamnes
   ety: From PIE \ipa{*pnéwmn̥}
-  definitions:
+  content:
     - typ: n
       def: breath
     - typ: n
@@ -1303,39 +1309,39 @@
 
 - key: panstis
   ety: From PIE \ipa{*pn̥kʷstis}
-  definitions:
+  content:
     - typ: f
       def: fist
 
 - key: pods
   parts: pedes
   ety: From PIE \ipa{*pṓds}
-  definitions:
+  content:
     - typ: m
       def: foot
 
 - key: ponts
   parts: pantes
   ety: From PIE \ipa{*póntoh₁s}
-  definitions:
+  content:
     - typ: m
       def: path, way
 
 - key: porsos
   ety: From PIE \ipa{*pórḱos}
-  definitions:
+  content:
     - typ: m
       def: pig, piglet, hog, swine
 
 - key: pornom
   ety: From PIE \ipa{*pornóm}
-  definitions:
+  content:
     - typ: n
       def: fern, leaf
 
 - key: potis
   ety: From PIE \ipa{*pótis}
-  definitions:
+  content:
     - typ: m
       def: master, ruler
     - typ: m
@@ -1346,44 +1352,44 @@
 - key: sten
   parts: stanes
   ety: From PIE \ipa{*pstḗn}
-  definitions:
+  content:
     - typ: m
       def: breast, teat
 
 - key: puros
   ety: From PIE \ipa{*puHrós}
-  definitions:
+  content:
     - typ: m
       def: wheat
 
 - key: rugis
   ety: From PIE \ipa{*rúgʰis}
-  definitions:
+  content:
     - typ: m
       def: rye
 
 - key: sedos
   ety: From PIE \ipa{*séǵʰos}
-  definitions:
+  content:
     - typ: n
       def: power, strength
 
 - key: anasedos
   ety: From Dan. \ipa{ana- + sedos}
-  definitions:
+  content:
     - typ: n
       def: victory
 
 - key: anasedeti
   ety: From Dan. \ipa{anasedos}
-  definitions:
+  content:
     - typ: v
       def: to triumph, to be victorious over, to win
 
 - key: seman
   parts: samens
   ety: From PIE \ipa{*séh₁mn̥}
-  definitions:
+  content:
     - typ: n
       def: seed
     - typ: n
@@ -1392,25 +1398,25 @@
 - key: sals
   acc-sg: salam
   ety: From PIE \ipa{*séh₂ls}
-  definitions:
+  content:
     - typ: m
       def: salt
 
 - key: selos
   ety: From PIE \ipa{*sélos}
-  definitions:
+  content:
     - typ: n
       def: marsh
 
 - key: soia
   ety: From PIE \ipa{*(s)ḱeh₃ih₂}
-  definitions:
+  content:
     - typ: f
       def: shadow, shade
 
 - key: spalos
   ety: From PIE \ipa{*(s)kʷálos}
-  definitions:
+  content:
     - typ: m
       def: large fish
     - typ: m
@@ -1419,60 +1425,60 @@
 - key: smerus
   parts: smarves
   ety: From PIE \ipa{*smérus}
-  definitions:
+  content:
     - typ: m
       def: grease
 
 - key: snevan
   parts: snavens
   ety: From PIE \ipa{*snéh₁wr̥}
-  definitions:
+  content:
     - typ: n
       def: sinew, tendon
 
 - key: snetan
   parts: snatens
   ety: From PIE \ipa{*(s)néHtr̥}
-  definitions:
+  content:
     - typ: n
       def: adder (type of snake)
 
 - key: snoivos
   ety: From PIE \ipa{*snóygʷʰos}
-  definitions:
+  content:
     - typ: m
       def: snow
 
 - key: sovan
   parts: savens
   ety: From PIE \ipa{*sóh₂wl̥}
-  definitions:
+  content:
     - typ: n
       def: sun
 
 - key: sosan
   parts: sasens
   ety: From PIE \ipa{*sóḱr̥}
-  definitions:
+  content:
     - typ: n
       def: dung, excrement
 
 - key: sopos¹
   ety: From PIE \ipa{*sokʷos}
-  definitions:
+  content:
     - typ: m
       def: juice
 
 - key: soitos
   ety: From PIE \ipa{*soytós}
-  definitions:
+  content:
     - typ: m
       def: magic
 
 - key: speks
   parts: spakes
   ety: From PIE \ipa{*spéḱs}
-  definitions:
+  content:
     - typ: m
       def: watcher
     - typ: m
@@ -1480,26 +1486,26 @@
 
 - key: sper
   ety: From PIE \ipa{*spḗr}
-  definitions:
+  content:
     - typ: m
       def: sparrow
 
 - key: streps
   parts: strapes
   ety: From PIE \ipa{*(s)rḗps}
-  definitions:
+  content:
     - typ: f
       def: turnip, rape, cabbage
 
 - key: staman
   ety: From PIE \ipa{*stéh₂mn̥}
-  definitions:
+  content:
     - typ: n
       def: that which stands, stature
 
 - key: statis
   ety: From PIE \ipa{*stéh₂tis}
-  definitions:
+  content:
     - typ: f
       def: standing, position
     - typ: f
@@ -1507,32 +1513,32 @@
 
 - key: stoigos
   ety: From PIE \ipa{*stóygʰos}
-  definitions:
+  content:
     - typ: m
       def: path, way
 
 - key: sunus
   ety: From PIE \ipa{*suHnús}
-  definitions:
+  content:
     - typ: m
       def: son
 
 - key: svennos
   ety: From PIE \ipa{*supnós}
-  definitions:
+  content:
     - typ: m
       def: sleep, slumber
 
 - key: svesor
   parts: sustres, susarmos
   ety: From PIE \ipa{*swésōr}
-  definitions:
+  content:
     - typ: f
       def: sister
 
 - key: tauros
   ety: From PIE \ipa{*táwros}
-  definitions:
+  content:
     - typ: m
       def: bull
     - typ: m
@@ -1540,70 +1546,70 @@
 
 - key: tenos
   ety: From PIE \ipa{*ténos}
-  definitions:
+  content:
     - typ: n
       def: extension
 
 - key: tentis
   parts: tanties
   ety: From PIE \ipa{*téntis}
-  definitions:
+  content:
     - typ: f
       def: extension
 
 - key: tepos
   ety: From PIE \ipa{*tépos}
-  definitions:
+  content:
     - typ: n
       def: warmth, heat
 
 - key: terman
   parts: tarmens
   ety: From PIE \ipa{*térmn̥}
-  definitions:
+  content:
     - typ: n
       def: boundary, end
 
 - key: tektón
   parts: taksnes, taksanmos
   ety: From PIE \ipa{*tétḱō}
-  definitions:
+  content:
     - typ: m
       def: carpenter
 
 - key: tuta
   ety: From PIE \ipa{*tewtéh₂}
-  definitions:
+  content:
     - typ: f
       def: people, tribe
 
 - key: tonos
   ety: From PIE \ipa{*tónos}
-  definitions:
+  content:
     - typ: m
       def: chord, fiber, string
 
 - key: persna
   ety: From PIE \ipa{*tpḗrsneh₂}
-  definitions:
+  content:
     - typ: f
       def: heel, upper thigh
 
 - key: uderos
   ety: From PIE \ipa{*úderos}
-  definitions:
+  content:
     - typ: m
       def: abdomen, stomach, belly
 
 - key: viman
   ety: From PIE \ipa{*wéh₁imn̥}
-  definitions:
+  content:
     - typ: n
       def: that which is twisted, plaiting
 
 - key: vitis
   ety: From PIE \ipa{*wéh₁itis}
-  definitions:
+  content:
     - typ: f
       def: that which twines or bends
     - typ: f
@@ -1611,38 +1617,38 @@
 
 - key: veksperos
   ety: From PIE \ipa{*wek(ʷ)speros}
-  definitions:
+  content:
     - typ: m
       def: evening
 
 - key: verdom¹
   ety: From PIE \ipa{*werdʰh₁om}
-  definitions:
+  content:
     - typ: n
       def: word
 
 - key: verdom²
   ety: From PIE \ipa{*wérǵom}
-  definitions:
+  content:
     - typ: n
       def: work
 
 - key: verster
   ety: From Dan. \ipa{verd- + ter}
-  definitions:
+  content:
     - typ: m
       def: worker
 
 - key: verna
   ety: From PIE \ipa{*wern-}
-  definitions:
+  content:
     - typ: f
       def: alder
 
 - key: vestis
   parts: usties
   ety: From PIE \ipa{*wéstis}
-  definitions:
+  content:
     - typ: f
       def: the act of dressing
     - typ: f
@@ -1650,7 +1656,7 @@
 
 - key: vistor
   ety: From PIE \ipa{*wéydtōr}
-  definitions:
+  content:
     - typ: m
       def: one who has seen, one who knows
     - typ: m
@@ -1658,7 +1664,7 @@
 
 - key: viros
   ety: From PIE \ipa{*wiHrós}
-  definitions:
+  content:
     - typ: m
       def: man
     - typ: m
@@ -1668,7 +1674,7 @@
 
 - key: vispotis
   ety: From PIE \ipa{*wiḱpótis}
-  definitions:
+  content:
     - typ: m
       def: clan chief
     - typ: m
@@ -1676,7 +1682,7 @@
 
 - key: valpos
   ety: From PIE \ipa{*wĺ̥kʷos}
-  definitions:
+  content:
     - typ: m
       def: wolf
     - typ: m
@@ -1685,33 +1691,33 @@
 - key: vodan
   parts: vedens
   ety: From PIE \ipa{*wódr̥}
-  definitions:
+  content:
     - typ: n
       def: water
 
 - key: vops
   acc-sg: vopam
   ety: From PIE \ipa{*wṓkʷs}
-  definitions:
+  content:
     - typ: f
       def: voice, speech
 
 - key: rads
   acc-sg: radam
   ety: From PIE \ipa{*wréh₂ds}
-  definitions:
+  content:
     - typ: f
       def: root
 
 - key: jemos
   ety: From PIE \ipa{*yémHos}
-  definitions:
+  content:
     - typ: m
       def: twin
 
 - key: jugos
   ety: From PIE \ipa{*yéwgos}
-  definitions:
+  content:
     - typ: n
       def: team
     - typ: n
@@ -1719,19 +1725,19 @@
 
 - key: somjugos
   ety: From Dan. \ipa{som- + jugos}
-  definitions:
+  content:
     - typ: n
       def: union
 
 - key: somjugestos
   ety: From Dan. \ipa{somjugos}
-  definitions:
+  content:
     - typ: adj
       def: united
 
 - key: somjugeti
   ety: From Dan. \ipa{somjugos}
-  definitions:
+  content:
     - typ: v
       def: to unite (transitive)
     - typ: v
@@ -1739,82 +1745,82 @@
 
 - key: djolet
   ety: From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}
-  definitions:
+  content:
     - typ: m
       def: (political) state
 
 - key: djoletiskos
   ety: From Dan. \ipa{djolet}
-  definitions:
+  content:
     - typ: adj
       def: pertaining to a political state or sovereign polity
 
 - key: sovietiskos
   ety: From Ru. \cyr{сове́т}
-  definitions:
+  content:
     - typ: adj
       def: Soviet (pertaining to the Soviet Union)
 
 - key: Sovietiskom Somjugos
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: Soviet Union
 
 - key: Somjugos Sovietiskóm Socialistiskóm Respublicóm
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: Union of Soviet Socialist Republics
 
 - key: socialistiskos
   ety: From Fr. \ipa{socialiste}
-  definitions:
+  content:
     - typ: adj
       def: socialist
 
 - key: socialismos
-  definitions:
+  content:
     - typ: m
       def: socialism
 
 - key: communismos
-  definitions:
+  content:
     - typ: m
       def: communism
 
 - key: capitalismos
-  definitions:
+  content:
     - typ: m
       def: capitalism
 
 - key: fascismos
-  definitions:
+  content:
     - typ: m
       def: fascism
 
 - key: respublica
   ety: From Lat. \ipa{rēspūblica}
-  definitions:
+  content:
     - typ: f
       def: republic
 
 - key: America
   ety: From Lat. \ipa{America}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: America
 
 - key: Somjugestoi Djoletes Americas
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: United States of America
 
 - key: jevos
   ety: From PIE \ipa{*yéwos}
-  definitions:
+  content:
     - typ: n
       def: cereal, grain
     - typ: n
@@ -1822,212 +1828,212 @@
 
 - key: jeros
   ety: From PIE \ipa{*yóh₁r̥}
-  definitions:
+  content:
     - typ: m
       def: year
 
 - key: jopan
   parts: jepens
   ety: From PIE \ipa{*yókʷr̥}
-  definitions:
+  content:
     - typ: n
       def: liver
 
 - key: jugom
   ety: From PIE \ipa{*yugóm}
-  definitions:
+  content:
     - typ: n
       def: yoke
 
 - key: spesa
   ety: From PIE \ipa{*spéh₁s}
-  definitions:
+  content:
     - typ: f
       def: prosperity, success
 
 - key: reja
   ety: From PIE \ipa{*reh₁is}
-  definitions:
+  content:
     - typ: f
       def: wealth, goods, riches
 
 - key: naus
   parts: naves, naumos
   ety: From PIE \ipa{*néh₂us}
-  definitions:
+  content:
     - typ: f
       def: boat, ship
 
 - key: lus
   acc-sg: lusam
   ety: From PIE \ipa{*lewH-}
-  definitions:
+  content:
     - typ: m
       def: louse
 
 - key: kreva
   ety: From PIE \ipa{*kréwh₂s}
-  definitions:
+  content:
     - typ: f
       def: (raw) blood
 
 - key: Rossia
   ety: From BG \gr{Ῥωσία}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Russia
 
 - key: rossiskos
   ety: From Dan. \ipa{Rossia}
-  definitions:
+  content:
     - typ: adj
       def: Russian
 
 - key: Rossiska Foideratión
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Russian Federation
 
 - key: palatiom
   ety: From Lat. \ipa{palātium}
-  definitions:
+  content:
     - typ: n
       def: palace
 
 - key: palatial
   ety: From Fr. \ipa{palatial}, with a latinized ending
-  definitions:
+  content:
     - typ: adj
       def: palatial, pertaining to palaces
 
 - key: foideratión
   ety: From Lat. \ipa{foederatio}
-  definitions:
+  content:
     - typ: f
       def: federation
 
 - key: buftos
   ety: From PIE \ipa{*bʰudʰtós}
-  definitions:
+  content:
     - typ: adj
       def: aware
 
 - key: brunos
   ety: From PIE \ipa{*bʰruHnós}
   cat: colors
-  definitions:
+  content:
     - typ: adj
       def: brown
 
 - key: bosos
   ety: From PIE \ipa{*bʰosós}
-  definitions:
+  content:
     - typ: adj
       def: bare, barefoot
 
 - key: biftos
   ety: From PIE \ipa{*bʰidʰtós}
-  definitions:
+  content:
     - typ: adj
       def: trusted, trustworthy
 
 - key: bistos
   ety: From PIE \ipa{*bʰidtós}
-  definitions:
+  content:
     - typ: adj
       def: split, cloven
 
 - key: bardátos
   ety: From PIE \ipa{*bʰardʰéh₂tos}
-  definitions:
+  content:
     - typ: adj
       def: bearded
 
 - key: alfos
   ety: From PIE \ipa{*albʰós}
   cat: colors
-  definitions:
+  content:
     - typ: adj
       def: white
 
 - key: fubros
   ety: From PIE \ipa{*dʰubʰrós}
-  definitions:
+  content:
     - typ: adj
       def: deep
 
 - key: fjesteros
   ety: From PIE \ipa{*dʰǵʰyésteros}
-  definitions:
+  content:
     - typ: adj
       def: pertaining to yesterday
 
 - key: dusmenés
   ety: From PIE \ipa{*dusmenḗs}
-  definitions:
+  content:
     - typ: adj
       def: ill-disposed, wicked, evil
 
 - key: dusmenistos
   ety: From Dan. \ipa{dusmenés}
-  definitions:
+  content:
     - typ: adj
       def: most wicked, most evil
 
 - key: longos
   ety: From PIE \ipa{*dlongʰos}
-  definitions:
+  content:
     - typ: adj
       def: long
 
 - key: divjos
   ety: From PIE \ipa{*diwyós}
-  definitions:
+  content:
     - typ: adj
       def: heavenly
 
 - key: datos
   ety: From PIE \ipa{*dh₃tós}
-  definitions:
+  content:
     - typ: adj
       def: given
 
 - key: svadus
   ety: From PIE \ipa{*swéh₂dus}
-  definitions:
+  content:
     - typ: adj
       def: sweet
 
 - key: benfus
   ety: From PIE \ipa{*bʰénǵʰus}
-  definitions:
+  content:
     - typ: adj
       def: dense, thick
 
 - key: berdonts
   parts: berdantes
   ety: From PIE \ipa{*bʰérǵʰonts}
-  definitions:
+  content:
     - typ: adj
       def: high, tall
 
 - key: bantos
   ety: From PIE \ipa{*gʷm̥tós}
-  definitions:
+  content:
     - typ: adj
       def: passable
 
 - key: bivos
   ety: From PIE \ipa{*gʷih₃wós}
-  definitions:
+  content:
     - typ: adj
       def: alive, living
 
 - key: graftos
   ety: From PIE \ipa{*gr̥bʰtós}
-  definitions:
+  content:
     - typ: adj
       def: carved
     - typ: adj
@@ -2035,78 +2041,78 @@
 
 - key: futos
   ety: From PIE \ipa{*ǵʰutós}
-  definitions:
+  content:
     - typ: adj
       def: poured
 
 - key: natos²
   ety: From PIE \ipa{*ǵn̥h₃tós}
-  definitions:
+  content:
     - typ: adj
       def: known, recognizable
 
 - key: natos¹
   ety: From PIE \ipa{*ǵn̥h₁tós}
-  definitions:
+  content:
     - typ: adj
       def: begotten, produced
 
 - key: deronts
   ety: From PIE \ipa{*ǵérh₂onts}
-  definitions:
+  content:
     - typ: adj
       def: old
 
 - key: restos
   ety: From PIE \ipa{*h₃reǵtós}
-  definitions:
+  content:
     - typ: adj
       def: straightened, right, upright
 
 - key: onostos
   ety: From PIE \ipa{*h₃enh₂ostos}
-  definitions:
+  content:
     - typ: adj
       def: loaded; burdened
 
 - key: junsos
   ety: From PIE \ipa{*h₂yuHn̥ḱós}
-  definitions:
+  content:
     - typ: adj
       def: young
 
 - key: junisos
   ety: From Dan. \ipa{junsos}
-  definitions:
+  content:
     - typ: adj
       def: younger
 
 - key: junistos
   ety: From Dan. \ipa{junsos}
-  definitions:
+  content:
     - typ: adj
       def: youngest
 
 - key: junisos sergjant
-  definitions:
+  content:
     - typ: m
       def: (military) junior sergeant; corporal
 
 - key: moldus
   ety: From PIE \ipa{*(h₂)moldus}
-  definitions:
+  content:
     - typ: adj
       def: soft, weak
 
 - key: anfus
   ety: From PIE \ipa{*h₂énǵʰus}
-  definitions:
+  content:
     - typ: adj
       def: narrow, tight
 
 - key: amos
   ety: From PIE \ipa{*h₂eh₃mós}
-  definitions:
+  content:
     - typ: adj
       def: raw, uncooked
     - typ: adj
@@ -2114,44 +2120,44 @@
 
 - key: adrjos
   ety: From PIE \ipa{*h₂éǵr̥yos}
-  definitions:
+  content:
     - typ: adj
       def: campestral, pertaining to fields
 
 - key: vesus
   ety: From PIE \ipa{*h₁wésus}
-  definitions:
+  content:
     - typ: adj
       def: good, excellent
 
 - key: verus
   ety: From PIE \ipa{*h₁wérus}
-  definitions:
+  content:
     - typ: adj
       def: broad
 
 - key: rufros
   ety: From PIE \ipa{*h₁rudʰrós}
   cat: colors
-  definitions:
+  content:
     - typ: adj
       def: red
 
 - key: lanfros
   ety: From PIE \ipa{*h₁ln̥gʷʰrós}
-  definitions:
+  content:
     - typ: adj
       def: lightweight
 
 - key: itos
   ety: From PIE \ipa{*h₁itós}
-  definitions:
+  content:
     - typ: adj
       def: passable
 
 - key: enteros
   ety: From PIE \ipa{*h₁énteros}
-  definitions:
+  content:
     - typ: adj
       def: inside, within
     - typ: adj
@@ -2159,103 +2165,103 @@
 
 - key: juktos
   ety: From PIE \ipa{*yugtós}
-  definitions:
+  content:
     - typ: adj
       def: yoked, joined
 
 - key: varstos
   ety: From PIE \ipa{*wr̥ǵtós}
-  definitions:
+  content:
     - typ: adj
       def: worked, fashioned
 
 - key: vistos
   ety: From PIE \ipa{*widtós}
-  definitions:
+  content:
     - typ: adj
       def: seen, known
 
 - key: veros
   ety: From PIE \ipa{*weh₁ros}
-  definitions:
+  content:
     - typ: adj
       def: true
 
 - key: usteros
   ety: From PIE \ipa{*údteros}
-  definitions:
+  content:
     - typ: adj
       def: higher, outer
 
 - key: udros
   ety: From PIE \ipa{*udrós}
-  definitions:
+  content:
     - typ: adj
       def: of water, aquatic
 
 - key: tarnos
   ety: From PIE \ipa{*tr̥nós}
-  definitions:
+  content:
     - typ: adj
       def: sharp, stiff
 
 - key: tantos
   ety: From PIE \ipa{*tn̥tós}
-  definitions:
+  content:
     - typ: adj
       def: stretched, extended
 
 - key: latos
   ety: From PIE \ipa{*tl̥h₂tós}
-  definitions:
+  content:
     - typ: adj
       def: lifted
 
 - key: tenus
   ety: From PIE \ipa{*ténh₂us}
-  definitions:
+  content:
     - typ: adj
       def: thin
 
 - key: tegus
   ety: From PIE \ipa{*tégus}
-  definitions:
+  content:
     - typ: adj
       def: thick
 
 - key: suros
   ety: From PIE \ipa{*súHros}
-  definitions:
+  content:
     - typ: adj
       def: sour, acidic
 
 - key: stratos
   ety: From PIE \ipa{*str̥h₃tós}
-  definitions:
+  content:
     - typ: m
       def: valley
 
 - key: statos
   ety: From PIE \ipa{*sth₂tós}
-  definitions:
+  content:
     - typ: adj
       def: placed, standing
 
 - key: senos
   ety: From PIE \ipa{*sénos}
-  definitions:
+  content:
     - typ: adj
       def: old
 
 - key: sestos
   ety: From PIE \ipa{*sedtós}
-  definitions:
+  content:
     - typ: adj
       def: seated
 
 - key: prios
   ety: From PIE \ipa{*priHós}
-  definitions:
+  content:
     - typ: adj
       def: dear, beloved
     - typ: adj
@@ -2263,7 +2269,7 @@
 
 - key: plutos
   ety: From PIE \ipa{*plutós}
-  definitions:
+  content:
     - typ: adj
       def: washed
     - typ: adj
@@ -2271,31 +2277,31 @@
 
 - key: paltanos
   ety: From PIE \ipa{*pl̥th₂enós}
-  definitions:
+  content:
     - typ: adj
       def: wide, broad
 
 - key: paltania
   ety: From Dan. \ipa{paltanos}
-  definitions:
+  content:
     - typ: f
       def: width, breadth
 
 - key: planos
   ety: From PIE \ipa{*pl̥h₁nós}
-  definitions:
+  content:
     - typ: adj
       def: full
 
 - key: pletus
   ety: From PIE \ipa{*pléth₂us}
-  definitions:
+  content:
     - typ: adj
       def: flat, broad
 
 - key: pletia
   ety: From Dan. \ipa{pletus}
-  definitions:
+  content:
     - typ: adj
       def: square, plaza
     - typ: adj
@@ -2304,7 +2310,7 @@
 
 - key: martos
   ety: From PIE \ipa{*mr̥tós}
-  definitions:
+  content:
     - typ: adj
       def: dead
     - typ: adj
@@ -2312,19 +2318,19 @@
 
 - key: nemartos
   ety: From Dan. \ipa{ne + martos}
-  definitions:
+  content:
     - typ: adj
       def: immortal, unperishable
 
 - key: nevos
   ety: From PIE \ipa{*néwos}
-  definitions:
+  content:
     - typ: adj
       def: new
 
 - key: nesus
   ety: From PIE \ipa{*néḱus}
-  definitions:
+  content:
     - typ: adj
       def: dead
     - typ: adj
@@ -2332,7 +2338,7 @@
 
 - key: mardus
   ety: From PIE \ipa{*mr̥ǵʰús}
-  definitions:
+  content:
     - typ: adj
       def: short
     - typ: adj
@@ -2340,13 +2346,13 @@
 
 - key: makros
   ety: From PIE \ipa{*mh₂ḱrós}
-  definitions:
+  content:
     - typ: adj
       def: lean, meager
 
 - key: medjos
   ety: From PIE \ipa{*médʰyos}
-  definitions:
+  content:
     - typ: adj
       def: middle
     - typ: m
@@ -2354,13 +2360,13 @@
 
 - key: kruros
   ety: From PIE \ipa{*kruh₂rós}
-  definitions:
+  content:
     - typ: adj
       def: bloody
 
 - key: karsnos
   ety: From PIE \ipa{*kr̥snós}
-  definitions:
+  content:
     - typ: adj
       def: black
     - typ: adj
@@ -2368,31 +2374,31 @@
 
 - key: kaikos
   ety: From PIE \ipa{*káykos}
-  definitions:
+  content:
     - typ: adj
       def: blind
 
 - key: kaptos
   ety: From PIE \ipa{*kaptós}
-  definitions:
+  content:
     - typ: adj
       def: seized, held
 
 - key: slivos
   ety: From PIE \ipa{*ḱleywós}
-  definitions:
+  content:
     - typ: adj
       def: sloped, curved
 
 - key: slitos
   ety: From PIE \ipa{*ḱlitós}
-  definitions:
+  content:
     - typ: adj
       def: covered, sheltered
 
 - key: slutos
   ety: From PIE \ipa{*ḱlutós}
-  definitions:
+  content:
     - typ: adj
       def: heard, listened
     - typ: adj
@@ -2400,39 +2406,39 @@
 
 - key: medanos
   ety: From PIE \ipa{*méǵh₂s}
-  definitions:
+  content:
     - typ: adj
       def: big, great
 
 - key: urusj
   ety: From a Turkic language; compare Uzbek \ipa{urush} and Turkmen \ipa{uruş}
-  definitions:
+  content:
     - typ: m
       def: war
 
 - key: kros
   ety: From PIE \ipa{*h₂ḱrós}
-  definitions:
+  content:
     - typ: adj
       def: sharp
 
 - key: vents
   parts: vantes
   ety: From PIE \ipa{*h₂wéh₁n̥ts}
-  definitions:
+  content:
     - typ: m
       def: wind
 
 - key: kentis
   parts: kanties
   ety: From PIE \ipa{*ken-}
-  definitions:
+  content:
     - typ: f
       def: beginning, start
 
 - key: rodia
   ety: From PIE \ipa{*h₃reǵ-}
-  definitions:
+  content:
     - typ: f
       def: law
     - typ: f
@@ -2440,43 +2446,43 @@
 
 - key: sonfis
   ety: From PIE \ipa{*som-dʰh₁-is}, from \ipa{*dʰeh₁-}
-  definitions:
+  content:
     - typ: m
       def: judge
 
 - key: posjolik
   ety: From a Turkic language; compare Uzbek \ipa{podsholik}
-  definitions:
+  content:
     - typ: m
       def: kingdom
 
 - key: ullimmanos
   ety: From Dan. \ipa{linepti}
-  definitions:
+  content:
     - typ: adj
       def: omitted; forgotten
 
 - key: praisidents
   ety: From Lat. \ipa{praesidēns}
-  definitions:
+  content:
     - typ: m
       def: president
 
 - key: oiconomia
   ety: From Lat. \ipa{oeconomia}, from AG \gr{οἰκονομία}
-  definitions:
+  content:
     - typ: f
       def: economy
 
 - key: Aigyptos
   ety: From Lat. \ipa{Aegyptus}, from AG \gr{Αἴγυπτος}, from Egyptian \ipa{ḥwt-kꜣ-ptḥ}
-  definitions:
+  content:
     - typ: f
       def: Egypt
 
 - key: schola
   ety: From Lat. \ipa{schola}, from AG \gr{σχολή}
-  definitions:
+  content:
     - typ: f
       def: school
 
@@ -2484,7 +2490,7 @@
   ety: From a Turkic language; compare Uzbek \ipa{temir}, Turkmen \ipa{demir}, Uyghur
     \ipa{tömür}, and Kazakh \cyr{темір}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: iron
       tag: chemistry
@@ -2493,7 +2499,7 @@
   ety: From a Turkic language; compare Uzbek \ipa{simob}, Uyghur \ipa{simab}, and
     Turkmen \ipa{simap}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: mercury (metal)
       tag: chemistry
@@ -2501,147 +2507,147 @@
 - key: metrom
   ety: From Fr. \ipa{mètre}, from AG \gr{μέτρον}
   cat: units-of-measurement
-  definitions:
+  content:
     - typ: n
       def: meter (unit of measurement)
 
 - key: secundom
   ety: From Lat. \ipa{secundum}
   cat: units-of-measurement
-  definitions:
+  content:
     - typ: n
       def: second (unit of measurement)
 
 - key: grammom
   ety: From Fr. \ipa{gramme}, from AG \gr{γράμμα}
   cat: units-of-measurement
-  definitions:
+  content:
     - typ: n
       def: gram (unit of measurement)
 
 - key: oinika
   ety: From Dan. \ipa{oinos}
-  definitions:
+  content:
     - typ: f
       def: unit
 
 - key: encyclopaidia
   ety: From New Latin \ipa{encyclopaedīa}
-  definitions:
+  content:
     - typ: f
       def: encyclopedia
 
 - key: doctor
   ety: From Lat. \ipa{doctor}
-  definitions:
+  content:
     - typ: m
       def: doctor
 
 - key: physica
   ety: From Lat. \ipa{physica}, from AG \gr{φυσική}
-  definitions:
+  content:
     - typ: f
       def: physics
 
 - key: oinos
   ety: From PIE \ipa{*óynos}
-  definitions:
+  content:
     - typ: num
       def: one
 
 - key: dvo
   ety: From PIE \ipa{*dwóh₁}
-  definitions:
+  content:
     - typ: num
       def: two
 
 - key: tres
   ety: From PIE \ipa{*tréyes}
-  definitions:
+  content:
     - typ: num
       def: three
 
 - key: petvóres
   ety: From PIE \ipa{*kʷetwóres}
-  definitions:
+  content:
     - typ: num
       def: four
 
 - key: pempe
   ety: From PIE \ipa{*pénkʷe}
-  definitions:
+  content:
     - typ: num
       def: five
 
 - key: sveks
   ety: From PIE \ipa{*swéḱs}
-  definitions:
+  content:
     - typ: num
       def: six
 
 - key: septam
   ety: From PIE \ipa{*septḿ̥}
-  definitions:
+  content:
     - typ: num
       def: seven
 
 - key: okto
   ety: From PIE \ipa{*oḱtṓw}
-  definitions:
+  content:
     - typ: num
       def: eight
 
 - key: nevan
   ety: From PIE \ipa{*h₁néwn̥}
-  definitions:
+  content:
     - typ: num
       def: nine
 
 - key: desam
   ety: From PIE \ipa{*déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: ten
 
 - key: vidsant
   ety: From PIE \ipa{*wídḱm̥ti}
-  definitions:
+  content:
     - typ: num
       def: twenty
 
 - key: svenjos
   ety: From PIE \ipa{*ḱwen-}
-  definitions:
+  content:
     - typ: adj
       def: holy, sacred
 
 - key: svenseti
   ety: From PIE \ipa{*ḱwen-}
-  definitions:
+  content:
     - typ: v
       def: to make holy, to hallow, to make sacred, to sanctify
 
 - key: sveníeti
   ety: From PIE \ipa{*ḱwen-}
-  definitions:
+  content:
     - typ: v
       def: to make holy, to hallow, to make sacred, to sanctify
 
 
 - key: iti
   ety: From PIE \ipa{*h₁éyti}, with some inflectional forms suppleted by \ipa{*gʷem-}
-  definitions:
+  content:
     - typ: v
       def: to go
 
 - key: en²
-  definitions:
+  content:
     - typ: n
       def: letter \textit{n}
 
 - key: upo
   ety: From PIE \ipa{*upó}
-  definitions:
+  content:
     - typ: prep
       def: (+loc) under, beneath (stationary, answers the question "where?")
     - typ: prep
@@ -2650,7 +2656,7 @@
 
 - key: úper
   ety: From PIE \ipa{*upér}
-  definitions:
+  content:
     - typ: prep
       def: (+loc) above, over, on top of (stationary, answers the question "where?")
     - typ: prep
@@ -2658,7 +2664,7 @@
 
 - key: medi
   ety: From PIE \ipa{*médʰyos}
-  definitions:
+  content:
     - typ: prep
       def: (+ins) between, among, in the middle of (stationary, answers the
         question "where?")
@@ -2667,13 +2673,13 @@
 
 - key: som
   ety: From PIE \ipa{*ḱóm}
-  definitions:
+  content:
     - typ: prep
       def: (+ins) with
 
 - key: opi
   ety: From PIE \ipa{*h₁opi}
-  definitions:
+  content:
     - typ: prep
       def: (+gen) near, at, by
     - typ: prep
@@ -2681,87 +2687,87 @@
 
 - key: apo
   ety: From PIE \ipa{*h₂epó}
-  definitions:
+  content:
     - typ: prep
       def: (+abl) off, away, from
 
 - key: opiti
   ety: From Dan. \ipa{opi} and \ipa{iti}
-  definitions:
+  content:
     - typ: v
       def: to come
 
 - key: jehania
   ety: From a Turkic language, and ultimately from Middle Persian \ipa{gēhān}; compare
     Bashkir \cyr{йыһан}
-  definitions:
+  content:
     - typ: f
       def: world, universe, cosmos
 
 - key: nevidmos
   ety: From Dan. \ipa{voide}
-  definitions:
+  content:
     - typ: adj
       def: unseen
 
 - key: nuti
   ety: Unknown
-  definitions:
+  content:
     - typ: prep
       def: (+abl) without
 
 - key: ops
   parts: opes
   ety: From PIE \ipa{*h₃ókʷs}
-  definitions:
+  content:
     - typ: n
       def: eye
 
 - key: pretiops
   ety: From PIE \ipa{*préti + *h₃ókʷs}
-  definitions:
+  content:
     - typ: n
       def: face
 
 - key: nutipretiopés
   ety: From Dan. \ipa{nuti + pretiops}
-  definitions:
+  content:
     - typ: adj
       def: faceless, formless, shapeless
 
 - key: sivos
   ety: Unknown
-  definitions:
+  content:
     - typ: adj
       def: good
 
 - key: enurejos
   ety: From PIE \ipa{*h₁(n̥)new + *reh₁is}
-  definitions:
+  content:
     - typ: adj
       def: poor, wantsome
 
 - key: enu
   ety: From PIE \ipa{*h₁(n̥)new}
-  definitions:
+  content:
     - typ: prep
       def: (+gen) without
 
 - key: ans
   ety: Unknown
-  definitions:
+  content:
     - typ: prep
       def: (+gen) without
 
 - key: tros
   ety: From PIE \ipa{*trh₂os}
-  definitions:
+  content:
     - typ: prep
       def: (+acc) through
 
 - key: dege
   ety: From PIE \ipa{*de + *gʰe}
-  definitions:
+  content:
     - typ: adv
       def: even
       ex: '\ipa{Dege dorú bivonta}. \textit{Even trees are alive}'
@@ -2770,19 +2776,19 @@
 
 - key: nege
   ety: From PIE \ipa{*ne + *gʰe}
-  definitions:
+  content:
     - typ: adv
       def: not even
 
 - key: dégar
   ety: Possibly cognate with AG \gr{γᾰ́ρ}
-  definitions:
+  content:
     - typ: conj
       def: for, since
 
 - key: uposme
   ety: From Dan. \ipa{upo}
-  definitions:
+  content:
     - typ: conj
       def: as, while
     - typ: conj
@@ -2790,37 +2796,37 @@
 
 - key: rama
   ety: From OHG \ipa{rama}
-  definitions:
+  content:
     - typ: f
       def: frame (of a building), framework
 
 - key: atirama
   ety: From Dan. \ipa{ati + rama}
-  definitions:
+  content:
     - typ: f
       def: firmament (biblical)
 
 - key: gladjeti
   ety: From PG \ipa{*gladaz}
-  definitions:
+  content:
     - typ: v
       def: to please, to make happy, to satisfy
 
 - key: opigladjeti
   ety: From Dan. \ipa{gladjeti}
-  definitions:
+  content:
     - typ: v
       def: to comfort, to console
 
 - key: dulgos
   ety: From PG \ipa{*dulgaz}
-  definitions:
+  content:
     - typ: m
       def: debt
 
 - key: sonvistiés
   ety: From Dan. \ipa{vistis}
-  definitions:
+  content:
     - typ: adj
       def: messenger
     - typ: adj
@@ -2828,73 +2834,73 @@
 
 - key: vistis
   ety: From PIE \ipa{*weyd-}
-  definitions:
+  content:
     - typ: f
       def: news
 
 - key: somblesnos
   ety: From Dan. \ipa{som + blesnos}
-  definitions:
+  content:
     - typ: m
       def: seduction, temptation
 
 - key: blesnos
   ety: From PIE \ipa{*bʰleǵ-}
-  definitions:
+  content:
     - typ: m
       def: bait, lure
 
 - key: balnia
   ety: From Dan. \ipa{baljo}
-  definitions:
+  content:
     - typ: f
       def: failure, error
 
 - key: nauman
   ety: From PIE \ipa{*neh₂ut-}
-  definitions:
+  content:
     - typ: n
       def: need, necessity
 
 - key: lukos
   ety: From PIE \ipa{*lewk-}
-  definitions:
+  content:
     - typ: m
       def: light
 
 - key: lúketor
   ety: From PIE \ipa{*lewk-}
-  definitions:
+  content:
     - typ: v
       def: to shine, to illuminate
 
 - key: luketer
   ety: From Dan. \ipa{lúketor}
-  definitions:
+  content:
     - typ: v
       def: shiner, illuminator, source of light
 
 - key: slabjeti
   ety: From PIE \ipa{*sl̥h₂gʷ-}
-  definitions:
+  content:
     - typ: v
       def: to seize, to grasp, to take
 
 - key: protislabjeti
   ety: From Dan. \ipa{slabyeti}
-  definitions:
+  content:
     - typ: v
       def: to understand, to comprehend
 
 - key: baljo
   ety: From PIE \ipa{*bʰāl-}
-  definitions:
+  content:
     - typ: v
       def: to fail, to err, to miss
 
 - key: preseti
   ety: From PIE \ipa{*preḱ-}
-  definitions:
+  content:
     - typ: v
       def: to ask, to question; (Use the dative case for the person receiving the question.)
     - typ: v
@@ -2903,121 +2909,121 @@
 
 - key: anapreseti
   ety: From Dan. \ipa{preseti}
-  definitions:
+  content:
     - typ: v
       def: to pray (Use the dative case on the person being prayed to.)
 
 - key: anapresetis
   ety: From Dan. \ipa{anapreseti}
-  definitions:
+  content:
     - typ: f
       def: prayer
 
 - key: lekseti
   ety: From PIE \ipa{*h₂lékseti}
-  definitions:
+  content:
     - typ: v
       def: to protect, defend
 
 - key: leksetis
   ety: From Dan. \ipa{lekseti}
-  definitions:
+  content:
     - typ: f
       def: defense, protection
 
 - key: lekseter
   ety: From Dan. \ipa{lekseti}
-  definitions:
+  content:
     - typ: m
       def: defender, defensor, protector
 
 - key: pisjeti
   ety: From PIE \ipa{*peyḱ-}
-  definitions:
+  content:
     - typ: v
       def: to write
 
 - key: sontíti
   ety: From PIE \ipa{*sont-éye-}
-  definitions:
+  content:
     - typ: v
       def: to send
 
 - key: solnos
   ety: From PIE \ipa{*solh₂-}
-  definitions:
+  content:
     - typ: pron
       def: whole (in singular), all (in plural)
 
 - key: podegos
   ety: From Dan. \ipa{po + dege}
-  definitions:
+  content:
     - typ: pron
       def: each
 
 - key: oinodesam
   ety: From PIE \ipa{*óynos + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: eleven
 
 - key: dvoidesam
   ety: From PIE \ipa{*dwóh₁ + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: twelve
 
 - key: tridesam
   ety: From PIE \ipa{*tréyes + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: thirteen
 
 - key: petvordesam
   ety: From PIE \ipa{*kʷetwóres + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: fourteen
 
 - key: pempedesam
   ety: From PIE \ipa{*pénkʷe + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: fifteen
 
 - key: svekdesam
   ety: From PIE \ipa{*swéḱs + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: sixteen
 
 - key: septandesam
   ety: From PIE \ipa{*septḿ̥ + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: seventeen
 
 - key: oktodesam
   ety: From PIE \ipa{*oḱtṓw + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: eighteen
 
 - key: nevandesam
   ety: From PIE \ipa{*h₁néwn̥ + *déḱm̥}
-  definitions:
+  content:
     - typ: num
       def: nineteen
 
 - key: esti¹
   ety: From PIE \ipa{*h₁ésti}
-  definitions:
+  content:
     - typ: v
       def: to be
 
 - key: fekti
   ety: From PIE \ipa{*dʰeh₁-}
-  definitions:
+  content:
     - typ: v
       def: to make, to do
     - typ: v
@@ -3025,7 +3031,7 @@
 
 - key: vepti
   ety: From PIE \ipa{*wekʷ-}
-  definitions:
+  content:
     - typ: v
       def: to speak (when used in the imperfective aspect)
     - typ: v
@@ -3033,14 +3039,14 @@
 
 - key: voide
   ety: From PIE \ipa{*weyd-}
-  definitions:
+  content:
     - typ: v
       def: to know
 
 - key: bideti¹
   parts: befideti
   ety: From PIE \ipa{*bʰeyd-}
-  definitions:
+  content:
     - typ: v
       def: to split
     - typ: v
@@ -3049,25 +3055,25 @@
 - key: bideti²
   parts: befideti
   ety: From PIE \ipa{*bʰeydʰ-}
-  definitions:
+  content:
     - typ: v
       def: to trust
 
 - key: bidinos
   ety: From Dan. \ipa{bideti²}
-  definitions:
+  content:
     - typ: adj
       def: believable, credible
 
 - key: nebidinos
   ety: From Dan. \ipa{bidinos}
-  definitions:
+  content:
     - typ: adj
       def: unbelievable, incredible
 
 - key: denati
   ety: From PIE \ipa{*ǵenh₁-}
-  definitions:
+  content:
     - typ: v
       def: to produce, to create
     - typ: v
@@ -3077,19 +3083,19 @@
 
 - key: verteti
   ety: From PIE \ipa{*wert-}
-  definitions:
+  content:
     - typ: v
       def: to turn, to spin
 
 - key: vid
   ety: From Dan. \ipa{voide}
-  definitions:
+  content:
     - typ: interj
       def: lo, behold, look
 
 - key: pro
   ety: From PIE \ipa{*pró}
-  definitions:
+  content:
     - typ: prep
       def: (+loc) in front of (spatial; stationary, answers the question
         "where?")
@@ -3107,7 +3113,7 @@
 
 - key: garaidos
   ety: From PG \ipa{*garaidaz}
-  definitions:
+  content:
     - typ: adj
       def: ready, prepared
     - typ: adj
@@ -3115,7 +3121,7 @@
 
 - key: garaidíeti
   ety: From Dan. \ipa{garaidos}
-  definitions:
+  content:
     - typ: v
       def: to make ready
     - typ: v
@@ -3123,31 +3129,31 @@
 
 - key: do
   ety: From PIE \ipa{*do}
-  definitions:
+  content:
     - typ: prep
       def: (+gen) up to, till, until
 
 - key: stadis
   ety: From PG \ipa{*stadiz}
-  definitions:
+  content:
     - typ: m
       def: place, location
 
 - key: apolúketor
   ety: From Dan. \ipa{apo- + lúketor}
-  definitions:
+  content:
     - typ: v
       def: to appear
 
 - key: susnos
   ety: From PIE \ipa{*h₂sews-}
-  definitions:
+  content:
     - typ: adj
       def: dry
 
 - key: bloti
   ety: From PIE \ipa{*bʰleh₃-}
-  definitions:
+  content:
     - typ: v
       def: to grow (of plants)
     - typ: v
@@ -3157,73 +3163,73 @@
 
 - key: gronis
   ety: From PG \ipa{*grōniz}
-  definitions:
+  content:
     - typ: adj
       def: green
 
 - key: hreman
   ety: From PIE \ipa{*gʰreh₁}
-  definitions:
+  content:
     - typ: n
       def: grass
 
 - key: sugeti
   ety: From PG \ipa{*sugō}
-  definitions:
+  content:
     - typ: v
       def: to sow; to scatter or disperse seeds
 
 - key: svenis
   ety: From Danetian \ipa{sve}
-  definitions:
+  content:
     - typ: f
       def: image, likeness
 
 - key: fructus
   ety: From Lat. \ipa{frūctus}
-  definitions:
+  content:
     - typ: m
       def: fruit
 
 - key: gar
   ety: Possibly cognate with AG \gr{γᾰ́ρ}
-  definitions:
+  content:
     - typ: conj
       def: so that, for the purpose that
 
 - key: erstidis
   ety: From PG \ipa{*airi + *tīdiz}
-  definitions:
+  content:
     - typ: f
       def: season
 
 - key: flugeti
   ety: From PG \ipa{*fleugō}
-  definitions:
+  content:
     - typ: v
       def: to fly
 
 - key: groti
   ety: From PG \ipa{*grōaną}
-  definitions:
+  content:
     - typ: v
       def: to grow
 
 - key: gronts
   ety: From Dan. \ipa{groti}
-  definitions:
+  content:
     - typ: m
       def: vegetation; herbs, pasture; plants
 
 - key: pleníeti
   ety: From Dan. \ipa{planos}
-  definitions:
+  content:
     - typ: v
       def: to fill
 
 - key: potíeti
   ety: From Dan. \ipa{potis}
-  definitions:
+  content:
     - typ: v
       def: (with accusative) to govern, to administer
     - typ: v
@@ -3231,7 +3237,7 @@
 
 - key: pistis
   ety: From PIE \ipa{*peysḱ-}
-  definitions:
+  content:
     - typ: m
       def: fish
     - typ: m
@@ -3239,13 +3245,13 @@
 
 - key: fodón
   ety: From PG \ipa{*fōdô}
-  definitions:
+  content:
     - typ: m
       def: food, nourishment
 
 - key: haunis
   ety: From PG \ipa{*hauniz}
-  definitions:
+  content:
     - typ: adj
       def: despised, poor, miserable
     - typ: adj
@@ -3253,146 +3259,146 @@
 
 - key: dat
   ety: From Dan. \ipa{datos}
-  definitions:
+  content:
     - typ: conj
       def: if
 
 - key: peris
   ety: From PIE \ipa{*per-}
-  definitions:
+  content:
     - typ: f
       def: fear
 
 - key: Jacobos
   ety: From Lat. \ipa{Jacōbus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Jacob, James, Jacques
 
 - key: Joánna
   ety: From AG \gr{Ἰωάννης}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: John
 
 - key: Robértos
   ety: From Lat. \ipa{Robertus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Robert
 
 - key: Michael
   ety: From AG \gr{Μῐχᾱήλ}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Michael
 
 - key: Vilmos
   ety: Ultimately from PG \ipa{*Wiljahelmaz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: William, Wilhelm, Guillermo, Guillaume
 
 - key: David
   ety: From AG \gr{Δαυῑ́δ}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: David
 
 - key: Richardos
   ety: From Lat. \ipa{Richardus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Richard, Ricardo
 
 - key: Josephos
   ety: From Lat. \ipa{Iōsēphus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Joseph, José
 
 - key: Thoma
   ety: From AG \gr{Θωμᾶς}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Thomas
 
 - key: Karlos
   ety: From PG \ipa{*karlaz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Charles, Carlos
 
 - key: Christophoros
   ety: From AG \gr{Χρῑστόφορος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Christopher
 
 - key: Daniel
   ety: From AG \gr{Δᾱνῑήλ}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Daniel
 
 - key: Matthaios
   ety: From AG \gr{Ματθαῖος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Matthew
 
 - key: Antonios
   ety: From Lat. \ipa{Antonius}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Anthony
 
 - key: Donald
   ety: From En. \ipa{Donald}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Donald
 
 - key: Marcos
   ety: From Lat. \ipa{Marcus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Mark
 
 - key: Paulos
   ety: From Lat. \ipa{Paulus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Paul
 
 - key: Stephanos
   ety: From AG \gr{Στέφανος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Steven, Stephen, Stephanus
 
 - key: Andréa
   ety: From AG \gr{Ἀνδρέᾱς}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Andrew, André, Andrés
     - typ: f
@@ -3401,178 +3407,178 @@
 - key: Jesus
   ety: From AG \gr{Ἰησοῦς}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Jesus, Joshua
 
 - key: Braján
   ety: From En. \ipa{Brian}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Brian, Bryan
 
 - key: Georgios
   ety: From AG \gr{Γεώργῐος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: George, Jorge
 
 - key: Edvardos
   ety: Ultimately from PG \ipa{*Audawarduz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Edward, Eduardo
 
 - key: Renvaldos
   ety: Ultimately from PG \ipa{*Raginawaldaz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Ronald, Reginald, Reynold, Reinhold
 
 - key: Timotheos
   ety: From AG \gr{Τῑμόθεος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Timothy
 
 - key: Jasón
   ety: From AG \gr{Ἰάσων}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Jason
 
 - key: Jotfredos
   ety: Ultimately from PG \ipa{*Gautafriþuz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
 
 - key: Raján
   ety: From En. \ipa{Ryan}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Ryan
 
 - key: Nicola
   ety: Ultimately from AG \gr{Νῑκόλᾱος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Nicholas, Nikola, Nikolai
 
 - key: Erik
   ety: Ultimately from PG \ipa{*Aizarīkijaz}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Eric, Erik
 
 - key: Jonathán
   ety: From AG \gr{Ἰωνάθαν}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Jonathan
 
 - key: Laurentios
   ety: From Lat. \ipa{Laurentius}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Lawrence, Laurence, Lorenzo, Laurent
 
 - key: Justínos
   ety: From Lat. \ipa{Iūstīnus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Justin
 
 - key: Benjamín
   ety: From AG \gr{Βενιᾱμῑ́ν}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Benjamin
 
 - key: Samuel
   ety: From AG \gr{Σαμουήλ}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Samuel
 
 - key: Gregorios
   ety: From AG \gr{Γρηγόριος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Gregory
 
 - key: Raimondos
   ety: Equivalent to En. and Fr. \ipa{Raymond}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Raymond, Ramón
 
 - key: Alexandros
   ety: From AG \gr{Ἀλέξανδρος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Alexander, Alejandro
 
 - key: Hendrik
   ety: Ultimately from PG \ipa{*Haimarīks}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Henry, Henrik, Henri, Heinrich, Enrique, Enrico
 
 - key: Adám
   ety: From AG \gr{Ᾱ̓δᾱ́μ}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Adam
 
 - key: Petros
   ety: From AG \gr{Πέτρος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Peter, Pedro
 
-- key: luvjeti
+- key: lufjeti
   ety: From PIE \ipa{*lewbʰ-}
-  definitions:
+  content:
     - typ: v
       def: to love
 
 - key: luvos
-  ety: From Dan. \ipa{luvjeti}
-  definitions:
+  ety: From Dan. \ipa{lufjeti}
+  content:
     - typ: m
       def: love
 
 - key: alisketi
   ety: From PG \ipa{*aliskōną}
-  definitions:
+  content:
     - typ: v
       def: to love, to cherish
 
 - key: drageti
   ety: From PG \ipa{*draganą}
-  definitions:
+  content:
     - typ: v
       def: to drag
     - typ: v
@@ -3580,73 +3586,73 @@
 
 - key: tendeti
   ety: From PIE \ipa{*tend-}
-  definitions:
+  content:
     - typ: v
       def: to stretch, to extend
 
 - key: blevos
   ety: From PG \ipa{*blēwaz}
-  definitions:
+  content:
     - typ: adj
       def: blue
 
 - key: satjeti
   ety: From PG \ipa{satjaną}
-  definitions:
+  content:
     - typ: v
       def: to set, to place down
 
 - key: brantos
   ety: Related to ON \ipa{brant}
-  definitions:
+  content:
     - typ: adj
       def: steep
 
 - key: vidia
   ety: From PIE \ipa{*weyd-}
-  definitions:
+  content:
     - typ: f
       def: knowledge, wisdom
 
 - key: tendeman
   ety: From Dan. \ipa{tendeti}
-  definitions:
+  content:
     - typ: n
       def: space
 
 - key: sondenés
   ety: From Dan. \ipa{som + denos}
-  definitions:
+  content:
     - typ: adj
       def: related
 
 - key: sonféretor
   ety: From Dan. \ipa{bereti}
-  definitions:
+  content:
     - typ: v
       def: to behave
 
 - key: bereti
   ety: From PIE \ipa{*bʰéreti}
-  definitions:
+  content:
     - typ: v
       def: to carry
 
 - key: probereti
   ety: From Dan. \ipa{bereti}
-  definitions:
+  content:
     - typ: v
       def: to carry forth, to bring forth
 
 - key: krosna
   ety: From PIE \ipa{*ḱerh₂-}
-  definitions:
+  content:
     - typ: f
       def: horn
 
 - key: belia
   ety: From PIE \ipa{*bel-}
-  definitions:
+  content:
     - typ: f
       def: strength
     - typ: f
@@ -3654,25 +3660,25 @@
 
 - key: bolos
   ety: From PIE \ipa{*bel-}
-  definitions:
+  content:
     - typ: adj
       def: strong, mighty
 
 - key: klava
   ety: From PG \ipa{*klawō}
-  definitions:
+  content:
     - typ: f
       def: claw
 
 - key: pereti
   ety: From PIE \ipa{*per-}
-  definitions:
+  content:
     - typ: v
       def: to pierce, to run through
 
 - key: sagjeti
   ety: From PIE \ipa{*séh₂gyeti}
-  definitions:
+  content:
     - typ: v
       def: to give a sign
     - typ: v
@@ -3682,13 +3688,13 @@
 
 - key: opisagjeti
   ety: From Dan. \ipa{opi- + sagjeti}
-  definitions:
+  content:
     - typ: v
       def: to celebrate
 
 - key: sagjetis
   ety: From Dan. \ipa{sagjeti}
-  definitions:
+  content:
     - typ: f
       def: meaning, the meaning of something
     - typ: f
@@ -3696,7 +3702,7 @@
 
 - key: rodis
   ety: From Dan. \ipa{reds}
-  definitions:
+  content:
     - typ: f
       def: rule (regla)
     - typ: f
@@ -3704,146 +3710,146 @@
 
 - key: fjena
   ety: From PIE \ipa{*dʰeh₁(y)-}
-  definitions:
+  content:
     - typ: f
       def: young woman; virgin, maiden
 
 - key: kamán
   ety: From Persian \arab{کمان}
-  definitions:
+  content:
     - typ: m
       def: bow (weapon)
 
 - key: istrom
   ety: From Dan. \ipa{isus}
-  definitions:
+  content:
     - typ: n
       def: bow (weapon)
 
 - key: atjeria
   ety: From Dan. \ipa{ati- + jeros + -ia}
-  definitions:
+  content:
     - typ: f
       def: (in plural) eternity
 
 - key: sadeti
   ety: From PIE \ipa{*ḱh₂d-}
-  definitions:
+  content:
     - typ: v
       def: to fall, to fall down
 
 - key: Portugal
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Portugal
 
 - key: Hispania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Spain
 
 - key: Gallia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: France
 
 - key: Germania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Germany
 
 - key: Britannia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Britain
 
 - key: Polonia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Poland
 
 - key: Helvetia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Switzerland
 
 - key: Italia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Italy
 
 - key: París
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Paris
 
 - key: Madrid
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: Madrid
 
 - key: Roma
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Rome
 
 - key: Moscovia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Moscow
 
 - key: Peruvia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Peru
 
 - key: Columbia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Colombia
 
 - key: sphaira
   ety: From AG \gr{σφαῖρᾰ}
-  definitions:
+  content:
     - typ: f
       def: sphere
 
 - key: Jonia
   ety: From AG \gr{Ἰωνῐ́ᾱ}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Greece
 
 - key: Canada
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Canada
 
 - key: Serbia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Serbia
 
 - key: Ucrania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Ukraine
 
@@ -3851,71 +3857,71 @@
   ety: From a Turkic language. Compare Uzbek \cyr{Хитой}, Turkmen \ipa{Hytaý}, and
     Tajik \cyr{Хитой}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: China
 
 - key: Hibernia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Ireland
 
 - key: Persia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Persia
 
 - key: Irania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Iran
 
 - key: bomba
   ety: From It. \ipa{bomba}
-  definitions:
+  content:
     - typ: f
       def: bomb
 
 - key: Turcia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Turkey
 
 - key: hydrogenos
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: hydrogen
       tag: chemistry
 
 - key: heliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: helium
       tag: chemistry
 
 - key: lithiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: lithium
       tag: chemistry
 
 - key: berylliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: beryllium
       tag: chemistry
 
 - key: borom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: boron
       tag: chemistry
@@ -3923,7 +3929,7 @@
 - key: kulom
   ety: From PG \ipa{*kulą}
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: coal
     - typ: n
@@ -3932,63 +3938,63 @@
 
 - key: nitrogenos
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: nitrogen
       tag: chemistry
 
 - key: oxygenos
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: oxygen
       tag: chemistry
 
 - key: fluorom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: fluorine
       tag: chemistry
 
 - key: neón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: neon
       tag: chemistry
 
 - key: natriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: sodium
       tag: chemistry
 
 - key: magnesiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: magnesium
       tag: chemistry
 
 - key: aluminiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: aluminium, aluminum
       tag: chemistry
 
 - key: siliciom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: silicon
       tag: chemistry
 
 - key: phosphoros
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: phosphorus
       tag: chemistry
@@ -3996,217 +4002,217 @@
 - key: sveblos
   ety: From PG \ipa{*sweblaz}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: sulfur
       tag: chemistry
 
 - key: chlorom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: chlorine
       tag: chemistry
 
 - key: argón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: argon
       tag: chemistry
 
 - key: kaliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: potassium
       tag: chemistry
 
 - key: calciom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: calcium
       tag: chemistry
 
 - key: scandiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: scandium
       tag: chemistry
 
 - key: titaniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: titanium
       tag: chemistry
 
 - key: vanadiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: vanadium
       tag: chemistry
 
 - key: chromiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: chromium
       tag: chemistry
 
 - key: manganiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: manganese
       tag: chemistry
 
 - key: cobaltiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: cobalt
       tag: chemistry
 
 - key: niccolom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: nickel
       tag: chemistry
 
 - key: zincom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: zinc
       tag: chemistry
 
 - key: galliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: gallium
       tag: chemistry
 
 - key: germaniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: germanium
       tag: chemistry
 
 - key: arsenicom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: arsenic
       tag: chemistry
 
 - key: seleniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: selenium
       tag: chemistry
 
 - key: bromom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: bromine
       tag: chemistry
 
 - key: kryptón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: krypton
       tag: chemistry
 
 - key: rubidiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: rubidium
       tag: chemistry
 
 - key: strontiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: strontium
       tag: chemistry
 
 - key: yttriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: yttrium
       tag: chemistry
 
 - key: zirconiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: zirconium
       tag: chemistry
 
 - key: niobiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: niobium
       tag: chemistry
 
 - key: molybdainom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: molybdenum
       tag: chemistry
 
 - key: technetiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: technetium
       tag: chemistry
 
 - key: rutheniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: ruthenium
       tag: chemistry
 
 - key: rhodiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: rhodium
       tag: chemistry
 
 - key: palladiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: palladium
       tag: chemistry
 
 - key: cadmiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: cadmium
       tag: chemistry
 
 - key: indiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: indium
       tag: chemistry
@@ -4214,7 +4220,7 @@
 - key: galái
   ety: From a Turkic language. Compare Azerbaijani \ipa{qalay}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: tin (metal)
       tag: chemistry
@@ -4222,84 +4228,84 @@
 - key: stibiom
   ety: From Lat. \ipa{stibium}
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: antimony
       tag: chemistry
 
 - key: telluriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: tellurium
       tag: chemistry
 
 - key: jodom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: iodine
       tag: chemistry
 
 - key: xenón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: xenon
       tag: chemistry
 
 - key: caisiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: caesium, cesium
       tag: chemistry
 
 - key: bariom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: barium
       tag: chemistry
 
 - key: lanthanom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: lanthanum
       tag: chemistry
 
 - key: ceriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: cerium
       tag: chemistry
 
 - key: praseodymiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: praseodymium
       tag: chemistry
 
 - key: neodymiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: neodymium
       tag: chemistry
 
 - key: promethiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: promethium
       tag: chemistry
 
 - key: samariom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: samarium
       tag: chemistry
@@ -4307,41 +4313,41 @@
 - key: Európa
   ety: From AG \gr{Εὐρώπη}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Europe
 
 - key: europiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: europium
       tag: chemistry
 
 - key: gadoliniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: gadolinium
       tag: chemistry
 
 - key: terbiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: terbium
       tag: chemistry
 
 - key: dysprosiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: dysprosium
       tag: chemistry
 
 - key: holmiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: holmium
       tag: chemistry
@@ -4349,41 +4355,41 @@
 - key: Holmia
   ety: From Lat. \ipa{Holmia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Stockholm
 
 - key: erbiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: erbium
       tag: chemistry
 
 - key: thuliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: thulium
       tag: chemistry
 
 - key: ytterbiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: ytterbium
       tag: chemistry
 
 - key: lutetiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: lutetium
       tag: chemistry
 
 - key: hafniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: hafnium
       tag: chemistry
@@ -4391,54 +4397,54 @@
 - key: Hafnia
   ety: From Lat. \ipa{Hafnia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Copenhagen
 
 - key: tantaliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: tantalum
       tag: chemistry
 
 - key: wolframiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: wolfram, wolframium, tungsten
       tag: chemistry
 
 - key: rheniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: rhenium
       tag: chemistry
 
 - key: Rhenos
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: Rhine
 
 - key: osmiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: osmium
       tag: chemistry
 
 - key: iridiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: iridium
       tag: chemistry
 
 - key: platína
   cat: elements
-  definitions:
+  content:
     - typ: f
       def: platinum
       tag: chemistry
@@ -4446,14 +4452,14 @@
 - key: altin
   ety: From a Turkic language. Compare Turkmen \ipa{altyn} and Uzbek \ipa{oltin}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: gold
       tag: chemistry
 
 - key: thalliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: thallium
       tag: chemistry
@@ -4461,186 +4467,186 @@
 - key: gursjun
   ety: From a Turkic language. Compare Turkmen \ipa{gurşun} and Turkish \ipa{kurşun}
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: lead (metal)
       tag: chemistry
 
 - key: bismútom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: bismuth
       tag: chemistry
 
 - key: poloniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: polonium
       tag: chemistry
 
 - key: astatom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: astatine
       tag: chemistry
 
 - key: radón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: radon
       tag: chemistry
 
 - key: franciom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: francium
       tag: chemistry
 
 - key: radiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: radium
       tag: chemistry
 
 - key: actiniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: actinium
       tag: chemistry
 
 - key: thoriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: thorium
       tag: chemistry
 
 - key: protactiniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: protactinium
       tag: chemistry
 
 - key: uraniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: uranium
       tag: chemistry
 
 - key: neptuniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: neptunium
       tag: chemistry
 
 - key: plutoniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: plutonium
       tag: chemistry
 
 - key: americiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: americium
       tag: chemistry
 
 - key: curiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: curium
       tag: chemistry
 
 - key: berkeliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: berkelium
       tag: chemistry
 
 - key: californiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: californium
       tag: chemistry
 
 - key: Albertos Ainstain
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Albert Einstein
 
 - key: Leonardos Óiler
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Leonhard Euler
 
 - key: Frederik
   ety: From PG \ipa{*Friþurīks}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
 
 - key: Joánna Karlos Frederik Gauss
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Johann Carl Friedrich Gauss
 
 - key: Demetrios
   ety: From AG \gr{Δημήτριος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Demetrius, Dimitri, Dmitri
 
 - key: ainstainiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: einsteinium
       tag: chemistry
 
 - key: fermiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: fermium
       tag: chemistry
 
 - key: mendeleviom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: mendelevium
       tag: chemistry
 
 - key: nobeliom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: nobelium
       tag: chemistry
 
 - key: laurentiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: lawrencium
       tag: chemistry
@@ -4648,26 +4654,26 @@
 - key: Ernéstos
   ety: From Ger. \ipa{Ernst}, influenced by Sp. \ipa{Ernesto}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Ernesto, Ernst, Ernest
 
 - key: Ernéstos Raderford
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Ernest Rutherford
 
 - key: raderfordiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: rutherfordium
       tag: chemistry
 
 - key: dubniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: dubnium
       tag: chemistry
@@ -4675,26 +4681,26 @@
 - key: Glen
   ety: From En. \ipa{Glen}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Glen, Glenn
 
 - key: Theodoros
   ety: From AG \gr{Θεόδωρος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Theodore
 
 - key: Glen Theodoros Siborg
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Glenn Theodore Seaborg
 
 - key: siborgiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: seaborgium
       tag: chemistry
@@ -4702,33 +4708,33 @@
 - key: Nils
   ety: From Danish \ipa{Niels}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Niels
 
 - key: Nils Bor
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Niels Bohr
 
 - key: boriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: bohrium
       tag: chemistry
 
 - key: hassiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: hassium
       tag: chemistry
 
 - key: maitneriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: meitnerium
       tag: chemistry
@@ -4736,13 +4742,13 @@
 - key: Daramstat
   ety: From Ger. \ipa{Darmstadt}
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: Darmstadt
 
 - key: daramstatiom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: darmstadtium
       tag: chemistry
@@ -4750,68 +4756,68 @@
 - key: Condrados
   ety: Related to Ger. \ipa{Konrad}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Conrad, Konrad
 
 - key: Vilmos Condrados Rointgen
   cat: people
-  definitions:
+  content:
     - typ: m
       def: Wilhelm Conrad Röntgen
 
 - key: rointgeniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: roentgenium
       tag: chemistry
 
 - key: coperniciom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: copernicium
       tag: chemistry
 
 - key: nihoniom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: nihonium
       tag: chemistry
 
 - key: fleroviom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: flerovium
       tag: chemistry
 
 - key: moscoviom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: moscovium
       tag: chemistry
 
 - key: livermoriom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: livermorium
       tag: chemistry
 
 - key: tennessom
   cat: elements
-  definitions:
+  content:
     - typ: n
       def: tennessine
       tag: chemistry
 
 - key: oganessón
   cat: elements
-  definitions:
+  content:
     - typ: m
       def: oganesson
       tag: chemistry
@@ -4819,7 +4825,7 @@
 - key: januarios
   ety: From Lat. \ipa{Jānuārius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: January
       tag: month
@@ -4827,7 +4833,7 @@
 - key: februarios
   ety: From Lat. \ipa{Februārius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: February
       tag: month
@@ -4835,7 +4841,7 @@
 - key: martios
   ety: From Lat. \ipa{Mārtius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: March
       tag: month
@@ -4843,7 +4849,7 @@
 - key: aprilis
   ety: From Lat. \ipa{Aprīlis}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: April
       tag: month
@@ -4851,7 +4857,7 @@
 - key: majos
   ety: From Lat. \ipa{Maius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: May
       tag: month
@@ -4859,7 +4865,7 @@
 - key: junios
   ety: From Lat. \ipa{Jūnius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: June
       tag: month
@@ -4867,7 +4873,7 @@
 - key: julios
   ety: From Lat. \ipa{Jūlius}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: July
       tag: month
@@ -4875,7 +4881,7 @@
 - key: augustos
   ety: From Lat. \ipa{Augustus}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: August
       tag: month
@@ -4883,7 +4889,7 @@
 - key: september
   ety: From Lat. \ipa{September}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: September
       tag: month
@@ -4891,7 +4897,7 @@
 - key: october
   ety: From Lat. \ipa{Octōber}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: October
       tag: month
@@ -4899,7 +4905,7 @@
 - key: november
   ety: From Lat. \ipa{November}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: November
       tag: month
@@ -4907,14 +4913,14 @@
 - key: december
   ety: From Lat. \ipa{December}
   cat: months
-  definitions:
+  content:
     - typ: m
       def: December
       tag: month
 
 - key: ludinos
   ety: From Dan. \ipa{ludis}
-  definitions:
+  content:
     - typ: adj
       def: of the people
     - typ: adj
@@ -4922,150 +4928,150 @@
 
 - key: Hitaniska Ludina Respublica
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: People's Republic of China
 
 - key: Belarossia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Belarus
 
 - key: Mexicom
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: Mexico
 
 - key: Anglia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: England
 
 - key: Dania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Denmark
 
 - key: Scotia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Scotland
 
 - key: Cambria
   ety: From Lat. \ipa{Cambria}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Wales
 
 - key: Japonia
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Japan
 
 - key: Coréa
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Korea
 
 - key: nordom
   ety: From PG \ipa{*nurþrą}
   cat: cardinal-directions
-  definitions:
+  content:
     - typ: n
       def: north
 
 - key: sundom
   ety: From PG \ipa{*sunþrą}
   cat: cardinal-directions
-  definitions:
+  content:
     - typ: n
       def: south
 
 - key: austom
   ety: From PG \ipa{*austrą}
   cat: cardinal-directions
-  definitions:
+  content:
     - typ: n
       def: east
 
 - key: vestom
   ety: From PG \ipa{*westrą}
   cat: cardinal-directions
-  definitions:
+  content:
     - typ: n
       def: west
 
 - key: Austina Germania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: East Germany
 
 - key: Vestina Germania
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: West Germany
 
 - key: nordinos
   ety: From Dan. \ipa{nordom}
-  definitions:
+  content:
     - typ: adj
       def: northern, north, northerly
 
 - key: sundinos
   ety: From Dan. \ipa{sundom}
-  definitions:
+  content:
     - typ: adj
       def: southern, south, southerly
 
 - key: austinos
   ety: From Dan. \ipa{austom}
-  definitions:
+  content:
     - typ: adj
       def: eastern, east, easterly
 
 - key: vestinos
   ety: From Dan. \ipa{vestom}
-  definitions:
+  content:
     - typ: adj
       def: western, west, westerly
 
 - key: Nordina Coréa
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: North Korea
 
 - key: Sundina Coréa
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: South Korea
 
 - key: India
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: India
 
 - key: Porto-Rico
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: Puerto Rico
 
 - key: Sanctos Joánna
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: Saint John, John the Apostle
     - typ: m
@@ -5073,72 +5079,89 @@
 
 - key: Jesus Christos
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Jesus Christ
 
 - key: Donald Tramp
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Donald Trump
 
 - key: svomia
   ety: From PIE \ipa{*swé}
-  definitions:
+  content:
     - typ: f
       def: freedom, liberty
 
 - key: aiqual
   ety: From Lat. \ipa{aequālis}
-  definitions:
+  content:
     - typ: adj
       def: equal
 
 - key: medanjés
   ety: From Dan. \ipa{medanos}
-  definitions:
+  content:
     - typ: adj
       def: bigger
 
 - key: medanistos
   ety: From Dan. \ipa{medanos}
-  definitions:
+  content:
     - typ: adj
       def: biggest
 
+- key: minos
+  content:
+    - typ: adj
+      def: small
+
+- key: minjés
+  ety: From Dan. \ipa{minos}
+  content:
+    - typ: adj
+      def: smaller
+
+- key: ministos
+  ety: From Dan. \ipa{minos}
+  content:
+    - typ: adj
+      def: smallest
+
 - key: virikom
   ety: From Dan. \ipa{viros}
-  definitions:
+  content:
     - typ: n
       def: little man
 
 - key: bloman
   ety: From Dan. \ipa{bloti}
-  definitions:
+  content:
     - typ: n
       def: flower
 
 - key: blomenikom
   ety: From Dan. \ipa{bloman}
-  definitions:
+  content:
     - typ: n
       def: little flower
 
 - key: svomjos
   ety: From Dan. \ipa{svomia}
-  definitions:
+  content:
     - typ: adj
       def: free
 
 - key: da
-  definitions:
+  content:
     - typ: conj
       def: and
 
 - key: anabideti
   ety: From Dan. \ipa{ana- + bideti}
-  definitions:
+  content:
     - typ: v
       def: to share, to exchange
     - typ: v
@@ -5150,73 +5173,73 @@
 
 - key: andeti
   ety: From PIE \ipa{*h₂enǵʰ-}
-  definitions:
+  content:
     - typ: v
       def: to obligate, to bind
 
 - key: Djus Pater
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: m
       def: Sky Father, supreme Danetian deity
 
 - key: Fedóm Mater
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: f
       def: Earth Mother
 
 - key: Mori Mantióm
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: n
       def: primordial sea of thoughts
 
 - key: Daneta
   ety: From Dan. \ipa{danu}
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: f
       def: Danetian river goddess, freed from the clutches of the water serpent
 
 - key: danetiskos
   ety: From Dan. \ipa{Daneta}
-  definitions:
+  content:
     - typ: adj
       def: Danetian
 
 - key: pludeti
   ety: From PIE \ipa{*plewd-}
-  definitions:
+  content:
     - typ: v
       def: to swim
 
 - key: usterom mori
-  definitions:
+  content:
     - typ: n
       def: high sea, open sea
 
 - key: bredíti
   ety: From PIE \ipa{*bʰredʰ-}
-  definitions:
+  content:
     - typ: v
       def: to roam, to wander freely
 
 - key: valdus
   ety: From PG \ipa{*walþuz}
-  definitions:
+  content:
     - typ: m
       def: forest
 
 - key: blomia
   ety: From Dan. \ipa{bloti}
-  definitions:
+  content:
     - typ: f
       def: freshness
 
 - key: skula
   ety: From PG \ipa{*skulō}
-  definitions:
+  content:
     - typ: f
       def: troop; group; crowd
     - typ: f
@@ -5224,381 +5247,381 @@
 
 - key: Isak
   ety: From AG \gr{Ἰσαᾱ́κ}
-  definitions:
+  content:
     - typ: m
       def: Isaac
 
 - key: Isak Njutón
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Isaac Newton
 
 - key: Werner
   ety: From Ger. \ipa{Werner}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Werner, Warner
 
 - key: Werner Haisemberg
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Werner Heisenberg
 
 - key: Hadriános
   ety: From Lat. \ipa{Hadriānus}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Adrian, Hadrian
 
 - key: Mauritios
   ety: From Lat. \ipa{Mauritius}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Maurice, Mauricio, Mauritius
 
 - key: Paulos Hadriános Mauritios Dirac
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Paul Adrien Maurice Dirac
 
 - key: Saverios
   ety: From Basque \ipa{etxeberria}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Javier, Xavier, Saverio
 
 - key: Saverios Castro
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Javier Castro, creator of the Danetian language
 
 - key: Philippos
   ety: From AG \gr{Φῐ́λῐππος}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Philip, Felipe
 
 - key: Richardos Philippos Fainman
   cat: real-people
-  definitions:
+  content:
     - typ: m
       def: Richard Phillips Feynman
 
 - key: quantiska mechanica
-  definitions:
+  content:
     - typ: f
       def: quantum mechanics
 
 - key: classiska mechanica
-  definitions:
+  content:
     - typ: f
       def: classical mechanics
 
 - key: Agnis
   ety: From PIE \ipa{*h₁n̥gʷnís}
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: m
       def: Danetian god of fire, oaths, promises, and moral justice
 
 - key: Perkunos
   ety: From PIE \ipa{*perkʷunos}
   cat: danetian-mythology
-  definitions:
+  content:
     - typ: m
       def: Danetian god of thunder
 
 - key: latiniska
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Latin language
 
 - key: angliska
   ety: From Dan. \ipa{Anglia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: English language
 
 - key: galliska
   ety: From Dan. \ipa{Gallia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: French language
 
 - key: galliskos
   ety: From Dan. \ipa{Gallia}
-  definitions:
+  content:
     - typ: adj
       def: French
 
 - key: germaniska
   ety: From Dan. \ipa{Germania}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: German language
 
 - key: germaniskos
   ety: From Dan. \ipa{Germania}
-  definitions:
+  content:
     - typ: adj
       def: German
 
 - key: rossiska
   ety: From Dan. \ipa{Rossia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Russian language
 
 - key: joniska
   ety: From Dan. \ipa{Jonia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Greek language
 
 - key: italiska
   ety: From Dan. \ipa{Italia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Italian language
 
 - key: portugaliska
   ety: From Dan. \ipa{Portugalia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Portuguese language
 
 - key: hitaniska
   ety: From Dan. \ipa{Hitania}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Chinese language
 
 - key: hitaniskos
   ety: From Dan. \ipa{Hitania}
-  definitions:
+  content:
     - typ: adj
       def: Chinese
 
 - key: japoniska
   ety: From Dan. \ipa{Japonia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Japanese language
 
 - key: japoniskos
   ety: From Dan. \ipa{Japonia}
-  definitions:
+  content:
     - typ: adj
       def: Japanese
 
 - key: daniska
   ety: From Dan. \ipa{Dania}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Danish language
 
 - key: Norvegia
   ety: From Lat. \ipa{Norvegia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Norway
 
 - key: norvegiska
   ety: From Dan. \ipa{Norvegia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Norwegian language
 
 - key: Svedia
   ety: Related to Ger. \ipa{Schweden}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Sweden
 
 - key: svediska
   ety: From Dan. \ipa{Svedia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Swedish language
 
 - key: Finnia
   ety: From Lat. \ipa{Finnia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Finland
 
 - key: finniska
   ety: From Dan. \ipa{Finnia}
   cat: languages
-  definitions:
+  content:
     - typ: f
       def: Finnish language
 
 - key: Berlín
   cat: place-names
-  definitions:
+  content:
     - typ: m
       def: Berlin
 
 - key: Constantinopolis
   ety: From AG \gr{Κωνσταντινούπολις}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Constantinople; Istanbul
 
 - key: Sebastopolis
   ety: From AG \gr{Σεβαστόπολις}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Sevastopol
 
 - key: sebastopoliskos
   ety: From Dan. \ipa{Sebastopolis}
-  definitions:
+  content:
     - typ: adj
       def: pertaining to Sevastopol
 
 - key: Sancta Petropolis
   ety: From Lat. \ipa{sancta + Petropolis}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Saint Petersburg
 
 - key: Londiniom
   ety: From Lat. \ipa{Londīnium}
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: London
 
 - key: Belgia
   ety: From Lat. \ipa{Belgia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Belgium
 
 - key: Miami
   ety: From En. \ipa{Miami}
   cat: place-names
-  definitions:
+  content:
     - typ: n
       def: Miami
 
 - key: Florida
   ety: From En. \ipa{Florida}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Florida
 
 - key: York
   ety: From En. \ipa{York}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: York
 
 - key: Neva York
   ety: From Dan. \ipa{neva + York}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: New York
 
 - key: Neva Jersis
   ety: From Dan. \ipa{neva} and En. \ipa{Jersey}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: New Jersey
 
 - key: Cuba
   ety: From Sp. \ipa{Cuba}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Cuba
 
 - key: mathematica
   ety: From Lat. \ipa{mathēmatica}
-  definitions:
+  content:
     - typ: f
       def: mathematics
 
 - key: grammatica
   ety: From Lat. \ipa{grammatica}
-  definitions:
+  content:
     - typ: f
       def: grammar
 
 - key: orthographia
   ety: From Lat. \ipa{orthographia}, from AG \gr{ὀρθογρᾰφῐ́ᾱ}
-  definitions:
+  content:
     - typ: f
       def: orthography
 
 - key: chemia
   ety: From Ger. \ipa{Chemie}
-  definitions:
+  content:
     - typ: f
       def: chemistry
 
 - key: philosophia
   ety: From Lat. \ipa{philosophia}, from AG \gr{φιλοσοφία}
-  definitions:
+  content:
     - typ: f
       def: philosophy
 
 - key: biologia
   ety: From Lat. \ipa{biologia}
-  definitions:
+  content:
     - typ: f
       def: biology
 
 - key: bibliom
   ety: From AG \gr{βῐβλῐ́ον}
-  definitions:
+  content:
     - typ: n
       def: book
 
 - key: sanctos
   ety: From Lat. \ipa{sānctus}
-  definitions:
+  content:
     - typ: adj
       def: saint, holy, sacred
 
 - key: Sancta Bíblia
   ety: From Lat. \ipa{Sancta Biblia}
-  definitions:
+  content:
     - typ: n
       def: holy books; Holy Bible
   note: This term is in plural
@@ -5606,74 +5629,74 @@
 - key: Athénai
   ety: From Lat. \ipa{Athēnae}, from AG \gr{Ἀθῆναι}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Athens
   note: This term is in plural
 
 - key: calculos
   ety: From Lat. \ipa{calculus}
-  definitions:
+  content:
     - typ: m
       def: calculus
 
 - key: planéta
   ety: From Lat. \ipa{planeta}, from AG \gr{πλανήτης}
-  definitions:
+  content:
     - typ: m
       def: planet
 
 - key: tridsont
   ety: From PIE \ipa{*tridḱómt}
-  definitions:
+  content:
     - typ: num
       def: thirty
 
 - key: petvardsont
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  definitions:
+  content:
     - typ: num
       def: forty
 
 - key: pempedsont
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  definitions:
+  content:
     - typ: num
       def: fifty
 
 - key: svekdsont
   ety: From PIE \ipa{*swéḱsdḱomt}
-  definitions:
+  content:
     - typ: num
       def: sixty
 
 - key: septandsont
   ety: From PIE \ipa{*septḿ̥dḱomt}
-  definitions:
+  content:
     - typ: num
       def: seventy
 
 - key: oktodsont
   ety: From PIE \ipa{*oḱtódḱomt}
-  definitions:
+  content:
     - typ: num
       def: eighty
 
 - key: nevandsont
   ety: From PIE \ipa{*h₁néwn̥dḱomt}
-  definitions:
+  content:
     - typ: num
       def: ninety
 
 - key: satón
   ety: From PIE \ipa{*ḱm̥tóm}
-  definitions:
+  content:
     - typ: num
       def: hundred; one hundred
 
 - key: tusontis
   ety: From PIE \ipa{*tuHsont-}
-  definitions:
+  content:
     - typ: num
       def: thousand; one thousand
 
@@ -5681,143 +5704,143 @@
   ety: Ultimately from PG \ipa{*harjatogō}. Compare German \ipa{Herzog} and Dutch
     \ipa{Hertog}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: m
       def: duke
 
 - key: imperiom
   ety: From Lat. \ipa{imperium}
-  definitions:
+  content:
     - typ: n
       def: empire
 
 - key: imperator
   ety: From Lat. \ipa{imperātor}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: m
       def: emperor
 
 - key: Romiskom Imperiom
   ety: From Dan. \ipa{romiskom + imperiom}
-  definitions:
+  content:
     - typ: n
       def: Roman Empire
 
 - key: redissa
   ety: From Dan. \ipa{reds}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: f
       def: queen
 
 - key: furistos
   ety: From PG \ipa{*furistaz}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: m
       def: prince
 
 - key: furista
   ety: From Dan. \ipa{furistos}
   cat: ranks-of-nobility
-  definitions:
+  content:
     - typ: f
       def: princess
 
 - key: humános
   ety: From Lat. \ipa{hūmānus}
-  definitions:
+  content:
     - typ: m
       def: human
 
 - key: humánom estin
   ety: From Dan. \ipa{humánom + estin}
-  definitions:
+  content:
     - typ: n
       def: human being
 
 - key: conscientia
   ety: From Lat. \ipa{cōnscientia}
-  definitions:
+  content:
     - typ: f
       def: conscience
 
 - key: scientia
   ety: From Lat. \ipa{scientia}
-  definitions:
+  content:
     - typ: f
       def: science
 
 - key: psychologia
   ety: From Lat. \ipa{psychologia}
-  definitions:
+  content:
     - typ: f
       def: psychology
 
 - key: stelos
   ety: From PIE \ipa{*stelh₃ós}
-  definitions:
+  content:
     - typ: adj
       def: wide
 
 - key: pauros
   ety: From PIE \ipa{*peh₂w-}
-  definitions:
+  content:
     - typ: pron
       def: few, little of
 
 - key: aljos
   ety: From PIE \ipa{*h₂élyos}
-  definitions:
+  content:
     - typ: pron
       def: other, another
 
 - key: furops
   ety: From PIE \ipa{*ǵʰwer-o-h₃kʷs}
-  definitions:
+  content:
     - typ: m
       def: wild beast
 
 - key: fastos
   ety: From PIE \ipa{*ǵʰasto-}
-  definitions:
+  content:
     - typ: m
       def: stick
 
 - key: roinos
   ety: From PIE \ipa{*roypnós}
-  definitions:
+  content:
     - typ: m
       def: rope
 
 - key: pelnom
   ety: From PIE \ipa{*pel}
-  definitions:
+  content:
     - typ: n
       def: skin
 
 - key: pulnis
   ety: From PIE \ipa{*pulh₂-}
-  definitions:
+  content:
     - typ: f
       def: hair
 
 - key: pipoti
   ety: From PIE \ipa{*píph₃eti}
-  definitions:
+  content:
     - typ: v
       def: to drink
 
 - key: esti²
   ety: From PIE \ipa{*h₁édti}
-  definitions:
+  content:
     - typ: v
       def: to eat
 
 - key: titta
   ety: From PG \ipa{*titt-}
-  definitions:
+  content:
     - typ: f
       def: breast, teat, tit
     - typ: f
@@ -5825,13 +5848,13 @@
 
 - key: fembeti
   ety: From PIE \ipa{*gʷʰemb-}
-  definitions:
+  content:
     - typ: v
       def: to spring, hop, jump
 
 - key: febeti
   ety: From PIE \ipa{*bʰegʷ-}
-  definitions:
+  content:
     - typ: v
       def: to run
     - typ: v
@@ -5839,7 +5862,7 @@
 
 - key: bogeti
   ety: From PIE \ipa{*gʷog-}
-  definitions:
+  content:
     - typ: v
       def: to shake
     - typ: v
@@ -5847,19 +5870,19 @@
 
 - key: theoreman
   ety: From Lat. \ipa{theōrēma}, from AG \gr{θεώρημᾰ}
-  definitions:
+  content:
     - typ: n
       def: theorem
 
 - key: theoria
   ety: From Lat. \ipa{theōria}, from AG \gr{θεωρῐ́ᾱ}
-  definitions:
+  content:
     - typ: f
       def: theory
 
 - key: general
   ety: From Lat. \ipa{generālis}
-  definitions:
+  content:
     - typ: adj
       def: general
     - typ: adj
@@ -5867,7 +5890,7 @@
 
 - key: tremos
   ety: From PIE \ipa{*trem-}
-  definitions:
+  content:
     - typ: m
       def: trembling, tremor, shudder
     - typ: m
@@ -5875,52 +5898,52 @@
 
 - key: orda
   ety: From OT \ipa{ordu}, from PT \ipa{*or-}. Compare Rus. \cyr{орда}
-  definitions:
+  content:
     - typ: f
       def: army
 
 - key: opisvomia
   ety: From Dan. \ipa{opi + svomia}
-  definitions:
+  content:
     - typ: f
       def: liberation
 
 - key: opisvomíti
   ety: From Dan. \ipa{opisvomia}
-  definitions:
+  content:
     - typ: v
       def: to liberate, to free, to set free
 
 - key: Ludina Opisvomiska Orda
-  definitions:
+  content:
     - typ: f
       def: People's Liberation Army
 
 - key: Rufra Orda
-  definitions:
+  content:
     - typ: f
       def: Red Army
 
 - key: Rufra Pletia
-  definitions:
+  content:
     - typ: f
       def: Red Square
 
 - key: Aicaterína
   ety: From AG \gr{Αἰκατερῑ́νη}
-  definitions:
+  content:
     - typ: f
       def: Catherine, Catalina, Katrina, Caitlin
 
 - key: Aicaterinapolis
   ety: From Dan. \ipa{Aicaterina + -polis}
-  definitions:
+  content:
     - typ: f
       def: Yekaterinburg
 
 - key: historia
   ety: From Lat. \ipa{historia}, from AG \gr{ἱστορία}
-  definitions:
+  content:
     - typ: f
       def: history
     - typ: f
@@ -5928,7 +5951,7 @@
 
 - key: computa
   ety: From Fr. \ipa{compte}, influenced by Lat. \ipa{computare}
-  definitions:
+  content:
     - typ: f
       def: account (bank or user account)
     - typ: f
@@ -5936,7 +5959,7 @@
 
 - key: boida
   ety: From PIE \ipa{*bʰoydʰ-}
-  definitions:
+  content:
     - typ: f
       def: trust
     - typ: f
@@ -5944,37 +5967,37 @@
 
 - key: ordinator
   ety: From Fr. \ipa{ordinateur}, influenced by Lat. \ipa{ōrdinātor}
-  definitions:
+  content:
     - typ: m
       def: computer
 
 - key: sjofer
   ety: From Fr. \ipa{chauffeur}
-  definitions:
+  content:
     - typ: m
       def: chauffeur, driver
 
 - key: promenáda
   ety: From Fr. \ipa{promenade}
-  definitions:
+  content:
     - typ: f
       def: walk, stroll, walk for enjoyment
 
 - key: Versaljai
   ety: From Fr. \ipa{Versailles}
-  definitions:
+  content:
     - typ: f
       def: Versailles
 
 - key: Palatiom Versaljóm
   ety: From Dan. \ipa{palaciom + Versaljai}
-  definitions:
+  content:
     - typ: n
       def: Palace of Versailles
 
 - key: tractátos
   ety: From Lat. \ipa{tractātus}
-  definitions:
+  content:
     - typ: m
       def: treaty
     - typ: m
@@ -5986,25 +6009,25 @@
 
 - key: bagasj
   ety: From Fr. \ipa{bagage}
-  definitions:
+  content:
     - typ: m
       def: baggage, luggage
 
 - key: bagét
   ety: From Fr. \ipa{baguette}
-  definitions:
+  content:
     - typ: f
       def: baguette
 
 - key: balcón
   ety: From Fr. \ipa{balcon}
-  definitions:
+  content:
     - typ: m
       def: balcony
 
 - key: afísja
   ety: From Fr. \ipa{affiche}
-  definitions:
+  content:
     - typ: f
       def: poster
     - typ: f
@@ -6014,13 +6037,13 @@
 
 - key: aerodromos
   ety: From Fr. \ipa{aérodrome}, by analogy with \ipa{hippodrome}, from AG \gr{ἱππόδρομος}
-  definitions:
+  content:
     - typ: m
       def: airfield, aerodrome
 
 - key: aventúra
   ety: From Fr. \ipa{aventure}
-  definitions:
+  content:
     - typ: f
       def: adventure
     - typ: f
@@ -6030,25 +6053,25 @@
 
 - key: automobilis
   ety: From Fr. \ipa{automobile}, influenced by Lat. \ipa{mōbilis}
-  definitions:
+  content:
     - typ: f
       def: automotive
 
 - key: abasjur
   ety: From Fr. \ipa{abat-jour}
-  definitions:
+  content:
     - typ: m
       def: lampshade
 
 - key: vassal
   ety: From Fr. \ipa{vassal}
-  definitions:
+  content:
     - typ: m
       def: vassal
 
 - key: vacantia
   ety: From Fr. \ipa{vacance}, with a latinized ending
-  definitions:
+  content:
     - typ: f
       def: vacation
     - typ: f
@@ -6058,19 +6081,19 @@
 
 - key: Valeria
   ety: From Lat. \ipa{Valeria}
-  definitions:
+  content:
     - typ: f
       def: Valerie
 
 - key: Valerios
   ety: From Lat. \ipa{Valerius}
-  definitions:
+  content:
     - typ: m
       def: Valerius, Valerio
 
 - key: asphaltos
   ety: From AG \gr{ἄσφᾰλτος}
-  definitions:
+  content:
     - typ: m
       def: asphalt, bitumen; pitch, tar
     - typ: m
@@ -6078,25 +6101,25 @@
 
 - key: wagón
   ety: From Fr. \ipa{wagon}, from En. \ipa{waggon}, from Dutch \ipa{wagen}
-  definitions:
+  content:
     - typ: m
       def: railway carriage
 
 - key: velocipods
   ety: From Fr. \ipa{vélocipède}, influenced by Dan. \ipa{pods}
-  definitions:
+  content:
     - typ: m
       def: velocipede; bicycle
 
 - key: badgjet
   ety: From En. \ipa{budget}
-  definitions:
+  content:
     - typ: m
       def: budget
 
 - key: botón
   ety: From Fr. \ipa{bouton}, from OF \ipa{boton}
-  definitions:
+  content:
     - typ: m
       def: button
     - typ: m
@@ -6106,19 +6129,19 @@
 
 - key: botíca
   ety: From Fr. \ipa{boutique}, from Old Occ. \ipa{botica}
-  definitions:
+  content:
     - typ: f
       def: small shop; boutique
 
 - key: buljón
   ety: From Fr. \ipa{bouillon}
-  definitions:
+  content:
     - typ: m
       def: broth (water in which food has been boiled)
 
 - key: ensembla
   ety: From Fr. \ipa{ensemble}
-  definitions:
+  content:
     - typ: f
       def: a set
       tag: mathematics
@@ -6128,7 +6151,7 @@
 
 - key: tresón
   ety: From PIE \ipa{*tres-}
-  definitions:
+  content:
     - typ: adj
       def: shy, timid
     - typ: adj
@@ -6136,25 +6159,25 @@
 
 - key: rodetis
   ety: From Dan. \ipa{rodia}
-  definitions:
+  content:
     - typ: f
       def: government
 
 - key: analysis
   ety: From Lat. \ipa{analysis}, from AG \gr{ᾰ̓νᾰ́λῠσῐς}
-  definitions:
+  content:
     - typ: f
       def: analysis
 
 - key: synthesis
   ety: From Lat. \ipa{synthesis}, from AG \gr{σύνθεσις}
-  definitions:
+  content:
     - typ: f
       def: synthesis
 
 - key: climan
   ety: From Lat. \ipa{clima}, from AG \gr{κλίμα}
-  definitions:
+  content:
     - typ: n
       def: climate
     - typ: n
@@ -6163,13 +6186,13 @@
 
 - key: energia
   ety: From Lat. \ipa{energia}, from AG \gr{ἐνέργειᾰ}
-  definitions:
+  content:
     - typ: f
       def: energy (in physics, and in the colloquial sense)
 
 - key: eleméntom
   ety: From Lat. \ipa{elementum}
-  definitions:
+  content:
     - typ: n
       def: element
     - typ: n
@@ -6179,81 +6202,81 @@
 
 - key: setoi
   ety: From PIE {*ḱe-}
-  definitions:
+  content:
     - typ: proadv
       def: here
 
 - key: sodínes
   ety: From PIE {*ḱo-} and Dan. \ipa{din}
-  definitions:
+  content:
     - typ: adv
       def: today
 
 - key: din
   ety: From PIE {*dyew-}
-  definitions:
+  content:
     - typ: m
       def: day
 
 - key: ause
   ety: From Dan. \ipa{ausós}
-  definitions:
+  content:
     - typ: adv
       def: tomorrow
 
 - key: Raikstag
   ety: From Ger. \ipa{Reichstag}
-  definitions:
+  content:
     - typ: m
       def: Reichstag
 
 - key: Abrahám
   ety: From Lat. \ipa{Ābrahām}
   cat: personal-names
-  definitions:
+  content:
     - typ: m
       def: Abraham
 
 - key: Edém
   ety: From Gr. \gr{Εδέμ}
-  definitions:
+  content:
     - typ: m
       def: Eden, Garden of Eden
 
 - key: Artobolos
   ety: From Dan. \ipa{artos + bolos}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{strong bear}
 
 - key: Valpobolos
   ety: From Dan. \ipa{valpos + bolos}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{strong wolf}
 
 - key: Usteromoris
   ety: From Dan. \ipa{usterom + mori}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{high seas}
 
 - key: Artoner
   ety: From Dan. \ipa{artos + ner}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{powerful bear}
 
 - key: Valponer
   ety: From Dan. \ipa{valpos + ner}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{powerful wolf}
 
 - key: Africa
   ety: From Lat. \ipa{Āfrica}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Africa
       tag: continent
@@ -6261,7 +6284,7 @@
 - key: Asia
   ety: From AG \gr{Ἀσῐ́ᾱ}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Asia
       tag: continent
@@ -6269,7 +6292,7 @@
 - key: Nordina America
   ety: From Dan. \ipa{nordina + America}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: North America
       tag: continent
@@ -6277,7 +6300,7 @@
 - key: Sundina America
   ety: From Dan. \ipa{sundina + America}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: South America
       tag: continent
@@ -6285,7 +6308,7 @@
 - key: Australia
   ety: From En. \ipa{Australia}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Australia
       tag: continent
@@ -6293,7 +6316,7 @@
 - key: Antarctica
   ety: From Lat. \ipa{Antarctica}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Antarctica
       tag: continent
@@ -6301,91 +6324,91 @@
 - key: Albania
   ety: From Lat. \ipa{Albania}, from BG \gr{Ἀλβανία}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Albania
 
 - key: Austria
   ety: From Lat. \ipa{Austria}
   cat: place-names
-  definitions:
+  content:
     - typ: f
       def: Austria
 
 - key: Cjechia
   ety: From Pol. \ipa{Czech}
-  definitions:
+  content:
     - typ: m
       def: Czech Republic, Czechia
 
 - key: europiskos
   ety: From Dan. \ipa{Európa}
-  definitions:
+  content:
     - typ: adj
       def: European
 
 - key: Europiskom Somjugos
   ety: From Dan. \ipa{europiskom + somjugos}
-  definitions:
+  content:
     - typ: n
       def: European Union
 
 - key: Britanniskom Imperiom
   ety: From Dan. \ipa{britanniskom + imperiom}
-  definitions:
+  content:
     - typ: n
       def: British Empire
 
 - key: britanniskos
   ety: From Dan. \ipa{Britannia}
-  definitions:
+  content:
     - typ: adj
       def: British
 
 - key: americaniskos
   ety: From Dan. \ipa{America}
-  definitions:
+  content:
     - typ: adj
       def: American
 
 - key: danetiska
   ety: From Dan. \ipa{danetiskos}
-  definitions:
+  content:
     - typ: f
       def: Danetian language
 
 - key: dictionariom
   ety: From Lat. \ipa{dictiōnārium}
-  definitions:
+  content:
     - typ: n
       def: dictionary
 
 - key: thermometrom
   ety: From Fr. \ipa{thermomètre}, with a latinized ending
-  definitions:
+  content:
     - typ: n
       def: thermometer
 
 - key: thermodynamica
-  definitions:
+  content:
     - typ: f
       def: thermodynamics
 
 - key: Steloslevés
   ety: From Dan. \ipa{stelom + slevos}
-  definitions:
+  content:
     - typ: m
       def: Danetian personal name, meaning \textit{wide fame}
 
 - key: linguistica
   ety: From Fr. \ipa{linguistique}, with a latinized ending
-  definitions:
+  content:
     - typ: f
       def: linguistics
 
 - key: apoluketis
   ety: From Dan. \ipa{apolúketor}
-  definitions:
+  content:
     - typ: f
       def: appearance, the way in which something seems
     - typ: f
@@ -6393,44 +6416,44 @@
 
 - key: dinosauros
   ety: From Fr. \ipa{dinosaure}, with a latinized ending
-  definitions:
+  content:
     - typ: m
       def: dinosaur
 
 - key: orbita
   ety: From Lat. \ipa{orbita}
-  definitions:
+  content:
     - typ: f
       def: orbit
 
 - key: geologia
   ety: From NL \ipa{geōlogia}
-  definitions:
+  content:
     - typ: f
       def: geology
 
 - key: geographia
   ety: From Lat. \ipa{geōgraphia}, from AG \gr{γεωγραφία}
-  definitions:
+  content:
     - typ: f
       def: geography
 
 - key: topologia
   ety: From Fr. \ipa{topologie}, with a latinized ending
-  definitions:
+  content:
     - typ: f
       def: topology
       tag: mathematics
 
 - key: topographia
   ety: From AG \gr{τοπογραφία}
-  definitions:
+  content:
     - typ: f
       def: topography
 
 - key: curier
   ety: From Fr. \ipa{courrier}
-  definitions:
+  content:
     - typ: m
       def: mail
     - typ: m
@@ -6440,31 +6463,31 @@
 
 - key: electroniskos
   ety: From Fr. \ipa{électronique}, with a Danetian ending
-  definitions:
+  content:
     - typ: adj
       def: electronic
 
 - key: electroniskos curier
   ety: From Dan. \ipa{electroniskos + curier}
-  definitions:
+  content:
     - typ: m
       def: email, e-mail, electronic mail
 
 - key: Christos
   ety: From Lat. \ipa{Christus}, from AG \gr{Χριστός}
-  definitions:
+  content:
     - typ: m
       def: Christ, Messiah
 
 - key: christiános
   ety: From Lat. \ipa{Chrīstiānus}, from AG \gr{Χρῑστιᾱνός}
-  definitions:
+  content:
     - typ: adj
       def: Christian
 
 - key: eligeti
   ety: From Lat. \ipa{ēligō}
-  definitions:
+  content:
     - typ: v
       def: to choose something; to make a decision
     - typ: v
@@ -6472,7 +6495,7 @@
 
 - key: electión
   ety: From Lat. \ipa{ēlēctiō}
-  definitions:
+  content:
     - typ: f
       def: a choice, selection
     - typ: f
@@ -6480,31 +6503,31 @@
 
 - key: natúra
   ety: From Lat. \ipa{nātūra}
-  definitions:
+  content:
     - typ: f
       def: nature
 
 - key: natural
   ety: From Lat. \ipa{nātūrālis}
-  definitions:
+  content:
     - typ: adj
       def: natural
 
 - key: natural donvos
-  definitions:
+  content:
     - typ: m
       def: natural number
       tag: mathematics
 
 - key: hypothesis
   ety: From Lat. \ipa{hypothesis}, from AG \gr{ὑπόθεσις}
-  definitions:
+  content:
     - typ: f
       def: hypothesis
 
 - key: hyperbola
   ety: From AG \gr{ὑπερβολή}
-  definitions:
+  content:
     - typ: f
       def: hyperbola
       tag: mathematics
@@ -6513,7 +6536,7 @@
 
 - key: parabola
   ety: From AG \gr{παραβολή}
-  definitions:
+  content:
     - typ: f
       def: parabola
       tag: mathematics
@@ -6522,230 +6545,230 @@
 
 - key: ellípsis
   ety: From Lat. \ipa{ellīpsis}, from AG \gr{ἔλλειψῐς}
-  definitions:
+  content:
     - typ: f
       def: ellipse
       tag: mathematics
 
 - key: constitutión
   ety: From Lat. \ipa{cōnstitūtiō}
-  definitions:
+  content:
     - typ: f
       def: constitution
 
 - key: a
-  definitions:
+  content:
     - typ: n
       def: letter \textit{a}
 
 - key: be
-  definitions:
+  content:
     - typ: n
       def: letter \textit{b}
 
 - key: ce
-  definitions:
+  content:
     - typ: n
       def: letter \textit{c}
 
 - key: de
-  definitions:
+  content:
     - typ: n
       def: letter \textit{d}
 
 - key: e
-  definitions:
+  content:
     - typ: n
       def: letter \textit{e}
 
 - key: ef
-  definitions:
+  content:
     - typ: n
       def: letter \textit{f}
 
 - key: ge
-  definitions:
+  content:
     - typ: n
       def: letter \textit{g}
 
 - key: ha
-  definitions:
+  content:
     - typ: n
       def: letter \textit{h}
 
 - key: i¹
-  definitions:
+  content:
     - typ: n
       def: letter \textit{i}
 
 - key: ja
-  definitions:
+  content:
     - typ: n
       def: letter \textit{j}
 
 - key: ka
-  definitions:
+  content:
     - typ: n
       def: letter \textit{k}
 
 - key: el
-  definitions:
+  content:
     - typ: n
       def: letter \textit{l}
 
 - key: em
-  definitions:
+  content:
     - typ: n
       def: letter \textit{m}
 
 - key: o
-  definitions:
+  content:
     - typ: n
       def: letter \textit{o}
 
 - key: pe
-  definitions:
+  content:
     - typ: n
       def: letter \textit{p}
 
 - key: qu
-  definitions:
+  content:
     - typ: n
       def: letter \textit{q}
 
 - key: er
-  definitions:
+  content:
     - typ: n
       def: letter \textit{r}
 
 - key: es
-  definitions:
+  content:
     - typ: n
       def: letter \textit{s}
 
 - key: te
-  definitions:
+  content:
     - typ: n
       def: letter \textit{t}
 
 - key: u
-  definitions:
+  content:
     - typ: n
       def: letter \textit{u}
 
 - key: ve
-  definitions:
+  content:
     - typ: n
       def: letter \textit{v}
 
 - key: dublevé
-  definitions:
+  content:
     - typ: n
       def: letter \textit{w}
 
 - key: ix
-  definitions:
+  content:
     - typ: n
       def: letter \textit{x}
 
 - key: igrek
-  definitions:
+  content:
     - typ: n
       def: letter \textit{y}
 
 - key: ze
-  definitions:
+  content:
     - typ: n
       def: letter \textit{z}
 
 - key: aeroportos
   ety: From Fr. \ipa{aéroport}, with a latinized ending
-  definitions:
+  content:
     - typ: m
       def: airport
 
 - key: Tirána
-  definitions:
+  content:
     - typ: f
       def: Tirana, capital of Albania
 
 - key: Andórra
   ety: From Sp. \ipa{Andorra}. Compare Fr. \ipa{Andorre}
-  definitions:
+  content:
     - typ: f
       def: Andorra
 
 - key: Armenia
   ety: From Lat. \ipa{Armenia}, from AG \gr{Ἀρμενία}
-  definitions:
+  content:
     - typ: f
       def: Armenia
 
 - key: Jereván
   ety: From Rus. \cyr{Ерева́н}
-  definitions:
+  content:
     - typ: m
       def: Yerevan, capital of Armenia
 
 - key: Vienna
   ety: From It. \ipa{Vienna}
-  definitions:
+  content:
     - typ: f
       def: Vienna
 
 - key: Azerbaigján
   ety: From Rus. \cyr{Азербайджа́н}
-  definitions:
+  content:
     - typ: m
       def: Azerbaijan
 
 - key: Baku
   ety: From Rus. \cyr{Баку́}
-  definitions:
+  content:
     - typ: n
       def: Baku, capital of Azerbaijan
 
 - key: Miniskos
   ety: From Rus. \cyr{Минск}, with a Danetian ending
-  definitions:
+  content:
     - typ: m
       def: Minsk, capital of Belarus
 
 - key: Brussellai
   ety: From Fr. \ipa{Bruxelles}, with a latinized ending
-  definitions:
+  content:
     - typ: f
       def: Brussels, capital of Belgium
 
 - key: i²
   ety: From PIE \ipa{*ei}
-  definitions:
+  content:
     - typ: conj
       def: and
 
 - key: Bosnia i Hertsegovína
-  definitions:
+  content:
     - typ: f
       def: Bosnia and Herzegovina
 
 - key: Trinidad i Tobago
-  definitions:
+  content:
     - typ: f
       def: Trinidad and Tobago
 
 - key: Sarajevo
-  definitions:
+  content:
     - typ: n
       def: Sarajevo, capital of Bosnia and Herzegovina
 
 - key: Bulgaria
-  definitions:
+  content:
     - typ: f
       def: Bulgaria
 
 - key: Sophia
   ety: From AG \gr{σοφία}
-  definitions:
+  content:
     - typ: f
       def: Sophia, Sofia, Sophie
     - typ: f
@@ -6753,372 +6776,372 @@
 
 - key: Croatia
   ety: From Lat. \ipa{Croātia}
-  definitions:
+  content:
     - typ: f
       def: Croatia
 
 - key: Zagrabia
   ety: From Lat. \ipa{Zagrabia}
-  definitions:
+  content:
     - typ: f
       def: Zagreb, capital of Croatia
 
 - key: Cypros
   ety: From Latin \ipa{Cyprus}, from AG \gr{Κύπρος}
-  definitions:
+  content:
     - typ: f
       def: Cyprus
 
 - key: Nicosia
   ety: From Fr. \ipa{Nicosie}, from AG \gr{Λευκωσία}
-  definitions:
+  content:
     - typ: f
       def: Nicosia, capital of Cyprus
 
 - key: Praga
   ety: From Lat. \ipa{Praga}
-  definitions:
+  content:
     - typ: f
       def: Prague
 
 - key: Estonia
-  definitions:
+  content:
     - typ: f
       def: Estonia
 
 - key: Talín
   ety: From Rus. \cyr{Та́ллин}
-  definitions:
+  content:
     - typ: m
       def: Tallinn, capital of Estonia
 
 - key: Helsingia
   ety: From Lat. \ipa{Helsingia}
-  definitions:
+  content:
     - typ: f
       def: Helsinki, capital of Finland
 
 - key: Tiflis
   ety: From Rus. \cyr{Тифли́с}
-  definitions:
+  content:
     - typ: f
       def: Tbilisi, capital of Georgia
 
 - key: Islandia
   ety: From Lat. \ipa{Islandia}
-  definitions:
+  content:
     - typ: f
       def: Iceland
 
 - key: Reicjavik
-  definitions:
+  content:
     - typ: From Icelandic \ipa{Reykjavík}
       def: Reykjavik, capital of Iceland
 
 - key: Dublín
   ety: From Fr. \ipa{Dublin}
-  definitions:
+  content:
     - typ: m
       def: Dublin, capital of Ireland
 
 - key: Kazachstán
   ety: From Rus. \cyr{Казахста́н}
-  definitions:
+  content:
     - typ: m
       def: Kazakhstan
 
 - key: Nur-Sultán
-  definitions:
+  content:
     - typ: m
       def: Nur-Sultan, capital of Kazakhstan
 
 - key: Lettonia
   ety: From Lat. \ipa{Lettonia}
-  definitions:
+  content:
     - typ: f
       def: Latvia
 
 - key: Lithuania
   ety: From Lat. \ipa{Lithuania}
-  definitions:
+  content:
     - typ: f
       def: Lithuania
 
 - key: Lichtenstain
   ety: From Ger. \ipa{Liechtenstein}
-  definitions:
+  content:
     - typ: m
       def: Liechtenstein
 
 - key: Riga
   ety: From Rus. \cyr{Ри́га}
-  definitions:
+  content:
     - typ: f
       def: Riga, capital of Latvia
 
 - key: Vadus
   ety: From Ger. \ipa{Vaduz}
-  definitions:
+  content:
     - typ: m
       def: Vaduz, capital of Liechtenstein
 
 - key: Vilnius
   ety: From Lith. \ipa{Vilnius}
-  definitions:
+  content:
     - typ: m
       def: Vilnius, capital of Lithuania
 
 - key: Luxembúrgom
   ety: From Lat. \ipa{Luxemburgum}
-  definitions:
+  content:
     - typ: n
       def: Luxembourg
 
 - key: Malta
-  definitions:
+  content:
     - typ: f
       def: Malta
 
 - key: Valéta
-  definitions:
+  content:
     - typ: f
       def: Valletta, capital of Malta
 
 - key: Moldavia
   ety: From Rus. \cyr{Молда́вия}
-  definitions:
+  content:
     - typ: f
       def: Moldova, Moldavia, Moldovia
 
 - key: Kisjinjov
   ety: From Rus. \ipa{Кишинёв}
-  definitions:
+  content:
     - typ: m
       def: Chisinau, capital of Moldova
 
 - key: Monaco
-  definitions:
+  content:
     - typ: n
       def: Monaco
 
 - key: bora
   ety: From PIE \ipa{*gʷorH-eh₂}
-  definitions:
+  content:
     - typ: f
       def: mountain; hill
 
 - key: Karsna Bora
-  definitions:
+  content:
     - typ: f
       def: Montenegro, Monte Negro
 
 - key: Podgoritsa
   ety: From Serbo-Croatian \ipa{Pòdgorica} / \cyr{По̀дгорица}
-  definitions:
+  content:
     - typ: f
       def: Podgorica, capital of Montenegro
 
 - key: Anferai Fedomes
-  definitions:
+  content:
     - typ: f
       def: Low Countries, Netherlands
 
 - key: Amsterdám
-  definitions:
+  content:
     - typ: m
       def: Amsterdam, capital of the Netherlands
 
 - key: Nordina Macedonia
-  definitions:
+  content:
     - typ: f
       def: North Macedonia
 
 - key: Scupoi
   ety: From Lat. \ipa{Scūpī}
-  definitions:
+  content:
     - typ: m
       def: Skopje, capital of North Macedonia
 
 - key: Oslo
-  definitions:
+  content:
     - typ: n
       def: Oslo, capital of Norway
 
 - key: Varsovia
   ety: From Lat. \ipa{Varsovia}
-  definitions:
+  content:
     - typ: f
       def: Warsaw, capital of Poland
 
 - key: Olisipón
   ety: From Lat. \ipa{Olisīpō}
-  definitions:
+  content:
     - typ: f
       def: Lisbon, capital of Portugal
 
 - key: Romania
-  definitions:
+  content:
     - typ: f
       def: Romania
 
 - key: Bucuresjti
   ety: From Rom. \ipa{București}
-  definitions:
+  content:
     - typ: n
       def: Bucharest, capital of Romania
 
 - key: Sanctos Marínos
   ety: From It. \ipa{San Marino}
-  definitions:
+  content:
     - typ: m
       def: San Marino
 
 - key: Belgrádom
-  definitions:
+  content:
     - typ: n
       def: Belgrad, capital of Serbia
 
 - key: Slovakia
   ety: From Rus. \ipa{Слова́кия}
-  definitions:
+  content:
     - typ: f
       def: Slovakia
 
 - key: Bratisláva
   ety: From Rus. \ipa{Братисла́ва}
-  definitions:
+  content:
     - typ: f
       def: Bratislava, capital of Slovakia
 
 - key: Slovenía
-  definitions:
+  content:
     - typ: f
       def: Slovenia
 
 - key: Lubiána
   ety: From It. \ipa{Lubiana}
-  definitions:
+  content:
     - typ: f
       def: Ljubljana, capital of Slovenia
 
 - key: Ankara
-  definitions:
+  content:
     - typ: f
       def: Ankara, capital of Turkey
 
 - key: Kiev
   ety: From Rus. \cyr{Ки́ев}
-  definitions:
+  content:
     - typ: m
       def: Kyiv, Kiev, capital of Ukraine
 
 - key: sjar
   ety: From Per. \arab{شهر}
-  definitions:
+  content:
     - typ: m
       def: city
 
 - key: Vaticánom
-  definitions:
+  content:
     - typ: n
       def: Vatican City
 
 - key: biva
   ety: From PIE \ipa{*gʷih₃wós}
-  definitions:
+  content:
     - typ: f
       def: life
 
 - key: biveti
   ety: From Dan. \ipa{biva}
-  definitions:
+  content:
     - typ: v
       def: to live
 
 - key: biveter
   ety: From Dan. \ipa{biveti}
-  definitions:
+  content:
     - typ: m
       def: resident, inhabitant
 
 - key: bivetis
   ety: From Dan. \ipa{biveti}
-  definitions:
+  content:
     - typ: f
       def: residence, habitat
 
 - key: alpha
-  definitions:
+  content:
     - typ: f
       def: Greek letter alpha
 
 - key: beta
-  definitions:
+  content:
     - typ: f
       def: Greek letter beta
 
 - key: gamma
-  definitions:
+  content:
     - typ: f
       def: Greek letter gamma
 
 - key: delta
-  definitions:
+  content:
     - typ: f
       def: Greek letter delta
 
 - key: epsilón
-  definitions:
+  content:
     - typ: f
       def: Greek letter epsilon
 
 - key: zeta
-  definitions:
+  content:
     - typ: f
       def: Greek letter zeta
 
 - key: theta
-  definitions:
+  content:
     - typ: f
       def: Greek letter theta
 
 - key: heta
-  definitions:
+  content:
     - typ: f
       def: Greek letter eta
 
 - key: jota
-  definitions:
+  content:
     - typ: f
       def: Greek letter iota
 
 - key: kappa
-  definitions:
+  content:
     - typ: f
       def: Greek letter kappa
 
 - key: lambda
-  definitions:
+  content:
     - typ: f
       def: Greek letter lambda
 
 - key: my
-  definitions:
+  content:
     - typ: n
       def: Greek letter mu
 
 - key: ny
-  definitions:
+  content:
     - typ: n
       def: Greek letter nu
 
 - key: omicrón
-  definitions:
+  content:
     - typ: f
       def: Greek letter omicron
 
 - key: pi
-  definitions:
+  content:
     - typ: n
       def: Greek letter pi
     - typ: n
@@ -7126,17 +7149,17 @@
       tag: mathematics
 
 - key: rho
-  definitions:
+  content:
     - typ: n
       def: Greek letter rho
 
 - key: sigma
-  definitions:
+  content:
     - typ: f
       def: Greek letter sigma
 
 - key: tau
-  definitions:
+  content:
     - typ: n
       def: Greek letter tau
     - typ: n
@@ -7144,40 +7167,40 @@
       tag: mathematics
 
 - key: ypsilón
-  definitions:
+  content:
     - typ: f
       def: Greek letter upsilon
 
 - key: phi
-  definitions:
+  content:
     - typ: n
       def: Greek letter phi
 
 - key: chi
-  definitions:
+  content:
     - typ: n
       def: Greek letter chi
 
 - key: psi
-  definitions:
+  content:
     - typ: n
       def: Greek letter psi
 
 - key: omega
-  definitions:
+  content:
     - typ: f
       def: Greek letter omega
 
 - key: pesnom
   ety: From PIE \ipa{*pes-}
-  definitions:
+  content:
     - typ: n
       def: penis
       tag: vulgar
 
 - key: Nestor
   ety: From AG \gr{Νέστωρ}
-  definitions:
+  content:
     - typ: m
       def: Nestor
       tag: personal name
@@ -7185,25 +7208,25 @@
 
 - key: particula
   ety: From Lat. \ipa{particula}
-  definitions:
+  content:
     - typ: f
       def: particle
       tag: physics
 
 - key: januarios fimes
-  definitions:
+  content:
     - typ: m
       def: un janvier d'hiver
 
 - key: sergjant
   ety: From Fr. \ipa{sergent}
-  definitions:
+  content:
     - typ: m
       def: sergeant
 
 - key: dvis
   ety: From PIE \ipa{*dwís}
-  definitions:
+  content:
     - typ: adv
       def: twice, doubly
     - typ: adv
@@ -7211,37 +7234,37 @@
 
 - key: fjesi
   ety: From PIE \ipa{*dʰǵʰyési}
-  definitions:
+  content:
     - typ: adv
       def: yesterday
 
 - key: eno
   ety: From PIE \ipa{*h₁énos}
-  definitions:
+  content:
     - typ: pron
       def: third person pronoun
 
 - key: anferos
   ety: From PIE \ipa{*h₁n̥dʰér-o-s}
-  definitions:
+  content:
     - typ: adj
       def: low
 
 - key: retos
   ety: From PIE \ipa{*h₁réh₁}
-  definitions:
+  content:
     - typ: adj
       def: empty
 
 - key: remos
   ety: From PIE \ipa{*h₁réh₁}
-  definitions:
+  content:
     - typ: adj
       def: alone, lonely
 
 - key: ana
   ety: From PIE \ipa{*h₂en-h₂}
-  definitions:
+  content:
     - typ: prep
       def: (+loc) on
       ex: '\ipa{Enosmi pulnis ana enosjo kaputi}. \textit{He has hair on his haid}'
@@ -7252,158 +7275,158 @@
 
 - key: airi
   ety: From PIE \ipa{*h₂éyeri}
-  definitions:
+  content:
     - typ: adv
       def: early in the morning
 
 - key: airístom
   ety: From PIE \ipa{*h₂éyeri-h₁d-to-m}
-  definitions:
+  content:
     - typ: n
       def: breakfast
 
 - key: peruti
   ety: From PIE \ipa{*péruti}
-  definitions:
+  content:
     - typ: adv
       def: last year
 
 - key: semi
   ety: From PIE \ipa{*sēmi}
-  definitions:
+  content:
     - typ: adv
       def: half, partially
 
 - key: semia
   ety: From PIE \ipa{*sēmi}
-  definitions:
+  content:
     - typ: f
       def: half
 
 - key: ud
   ety: From PIE \ipa{*úd}
-  definitions:
+  content:
     - typ: prep
       def: (+abl) out from
 
 - key: vinó
   ety: From PIE \ipa{*wí-noh₁}
-  definitions:
+  content:
     - typ: prep
       def: (+gen) except
 
 - key: ingjenier
   ety: From Fr. \ipa{ingénieur}
-  definitions:
+  content:
     - typ: m
       def: engineer
 
 - key: ingjenieria
   ety: From Fr. \ipa{ingénierie}
-  definitions:
+  content:
     - typ: f
       def: engineering
 
 - key: tualét
   ety: From Fr. \ipa{toilette}
-  definitions:
+  content:
     - typ: f
       def: toilet
 
 - key: Brasil
-  definitions:
+  content:
     - typ: m
       def: Brazil
 
 - key: Marts
-  definitions:
+  content:
     - typ: m
       def: Mars (the god)
     - typ: m
       def: Mars (the planet)
 
 - key: Mercurios
-  definitions:
+  content:
     - typ: m
       def: Mercury (the god)
     - typ: m
       def: Mercury  (the planet)
 
 - key: Jovis
-  definitions:
+  content:
     - typ: m
       def: Jove, Jupiter (the god)
 
 - key: Venés
-  definitions:
+  content:
     - typ: f
       def: Venus (the goddess)
     - typ: f
       def: Venus (the planet)
 
 - key: Satúrnos
-  definitions:
+  content:
     - typ: m
       def: Saturn (the god)
     - typ: m
       def: Saturn (the planet)
 
 - key: Sol
-  definitions:
+  content:
     - typ: m
       def: Sun (the god)
     - typ: m
       def: the Sun
 
 - key: din Lunas
-  definitions:
+  content:
     - typ: m
       def: Monday
 
 - key: din Martes
-  definitions:
+  content:
     - typ: m
       def: Tuesday
 
 - key: din Mercuriosjo
-  definitions:
+  content:
     - typ: m
       def: Wednesday
 
 - key: din Jovies
-  definitions:
+  content:
     - typ: m
       def: Thursday
 
 - key: din Venesos
-  definitions:
+  content:
     - typ: m
       def: Friday
 
 - key: din Saturnosjo
-  definitions:
+  content:
     - typ: m
       def: Saturday
 
 - key: din Soles
-  definitions:
+  content:
     - typ: m
       def: Sunday
 
 - key: podi
   ety: From Dan. \ipa{po- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) where
 
 - key: posmad
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) from where, whence
 
 - key: poimos
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) to where, whither
     - typ: proadv
@@ -7412,34 +7435,34 @@
 - key: poives
   ety: From Dan. \ipa{po- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) when
 
 - key: posme
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) how, in what manner
 
 - key: podi
-  definitions:
+  content:
     - typ: proadv
       def: (interrogative) how much
 
 - key: jodi
   ety: From Dan. \ipa{jo- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (relative) where
 
 - key: josmad
-  definitions:
+  content:
     - typ: proadv
       def: (relative) from where
 
 - key: joimos
-  definitions:
+  content:
     - typ: proadv
       def: (relative) to where
     - typ: proadv
@@ -7451,19 +7474,19 @@
 - key: joives
   ety: From Dan. \ipa{jo- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (relative) when
     - typ: conj
       def: when
 
 - key: josme
-  definitions:
+  content:
     - typ: proadv
       def: (relative) how
 
 - key: joti
-  definitions:
+  content:
     - typ: proadv
       def: (relative) how much
     - typ: conj
@@ -7472,17 +7495,17 @@
 - key: sodi
   ety: From Dan. \ipa{so- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) this place, here
 
 - key: sosmad
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) from this place, from here
 
 - key: soimos
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) to this place, to here
     - typ: proadv
@@ -7491,34 +7514,34 @@
 - key: soives
   ety: From Dan. \ipa{so- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) at this time, now
 
 - key: sosme
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) in this way, in this manner
 
 - key: soti
-  definitions:
+  content:
     - typ: proadv
       def: (proximal) this much
 
 - key: todi
   ety: From Dan. \ipa{to- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (distal) that place, there
 
 - key: tosmad
-  definitions:
+  content:
     - typ: proadv
       def: (distal) from that place, from there
 
 - key: toimos
-  definitions:
+  content:
     - typ: proadv
       def: (distal) to that place
     - typ: proadv
@@ -7527,70 +7550,70 @@
 - key: toives
   ety: From Dan. \ipa{to- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (distal) at that time, then
     - typ: conj
       def: then
 
 - key: tosme
-  definitions:
+  content:
     - typ: proadv
       def: (distal) in that manner, in that way
 
 - key: toti
-  definitions:
+  content:
     - typ: proadv
       def: (distal) that much
 
 - key: visodi
   ety: From Dan. \ipa{viso- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (universal) everywhere
 
 - key: visosmad
-  definitions:
+  content:
     - typ: proadv
       def: (universal) from everywhere
 
 - key: visoimos
-  definitions:
+  content:
     - typ: proadv
       def: (universal) to everywhere
 
 - key: visoives
   ety: From Dan. \ipa{viso- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (universal) at every time, always, forever
 
 - key: visosme
-  definitions:
+  content:
     - typ: proadv
       def: (universal) in every way, in every manner
 
 - key: visoti
-  definitions:
+  content:
     - typ: proadv
       def: (universal) by every amount
 
 - key: nipodi
   ety: From Dan. \ipa{nipo- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) nowhere
 
 - key: niposmad
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) from nowhere
 
 - key: nipoimos
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) to nowhere
     - typ: proadv
@@ -7599,34 +7622,34 @@
 - key: nipoives
   ety: From Dan. \ipa{nipo- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) never
 
 - key: niposme
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) in no way, in no manner
 
 - key: nipoti
-  definitions:
+  content:
     - typ: proadv
       def: (negatory) in no amount, by no amount
 
 - key: potodi
   ety: From Dan. \ipa{poto- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
-  definitions:
+  content:
     - typ: proadv
       def: (existential) somewhere
 
 - key: potosmad
-  definitions:
+  content:
     - typ: proadv
       def: (existential) from somewhere
 
 - key: potoimos
-  definitions:
+  content:
     - typ: proadv
       def: (existential) to somewhere
     - typ: proadv
@@ -7635,53 +7658,53 @@
 - key: potoives
   ety: From Dan. \ipa{poto- + -ives}. The suffix \ipa{-ives} comes from
     \ipa{juves}, the genitive of \ipa{oju}
-  definitions:
+  content:
     - typ: proadv
       def: (existential) some time, sometimes
 
 - key: potosme
-  definitions:
+  content:
     - typ: proadv
       def: (existential) in some way, in some manner
 
 - key: pototi
-  definitions:
+  content:
     - typ: proadv
       def: (existential) by some amount, in some amount
 
 - key: so-
   ety: From PIE \ipa{*ḱo}
-  definitions:
+  content:
     - typ: pref
       def: here
 
 - key: merti
   ety: From PIE \ipa{*mér-ti}
-  definitions:
+  content:
     - typ: v
       def: to die
 
 - key: mertinos
   ety: From Dan. \ipa{mertis + -inos}
-  definitions:
+  content:
     - typ: adj
       def: deadly
 
 - key: márjetor
   ety: From PIE \ipa{*mr̥-yé-tor}
-  definitions:
+  content:
     - typ: v
       def: to die
 
 - key: sénjetor
   ety: From Dan. \ipa{senos}
-  definitions:
+  content:
     - typ: v
       def: to get older, to grow old
 
 - key: mánjetor
   ety: From PIE \ipa{*mn̥-yé-tor}
-  definitions:
+  content:
     - typ: v
       def: to be thinking, to ponder
     - typ: v
@@ -7689,7 +7712,7 @@
 
 - key: pemanjeti
   ety: From Dan. \ipa{pe- + mánjetor}
-  definitions:
+  content:
     - typ: v
       def: to remind (in the active voice. Use dative case for the person being
         reminded)
@@ -7698,25 +7721,25 @@
 
 - key: sédjetor
   ety: From PIE \ipa{*sed-}
-  definitions:
+  content:
     - typ: v
       def: to sit, to sit down
 
 - key: bankis
   ety: From PG \ipa{*bankiz}
-  definitions:
+  content:
     - typ: f
       def: bench
 
 - key: vojasj
   ety: From Fr. \ipa{voyage}
-  definitions:
+  content:
     - typ: m
       def: trip, voyage
 
 - key: dalgos
   ety: From PIE \ipa{*dl̥h₁gʰós}
-  definitions:
+  content:
     - typ: adj
       def: long
     - typ: adj
@@ -7726,25 +7749,25 @@
 
 - key: dus-
   ety: From PIE \ipa{*dus-}
-  definitions:
+  content:
     - typ: pref
       def: bad
 
 - key: dusdjus
   ety: From Dan. \ipa{dus- + -djus}
-  definitions:
+  content:
     - typ: m
       def: bad sky, stormy sky, stormy weather
 
 - key: pluti
   ety: From PIE \ipa{*pléw-e-ti}
-  definitions:
+  content:
     - typ: v
       def: to rain
 
 - key: mardus
   ety: From PIE \ipa{*mr̥ǵʰús}
-  definitions:
+  content:
     - typ: adj
       def: short
     - typ: adj
@@ -7752,13 +7775,13 @@
 
 - key: igra
   ety: From PIE \ipa{*h₂ig-réh₂}
-  definitions:
+  content:
     - typ: f
       def: game
 
 - key: igreti
   ety: From Dan. \ipa{igra}
-  definitions:
+  content:
     - typ: v
       def: to play a game (use the accusative)
     - typ: v
@@ -7766,13 +7789,13 @@
 
 - key: mjan
   ety: Onomatopoeia
-  definitions:
+  content:
     - typ: intj
       def: meow
 
 - key: mjanka
   ety: From the diminutive of Dan. \ipa{mjan}
-  definitions:
+  content:
     - typ: f
       def: gentle meow
     - typ: f
@@ -7780,61 +7803,61 @@
 
 - key: vojasjeti
   ety: From Dan. \ipa{vojasj}
-  definitions:
+  content:
     - typ: v
       def: to travel, to take a trip, to go on a trip
 
 - key: futi
   ety: From PIE \ipa{*dʰéw-e-ti}
-  definitions:
+  content:
     - typ: v
       def: to run
 
 - key: futjos
   ety: From Dan. \ipa{futi}
-  definitions:
+  content:
     - typ: adj
       def: fast
 
 - key: futje
   ety: From Dan. \ipa{futjos}
-  definitions:
+  content:
     - typ: adv
       def: fast, rapidly
 
 - key: ive
   ety: From PIE \ipa{*(h₁)i-we}
-  definitions:
+  content:
     - typ: conj
       def: as, like, in the same manner as
 
 - key: iveman
   ety: From Dan. \ipa{ive}
-  definitions:
+  content:
     - typ: n
       def: similarity
 
 - key: svenati
   ety: From PIE \ipa{*swénh₂-ti}
-  definitions:
+  content:
     - typ: v
       def: to make a sound
 
 - key: svenos
   ety: From Dan. \ipa{svenati}
-  definitions:
+  content:
     - typ: m
       def: sound
 
 - key: en¹
-  definitions:
+  content:
     - typ: prep
       def: (+loc) in
     - typ: prep
       def: (+acc) into
 
 - key: peri
-  definitions:
+  content:
     - typ: prep
       def: (+gen) around
     - typ: prep
@@ -7842,7 +7865,7 @@
 
 - key: proti
   ety: From PIE \ipa{*pr-ó-ti}
-  definitions:
+  content:
     - typ: prep
       def: (+gen) against
     - typ: prep
@@ -7850,7 +7873,7 @@
 
 - key: pos
   ety: From PIE \ipa{*pós}
-  definitions:
+  content:
     - typ: prep
       def: (+loc) behind, at the back side of (stationary, answers the question
         "where?")
@@ -7861,13 +7884,13 @@
 
 - key: paráda
   ety: From Fr. \ipa{parade}
-  definitions:
+  content:
     - typ: f
       def: parade
 
 - key: sagjeman
   ety: From Dan. \ipa{sagjeti}
-  definitions:
+  content:
     - typ: n
       def: flag, banner
     - typ: n
@@ -7875,43 +7898,43 @@
 
 - key: esclerier
   ety: From Fr. \ipa{éclaireur}, with ending analogous to Dan. \ipa{ingjenier}
-  definitions:
+  content:
     - typ: m
       def: (military) scout
 
 - key: fusilier
   ety: From Fr. \ipa{fusilier}
-  definitions:
+  content:
     - typ: m
       def: (military) rifleman
 
 - key: fusilieriskos
   ety: From Dan. \ipa{fusilier}
-  definitions:
+  content:
     - typ: adj
       def: pertaining to riflemen
 
 - key: stanga
   ety: From PG \ipa{*stangō}
-  definitions:
+  content:
     - typ: f
       def: bar, rod, stake, pole, beam
 
 - key: enstangeti
   ety: From Dan. \ipa{en- + stanga + -eti}
-  definitions:
+  content:
     - typ: v
       def: to erect, to raise, to hoist
 
 - key: assót
   ety: From Fr. \ipa{assaut}
-  definitions:
+  content:
     - typ: m
       def: assault
 
 - key: dukti
   ety: From PIE \ipa{*dewk-ti}
-  definitions:
+  content:
     - typ: v
       def: to lead
     - typ: v
@@ -7919,7 +7942,7 @@
 
 - key: poiman
   ety: From PIE \ipa{*poh₂-i-mn̥}
-  definitions:
+  content:
     - typ: n
       def: salvation
     - typ: n
@@ -7927,31 +7950,31 @@
 
 - key: siesj
   ety: From Fr. \ipa{siège}
-  definitions:
+  content:
     - typ: m
       def: siege
 
 - key: symbolom
   ety: From Lat. \ipa{symbolum}, from AG \gr{σύμβολον}
-  definitions:
+  content:
     - typ: n
       def: symbol
 
 - key: patrinos
   ety: From Dan. \ipa{pater + inos}
-  definitions:
+  content:
     - typ: adj
       def: patriotic
 
 - key: gruppos
   ety: From Italian \ipa{gruppo}
-  definitions:
+  content:
     - typ: m
       def: group
 
 - key: companjia
   ety: From Fr. \ipa{compagnie}
-  definitions:
+  content:
     - typ: f
       def: a team; a group of people who work together professionally
     - typ: f
@@ -7961,60 +7984,60 @@
 
 - key: guarda
   ety: From OF \ipa{guarde}
-  definitions:
+  content:
     - typ: f
       def: guard
 
 - key: honor
   ety: From Lat. \ipa{honor}
-  definitions:
+  content:
     - typ: m
       def: honor
 
 - key: bataljón
   ety: From Fr. \ipa{bataillon}
-  definitions:
+  content:
     - typ: m
       def: batallion
 
 - key: brigáda
   ety: From Fr. \ipa{brigade}
-  definitions:
+  content:
     - typ: f
       def: brigade
 
 - key: administratión
   ety: From Lat. \ipa{administrātiō}
-  definitions:
+  content:
     - typ: f
       def: administration
 
 - key: militar
   ety: From Lat. \ipa{mīlitāris}
-  definitions:
+  content:
     - typ: adj
       def: military
 
 - key: districtos
   ety: From Lat. \ipa{districtus}
-  definitions:
+  content:
     - typ: m
       def: district
 
 - key: musica
   ety: From Fr. \ipa{musique}
-  definitions:
+  content:
     - typ: f
       def: music
 
 - key: kania
-  definitions:
+  content:
     - typ: f
       def: song
 
 - key: proiti
   ety: From Dan. \ipa{pro- + iti}
-  definitions:
+  content:
     - typ: v
       def: to occur, to happen
     - typ: v
@@ -8022,135 +8045,135 @@
 
 - key: memorabilis
   ety: From Lat. \ipa{memorabilis}
-  definitions:
+  content:
     - typ: adj
       def: memorable
 
 - key: kudeti
   ety: From PIE \ipa{*kéwdʰh₁-e-ti}
-  definitions:
+  content:
     - typ: v
       def: to forge
 
 - key: partisaniskos
-  definitions:
+  content:
     - typ: adj
       def: pertaining to guerrillas
 
 - key: selva
   ety: From OF \ipa{selve}
-  definitions:
+  content:
     - typ: f
       def: forest, thick forest
 
 - key: polar
   ety: From Lat. \ipa{polaris}
-  definitions:
+  content:
     - typ: adj
       def: polar
 
 - key: arja
-  definitions:
+  content:
     - typ: f
       def: unit of area equivalent to one hundred square meters
 
 - key: lucta
   ety: From Lat. \ipa{lucta}
-  definitions:
+  content:
     - typ: f
       def: fight
 
 - key: upoiti
   ety: From Dan. \ipa{upo- + iti}
-  definitions:
+  content:
     - typ: v
       def: to go down, to come down, to descend, to get off
 
 - key: ideologia
-  definitions:
+  content:
     - typ: f
       def: ideology
 
 - key: sontis
   ety: From Dan. \ipa{esti}
-  definitions:
+  content:
     - typ: f
       def: essence
 
 - key: opistanati
-  definitions:
+  content:
     - typ: v
       def: to remain
 
 - key: terribilis
   ety: From Lat. \ipa{terribilis}
-  definitions:
+  content:
     - typ: adj
       def: terrible
 
 - key: Leningrad
   ety: From Rus. \cyr{Ленингра́д}
-  definitions:
+  content:
     - typ: m
       def: Leningrad
 
-- key: commander
+- key: commandier
   ety: From Fr. \ipa{commandeur}
-  definitions:
+  content:
     - typ: m
       def: commander
 
 - key: volhoviskos
-  definitions:
+  content:
     - typ: adj
       def: pertaining to the Volkhov region in Russia
 
 - key: división
-  definitions:
+  content:
     - typ: f
       def: division
 
 - key: baltiskos
-  definitions:
+  content:
     - typ: adj
       def: pertaining to the Baltic region
 
 - key: soldátos
-  definitions:
+  content:
     - typ: m
       def: soldier
 
 - key: protiaerios
-  definitions:
+  content:
     - typ: m
       def: anti-aircraft
 
 - key: militia
-  definitions:
+  content:
     - typ: f
       def: militia
 
 - key: intelligentia
-  definitions:
+  content:
     - typ: f
       def: intelligence
     - typ: f
       def: intelligentsia, intellectual elite
 
 - key: conditión
-  definitions:
+  content:
     - typ: f
       def: condition
 
 - key: trostanati
   ety: From Dan. \ipa{tros- + stanati}
-  definitions:
+  content:
     - typ: v
       def: to persevere
 
 - key: abjón
   ety: From PG \ipa{*abjǭ}
-  definitions:
+  content:
     - typ: f
       def: ebb, the receding movement of the tide
     - typ: f
@@ -8158,25 +8181,25 @@
 
 - key: avniom
   ety: From PG \ipa{*abniją}
-  definitions:
+  content:
     - typ: n
       def: material, stuff
 
 - key: avón
   ety: From PG \ipa{*abô}
-  definitions:
+  content:
     - typ: m
       def: husband
 
 - key: avundis
   ety: From PG \ipa{*abundiz}
-  definitions:
+  content:
     - typ: f
       def: envy
 
 - key: adisa
   ety: From PG \ipa{*adisô}
-  definitions:
+  content:
     - typ: m
       def: adze
     - typ: m
@@ -8184,7 +8207,7 @@
 
 - key: adalos
   ety: From PG \ipa{*adisô}
-  definitions:
+  content:
     - typ: m
       def: liquid manure
     - typ: m
@@ -8196,25 +8219,25 @@
 
 - key: averón
   ety: From PG \ipa{*aferô}
-  definitions:
+  content:
     - typ: m
       def: offspring, descendant, successor
 
 - key: aflom
   ety: From PG \ipa{*aflą}
-  definitions:
+  content:
     - typ: n
       def: power, strength, might
 
 - key: aflos
   ety: From PG \ipa{*aflaz}
-  definitions:
+  content:
     - typ: m
       def: hearth
 
 - key: aglatiom
   ety: From PG \ipa{*agalaitiją}
-  definitions:
+  content:
     - typ: n
       def: licentiousness
     - typ: n
@@ -8224,98 +8247,98 @@
 
 - key: agida
   ety: From PG \ipa{*agiþō}
-  definitions:
+  content:
     - typ: f
       def: harrow
 
 - key: agja
   ety: From PG \ipa{*agjō}
-  definitions:
+  content:
     - typ: f
       def: edge, corner
 
 - key: agjostainos
   ety: From PG \ipa{*agjōstainaz}
-  definitions:
+  content:
     - typ: m
       def: sharp-stone, cornerstone
 
 - key: aglos
   ety: From PG \ipa{*agraz}
-  definitions:
+  content:
     - typ: m
       def: flood
 
 - key: ahana
   ety: From PG \ipa{*ahanō}
-  definitions:
+  content:
     - typ: f
       def: chaff, awns
 
 - key: ahos
   ety: From PG \ipa{*ahaz}
-  definitions:
+  content:
     - typ: n
       def: ear of grain
 
 - key: aksla
   ety: From PG \ipa{*ahslō}
-  definitions:
+  content:
     - typ: f
       def: shoulder
 
 - key: aksa
   ety: From PG \ipa{*ahsō}
-  definitions:
+  content:
     - typ: f
       def: axle
 
 - key: ahurnos
   ety: From PG \ipa{*ahurnaz}
-  definitions:
+  content:
     - typ: m
       def: maple
 
 - key: aidom
   ety: From PG \ipa{*aidą}
-  definitions:
+  content:
     - typ: n
       def: isthmus, strait
 
 - key: aidos
   ety: From PG \ipa{*aidaz}
-  definitions:
+  content:
     - typ: m
       def: fire, pyre
 
 - key: aiglos
   ety: From PG \ipa{*aiglaz}
-  definitions:
+  content:
     - typ: m
       def: shoot, barb
 
 - key: ektis
   ety: From PG \ipa{*aihtiz}
-  definitions:
+  content:
     - typ: f
       def: property, possessions
 
 - key: ekter
   ety: From PG \ipa{*aihtēr}
-  definitions:
+  content:
     - typ: m
       def: owner, possessor
 
 - key: aikila
   ety: From PG \ipa{*aikilǭ}
-  definitions:
+  content:
     - typ: f
       def: acorn
 
 - key: eks
   ety: From PG \ipa{*aiks}
   parts: ekes
-  definitions:
+  content:
     - typ: f
       def: oak tree
     - typ: f
@@ -8323,43 +8346,43 @@
 
 - key: ekverna
   ety: From PG \ipa{*aikwernô}
-  definitions:
+  content:
     - typ: m
       def: squirrel
 
 - key: aimos
   ety: From PG \ipa{*aimaz}
-  definitions:
+  content:
     - typ: m
       def: steam, smoke
 
 - key: aimurja
   ety: From PG \ipa{*aimuzjǭ}
-  definitions:
+  content:
     - typ: f
       def: ember, hot ash
 
 - key: ainacja
   ety: From PG \ipa{*ainakjǭ}
-  definitions:
+  content:
     - typ: f
       def: widow
 
 - key: envigjom
   ety: From PG \ipa{*ainawīgiją}
-  definitions:
+  content:
     - typ: n
       def: single combat
 
 - key: ainios
   ety: From PG \ipa{*ainijaz}
-  definitions:
+  content:
     - typ: m
       def: juniper
 
 - key: erdagos
   ety: From PG \ipa{*airidagaz}
-  definitions:
+  content:
     - typ: m
       def: days of yore; bygone days
     - typ: m
@@ -8367,13 +8390,13 @@
 
 - key: aira
   ety: From PG \ipa{*airō}
-  definitions:
+  content:
     - typ: f
       def: oar
 
 - key: airundiom
   ety: From PG \ipa{*airundiją}
-  definitions:
+  content:
     - typ: n
       def: message
     - typ: n
@@ -8381,7 +8404,7 @@
 
 - key: airos
   ety: From PG \ipa{*airuz}
-  definitions:
+  content:
     - typ: m
       def: messenger
     - typ: m
@@ -8391,37 +8414,37 @@
 
 - key: estos
   ety: From PG \ipa{*aistaz}
-  definitions:
+  content:
     - typ: m
       def: kiln
 
 - key: estom
   ety: From PG \ipa{*aistô}
-  definitions:
+  content:
     - typ: n
       def: testicle
 
 - key: aisa
   ety: From PG \ipa{*aisǭ}
-  definitions:
+  content:
     - typ: f
       def: fireplace
 
 - key: aitos
   ety: From PG \ipa{*aitaz}
-  definitions:
+  content:
     - typ: m
       def: ulcer
 
 - key: -ilos
   ety: Perhaps from PIE \ipa{*-lós}
-  definitions:
+  content:
     - typ: elem
       def: diminutive suffix
 
 - key: aitrom
   ety: From PG \ipa{*aitrą}
-  definitions:
+  content:
     - typ: n
       def: poison
     - typ: n
@@ -8429,19 +8452,19 @@
 
 - key: aivos
   ety: From PG \ipa{*aiwaz}
-  definitions:
+  content:
     - typ: m
       def: eternity
 
 - key: aive
   ety: From Dan. \ipa{aivos}
-  definitions:
+  content:
     - typ: adv
       def: forever, always
 
 - key: aira
   ety: From PG \ipa{*aizō}
-  definitions:
+  content:
     - typ: f
       def: reverence
     - typ: f
@@ -8449,50 +8472,50 @@
 
 - key: akis
   ety: From PG \ipa{*akiz}
-  definitions:
+  content:
     - typ: m
       def: ache, pain
 
 - key: akros
   ety: From PG \ipa{*akraz}
-  definitions:
+  content:
     - typ: m
       def: farm
 
 - key: alasna
   ety: From PG \ipa{*alasnō}
-  definitions:
+  content:
     - typ: f
       def: awl
 
 - key: alvis
   ety: From PG \ipa{*albiz}
-  definitions:
+  content:
     - typ: m
       def: elf, fairy
 
 - key: aldis
   ety: From PG \ipa{*aldiz}
-  definitions:
+  content:
     - typ: f
       def: age, generation, lifetime
 
 - key: aldrom
   ety: From PG \ipa{*aldrą}
-  definitions:
+  content:
     - typ: n
       def: lifetime, age, generation
 
 - key: algis
   ety: From PG \ipa{*algiz}
-  definitions:
+  content:
     - typ: m
       def: elk
 
 - key: alks
   ety: From PG \ipa{*alhs}
   parts: alkes
-  definitions:
+  content:
     - typ: m
       def: shelter
     - typ: m
@@ -8504,13 +8527,13 @@
 
 - key: alina
   ety: From PG \ipa{*alinō}
-  definitions:
+  content:
     - typ: f
       def: elbow
 
 - key: aljanom
   ety: From PG \ipa{*aljaną}
-  definitions:
+  content:
     - typ: n
       def: zeal, eagerness
     - typ: n
@@ -8518,19 +8541,19 @@
 
 - key: alka
   ety: From PG \ipa{*alkǭ}
-  definitions:
+  content:
     - typ: f
       def: a kind of sea bird, auk
 
 - key: alu
   ety: From PG \ipa{*alu}
-  definitions:
+  content:
     - typ: n
       def: beer, ale
 
 - key: amara
   ety: From PG \ipa{*amazǭ}
-  definitions:
+  content:
     - typ: f
       def: blackbird
     - typ: f
@@ -8538,13 +8561,13 @@
 
 - key: ambaktos
   ety: From PG \ipa{*ambahtaz}
-  definitions:
+  content:
     - typ: m
       def: servant
 
 - key: ardis
   ety: From PG \ipa{*ardiz}
-  definitions:
+  content:
     - typ: m
       def: characteristic, inborn quality
     - typ: m
@@ -8554,25 +8577,25 @@
 
 - key: arbja
   ety: From PG \ipa{*arbijô}
-  definitions:
+  content:
     - typ: m
       def: heir
 
 - key: arbjom
   ety: From PG \ipa{*arbiją}
-  definitions:
+  content:
     - typ: n
       def: heritage, inheritance
 
 - key: arbos
   ety: From PG \ipa{*arbaz}
-  definitions:
+  content:
     - typ: m
       def: working animal, ox
 
 - key: arbaidis
   ety: From PG \ipa{*arbaidiz}
-  definitions:
+  content:
     - typ: f
       def: labour, work, toil
     - typ: f
@@ -8580,25 +8603,25 @@
 
 - key: aplos
   ety: From PG \ipa{*aplaz}
-  definitions:
+  content:
     - typ: m
       def: potato
 
 - key: apaldros
   ety: From PG \ipa{*apaldraz}
-  definitions:
+  content:
     - typ: m
       def: apple tree
 
 - key: ansuros
   ety: From PG \ipa{*ansuz}
-  definitions:
+  content:
     - typ: adj
       def: powerful
 
 - key: anstis
   ety: From PG \ipa{*anstiz}
-  definitions:
+  content:
     - typ: f
       def: favor, affection, grace
     - typ: f
@@ -8606,43 +8629,43 @@
 
 - key: ansja
   ety: From PG \ipa{*ansijō}
-  definitions:
+  content:
     - typ: f
       def: eyelet, eye of a needle
 
 - key: ansos
   ety: From PG \ipa{*ansaz}
-  definitions:
+  content:
     - typ: m
       def: beam, wooden beam, support beam
 
 - key: ankva
   ety: From PG \ipa{*ankwô}
-  definitions:
+  content:
     - typ: m
       def: ointment, butter
 
 - key: anklos
   ety: From PG \ipa{*ankulaz}
-  definitions:
+  content:
     - typ: m
       def: hip
 
 - key: ancja
   ety: From PG \ipa{*ankijǭ}
-  definitions:
+  content:
     - typ: f
       def: ankle
 
 - key: ahla
   ety: From PG \ipa{*anhulō}
-  definitions:
+  content:
     - typ: f
       def: strap, band, thong
 
 - key: angastis
   ety: From PG \ipa{*angustiz}
-  definitions:
+  content:
     - typ: f
       def: narrowness, tightness
     - typ: f
@@ -8650,25 +8673,25 @@
 
 - key: angla
   ety: From PG \ipa{*angulō}
-  definitions:
+  content:
     - typ: f
       def: a hook, fishhook
 
 - key: angros¹
   ety: From PG \ipa{*angraz}
-  definitions:
+  content:
     - typ: m
       def: lowland, meadow
 
 - key: angros²
   ety: From PG \ipa{*angazaz}
-  definitions:
+  content:
     - typ: m
       def: worry, grief, anxiety
 
 - key: anga
   ety: From PG \ipa{*angô}
-  definitions:
+  content:
     - typ: m
       def: a bend, crook
     - typ: m
@@ -8680,37 +8703,37 @@
 
 - key: angja
   ety: From PG \ipa{*angijō}
-  definitions:
+  content:
     - typ: f
       def: a low lying meadow in a valley or near a river
 
 - key: andios
   ety: From PG \ipa{*andijaz}
-  definitions:
+  content:
     - typ: m
       def: end
 
 - key: anvurdjom
   ety: From PG \ipa{*andawurdiją}
-  definitions:
+  content:
     - typ: n
       def: answer, reply
 
 - key: anvlitiom
   ety: From PG \ipa{*andawlitją}
-  definitions:
+  content:
     - typ: n
       def: appearance, form
 
 - key: anda
   ety: From PG \ipa{*anadô}
-  definitions:
+  content:
     - typ: m
       def: zeal
 
 - key: ambúsnis
   ety: From PG \ipa{*anabūsniz}
-  definitions:
+  content:
     - typ: f
       def: commandment
     - typ: f
@@ -8718,7 +8741,7 @@
 
 - key: amblis
   ety: From PG \ipa{*amliz}
-  definitions:
+  content:
     - typ: m
       def: spelt, emmer
     - typ: m
@@ -8726,96 +8749,96 @@
 
 - key: amba
   ety: From PG \ipa{*ambô}
-  definitions:
+  content:
     - typ: m
       def: belly
 
 - key: arva¹
   ety: From PG \ipa{*arfô}
-  definitions:
+  content:
     - typ: m
       def: chickweed
 
 - key: arva²
   ety: From PG \ipa{*arhwō}
-  definitions:
+  content:
     - typ: f
       def: arrow
 
 - key: armos
   ety: From PG \ipa{*armaz}
-  definitions:
+  content:
     - typ: m
       def: arm
 
 - key: armodiom
   ety: From PG \ipa{*armōdiją}
-  definitions:
+  content:
     - typ: n
       def: poverty
 
 - key: arsos
   ety: From PG \ipa{*arsaz}
-  definitions:
+  content:
     - typ: m
       def: arse, ass, anus, buttocks
       tag: vulgar
 
 - key: arta
   ety: From PG \ipa{*artǭ}
-  definitions:
+  content:
     - typ: f
       def: wagtail, a type of bird
 
 - key: arts
   parts: artes
   ety: From PG \ipa{*aruts}
-  definitions:
+  content:
     - typ: m
       def: ore
 
 - key: arvos
   ety: From PG \ipa{*arwaz}
-  definitions:
+  content:
     - typ: n
       def: scar
 
 - key: arvíts
   parts: arvítes
   ety: From PG \ipa{*arwīts}
-  definitions:
+  content:
     - typ: f
       def: pea
 
 - key: asja
   ety: From PG \ipa{*asjǭ}
-  definitions:
+  content:
     - typ: f
       def: soapstone
       tag: geology
 
 - key: askos
   ety: From PG \ipa{*askaz}
-  definitions:
+  content:
     - typ: m
       def: ash tree
       tag: botany
 
 - key: aska
   ety: From PG \ipa{*askǭ}
-  definitions:
+  content:
     - typ: f
       def: ash, ashes
 
 - key: asnjos
   ety: From PG \ipa{*asnijaz}
-  definitions:
+  content:
     - typ: m
       def: servant, laborer
 
 - key: asna
   ety: From PG \ipa{*asnō}
-  definitions:
+  content:
     - typ: f
       def: harvest
     - typ: f
@@ -8823,43 +8846,43 @@
 
 - key: aspa
   ety: From PG \ipa{*aspō}
-  definitions:
+  content:
     - typ: f
       def: aspen
 
 - key: astos
   ety: From PG \ipa{*astaz}
-  definitions:
+  content:
     - typ: m
       def: bush
 
 - key: audos
   ety: From PG \ipa{*audaz}
-  definitions:
+  content:
     - typ: m
       def: wealth, riches
 
 - key: auria
   ety: From PG \ipa{*aurī}
-  definitions:
+  content:
     - typ: f
       def: a river bank, or sandbank at the river's mouth
 
 - key: audia
   ety: From PG \ipa{*awadī}
-  definitions:
+  content:
     - typ: f
       def: eider
 
 - key: avidiom
   ety: From PG \ipa{*awidiją}
-  definitions:
+  content:
     - typ: n
       def: a herd or flock of sheep
 
 - key: avja
   ety: From PG \ipa{*awjō}
-  definitions:
+  content:
     - typ: f
       def: floodplain, meadow
     - typ: f
@@ -8867,49 +8890,49 @@
 
 - key: arnis
   ety: From PG \ipa{*azaniz}
-  definitions:
+  content:
     - typ: f
       def: harvest, harvest time
 
 - key: badjom
   ety: From PG \ipa{*badją}
-  definitions:
+  content:
     - typ: n
       def: bed
 
 - key: badva
   ety: From PG \ipa{*badwō}
-  definitions:
+  content:
     - typ: f
       def: battle, fight
 
 - key: bainom
   ety: From PG \ipa{*bainą}
-  definitions:
+  content:
     - typ: n
       def: leg
 
 - key: bairos
   ety: From PG \ipa{*bairaz}
-  definitions:
+  content:
     - typ: m
       def: boar
 
 - key: baitos
   ety: From PG \ipa{*baitaz}
-  definitions:
+  content:
     - typ: m
       def: boat, ship
 
 - key: baitilos
   ety: From PG \ipa{*baitilaz}
-  definitions:
+  content:
     - typ: m
       def: chisel
 
 - key: baita
   ety: From PG \ipa{*baitō}
-  definitions:
+  content:
     - typ: f
       def: food
     - typ: f
@@ -8917,79 +8940,79 @@
 
 - key: bakarios
   ety: From PG \ipa{*bakārijaz}
-  definitions:
+  content:
     - typ: m
       def: baker
 
 - key: bakis
   ety: From PG \ipa{*bakiz}
-  definitions:
+  content:
     - typ: f
       def: beach
 
 - key: balgis
   ety: From PG \ipa{*balgiz}
-  definitions:
+  content:
     - typ: m
       def: bag
 
 - key: baltjos
   ety: From PG \ipa{*baltijaz}
-  definitions:
+  content:
     - typ: m
       def: belt
 
 - key: balvom
   ety: From PG \ipa{*balwą}
-  definitions:
+  content:
     - typ: n
       def: evil, misfortune
 
 - key: baldia
   ety: From PG \ipa{*balþį̄}
-  definitions:
+  content:
     - typ: f
       def: boldness, strength, courage
 
 - key: bandia
   ety: From PG \ipa{*bandī}
-  definitions:
+  content:
     - typ: f
       def: fetter, bond
 
 - key: nemeti
   ety: From PG \ipa{*nemaną}
-  definitions:
+  content:
     - typ: v
       def: to take
 
 - key: avisjeti
   ety: From PG \ipa{*abisjaną}
-  definitions:
+  content:
     - typ: v
       def: to cut, shear
 
 - key: avlóti
   ety: From PG \ipa{*aflōną}
-  definitions:
+  content:
     - typ: v
       def: to acquire, to contrive
 
 - key: ageti
   ety: From PG \ipa{*aganą}
-  definitions:
+  content:
     - typ: v
       def: to fear, to be afraid
 
 - key: agjóti
   ety: From PG \ipa{*agjōną}
-  definitions:
+  content:
     - typ: v
       def: to harrow
 
 - key: aglíti
   ety: From PG \ipa{*aglijaną}
-  definitions:
+  content:
     - typ: v
       def: to damage
     - typ: v
@@ -8997,61 +9020,61 @@
 
 - key: aigineti
   ety: From PG \ipa{*aigināną}
-  definitions:
+  content:
     - typ: v
       def: to appropriate, to take possession by force
 
 - key: ektróti
   ety: From PG \ipa{*aihtrōną}
-  definitions:
+  content:
     - typ: v
       def: to beg
 
 - key: ecjíti
   ety: From PG \ipa{*aikijaną}
-  definitions:
+  content:
     - typ: v
       def: to irritate, to annoy, to bother
 
 - key: ailíti
   ety: From PG \ipa{*ailijaną}
-  definitions:
+  content:
     - typ: v
       def: to kindle, to light on fire
 
 - key: aisóti
   ety: From PG \ipa{*aisōną}
-  definitions:
+  content:
     - typ: v
       def: to rush
 
 - key: aistáti
   ety: From PG \ipa{*aistāną}
-  definitions:
+  content:
     - typ: v
       def: to respect
 
 - key: aivíti
   ety: From PG \ipa{*aiwijaną}
-  definitions:
+  content:
     - typ: v
       def: to graze
 
 - key: airáti
   ety: From PG \ipa{*aizāną}
-  definitions:
+  content:
     - typ: v
       def: to honor
 
 - key: aketi
   ety: From PG \ipa{*akaną}
-  definitions:
+  content:
     - typ: v
       def: to drive, sail, navigate
 
 - key: aleti
   ety: From PG \ipa{*alaną}
-  definitions:
+  content:
     - typ: v
       def: to grow
     - typ: v
@@ -9061,79 +9084,79 @@
 
 - key: altjeti
   ety: From PG \ipa{*alatjaną}
-  definitions:
+  content:
     - typ: v
       def: to drive, to move
 
 - key: aldíti
   ety: From PG \ipa{*aldijaną}
-  definitions:
+  content:
     - typ: v
       def: to delay
 
 - key: algóti
   ety: From PG \ipa{*algōną}
-  definitions:
+  content:
     - typ: v
       def: to defend, to protect
 
 - key: alsóti
   ety: From PG \ipa{*aliskōną}
-  definitions:
+  content:
     - typ: v
       def: to tend to, to care for
 
 - key: alnóti
   ety: From PG \ipa{*aljanōną}
-  definitions:
+  content:
     - typ: v
       def: to be zealous for, to strive for
 
 - key: ambudeti
   ety: From PG \ipa{*anabeudaną}
-  definitions:
+  content:
     - typ: v
       def: to command, to order, to instruct
 
 - key: ambindeti
   ety: From PG \ipa{*andabindaną}
-  definitions:
+  content:
     - typ: v
       def: to unbind, to loosen, to set free
 
 - key: ansaketi
   ety: From PG \ipa{*andasakaną}
-  definitions:
+  content:
     - typ: v
       def: to speak against, to refute
 
 - key: avurdíti
   ety: From PG \ipa{*andawurdijaną}
-  definitions:
+  content:
     - typ: v
       def: to answer, to respond
 
 - key: andjóti
   ety: From PG \ipa{*andijōną}
-  definitions:
+  content:
     - typ: v
       def: to end, to bring to an end, to finish
 
 - key: anstíti
   ety: From PG \ipa{*anstijaną}
-  definitions:
+  content:
     - typ: v
       def: to ask, to request
 
 - key: arvíti
   ety: From PG \ipa{*arbijaną}
-  definitions:
+  content:
     - typ: v
       def: to inherit
 
 - key: argíti
   ety: From PG \ipa{*argijaną}
-  definitions:
+  content:
     - typ: v
       def: to spoil, to ruin
     - typ: v
@@ -9141,56 +9164,56 @@
 
 - key: armáti
   ety: From PG \ipa{*armāną}
-  definitions:
+  content:
     - typ: v
       def: to pity
 
 - key: argíti
   ety: From PG \ipa{*artijaną}
-  definitions:
+  content:
     - typ: v
       def: to tease, to taunt, to grill, to provoke
 
 
 - key: augíti
   ety: From PG \ipa{*augijaną}
-  definitions:
+  content:
     - typ: v
       def: to show, to display
 
 - key: arnóti
   ety: From PG \ipa{*azanōną}
-  definitions:
+  content:
     - typ: v
       def: to harvest, to reap
 
 - key: badóti
   ety: From PG \ipa{*badōną}
-  definitions:
+  content:
     - typ: v
       def: to press, to distress, to frighten
 
 - key: stultos
   ety: From PG \ipa{*stultaz}
-  definitions:
+  content:
     - typ: adj
       def: proud
 
 - key: linja
   ety: From Fr. \ipa{ligne}
-  definitions:
+  content:
     - typ: f
       def: line
 
 - key: veterános
   ety: From Lat. \ipa{veterānus}
-  definitions:
+  content:
     - typ: m
       def: veteran
 
 - key: vargos
   ety: From PG \ipa{*wargaz}
-  definitions:
+  content:
     - typ: m
       def: enemy
     - typ: m
@@ -9198,114 +9221,114 @@
 
 - key: smernos
   ety: From PIE \ipa{*smerd-nós}
-  definitions:
+  content:
     - typ: m
       def: terrible, dreadful, horrible
 
 - key: smerdeti
   ety: From PIE \ipa{*(s)merd-}
-  definitions:
+  content:
     - typ: v
       def: to bite
 
 - key: damis
   ety: From PIE \ipa{*ǵm̥-is}
-  definitions:
+  content:
     - typ: f
       def: marriage, matrimony
 
 - key: dambros
   ety: From PIE \ipa{*ǵm̥-rós}
-  definitions:
+  content:
     - typ: m
       def: son in law
 
 - key: drajus
   ety: From PIE \ipa{*ǵr̥h₂-yéw-s}
-  definitions:
+  content:
     - typ: f
       def: old woman
 
 - key: dera
   ety: From PIE \ipa{*ǵērh₂-s}
-  definitions:
+  content:
     - typ: f
       def: old age
 
 - key: doros
   ety: From PIE \ipa{*ǵorh₂-o-s}
-  definitions:
+  content:
     - typ: adj
       def: free (having freedom)
 
 - key: duseti
   ety: From PIE \ipa{*ǵéwseti}
-  definitions:
+  content:
     - typ: v
       def: to taste, to try, to choose
 
 - key: dveleti
   ety: From PIE \ipa{*ǵwélH-e-ti}
-  definitions:
+  content:
     - typ: v
       def: to burn, to shine
 
 - key: feljeti
   ety: From PIE \ipa{*ǵʰélh₃-ye-ti}
-  definitions:
+  content:
     - typ: v
       def: to flourish
 
 - key: flaros
   ety: From PIE \ipa{*ǵʰl̥h₃-ró-s}
-  definitions:
+  content:
     - typ: v
       def: yellow
 
 - key: stridos
   ety: From PIE \ipa{*strīdaz}
-  definitions:
+  content:
     - typ: m
       def: dispute
 
 - key: videti
   ety: From PIE \ipa{*weyd-e-ti}
-  definitions:
+  content:
     - typ: v
       def: to see
 
 - key: Ephraím
   ety: From AG \gr{Ἐφραΐμ}
-  definitions:
+  content:
     - typ: m
       def: Ephraim
 
 - key: Elia
   ety: From AG \gr{Ἠλίᾱς}
-  definitions:
+  content:
     - typ: m
       def: Elijah
 
 - key: pelus
   ety: From PIE \ipa{*pélh₁-u-}
-  definitions:
+  content:
     - typ: pron
       def: much; a lot; plenty
 
 - key: melus
-  definitions:
+  content:
     - typ: pron
       def: little; few; not much
 
 - key: pelman
   ety: From Dan. \ipa{pelus + -man}
-  definitions:
+  content:
     - typ: n
       def: fruit
 
 - key: pelvjés
   ety: From Dan. \ipa{pelus}
-  definitions:
+  content:
     - typ: adj
       def: bigger; major
     - typ: adj
@@ -9313,13 +9336,13 @@
 
 - key: anapelvíeti
   ety: From Dan. \ipa{opi- + pelv- + -íeti}
-  definitions:
+  content:
     - typ: v
       def: to multiply
 
 - key: melvjés
   ety: From Dan. \ipa{melus}
-  definitions:
+  content:
     - typ: adj
       def: smaller; minor
     - typ: adj
@@ -9327,257 +9350,293 @@
 
 - key: ipelve
   ety: Related to Dan. \ipa{pelus}
-  definitions:
+  content:
     - typ: c
       def: also, in addition, moreover
 
 - key: sep
-  definitions:
+  content:
     - typ: c
       def: so, thus, then
 
 - key: septoives
   ety: From Dan. \ipa{sep + toives}
-  definitions:
+  content:
     - typ: c
       def: therefore, thus, hence
 
 - key: psycha
-  definitions:
+  ety: From AG \ipa{ψῡχή}
+  content:
     - typ: f
       def: soul
 
 - key: cetos
-  definitions:
+  content:
     - typ: m
       def: sea monster
     - typ: m
       def: whale; cetacean
 
 - key: vesuverdíeti
-  definitions:
+  content:
     - typ: v
       def: to bless
 
 - key: icón
-  definitions:
+  content:
     - typ: f
       def: image
     - typ: f
       def: icon
 
 - key: manus
-  definitions:
+  content:
     - typ: m
       def: person, human
 
 - key: bujeti
-  definitions:
+  content:
     - typ: v
       def: (+\ipa{en} + accusative) to become, to turn into
 
 - key: pramos
-  definitions:
+  content:
     - typ: adj
       def: first
 
 - key: viteros
-  definitions:
+  content:
     - typ: adj
       def: second
 
 - key: tritos
-  definitions:
+  content:
     - typ: adj
       def: third
 
 - key: petvártos
-  definitions:
+  content:
     - typ: adj
       def: fourth
 
 - key: pemptos
-  definitions:
+  content:
     - typ: adj
       def: fifth
 
 - key: svektos
-  definitions:
+  content:
     - typ: adj
       def: sixth
 
 - key: septamos
-  definitions:
+  content:
     - typ: adj
       def: seventh
 
 - key: oktamos
-  definitions:
+  content:
     - typ: adj
       def: eighth
 
 - key: nevamos
-  definitions:
+  content:
     - typ: adj
       def: ninth
 
 - key: desamos
-  definitions:
+  content:
     - typ: adj
       def: tenth
 
 - key: oinodesamos
-  definitions:
+  content:
     - typ: adj
       def: eleventh
 
 - key: dvoidesamos
-  definitions:
+  content:
     - typ: adj
       def: twelfth
 
 - key: tridesamos
-  definitions:
+  content:
     - typ: adj
       def: thirteenth
 
 - key: petvordesamos
-  definitions:
+  content:
     - typ: adj
       def: fourteenth
 
 - key: pempedesamos
-  definitions:
+  content:
     - typ: adj
       def: fifteenth
 
 - key: svekdesamos
-  definitions:
+  content:
     - typ: adj
       def: sixteenth
 
 - key: septandesamos
-  definitions:
+  content:
     - typ: adj
       def: seventeenth
 
 - key: oktodesamos
-  definitions:
+  content:
     - typ: adj
       def: eighteenth
 
 - key: nevandesamos
-  definitions:
+  content:
     - typ: adj
       def: nineteenth
 
 - key: vidsantos
-  definitions:
+  content:
     - typ: adj
       def: twentieth
 
 - key: tridsontos
   ety: From PIE \ipa{*tridḱómt}
-  definitions:
+  content:
     - typ: adj
       def: thirtieth
 
 - key: petvardsontos
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  definitions:
+  content:
     - typ: adj
       def: fortieth
 
 - key: pempedsontos
   ety: From PIE \ipa{*kʷétwr̥dḱomt}
-  definitions:
+  content:
     - typ: adj
       def: fiftieth
 
 - key: svekdsontos
   ety: From PIE \ipa{*swéḱsdḱomt}
-  definitions:
+  content:
     - typ: adj
       def: sixtieth
 
 - key: septandsontos
   ety: From PIE \ipa{*septḿ̥dḱomt}
-  definitions:
+  content:
     - typ: adj
       def: seventieth
 
 - key: oktodsontos
   ety: From PIE \ipa{*oḱtódḱomt}
-  definitions:
+  content:
     - typ: adj
       def: eightieth
 
 - key: nevandsontos
   ety: From PIE \ipa{*h₁néwn̥dḱomt}
-  definitions:
+  content:
     - typ: adj
       def: ninetieth
 
 - key: satenjos
   ety: From PIE \ipa{*ḱm̥tóm}
-  definitions:
+  content:
     - typ: adj
       def: hundredth
 
 - key: tusontjos
   ety: From PIE \ipa{*tuHsont-}
-  definitions:
+  content:
     - typ: adj
       def: thousandth
 
 - key: gorbos
-  definitions:
+  content:
     - typ: m
       def: crab
     - typ: m
       def: Cancer (constellation)
 
 - key: león
-  definitions:
+  content:
     - typ: m
       def: lion
     - typ: m
       def: Leo (constellation)
 
 - key: dvibrus
-  definitions:
+  content:
     - typ: m
       def: balance, scale
     - typ: m
       def: Libra (constellation)
 
 - key: scorpios
-  definitions:
+  content:
     - typ: m
       def: scorpion
     - typ: m
       def: Scorpius (constellation)
 
 - key: istrom
-  definitions:
+  content:
     - typ: m
       def: bow (weapon)
     - typ: m
       def: Sagittarius (constellation)
 
 - key: vedenjos
-  definitions:
+  content:
     - typ: m
       def: water-bearer, water-pourer
     - typ: m
       def: Aquarius (constellation)
 
 - key: uperjeros
-  definitions:
+  content:
     - typ: adj
       def: intercalary, epagomenal
 
 - key: Abrám
-  definitions:
+  content:
     - typ: m
       def: Abram
+
+- key: baptisman
+  ety: From AG \gr{βάπτισμα}
+  content:
+    - typ: n
+      def: baptism
+
+- key: communísta
+  ety: From Dan. \ipa{communismos}
+  content:
+    - typ: adj
+      def: communist
+
+- key: fundamental
+  ety: From Lat. \ipa{fundāmentālis}
+  content:
+    - typ: adj
+      def: fundamental
+
+- key: fundamentalista
+  ety: From Dan. \ipa{fundamental}
+  content:
+    - typ: adj
+      def: most fundamental
+
+- key: fundamentalísta
+  ety: From Dan. \ipa{fundamental}
+  content:
+    - typ: adj
+      def: fundamentalist
+
+- key: rodukter
+  content:
+    - typ: m
+      def: judge

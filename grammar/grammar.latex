@@ -284,7 +284,7 @@ below sumarizes the names of every letter, and their phonemic value.
 	letter & name & sound \\
 	\midrule
 	a & \lan{a} & \ipa{/a/} \\
-	b & \lan{b} & \ipa{/b/} \\
+	b & \lan{be} & \ipa{/b/} \\
 	c & \lan{ce} & \ipa{/k/} \\
 	d & \lan{de} & \ipa{/d/} \\
 	e & \lan{e} & \ipa{/e/} \\
@@ -308,7 +308,7 @@ below sumarizes the names of every letter, and their phonemic value.
 	w & \lan{dublevé} & \ipa{/v/} \\
 	x & \lan{ix} & \ipa{/s/, /ks/} \\
 	y & \lan{igrek} & \ipa{/i/, /j/} \\
-	z & \lan{ze} & \ipa{/z/} \\
+	z & \lan{zed} & \ipa{/z/} \\
 	\bottomrule
 \end{tabular}
 \end{center}
@@ -1605,13 +1605,13 @@ Its conjugation is shown in the table below.
 
 \INCOMPLETE
 
-\input{compiled/esti-be.latex}
+\input{compiled/esti-be.table}
 
 \section{Thematic verbs}
 
 \INCOMPLETE
 
-\input{compiled/vopeti.latex}
+\input{compiled/vopeti.table}
 
 \section{Athematic verbs}
 
@@ -1623,9 +1623,9 @@ There are only a handful of irregular verbs in Danetian.
 
 \INCOMPLETE
 
-\input{compiled/iti.latex}
-\input{compiled/doti.latex}
-\input{compiled/esti-eat.latex}
+\input{compiled/iti.table}
+\input{compiled/doti.table}
+\input{compiled/esti-eat.table}
 
 
 

@@ -1,14 +1,33 @@
 all:
-	#make tables
+	make tables
+	make grammar.pdf
+
+compiled/%.table: verbs/%.yaml
+	python parse.py $< template.latex.liquid > $@
+
+.PHONY: tables
+tables: parse.py
+	make compiled/bideti.table
+	make compiled/bloti.table
+	make compiled/denati.table
+	make compiled/doti.table
+	make compiled/esti-be.table
+	make compiled/esti-eat.table
+	make compiled/fekmi.table
+	make compiled/iti.table
+	make compiled/jekti.table
+	make compiled/linepti.table
+	make compiled/merti.table
+	make compiled/vepti.table
+	make compiled/vopeti.table
+
+grammar.pdf: grammar.latex compiled/*.table
 	xelatex grammar.latex
 	makeglossaries grammar
 	xelatex grammar.latex
 
-tables:
-	python parse.py verbs/vopeti.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/vopeti.latex
-	python parse.py verbs/doti.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/doti.latex
-	python parse.py verbs/esti-eat.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/esti-eat.latex
-	python parse.py verbs/esti-be.yaml verbs/TEMPLATE-ACTIVE.latex.liquid > compiled/esti-be.latex
-	python parse.py verbs/iti.yaml verbs/TEMPLATE-ACTIVE.latex.liquid > compiled/iti.latex
-	python parse.py verbs/voide.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/voide.latex
-	python parse.py verbs/bloti.yaml verbs/TEMPLATE-FULL.latex.liquid > compiled/bloti.latex
+
+.PHONY: clean
+clean:
+	rm compiled/*
+	rm *.{aux,glg,glo,gls,ist,log,out,pdf,toc}

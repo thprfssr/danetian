@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - vepmi
+      - vepsi
+      - vepti
+      - vepmos
+      - vepte
+      - vepanti
+    imperfect:
+      - vepam
+      - veps
+      - vept
+      - vepme
+      - vepte
+      - vepant
+    perfect:
+      - vevepam
+      - veveps
+      - vevept
+      - vevepme
+      - vevepte
+      - vevepant
+  subjunctive:
+    present:
+      - vepjém
+      - vepjés
+      - vepjét
+      - vepíme
+      - vepíte
+      - vepínt
+    perfect:
+      - vevepjém
+      - vevepjés
+      - vevepjét
+      - vevepíme
+      - vevepíte
+      - vevepínt
+  imperative:
+    present:
+      - vep
+      - vepte
+    perfect:
+      - vevep
+      - vevepte
+  participle:
+    present: veponts
+    perfect: vepvés
+  infinitive:
+    present: veptin
+    perfect: veveptin
+mediopassive:
+  indicative:
+    present:
+      - vépar
+      - véptar
+      - véptor
+      - vepmosda
+      - vepdave
+      - vépontor
+    imperfect:
+      - vepa
+      - vepta
+      - vepto
+      - vepmeda
+      - vepdave
+      - veponto
+    perfect:
+      - vevepa
+      - vevepta
+      - vevepto
+      - vevepmeda
+      - vevepdave
+      - veveponto
+  subjunctive:
+    present:
+      - vepí
+      - vepíta
+      - vepíto
+      - vepimeda
+      - vepídave
+      - vepínto
+    perfect:
+      - vevepí
+      - vevepíta
+      - vevepíto
+      - vevepimeda
+      - vevepídave
+      - vevepínto
+  imperative:
+    present:
+      - vepso
+      - vepdave
+    perfect:
+      - vevepso
+      - vevepdave
+  participle:
+    present: vepmanos
+    perfect: vevepmanos
+  infinitive:
+    present: vepmin
+    perfect: vevepmin

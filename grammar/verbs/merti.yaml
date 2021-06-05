@@ -4,51 +4,51 @@ active:
       - mermi
       - mersi
       - merti
-      - marmos
-      - marte
-      - marenti
+      - mermos
+      - merte
+      - meranti
     imperfect:
       - meram
       - mers
       - mert
-      - marme
-      - marte
-      - marant
+      - merme
+      - merte
+      - merant
     perfect:
       - memeram
       - memers
       - memert
-      - memarme
-      - memarte
-      - memarant
+      - memerme
+      - memerte
+      - memerant
   subjunctive:
     present:
       - merjém
       - merjés
       - merjét
-      - maríme
-      - maríte
-      - marínt
+      - meríme
+      - meríte
+      - merínt
     perfect:
       - memerjém
       - memerjés
       - memerjét
-      - memaríme
-      - memaríte
-      - memarínt
+      - memeríme
+      - memeríte
+      - memerínt
   imperative:
     present:
       - mer
-      - marte
+      - merte
     perfect:
       - mémer
-      - memarte
+      - memerte
   participle:
     present: meronts
-    perfect: memarvés
+    perfect: memervés
   infinitive:
     present: mertin
-    perfect: memartin
+    perfect: memertin
 mediopassive:
   indicative:
     present:

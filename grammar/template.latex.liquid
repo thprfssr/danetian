@@ -1,0 +1,102 @@
+\begin{center}
+\footnotesize
+\begin{tabularx}{\textwidth}{l|XXXXXX}
+	{%- if word.active != '' -%}
+	\toprule
+	\multicolumn{7}{c}{ACTIVE} \\\\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\\\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \mlan{ {{ word.active.participle.present }} }}
+	& \multicolumn{3}{c}{ \mlan{ {{ word.active.infinitive.present }} }} \\\\
+	\Prf
+	& \multicolumn{3}{c}{ \mlan{ {{ word.active.participle.perfect }} }}
+	& \multicolumn{3}{c}{ \mlan{ {{ word.active.infinitive.perfect }} }} \\\\
+	\midrule
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.active.indicative.present -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Impf
+	{%- for item in word.active.indicative.imperfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.active.indicative.perfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.active.subjunctive.present -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.active.subjunctive.perfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.active.imperative.present -%}
+		& - & \mlan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.active.imperative.perfect -%}
+		& - & \mlan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	\bottomrule
+	{%- endif -%}
+
+	{%- if word.mediopassive != '' -%}
+	\toprule
+	\multicolumn{7}{c}{MEDIOPASSIVE} \\\\
+	\toprule
+	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\\\
+	\midrule
+	\Prs
+	& \multicolumn{3}{c}{ \mlan{ {{ word.mediopassive.participle.present }} }}
+	& \multicolumn{3}{c}{ \mlan{ {{ word.mediopassive.infinitive.present }} }} \\\\
+	\Prf
+	& \multicolumn{3}{c}{ \mlan{ {{ word.mediopassive.participle.perfect }} }}
+	& \multicolumn{3}{c}{ \mlan{ {{ word.mediopassive.infinitive.perfect }} }} \\\\
+	\midrule
+	~ & \mlan{edo} & \mlan{tu} & \mlan{eno}
+	& \mlan{vi} & \mlan{ju} & \mlan{enoi} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.mediopassive.indicative.present -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Impf
+	{%- for item in word.mediopassive.indicative.imperfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.mediopassive.indicative.perfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.mediopassive.subjunctive.present -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.mediopassive.subjunctive.perfect -%}
+		& \mlan{ {{ item }} }
+	{%- endfor -%} \\\\
+	\midrule
+	\Prs
+	{%- for item in word.mediopassive.imperative.present -%}
+		& - & \mlan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	\Prf
+	{%- for item in word.mediopassive.imperative.perfect -%}
+		& - & \mlan{ {{ item }} } & -
+	{%- endfor -%} \\\\
+	\bottomrule
+	{%- endif -%}
+\end{tabularx}
+\end{center}

@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - jekmi
+      - jeksi
+      - jekti
+      - jekmos
+      - jekte
+      - jekanti
+    imperfect:
+      - jekam
+      - jeks
+      - jekt
+      - jekme
+      - jekte
+      - jekant
+    perfect:
+      - jejekam
+      - jejeks
+      - jejekt
+      - jejekme
+      - jejekte
+      - jejekant
+  subjunctive:
+    present:
+      - jecjém
+      - jecjés
+      - jecjét
+      - jecjíme
+      - jecjíte
+      - jecjínt
+    perfect:
+      - jejecjém
+      - jejecjés
+      - jejecjét
+      - jejecjíme
+      - jejecjíte
+      - jejecjínt
+  imperative:
+    present:
+      - jek
+      - jekte
+    perfect:
+      - jejek
+      - jejekte
+  participle:
+    present: jekonts
+    perfect: jekvés
+  infinitive:
+    present: jektin
+    perfect: jejektin
+mediopassive:
+  indicative:
+    present:
+      - jékar
+      - jéktar
+      - jéktor
+      - jekmosda
+      - jekdave
+      - jékontor
+    imperfect:
+      - jeka
+      - jekta
+      - jekto
+      - jekmeda
+      - jekdave
+      - jekonto
+    perfect:
+      - jejeka
+      - jejekta
+      - jejekto
+      - jejekmeda
+      - jejekdave
+      - jejekonto
+  subjunctive:
+    present:
+      - jecjí
+      - jecjíta
+      - jecjíto
+      - jecjimeda
+      - jecjídave
+      - jecjínto
+    perfect:
+      - jejecjí
+      - jejecjíta
+      - jejecjíto
+      - jejecjimeda
+      - jejecjídave
+      - jejecjínto
+  imperative:
+    present:
+      - jekso
+      - jekdave
+    perfect:
+      - jejekso
+      - jejekdave
+  participle:
+    present: jekmanos
+    perfect: jejekmanos
+  infinitive:
+    present: jekmin
+    perfect: jejekmin

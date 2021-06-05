@@ -2,7 +2,7 @@ import yaml
 from liquid import Liquid
 from unidecode import unidecode
 
-dictionary = 'dictionary.yaml'
+dictionary = 'words.yaml'
 template = 'dictionary.latex.liquid'
 
 with open(dictionary) as f:

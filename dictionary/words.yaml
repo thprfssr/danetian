@@ -49,7 +49,7 @@
   ety: From PIE \ipa{*bʰréh₁wr̥}
   content:
     - typ: n
-      def: well, spring, source
+      def: well, spring, source, fountain
 
 - key: brater
   ety: From PIE \ipa{*bʰréh₂tēr}
@@ -360,6 +360,12 @@
   content:
     - typ: f
       def: hand
+
+- key: atifestríeti
+  ety: Related to Dan. \ipa{fesor}
+  content:
+    - typ: v
+      def: to shape
 
 - key: fejóm
   parts: fimes
@@ -1307,6 +1313,12 @@
     - typ: n
       def: spirit, soul
 
+- key: numenjeti
+  ety: From Dan. \ipa{numan}
+  content:
+    - typ: v
+      def: to breathe
+
 - key: panstis
   ety: From PIE \ipa{*pn̥kʷstis}
   content:
@@ -1632,6 +1644,12 @@
   content:
     - typ: n
       def: work
+
+- key: vardjeti
+  ety: From Dan. \ipa{verdom²}
+  content:
+    - typ: v
+      def: to work
 
 - key: verster
   ety: From Dan. \ipa{verd- + ter}
@@ -2247,6 +2265,18 @@
     - typ: adj
       def: placed, standing
 
+- key: stati
+  ety: From Dan. \ipa{statos}
+  content:
+    - typ: v
+      def: to stand
+
+- key: atistati
+  ety: From Dan. \ipa{ati- + stati}
+  content:
+    - typ: v
+      def: to stop, to cease
+
 - key: senos
   ety: From PIE \ipa{*sénos}
   content:
@@ -2627,7 +2657,7 @@
     - typ: v
       def: to make holy, to hallow, to make sacred, to sanctify
 
-- key: sveníeti
+- key: svenjíeti
   ety: From PIE \ipa{*ḱwen-}
   content:
     - typ: v
@@ -2943,7 +2973,7 @@
     - typ: v
       def: to write
 
-- key: sontíti
+- key: sontíeti
   ety: From PIE \ipa{*sont-éye-}
   content:
     - typ: v
@@ -3639,10 +3669,24 @@
       def: to carry
 
 - key: probereti
-  ety: From Dan. \ipa{bereti}
+  ety: From Dan. \ipa{pro + bereti}
   content:
     - typ: v
       def: to carry forth, to bring forth
+
+- key: uperbereti
+  ety: From Dan. \ipa{úper + bereti}
+  content:
+    - typ: v
+      def: to raise (active)
+    - typ: v
+      def: to rise, to be raised (passive)
+
+- key: trosbereti
+  ety: From Dan. \ipa{tros + bereti}
+  content:
+    - typ: v
+      def: to finish, to complete
 
 - key: krosna
   ety: From PIE \ipa{*ḱerh₂-}
@@ -5219,7 +5263,7 @@
     - typ: n
       def: high sea, open sea
 
-- key: bredíti
+- key: bredíeti
   ety: From PIE \ipa{*bʰredʰ-}
   content:
     - typ: v
@@ -5908,7 +5952,7 @@
     - typ: f
       def: liberation
 
-- key: opisvomíti
+- key: opisvomíeti
   ety: From Dan. \ipa{opisvomia}
   content:
     - typ: v
@@ -9010,7 +9054,7 @@
     - typ: v
       def: to harrow
 
-- key: aglíti
+- key: aglíeti
   ety: From PG \ipa{*aglijaną}
   content:
     - typ: v
@@ -9030,13 +9074,13 @@
     - typ: v
       def: to beg
 
-- key: ecjíti
+- key: ecjíeti
   ety: From PG \ipa{*aikijaną}
   content:
     - typ: v
       def: to irritate, to annoy, to bother
 
-- key: ailíti
+- key: ailíeti
   ety: From PG \ipa{*ailijaną}
   content:
     - typ: v
@@ -9054,7 +9098,7 @@
     - typ: v
       def: to respect
 
-- key: aivíti
+- key: aivíeti
   ety: From PG \ipa{*aiwijaną}
   content:
     - typ: v
@@ -9088,7 +9132,7 @@
     - typ: v
       def: to drive, to move
 
-- key: aldíti
+- key: aldíeti
   ety: From PG \ipa{*aldijaną}
   content:
     - typ: v
@@ -9130,7 +9174,7 @@
     - typ: v
       def: to speak against, to refute
 
-- key: avurdíti
+- key: avurdíeti
   ety: From PG \ipa{*andawurdijaną}
   content:
     - typ: v
@@ -9142,19 +9186,19 @@
     - typ: v
       def: to end, to bring to an end, to finish
 
-- key: anstíti
+- key: anstíeti
   ety: From PG \ipa{*anstijaną}
   content:
     - typ: v
       def: to ask, to request
 
-- key: arvíti
+- key: arvíeti
   ety: From PG \ipa{*arbijaną}
   content:
     - typ: v
       def: to inherit
 
-- key: argíti
+- key: argíeti
   ety: From PG \ipa{*argijaną}
   content:
     - typ: v
@@ -9168,14 +9212,13 @@
     - typ: v
       def: to pity
 
-- key: argíti
+- key: artíeti
   ety: From PG \ipa{*artijaną}
   content:
     - typ: v
       def: to tease, to taunt, to grill, to provoke
 
-
-- key: augíti
+- key: augíeti
   ety: From PG \ipa{*augijaną}
   content:
     - typ: v
@@ -9351,18 +9394,18 @@
 - key: ipelve
   ety: Related to Dan. \ipa{pelus}
   content:
-    - typ: c
+    - typ: conj
       def: also, in addition, moreover
 
 - key: sep
   content:
-    - typ: c
+    - typ: conj
       def: so, thus, then
 
 - key: septoives
   ety: From Dan. \ipa{sep + toives}
   content:
-    - typ: c
+    - typ: conj
       def: therefore, thus, hence
 
 - key: psycha
@@ -9398,7 +9441,9 @@
 - key: bujeti
   content:
     - typ: v
-      def: (+\ipa{en} + accusative) to become, to turn into
+      def: (+\ipa{en} + accusative; active) to turn something into
+    - typ: v
+      def: (+\ipa{en} + accusative; passive) to become, to turn into
 
 - key: pramos
   content:
@@ -9590,11 +9635,18 @@
       def: Sagittarius (constellation)
 
 - key: vedenjos
+  ety: From Dan. \ipa{vodan}
   content:
     - typ: m
       def: water-bearer, water-pourer
     - typ: m
       def: Aquarius (constellation)
+
+- key: vedenjeti
+  ety: From Dan. \ipa{vedenjos}
+  content:
+    - typ: v
+      def: to water
 
 - key: uperjeros
   content:
@@ -9656,3 +9708,21 @@
   content:
     - typ: n
       def: beginning, start
+
+- key: espe
+  ety: From PIE \ipa{*h₁éskʷe}
+  content:
+    - typ: adv
+      def: yet, still
+
+- key: nespe
+  ety: From Dan. \ipa{ne + espe}
+  content:
+    - typ: adv
+      def: not yet
+
+- key: nu
+  ety: From PIE \ipa{*nu}
+  content:
+    - typ: conj
+      def: but

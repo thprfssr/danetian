@@ -116,7 +116,7 @@
 	
 
 	
-		\key{aglíti.} {\footnotesize (From PG \ipa{*aglijaną}).} v.
+		\key{aglíeti.} {\footnotesize (From PG \ipa{*aglijaną}).} v.
 			\textbf{1.} to damage.
 			\textbf{2.} to offend.
 	
@@ -188,7 +188,7 @@
 	
 
 	
-		\key{ailíti.} {\footnotesize (From PG \ipa{*ailijaną}).} v. to kindle, to light on fire.
+		\key{ailíeti.} {\footnotesize (From PG \ipa{*ailijaną}).} v. to kindle, to light on fire.
 	
 
 	
@@ -277,7 +277,7 @@
 	
 
 	
-		\key{aivíti.} {\footnotesize (From PG \ipa{*aiwijaną}).} v. to graze.
+		\key{aivíeti.} {\footnotesize (From PG \ipa{*aiwijaną}).} v. to graze.
 	
 
 	
@@ -321,11 +321,11 @@
 	
 
 	
-		\key{aldis.} {\footnotesize (From PG \ipa{*aldiz}).} f. age, generation, lifetime.
+		\key{aldíeti.} {\footnotesize (From PG \ipa{*aldijaną}).} v. to delay.
 	
 
 	
-		\key{aldíti.} {\footnotesize (From PG \ipa{*aldijaną}).} v. to delay.
+		\key{aldis.} {\footnotesize (From PG \ipa{*aldiz}).} f. age, generation, lifetime.
 	
 
 	
@@ -655,13 +655,13 @@
 	
 
 	
-		\key{anstis.} {\footnotesize (From PG \ipa{*anstiz}).} f.
-			\textbf{1.} favor, affection, grace.
-			\textbf{2.} joy.
+		\key{anstíeti.} {\footnotesize (From PG \ipa{*anstijaną}).} v. to ask, to request.
 	
 
 	
-		\key{anstíti.} {\footnotesize (From PG \ipa{*anstijaną}).} v. to ask, to request.
+		\key{anstis.} {\footnotesize (From PG \ipa{*anstiz}).} f.
+			\textbf{1.} favor, affection, grace.
+			\textbf{2.} joy.
 	
 
 	
@@ -746,13 +746,9 @@
 	
 
 	
-		\key{argíti.} {\footnotesize (From PG \ipa{*argijaną}).} v.
+		\key{argíeti.} {\footnotesize (From PG \ipa{*argijaną}).} v.
 			\textbf{1.} to spoil, to ruin.
 			\textbf{2.} to become a coward.
-	
-
-	
-		\key{argíti.} {\footnotesize (From PG \ipa{*artijaną}).} v. to tease, to taunt, to grill, to provoke.
 	
 
 	
@@ -800,6 +796,10 @@
 	
 
 	
+		\key{artíeti.} {\footnotesize (From PG \ipa{*artijaną}).} v. to tease, to taunt, to grill, to provoke.
+	
+
+	
 		\key{Artobolos.} {\footnotesize (From Dan. \ipa{artos + bolos}).} m. Danetian personal name, meaning \textit{strong bear}.
 	
 
@@ -828,7 +828,7 @@
 	
 
 	
-		\key{arvíti.} {\footnotesize (From PG \ipa{*arbijaną}).} v. to inherit.
+		\key{arvíeti.} {\footnotesize (From PG \ipa{*arbijaną}).} v. to inherit.
 	
 
 	\key{arvíts,}
@@ -900,7 +900,15 @@
 	
 
 	
+		\key{atifestríeti.} {\footnotesize (Related to Dan. \ipa{fesor}).} v. to shape.
+	
+
+	
 		\key{atirama.} {\footnotesize (From Dan. \ipa{ati + rama}).} f. firmament (biblical).
+	
+
+	
+		\key{atistati.} {\footnotesize (From Dan. \ipa{ati- + stati}).} v. to stop, to cease.
 	
 
 	
@@ -916,7 +924,7 @@
 	
 
 	
-		\key{augíti.} {\footnotesize (From PG \ipa{*augijaną}).} v. to show, to display.
+		\key{augíeti.} {\footnotesize (From PG \ipa{*augijaną}).} v. to show, to display.
 	
 
 	
@@ -1005,7 +1013,7 @@
 	
 
 	
-		\key{avurdíti.} {\footnotesize (From PG \ipa{*andawurdijaną}).} v. to answer, to respond.
+		\key{avurdíeti.} {\footnotesize (From PG \ipa{*andawurdijaną}).} v. to answer, to respond.
 	
 
 	
@@ -1403,11 +1411,11 @@
 	
 
 	
-		\key{bredíti.} {\footnotesize (From PIE \ipa{*bʰredʰ-}).} v. to roam, to wander freely.
+		\key{bredíeti.} {\footnotesize (From PIE \ipa{*bʰredʰ-}).} v. to roam, to wander freely.
 	
 
 	\key{brevan,}
-		\textit{bravens, brunamos.} {\footnotesize (From PIE \ipa{*bʰréh₁wr̥}).} n. well, spring, source.
+		\textit{bravens, brunamos.} {\footnotesize (From PIE \ipa{*bʰréh₁wr̥}).} n. well, spring, source, fountain.
 	
 
 	
@@ -1473,7 +1481,9 @@
 	
 
 	
-		\key{bujeti.}  v. (+\ipa{en} + accusative) to become, to turn into.
+		\key{bujeti.}  v.
+			\textbf{1.} (+\ipa{en} + accusative; active) to turn something into.
+			\textbf{2.} (+\ipa{en} + accusative; passive) to become, to turn into.
 	
 
 	
@@ -2061,7 +2071,7 @@
 	
 
 	
-		\key{ecjíti.} {\footnotesize (From PG \ipa{*aikijaną}).} v. to irritate, to annoy, to bother.
+		\key{ecjíeti.} {\footnotesize (From PG \ipa{*aikijaną}).} v. to irritate, to annoy, to bother.
 	
 
 	
@@ -2239,6 +2249,10 @@
 
 	
 		\key{esclerier.} {\footnotesize (From Fr. \ipa{éclaireur}, with ending analogous to Dan. \ipa{ingjenier}).} m. (military) scout.
+	
+
+	
+		\key{espe.} {\footnotesize (From PIE \ipa{*h₁éskʷe}).} adv. yet, still.
 	
 
 	
@@ -2850,7 +2864,7 @@
 	
 
 	
-		\key{ipelve.} {\footnotesize (Related to Dan. \ipa{pelus}).} c. also, in addition, moreover.
+		\key{ipelve.} {\footnotesize (Related to Dan. \ipa{pelus}).} conj. also, in addition, moreover.
 	
 
 	
@@ -3765,6 +3779,10 @@
 	
 
 	
+		\key{nespe.} {\footnotesize (From Dan. \ipa{ne + espe}).} adv. not yet.
+	
+
+	
 		\key{Nestor.} {\footnotesize (From AG \gr{Νέστωρ}).} m.{\footnotesize \textit{ personal name.}} Nestor. {\footnotesize \ipa{Nestor, tu luvos menjas bivas}. \textit{Nestor, you are the love of my life}.}
 	
 
@@ -3929,9 +3947,17 @@
 	
 
 	
+		\key{nu.} {\footnotesize (From PIE \ipa{*nu}).} conj. but.
+	
+
+	
 		\key{numan.} {\footnotesize (From PIE \ipa{*pnéwmn̥}).} n.
 			\textbf{1.} breath.
 			\textbf{2.} spirit, soul.
+	
+
+	
+		\key{numenjeti.} {\footnotesize (From Dan. \ipa{numan}).} v. to breathe.
 	
 
 	
@@ -4091,7 +4117,7 @@
 	
 
 	
-		\key{opisvomíti.} {\footnotesize (From Dan. \ipa{opisvomia}).} v. to liberate, to free, to set free.
+		\key{opisvomíeti.} {\footnotesize (From Dan. \ipa{opisvomia}).} v. to liberate, to free, to set free.
 	
 
 	
@@ -4691,7 +4717,7 @@
 	
 
 	
-		\key{probereti.} {\footnotesize (From Dan. \ipa{bereti}).} v. to carry forth, to bring forth.
+		\key{probereti.} {\footnotesize (From Dan. \ipa{pro + bereti}).} v. to carry forth, to bring forth.
 	
 
 	
@@ -5102,7 +5128,7 @@
 	
 
 	
-		\key{sep.}  c. so, thus, then.
+		\key{sep.}  conj. so, thus, then.
 	
 
 	
@@ -5134,7 +5160,7 @@
 	
 
 	
-		\key{septoives.} {\footnotesize (From Dan. \ipa{sep + toives}).} c. therefore, thus, hence.
+		\key{septoives.} {\footnotesize (From Dan. \ipa{sep + toives}).} conj. therefore, thus, hence.
 	
 
 	
@@ -5364,11 +5390,11 @@
 	
 
 	
-		\key{sontis.} {\footnotesize (From Dan. \ipa{esti}).} f. essence.
+		\key{sontíeti.} {\footnotesize (From PIE \ipa{*sont-éye-}).} v. to send.
 	
 
 	
-		\key{sontíti.} {\footnotesize (From PIE \ipa{*sont-éye-}).} v. to send.
+		\key{sontis.} {\footnotesize (From Dan. \ipa{esti}).} f. essence.
 	
 
 	
@@ -5457,6 +5483,10 @@
 
 	
 		\key{stanga.} {\footnotesize (From PG \ipa{*stangō}).} f. bar, rod, stake, pole, beam.
+	
+
+	
+		\key{stati.} {\footnotesize (From Dan. \ipa{statos}).} v. to stand.
 	
 
 	
@@ -5594,11 +5624,11 @@
 	
 
 	
-		\key{sveníeti.} {\footnotesize (From PIE \ipa{*ḱwen-}).} v. to make holy, to hallow, to make sacred, to sanctify.
+		\key{svenis.} {\footnotesize (From Danetian \ipa{sve}).} f. image, likeness.
 	
 
 	
-		\key{svenis.} {\footnotesize (From Danetian \ipa{sve}).} f. image, likeness.
+		\key{svenjíeti.} {\footnotesize (From PIE \ipa{*ḱwen-}).} v. to make holy, to hallow, to make sacred, to sanctify.
 	
 
 	
@@ -5888,6 +5918,10 @@
 	
 
 	
+		\key{trosbereti.} {\footnotesize (From Dan. \ipa{tros + bereti}).} v. to finish, to complete.
+	
+
+	
 		\key{trostanati.} {\footnotesize (From Dan. \ipa{tros- + stanati}).} v. to persevere.
 	
 
@@ -5947,6 +5981,12 @@
 		\key{úper.} {\footnotesize (From PIE \ipa{*upér}).} prep.
 			\textbf{1.} (+loc) above, over, on top of (stationary, answers the question "where?").
 			\textbf{2.} (+acc) over, beyond, above (with movement, answers the question "where to?").
+	
+
+	
+		\key{uperbereti.} {\footnotesize (From Dan. \ipa{úper + bereti}).} v.
+			\textbf{1.} to raise (active).
+			\textbf{2.} to rise, to be raised (passive).
 	
 
 	
@@ -6047,6 +6087,10 @@
 	
 
 	
+		\key{vardjeti.} {\footnotesize (From Dan. \ipa{verdom²}).} v. to work.
+	
+
+	
 		\key{vargos.} {\footnotesize (From PG \ipa{*wargaz}).} m.
 			\textbf{1.} enemy.
 			\textbf{2.} outlaw, criminal.
@@ -6073,7 +6117,11 @@
 	
 
 	
-		\key{vedenjos.}  m.
+		\key{vedenjeti.} {\footnotesize (From Dan. \ipa{vedenjos}).} v. to water.
+	
+
+	
+		\key{vedenjos.} {\footnotesize (From Dan. \ipa{vodan}).} m.
 			\textbf{1.} water-bearer, water-pourer.
 			\textbf{2.} Aquarius (constellation).
 	

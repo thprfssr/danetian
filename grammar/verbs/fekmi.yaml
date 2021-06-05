@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - fekmi
+      - feksi
+      - fekti
+      - fekmos
+      - fekte
+      - fekanti
+    imperfect:
+      - fem
+      - fes
+      - fet
+      - fame
+      - fate
+      - fent
+    perfect:
+      - fedém
+      - fedés
+      - fedét
+      - fedame
+      - fedate
+      - fedent
+  subjunctive:
+    present:
+      - fecjém
+      - fecjés
+      - fecjét
+      - fecjíme
+      - fecjíte
+      - fecjínt
+    perfect:
+      - fjem
+      - fjes
+      - fjet
+      - fime
+      - fite
+      - fint
+  imperative:
+    present:
+      - fek
+      - fekte
+    perfect:
+      - fe
+      - fate
+  participle:
+    present: fecjonts
+    perfect: fedvés
+  infinitive:
+    present: fektin
+    perfect: fedetin
+mediopassive:
+  indicative:
+    present:
+      - fékar
+      - fétar
+      - féktor
+      - fekmosda
+      - fekdave
+      - fékontor
+    imperfect:
+      - fa
+      - fata
+      - fato
+      - fameda
+      - fadave
+      - fanto
+    perfect:
+      - feda
+      - fedata
+      - fedato
+      - fedameda
+      - fedadave
+      - fedanto
+  subjunctive:
+    present:
+      - fecjí
+      - fecjíta
+      - fecjíto
+      - fecjimeda
+      - fecjídave
+      - fecjínto
+    perfect:
+      - fedí
+      - fedíta
+      - fedíto
+      - fedimeda
+      - fedidave
+      - fedínto
+  imperative:
+    present:
+      - fakso
+      - fakdave
+    perfect:
+      - fedaso
+      - fedadave
+  participle:
+    present: fakmanos
+    perfect: fedamanos
+  infinitive:
+    present: fakmin
+    perfect: fedamin

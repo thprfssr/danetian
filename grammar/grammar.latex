@@ -292,7 +292,7 @@ below sumarizes the names of every letter, and their phonemic value.
 	g & \lan{ge} & \ipa{/g/} \\
 	h & \lan{hasj} & \ipa{/x/} \\
 	i & \lan{i} & \ipa{/i/} \\
-	j & \lan{jota} & \ipa{/j/} \\
+	j & \lan{ja} & \ipa{/j/} \\
 	k & \lan{ka} & \ipa{/k/} \\
 	l & \lan{el} & \ipa{/l/} \\
 	m & \lan{em} & \ipa{/m/} \\
@@ -308,7 +308,7 @@ below sumarizes the names of every letter, and their phonemic value.
 	w & \lan{dublevé} & \ipa{/v/} \\
 	x & \lan{ix} & \ipa{/s/, /ks/} \\
 	y & \lan{igrek} & \ipa{/i/, /j/} \\
-	z & \lan{zeta} & \ipa{/z/} \\
+	z & \lan{ze} & \ipa{/z/} \\
 	\bottomrule
 \end{tabular}
 \end{center}
@@ -326,14 +326,177 @@ context, but it's very intuitive to figure out which one is the case.
 
 \section{General properties}
 
-Nouns inflect according to three genders (\textit{masculine},
-\textit{feminine}, and \textit{neuter}), two
-numbers (\textit{singular} and \textit{plural}), and seven cases
-(\textit{nominative}, \textit{accusative}, \textit{genitive},
-\textit{ablative}, \textit{dative}, \textit{locative},
-and \textit{instrumental}). However, gender is a property that is inherent
-to a noun. Therefore, an inflection table for a noun should have $2\times 7$
-entries.
+Nouns inflect according to the following categories:
+\begin{itemize}
+	\item \textbf{gender:} masculine, feminine, neuter
+	\item \textbf{number:} singular, plural
+	\item \textbf{case:}
+		nominative,
+		accusative,
+		genitive,
+		ablative,
+		dative,
+		locative,
+		instrumental,
+\end{itemize}
+
+\subsection{Gender}
+
+Gender is a grammatical property inherent to each noun. Sometimes it's
+correlated with biological sex:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{viros} (\M): man
+	\item \lan{bena} (\F): woman
+	\item \lan{hertogos} (\M): duke
+	\item \lan{hertoga} (\F): duchess
+\end{itemize}
+\end{multicols}
+
+Most of the time, however, it has nothing to do with sex:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{abol} (\M): apple
+	\item \lan{anfros} (\M): rain
+	\item \lan{barda} (\F): beard
+	\item \lan{nas} (\F): nose
+	\item \lan{imperiom} (\N): empire
+	\item \lan{dranom} (\N): grain
+\end{itemize}
+\end{multicols}
+
+\subsection{Number}
+
+Nouns inflect according to number. If a noun refers to a single entity, it's
+called \textit{singular}. If it refers to more than one entity, it's called
+\textit{plural}.
+
+\subsection{Case}
+
+Nouns can also inflect according to case. Case refers to the grammatical role
+that a noun plays in a phrase or sentence. For instance, consider the following
+two sentences:
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Svon}
+	\lan{smerdeti}
+	\lan{virom}.
+	\\
+	Dog-{\Nom} bites man-{\Acc}. \\
+	\glt The dog bites the man.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Viros}
+	\lan{smerdeti}
+	\lan{svonam}.
+	\\
+	Man-{\Nom} bites dog-{\Acc}. \\
+	\glt The man bites the dog.
+\end{exe}
+
+Clearly, the word for \qt{man} plays a different role in each sentence. In the
+first example, the man is receiving the action. In the second one, he is
+performing the action. This difference is marked in the different endings:
+\lan{viros} when the man performs the action, \lan{virom} when the man receives
+the action.
+
+There are seven cases in Danetian. They are listed below, along with their most
+common functions.
+\begin{itemize}
+	\item \textbf{nominative:} Refers to the subject of a sentence. This is
+		the standard form of a noun.
+		\begin{exe}
+			\ex
+			\textbf{\lan{Viros}}
+			\lan{lufjeti}
+			\lan{svonam.}
+			\\
+			Man-{\Nom} loves dog-{\Acc}.
+			\glt The \textbf{man} loves the dog.
+		\end{exe}
+
+	\item \textbf{accusative:} Refers to the direct object of a sentence.
+		\begin{exe}
+			\ex
+			\lan{Svon}
+			\lan{lufjeti}
+			\textbf{\lan{virom}}.
+			\\
+			Dog-{\Nom} loves man-{\Acc}
+			\glt The dog loves the \textbf{man}.
+		\end{exe}
+	\item \textbf{genitive:} Denotes possession. Equivalent to the
+		phrase \qt{of + [something]}.
+		\begin{exe}
+			\ex
+			\lan{Mjanka}
+			\textbf{\lan{virosjo}}
+			\lan{lufjeti}
+			\lan{svonam}.
+			\\
+			Kitten-{\Nom} man-{\Gen} loves dog-{\Acc}.
+			\glt The \textbf{man's} kitten loves the dog.
+		\end{exe}
+	\item \textbf{ablative:} Can refer to a source of something, or denote
+		movement away from something. Equivalent to the phrase
+		\qt{from + [something]}.
+		\begin{exe}
+			\ex
+			\lan{Mjanka}
+			\lan{peperet}
+			\lan{apo}
+			\textbf{\lan{virad}}
+			\lan{svonei}.
+			\\
+			Kitten-{\Nom} ran from man-{\Abl} dog-{\Dat}.
+			\glt The kitten ran \textbf{from the man} to the dog.
+		\end{exe}
+	\item \textbf{dative:} Can refer to the indirect object of a sentence,
+		or denote movement towards something. Equivalent to the phrase
+		\qt{to + [something]}.
+		\begin{exe}
+			\ex
+			\lan{Svon}
+			\lan{dedót}
+			\lan{fastom}
+			\textbf{\lan{viroi}}.
+			\\
+			Dog-{\Nom} gave stick-{\Acc} man-{\Dat}.
+			\glt The dog gave the stick \textbf{to the man}.
+		\end{exe}
+	\item \textbf{locative:} Refers to a location. Roughly equivalent to the
+		phrase \qt{in + [location]}.
+		\begin{exe}
+			\ex
+			\lan{Mjanka}
+			\lan{sedjeto}
+			\lan{ana}
+			\textbf{\lan{viri}}.
+			\\
+			Kitten-{\Nom} was-sitting on man-{\Loc}.
+			\glt The kitten was sitting \textbf{on the man}.
+		\end{exe}
+	\item \textbf{instrumental:} Can denote a tool or instrument with which
+		an action is performed, or can refer to an entity that gives
+		company to another. Equivalent to the phrase
+		\qt{with + [something]}.
+		\begin{exe}
+			\ex
+			\lan{Svon}
+			\lan{igret}
+			\lan{som}
+			\textbf{\lan{vire}}.
+			\\
+			Dog-{\Nom} was-playing with man-{\Ins}.
+			\glt The dog was playing \textbf{with the man}.
+		\end{exe}
+\end{itemize}
+
 
 \section{Strong and weak cases}
 
@@ -1464,53 +1627,6 @@ There are only a handful of irregular verbs in Danetian.
 \input{compiled/doti.latex}
 \input{compiled/esti-eat.latex}
 
-
-
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{fonts} & \multicolumn{3}{c}{feksei} \\
-	Perfect & \multicolumn{3}{c}{fedvés} & \multicolumn{3}{c}{fedesei} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{fem} & \lan{fes} & \lan{fet} & \lan{fame} & \lan{fate} & \lan{fent} \\
-	Imperfect & \lan{fecjo} & \lan{fecjes} & \lan{fecjet} & \lan{fecjome} & \lan{fecjete} & \lan{fecjont} \\
-	Perfect & \lan{fedem} & \lan{fedes} & \lan{fedet} & \lan{fedame} & \lan{fedate} & \lan{fedant} \\
-	\hline
-	Present & \lan{fecjém} & \lan{fecjés} & \lan{fecjét} & \lan{fekíme} & \lan{fekíte} & \lan{fekínt} \\
-	Perfect & \lan{fedjém} & \lan{fedjés} & \lan{fedjét} & \lan{fedíme} & \lan{fedíte} & \lan{fedínt} \\
-	\hline
-	Present & - & \lan{fe} & - & - & \lan{fete} & - \\
-	Perfect & - & \lan{fedek} & - & - & \lan{fekte} & - \\
-
-	\hline\hline
-	\multicolumn{7}{c}{MEDIOPASSIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{famnos}} & \multicolumn{3}{c}{\lan{famenai}} \\
-	Perfect & \multicolumn{3}{c}{\lan{fedamnos}} & \multicolumn{3}{c}{\lan{fedamenai}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{fenuvar} & \lan{fenutar} & \lan{fenutor} & \lan{fenumosda} & \lan{fenudave} & \lan{fenuvontor} \\
-	Imperfect & \lan{fenuva} & \lan{fenuta} & \lan{fenuto} & \lan{fenumeda} & \lan{fenudave} & \lan{fenuvonto} \\
-	Perfect & \lan{feda} & \lan{festa} & \lan{festo} & \lan{fesmeda} & \lan{fesdave} & \lan{fedonto} \\
-	\hline
-	Present & \lan{fenuí} & \lan{fenuíta} & \lan{fenuíto} & \lan{fenuímeda} & \lan{fenuídave} & \lan{fenuínto} \\
-	Perfect & \lan{feska} & \lan{fesketa} & \lan{fesketo} & \lan{feskomeda} & \lan{feskedave} & \lan{feskonto} \\
-	\hline
-	Present & - & \lan{fenuso} & - & - & \lan{fenudave} & - \\
-	Perfect & - & \lan{feso} & - & - & \lan{fesdave} & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
 
 
 \begin{center}

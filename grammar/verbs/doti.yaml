@@ -45,7 +45,7 @@ active:
       - dedate
   participle:
     present: donts
-    perfect: dedants
+    perfect: dedavés
   infinitive:
     present: dotin
     perfect: dedatin
@@ -74,14 +74,14 @@ mediopassive:
       - dedanto
   subjunctive:
     present:
-      - dia
+      - di
       - dita
       - dito
       - dimeda
       - didave
       - dinto
     perfect:
-      - dedia
+      - dedí
       - dedíta
       - dedíto
       - dedimeda

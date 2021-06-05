@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - leloipa
+      - leloipta
+      - leloipe
+      - lelimme
+      - lelipe
+      - leliper
+    imperfect:
+      - linepam
+      - lineps
+      - linept
+      - limme
+      - limpte
+      - limpent
+    perfect:
+      - lipam
+      - lips
+      - lipt
+      - limme
+      - lipte
+      - lipent
+  subjunctive:
+    present:
+      - limpjém
+      - limpjés
+      - limpjét
+      - limpíme
+      - limpíte
+      - limpínt
+    perfect:
+      - lipjém
+      - lipjés
+      - lipjét
+      - lipíme
+      - lipíte
+      - lipínt
+  imperative:
+    present:
+      - linep
+      - limpte
+    perfect:
+      - lip
+      - lipte
+  participle:
+    present: limponts
+    perfect: likvés
+  infinitive:
+    present: lineptin
+    perfect: liptin
+mediopassive:
+  indicative:
+    present:
+      - límpar
+      - límptar
+      - límptor
+      - limmosda
+      - limpdave
+      - límpantor
+    imperfect:
+      - limpa
+      - limpta
+      - limpto
+      - limmeda
+      - limpdave
+      - limpanto
+    perfect:
+      - lipa
+      - lipta
+      - lipto
+      - limmeda
+      - lipdave
+      - lipanto
+  subjunctive:
+    present:
+      - limpí
+      - limpíta
+      - limpíto
+      - limpimeda
+      - limpidave
+      - limpínto
+    perfect:
+      - lipí
+      - lipíta
+      - lipíto
+      - lipimeda
+      - lipidave
+      - lipínto
+  imperative:
+    present:
+      - limpso
+      - limpdave
+    perfect:
+      - lipso
+      - lipdave
+  participle:
+    present: limmanos
+    perfect: limmanos
+  infinitive:
+    present: limmin
+    perfect: limmin

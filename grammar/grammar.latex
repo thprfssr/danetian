@@ -16,6 +16,12 @@
 \usepackage{microtype} % Supposedly improves spacing
 \usepackage{hyperref} % For in-document hyperlinks
 \newcommand{\qt}[1]{«#1»} % French-style quotation marks
+\usepackage[toc,title,page]{appendix} % For appendices
+
+% Set up the date format %
+\usepackage{datetime}
+\renewcommand{\dateseparator}{-}
+\yyyymmdddate
 
 % For centered multicolumns inside the tabularx environment
 \newcommand{\multicolumnxcentered}[3]{
@@ -108,8 +114,6 @@ with the \textit{centum} languages.
 
 \INCOMPLETE
 
-
-\part{Phonology}
 
 \chapter{Types of sounds}
 
@@ -207,11 +211,11 @@ based on their regional accent, so the following points are merely a guideline.
 	\item \ipa{/o/} is always pronounced as \ipa{[o]}.
 \end{itemize}
 
-\chapter{Syllables}
+%\chapter{Syllables}
 
-\chapter{Stress}
+%\chapter{Stress}
 
-\chapter{Phonotactics}
+%\chapter{Phonotactics}
 
 \chapter{Orthography}
 
@@ -317,8 +321,6 @@ is never palatalized as it is in other European languages. The letter
 The letter \ipa{⟨y⟩} can take on a vocalic or consonantal value, depending on
 context, but it's very intuitive to figure out which one is the case.
 
-
-\part{Morphology}
 
 \chapter{Nominal Morphology}
 
@@ -1401,6 +1403,48 @@ In this case, the subordinate numeral follows the case agreement rules
 discussed in section \ref{sec:case-agreement-for-simple-cardinals}. The
 gender of this subordinate numeral is assumed to be masculine.
 
+\section{Ordinals}
+
+Below is a list of the simple ordinals, comprised of just one word.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{pramos} (\Adj): first
+	\item \lan{viteros} (\Adj): second
+	\item \lan{tritos} (\Adj): third
+	\item \lan{petvártos} (\Adj): fourth
+	\item \lan{pemptos} (\Adj): fifth
+	\item \lan{svektos} (\Adj): sixth
+	\item \lan{septamos} (\Adj): seventh
+	\item \lan{oktamos} (\Adj): eighth
+	\item \lan{nevanos} (\Adj): ninth
+	\item \lan{desamos} (\Adj): tenth
+	\item \lan{oinodesamos} (\Adj): eleventh
+	\item \lan{dvoidesamos} (\Adj): twelfth
+	\item \lan{tridesamos} (\Adj): thirteenth
+	\item \lan{petvardesamos} (\Adj): fourteenth
+	\item \lan{pempedesamos} (\Adj): fifteenth
+	\item \lan{svekdesamos} (\Adj): sixteenth
+	\item \lan{septandesamos} (\Adj): seventeenth
+	\item \lan{oktodesamos} (\Adj): eighteenth
+	\item \lan{nevandesamos} (\Adj): nineteenth
+	\item \lan{vidsantos} (\Adj): twentieth
+	\item \lan{tridsontos} (\Adj): thirtieth
+	\item \lan{petvardsontos} (\Adj): fortieth
+	\item \lan{pempedsontos} (\Adj): fiftieth
+	\item \lan{svekdsontos} (\Adj): sixtieth
+	\item \lan{septandsontos} (\Adj): seventieth
+	\item \lan{oktodsontos} (\Adj): eightieth
+	\item \lan{nevandsontos} (\Adj): ninetieth
+	\item \lan{satenjos} (\Adj): hundredth
+	\item \lan{tusontjos} (\Adj): thousandth(\Adj): hundredth
+	\item \lan{tusontjos} (\Adj): thousandth
+\end{itemize}
+\end{multicols}
+
+To form compound numerals, simply take the corresponding cardinal, and replace
+the last word with its ordinal form. For example, sixty ninth would be
+\lan{svekdsont nevanos}.
+
 \chapter{Pronouns and pro-adverbs}
 
 \section{Personal pronouns}
@@ -1785,31 +1829,30 @@ Several tables of irregular verbs are provided as reference.
 
 
 
-\chapter{Prepositions}
+%\chapter{Prepositions}
 
-NOTE: Perhaps treat adverb-like prepositions as if they were prepositions with a null object
+%NOTE: Perhaps treat adverb-like prepositions as if they were prepositions with a null object
 
-\section{General overview}
+%\section{General overview}
 
-A preposition accepts a noun or noun phrase.
+%A preposition accepts a noun or noun phrase.
 
-\INCOMPLETE
+%\INCOMPLETE
 
-\chapter{Conjunctions}
+%\chapter{Conjunctions}
+%\INCOMPLETE
 
-\INCOMPLETE
 
+%\chapter{Derivational morphology}
 
-\chapter{Derivational morphology}
+%\section{Standard word order}
 
-\part{Syntax}
+%Danetian is an SVO language, like many other languages in Europe. However,
+%thanks to its rich inflectional morphology, this word order is fairly flexible.
 
-\section{Standard word order}
+%\INCOMPLETE
 
-Danetian is an SVO language, like many other languages in Europe. However,
-thanks to its rich inflectional morphology, this word order is fairly flexible.
-
-\INCOMPLETE
+\chapter{General syntax}
 
 \section{Copula omission}
 \label{sec:copula-omission}
@@ -1861,16 +1904,337 @@ Of course, the copula can also be omitted according to the rules in section
 
 \section{Days of the week}
 
+The days of the week are the following:
+\begin{itemize}
+	\item \lan{din Soles} (\M): Sunday
+	\item \lan{din Lunas} (\M): Monday
+	\item \lan{din Marties} (\M): Tuesday
+	\item \lan{din Mercuriosjo} (\M): Wednesday
+	\item \lan{din Jovies} (\M): Thursday
+	\item \lan{din Venesos} (\M): Friday
+	\item \lan{din Saturnosjo} (\M): Saturday
+\end{itemize}
+
+In order to express that an event occured on one of the days of the week,
+the dative case is used.
+\begin{exe}
+	\ex
+	\gll
+	\lan{Imi}
+	\lan{enam}
+	\lan{vidonts}
+	\lan{dinei}
+	\lan{Saturnosjo}. \\
+	I-will-go her-{\Acc} seeing-{\M} day-{\Dat} Saturn-{\Gen} \\
+	\glt I will see her on Saturday.
+\end{exe}
+
+When saying that an event will happen \textit{this week}, or
+\textit{that week}, or \textit{next week}, or any
+similar phrase, we use the construction \lan{ana} + accusative. A rough
+equivalent in English would be to say \textit{upon this week}, for instance.
+\begin{exe}
+	\ex
+	\gll
+	\lan{Vojasj}
+	\lan{pepramenjet}
+	\lan{ana}
+	\lan{probanvesam}
+	\lan{soliskam}. \\
+	Trip started on past-{\Acc} week-{\Acc} \\
+	\glt The trip started last week.
+\end{exe}
+
 \section{Days of the month}
+
+When saying that something will happen \textit{on that day}, or on any
+particular numeric day of the month, we use the genitive case.
+\begin{exe}
+	\ex
+	\gll
+	\lan{Urusj}
+	\lan{anandjóto}
+	\lan{tosjo}
+	\lan{memorabilies}
+	\lan{dines}. \\
+	War concluded that-{\Gen} memorable-{\Gen} day-{\Gen} \\
+	\glt The war ended on that memorable day.
+\end{exe}
+\begin{exe}
+	\ex
+	\gll
+	\lan{Vi}
+	\lan{dedamímeda}
+	\lan{oktamosjo}
+	\lan{juniosjo}. \\
+	We were-married eighth-{\Acc} June-{\Acc} \\
+	\glt We got married on the eight of June.
+\end{exe}
 
 \section{Months and years}
 
-\chapter{Negation}
+Below is a list of all twelve months of the Western calendar.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{januarios} (\M): January
+	\item \lan{februarios} (\M): February
+	\item \lan{martios} (\M): March
+	\item \lan{aprilis} (\M): April
+	\item \lan{majos} (\M): May
+	\item \lan{junios} (\M): June
+	\item \lan{julios} (\M): July
+	\item \lan{augustos} (\M): August
+	\item \lan{september} (\M): September
+	\item \lan{october} (\M): October
+	\item \lan{november} (\M): November
+	\item \lan{december} (\M): December
+\end{itemize}
+\end{multicols}
 
-\chapter{Questions}
-\section{Binary questions}
-\section{Open-ended questions}
+When saying that something will happen on a particular month or year, we use
+the construction \lan{en} + locative. Years are expressed with cardinal
+numbers.
+\begin{exe}
+	\ex
+	\gll
+	\lan{Dedenáto}
+	\lan{en}
+	\lan{tusonti}
+	\lan{nevani}
+	\lan{satonisu}
+	\lan{nevandsonti}
+	\lan{nevani}. \\
+	I-was-born in thousand-{\Loc} nine-{\Loc} hundreds-{\Loc} ninety-{\Loc}
+	nine-{\Loc} \\
+	\glt I was born in 1999.
+\end{exe}
+\begin{exe}
+	\ex
+	\gll
+	\lan{Schola}
+	\lan{pramenjeti}
+	\lan{en}
+	\lan{septembri}. \\
+	School-{\Nom} starts in September-{\Loc} \\
+	\glt School starts in September.
+\end{exe}
 
-\chapter{Emphasis and word order}
+%\chapter{Negation}
+
+%\chapter{Questions}
+%\section{Binary questions}
+%\section{Open-ended questions}
+
+%\chapter{Emphasis and word order}
+
+
+
+\appendix
+\renewcommand{\thesection}{\Alph{section}}
+\setcounter{section}{0}
+
+\begin{appendices}
+
+\section{Verbal morphology tables}
+
+\input{compiled/bideti.table}
+\input{compiled/bloti.table}
+\input{compiled/denati.table}
+\input{compiled/doti.table}
+\input{compiled/esti-be.table}
+\input{compiled/esti-eat.table}
+\input{compiled/fekmi.table}
+\input{compiled/iti.table}
+\input{compiled/jekti.table}
+\input{compiled/linepti.table}
+\input{compiled/lufjeti.table}
+\input{compiled/merti.table}
+\input{compiled/stati.table}
+\input{compiled/sontieti.table}
+\input{compiled/vepti.table}
+\input{compiled/vopeti.table}
+
+
+\pagebreak
+\section{Western personal names}
+
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{Abrahám} (\M): Abraham
+	\item \lan{Abrám} (\M): Abram
+	\item \lan{Adám} (\M): Adam
+	\item \lan{Aicaterína} (\F): Catherine
+	\item \lan{Albértos} (\M): Albert
+	\item \lan{Alexandros, -dra} (\M, \F): Alexander; Alexandra
+	\item \lan{Alexios, -xia} (\M, \F): Alexius; Alexia
+	\item \lan{Anania} (\M): Ananias
+	\item \lan{Anastasios, -sia} (\M, \F): Anastasius; Anastasia
+	\item \lan{Anatolios} (\M): Anatolius, Anatoly
+	\item \lan{Anaximandros, -dra} (\M, \F): Anaximander; Anaximandra
+	\item \lan{Andréa} (\M, \F): Andrew, Andres, Andrei; Andrea
+	\item \lan{Andromeda} (\F): Andromeda
+	\item \lan{Andronicos} (\M): Andronicus
+	\item \lan{Angelos, -la} (\M, \F): Angelus; Angela
+	\item \lan{Anna} (\F): Anna, Anne
+	\item \lan{Antiochos} (\M): Antiochus
+	\item \lan{Antonios} (\M): Anthony
+	\item \lan{Apollodoros} (\M): Apollodorus, Apollodore
+	\item \lan{Apollonios, -nia} (\M, \F): Apollonius; Apollonia
+	\item \lan{Arcadios} (\M): Arcadius
+	\item \lan{Aristarchos} (\M): Aristarchus
+	\item \lan{Aristotelis} (\M): Aristotle
+	\item \lan{Arón} (\M): Aaron
+	\item \lan{Artemios} (\M): Artemius, Artyom
+	\item \lan{Athanasios, -sia} (\M, \F): Athanasius; Athanasia
+	\item \lan{Augustínos} (\M): Augustine
+	\item \lan{Barbara} (\F): Barbara
+	\item \lan{Barnaba} (\M): Barnabas
+	\item \lan{Bartholomaios} (\M): Bartholomew
+	\item \lan{Basilios} (\M): Basilius, Basil, Vasily
+	\item \lan{Benjamín} (\M): Benjamin
+	\item \lan{Braján} (\M): Bryan, Brian
+	\item \lan{Carlos, -la} (\M, \F): Charles, Carlos, Karl; Carla, Carol
+	\item \lan{Cassandros, -dra} (\M; \F): Cassander; Cassandra
+	\item \lan{Christiános} (\M): Christian
+	\item \lan{Christína} (\F): Christine
+	\item \lan{Christophoros} (\M): Christopher
+	\item \lan{Clement} (\M): Clement
+	\item \lan{Cleopatra} (\F): Cleopatra
+	\item \lan{Condrados} (\M): Conrad, Konrad
+	\item \lan{Constantínos} (\M): Constantine
+	\item \lan{Cynthia} (\F): Cynthia
+	\item \lan{Cyriacos} (\M): Cyriacus
+	\item \lan{Cyrillos} (\M): Cyril, Kirill
+	\item \lan{Cyros} (\M): Cyrus
+	\item \lan{Daniel, -ella} (\M, \F): Daniel; Daniella
+	\item \lan{David} (\M): David
+	\item \lan{Demetrios, -tria} (\M, \F): Demetrius, Dmitri; Demetria
+	\item \lan{Dionysios, -sia} (\M, \F): Dionysius, Denis; Dionysia
+	\item \lan{Dioscuros} (\M): Dioscurus
+	\item \lan{Donald} (\M): Donald
+	\item \lan{Dylán} (\M): Dylan
+	\item \lan{Edvárdos} (\M): Edward
+	\item \lan{Elia} (\M): Elijah, Elias, Ilya
+	\item \lan{Elisabet} (\F): Elisabeth
+	\item \lan{Emma} (\F): Emma
+	\item \lan{Emmanuel} (\M): Immanuel, Emmanuel
+	\item \lan{Ephrém} (\M): Ephraim
+	\item \lan{Erik} (\M): Eric
+	\item \lan{Ernéstos} (\M): Ernest, Ernst, Ernesto
+	\item \lan{Esaía} (\M): Isaiah
+	\item \lan{Esther} (\F): Esther
+	\item \lan{Eugenia} (\F): Eugenia
+	\item \lan{Európa} (\F): Europa
+	\item \lan{Eusebios} (\M): Eusebius
+	\item \lan{Eva} (\F): Eve
+	\item \lan{Evangelos} (\M): Evangelus
+	\item \lan{Fernándos} (\M): Ferdinand
+	\item \lan{Francis} (\M): Franciscus, Francis
+	\item \lan{Frederik} (\M): Frederick, Friedrich, Federico
+	\item \lan{Gabriel} (\M): Gabriel
+	\item \lan{Georgios} (\M): George
+	\item \lan{Gervaldína} (\F): Geraldine
+	\item \lan{Gervaldos} (\M): Gerrald
+	\item \lan{Gilbértos} (\M): Gilbert
+	\item \lan{Glen} (\M): Glen
+	\item \lan{Gloria} (\M): Gloria
+	\item \lan{Gregorios} (\M): Gregory
+	\item \lan{Hadriános} (\M): Adrian, Hadrian
+	\item \lan{Heléna} (\F): Helen, Ellen
+	\item \lan{Homéros} (\M): Homer
+	\item \lan{Hoséa} (\M): Hosea
+	\item \lan{Hendrik} (\M): Henry, Heinrich, Enrique
+	\item \lan{Ignatios} (\M): Ignatius
+	\item \lan{Iréna} (\F): Irene
+	\item \lan{Isak} (\M): Isaac
+	\item \lan{Isdrael} (\M): Israel
+	\item \lan{Isidoros} (\M): Isidore
+	\item \lan{Jacobos} (\M): Jacob, James, Jack
+	\item \lan{Jasón} (\M): Jason
+	\item \lan{Jeremia} (\M): Jeremiah
+	\item \lan{Jeronymos} (\M): Jerome
+	\item \lan{Jesus} (\M): Jesus, Joshua
+	\item \lan{Joakím} (\M): Joachim
+	\item \lan{Joanna} (\M, \F): John; Joanne
+	\item \lan{Joel} (\M): Joel
+	\item \lan{Jona} (\M): Jonah
+	\item \lan{Jonathán} (\M): Jonathan
+	\item \lan{Josephos} (\M): Joseph
+	\item \lan{Jotfredos} (\M): Jeffrey, Geoffrey, Gottfried
+	\item \lan{Juda} (\M): Judas, Jude
+	\item \lan{Julios, -lia} (\M, \F): Julius, Joules; Julia
+	\item \lan{Justínos} (\M): Justin
+	\item \lan{Laurentios} (\M): Lawrence
+	\item \lan{Lazaros} (\M): Lazarus
+	\item \lan{León} (\M): Leo
+	\item \lan{Leonida} (\M): Leonidas, Leonid
+	\item \lan{Luca} (\M): Luke
+	\item \lan{Ludvigos} (\M): Ludwig, Louis, Luis
+	\item \lan{Lydia} (\F): Lydia
+	\item \lan{Magdalena} (\M): Magdalene
+	\item \lan{Marcos} (\M): Marcus, Mark
+	\item \lan{Margaríta} (\F): Margarita, Margareth
+	\item \lan{Marios, ria} (\M, \F): Marius, Mario; Mary
+	\item \lan{Martha} (\F): Martha
+	\item \lan{Matthaios} (\M): Matthew
+	\item \lan{Mauritios} (\M): Maurice
+	\item \lan{Maximos} (\M): Maximus, Maksim
+	\item \lan{Methodios} (\M): Methodius
+	\item \lan{Moýsis} (\M): Moses
+	\item \lan{Nectarios} (\M): Nectarius
+	\item \lan{Nestor} (\M): Nestor
+	\item \lan{Nicanor} (\M): Nicanor
+	\item \lan{Nicator} (\M): Nicator
+	\item \lan{Nicodemos} (\M): Nicodemus
+	\item \lan{Nicola} (\M): Nicholas
+	\item \lan{Nikephoros} (\M): Nikephor
+	\item \lan{Nikéta} (\M): Niketas, Nikita
+	\item \lan{Nils} (\M): Nils
+	\item \lan{Noel} (\M): Noel
+	\item \lan{Omar} (\M): Omar
+	\item \lan{Paulos} (\M): Paul
+	\item \lan{Petros} (\M): Peter
+	\item \lan{Philemón} (\M): Philemon
+	\item \lan{Philippos} (\M): Philip
+	\item \lan{Platón} (\M): Plato
+	\item \lan{Procopios} (\M): Procopius
+	\item \lan{Prolemaios} (\M): Ptolemy
+	\item \lan{Raimondos} (\M): Raymond, Ramón
+	\item \lan{Raján} (\M): Ryan
+	\item \lan{Raphael} (\M): Raphael
+	\item \lan{Renvaldos} (\M): Reginald, Ronald, Reinhold
+	\item \lan{Richárdos} (\M): Richard
+	\item \lan{Robértos} (\M): Robert
+	\item \lan{Romános} (\M): Roman
+	\item \lan{Ruth} (\F): Ruth
+	\item \lan{Samuel} (\M): Samuel
+	\item \lan{Sebastián} (\M): Sebastian
+	\item \lan{Seléna} (\F): Selena
+	\item \lan{Seleucos} (\M): Seleucus
+	\item \lan{Sergios} (\M): Sergius
+	\item \lan{Severos} (\M): Severus
+	\item \lan{Sila} (\M): Silas, Saul
+	\item \lan{Simón} (\M): Simon
+	\item \lan{Sophia} (\F): Sophia
+	\item \lan{Stephanos} (\M): Stephen, Steven
+	\item \lan{Theodoros} (\M): Theodore
+	\item \lan{Theodosios, -sia} (\M, \F): Theodosius; Theodosia
+	\item \lan{Theophilos} (\M): Theophilus
+	\item \lan{Thoma} (\M): Thomas
+	\item \lan{Timotheos} (\M): Timothy
+	\item \lan{Titos} (\M): Titus
+	\item \lan{Tobia} (\M): Tobias
+	\item \lan{Valentínos} (\M): Valentinus
+	\item \lan{Valerios, -ria} (\M, \F): Valerius; Valeria
+	\item \lan{Victor} (\M): Victor
+	\item \lan{Vilmos} (\M): William, Guillermo, Wilhelm
+	\item \lan{Xavier} (\M): Javier, Xavier
+\end{itemize}
+\end{multicols}
+
+
+
+
+\end{appendices}
 
 \end{document}

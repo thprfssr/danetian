@@ -1409,6 +1409,12 @@
     - typ: n
       def: semen
 
+- key: samenjeti
+  ety: From Dan. \ipa{seman}
+  content:
+    - typ: v
+      def: to plant
+
 - key: sals
   acc-sg: salam
   ety: From PIE \ipa{*séh₂ls}
@@ -6314,7 +6320,7 @@
       def: Abraham
 
 - key: Edém
-  ety: From Gr. \gr{Εδέμ}
+  ety: From AG \gr{Εδέμ}
   content:
     - typ: m
       def: Eden, Garden of Eden
@@ -9783,3 +9789,8 @@
   content:
     - typ: f
       def: prosperity, success
+
+- key: paradísos
+  content:
+    - typ: m
+      def: paradise

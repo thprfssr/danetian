@@ -115,7 +115,7 @@ with the \textit{centum} languages.
 \INCOMPLETE
 
 
-\chapter{Types of sounds}
+\chapter{Phonology}
 
 \section{Consonants}
 
@@ -217,68 +217,17 @@ based on their regional accent, so the following points are merely a guideline.
 
 %\chapter{Phonotactics}
 
-\chapter{Orthography}
-
-Danetian orthography uses all 26 letters of the international Latin alphabet.
-Most of the letters follow the International Phonetic Alphabet closely. The
-exceptions are summarized in the table below, along with other remarks.
-
-\begin{multicols}{2}
-\begin{itemize}
-	\item \ipa{⟨c⟩: /k/} always
-	\item \ipa{⟨g⟩: /g/} always
-	\item \ipa{⟨h⟩: /x/}
-	\item \ipa{⟨nj⟩: /ɲ/}
-	\item \ipa{⟨t⟩: /t/} always
-	\item \ipa{⟨qu⟩: /kw/}
-	\item \ipa{⟨w⟩: /v/}
-	\item \ipa{⟨x⟩: /ks/}
-	\item \ipa{⟨y⟩: /i/}
-	\item \ipa{⟨ch⟩: /x/} always
-	\item \ipa{⟨ph⟩: /f/}
-	\item \ipa{⟨th⟩: /t/}
-\end{itemize}
-\end{multicols}
-
-\section{Orthographic rules for stress}
-
-Danetian has a stress accent, much like Modern Greek, Spanish, and Russian.
-Every word has exactly one stressed syllable, pronounced stronger than the
-other syllables. Only the last three syllables of a word have the possibility
-of carrying stress, much like in Modern Greek.
-
-In writing, the stress is marked by an acute accent, as in
-\lan{natúra} \ipa{[na'tu.ɾa]} \qt{nature},
-or it can simply be inferred, as in
-\lan{anapreseti} \ipa{[a.na'prɛ.ze.ti]} \qt{he prays}.
-The orthographic rules for denoting stress are the following:
-\begin{enumerate}
-	\item Stress can only fall in the last three syllables.
-	\item If stress is unmarked in writing, then it is assumed that it
-		falls as far back as it can. Compare
-		\lan{danetiska} \ipa{[da'ne.tis.ka]} \qt{Danetian language},
-		\lan{bena} \ipa{['bɛ.na]} \qt{woman},
-		\lan{en} \ipa{['ɛn]} \qt{in}.
-	\item ... unless it ends in a consonant grapheme other than
-		\ipa{⟨m⟩}, \ipa{⟨n⟩}, \ipa{⟨s⟩}, or \ipa{⟨t⟩}, in which case
-		it is assumed that the stress falls 
-\end{enumerate}
-
-\INCOMPLETE
 
 
-
-\chapter{Writing system}
+\section{Writing system}
 
 Danetian orthography makes the language look just like any other European
 language. The writing system uses the 26 letters of the standard Latin
 alphabet, along with the accute accent (\lan{áéíóúý}) and a couple of
 digraphs.
 
-\section{Letters}
-
 Most letters in the Danetian alphabet represent a single sound. The table
-below sumarizes the names of every letter, and their phonemic value.
+below sumarizes the names of every letter, and the phonemic value.
 
 \begin{center}
 \begin{tabular}{c|cc}
@@ -317,12 +266,101 @@ below sumarizes the names of every letter, and their phonemic value.
 
 The letter \ipa{⟨c⟩} always sounds like a hard \ipa{/k/}, and
 is never palatalized as it is in other European languages. The letter
-\ipa{⟨x⟩} sounds like /s/ at the beginning of a word (usually Greek loans).
+\ipa{⟨x⟩} sounds like /ʃ/ at the beginning of a word (usually Greek or Spanish
+loanwords).
 The letter \ipa{⟨y⟩} can take on a vocalic or consonantal value, depending on
 context, but it's very intuitive to figure out which one is the case.
 
+The native digraphs used are the following:
+\begin{itemize}
+	\item \ipa{⟨cj⟩}: \ipa{/tʃ/}
+	\item \ipa{⟨gj⟩}: \ipa{/dʒ/}
+	\item \ipa{⟨nj⟩}: \ipa{/ɲ/}
+	\item \ipa{⟨sj⟩}: \ipa{/ʃ/}
+\end{itemize}
 
-\chapter{Nominal Morphology}
+In addition to these native digraphs, Danetian also has Greco-Roman digraphs:
+\begin{itemize}
+	\item \ipa{⟨ch⟩}: \ipa{/x/}
+	\item \ipa{⟨ph⟩}: \ipa{/f/}
+	\item \ipa{⟨th⟩}: \ipa{/t/}
+\end{itemize}
+
+Moreover, if any extraneous Greek consonant cluster appears in the
+beginning of a word and cannot be pronounced, such as
+\ipa{⟨pt⟩}, \ipa{⟨pn⟩}, \ipa{⟨ps⟩}, or any of the like,
+then the first consonant is assumed to be silent. Examples:
+\begin{itemize}
+	\item \lan{psycha} \ipa{/'si.xa/} \qt{soul}
+	\item \lan{pneumonia} \ipa{/new.mo'ni.a/} \qt{pneumonia}
+	\item \lan{Ptolemaios} \ipa{/to.le'ma.jos/} \qt{Ptolemy}
+\end{itemize}
+
+
+
+\section{Stress}
+
+Danetian has a stress accent, much like Modern Greek, Spanish, and Russian.
+Every word has exactly one stressed syllable, pronounced stronger than the
+rest. By the nature of the language, the stressed syllable is restricted to be
+either
+\begin{itemize}
+	\item the last syllable, in which case the word is called oxytone; or
+	\item the penultimate syllable, in which case the word is called
+		paroxytone; or finally
+	\item the antepenultimate syllable, in which case the word is called
+		proparoxytone.
+\end{itemize}
+
+In most words, the stress falls as further back as it can. For example, in
+\lan{respublica}, \qt{republic}, the \lan{-pu-} is stressed; but in
+\lan{respublicamos}, \qt{of the republics}, the \lan{-bli-} is stressed,
+because that's as far back as the stress can fall.
+
+In writing, the stress is marked by an acute accent, as in
+\lan{natúra} \ipa{[na'tu.ɾa]} \qt{nature},
+or it can simply be inferred, as in
+\lan{anapreseti} \ipa{[a.na'prɛ.ze.ti]} \qt{he prays}. In order to determine
+which words should be marked and which ones should be unmarked, we lay down the
+following rules:
+\begin{enumerate}
+	\item In an unmarked word that ends in a vowel, or a vowel plus
+		\lan{-m}, \lan{-n}, \lan{-s}, or \lan{-t}, the stress falls
+		on the antepenultimate orthographic
+		\textit{vowel} (not syllable) if it can,
+		or as far back as possible if the word is shorter.
+		\subitem \lan{viros} \ipa{/'vi.ros/} \qt{man}
+		\subitem \lan{bena} \ipa{/'be.na/} \qt{woman}
+		\subitem \lan{donom} \ipa{/'do.nom} \qt{gift}
+		\subitem \lan{praman} \ipa{/'pra.man/} \qt{beginning}
+		\subitem \lan{vepti} \ipa{/'vep.ti} \qt{he speaks}
+		\subitem \lan{ministeriom} \ipa{/mi.nis'te.rjom/} \qt{ministry}
+		\subitem \lan{Mercurios} \ipa{/mer'ku.rjos/} \qt{Mercury}
+		\subitem \lan{Demetrios} \ipa{/de'me.trjos/} \qt{Dmitri}
+	\item Unmarked words that end in \lan{-ia} constitute an exception to
+		the previous rule. In these words, the stress falls on the
+		\lan{i}.
+		\subitem \lan{Anastasia} \ipa{/a.nas.ta'si.a/} \qt{Anastasia}
+		\subitem \lan{vidia} \ipa{/vi'di.a/} \qt{wisdom}
+		\subitem \lan{rodia} \ipa{/ro'di.a/} \qt{law}
+	\item If an unmarked word ends in a consonant other than
+		\lan{-m}, \lan{-n}, \lan{-s}, or \lan{-t}, then the stress
+		falls on the last syllable.
+		\subitem \lan{Daniel} \ipa{/da'njel/} \qt{Daniel}
+		\subitem \lan{Gabriel} \ipa{/ga'brjel/} \qt{Gabriel}
+		\subitem \lan{Sadok} \ipa{/sa'dok/} \qt{Zadok} (Biblical name)
+		\subitem \lan{Achaz} \ipa{/a'xaz/} \qt{Ahaz} (Biblical name)
+	\item In an unmarked word, if these previous rules result in the
+		a hiatus after the stressed vowel or possibly including it,
+		then the stress is moved to the vowel immediately following.
+		\subitem \lan{Joanna} \ipa{/jo'a.na/} \qt{John}
+		\subitem \lan{Andrea} \ipa{/an'dre.a/} \qt{Andrew}
+\end{enumerate}
+
+
+
+
+\chapter{Nominal morphology}
 
 \section{General properties}
 
@@ -1105,7 +1143,7 @@ a noun phrase, forming a numeral phrase as a whole.
 \subsection{One}
 \label{sec:one}
 
-The numeral for $1$ is \lan{oinos}, and it is the only cardinal that can be
+The numeral for 1 is \lan{oinos}, and it is the only cardinal that can be
 both singular and plural. It inflects just like a regular adjective.
 
 \begin{center}
@@ -1144,7 +1182,7 @@ number, and case of the noun phrase that it governs.
 \subsection{Two, three, and four}
 \label{sec:two-three-and-four}
 
-The cardinals for $2$, $3$, and $4$ are \lan{dvo}, \lan{tres}, and
+The cardinals for 2, 3, and 4 are \lan{dvo}, \lan{tres}, and
 \lan{petvóres}, respectively. They are all similar because they all inflect
 according to the three genders, and they're all inherently plural.
 
@@ -1197,7 +1235,7 @@ the case of their noun phrase.
 \subsection{Five to nineteen}
 \label{sec:five-to-nineteen}
 
-The cardinals $5-19$ inflect according to case, but not gender.
+The cardinals 5-19 inflect according to case, but not gender.
 Moreover, they're all inherently plural, so the noun phrase that they govern
 must also be plural. However, they may not necessarily agree with the case of
 the noun phrase. Case agreement follows a simple set of rules, discussed in
@@ -1235,7 +1273,7 @@ section \ref{sec:case-agreement-for-simple-cardinals}.
 \end{tabular}
 \end{center}
 
-The cardinals $11-19$ inflect just like \textit{desam}, so it is not
+The cardinals 11-19 inflect just like \textit{desam}, so it is not
 necessary to show their inflection tables.
 \begin{multicols}{2}
 \begin{itemize}
@@ -1254,7 +1292,7 @@ necessary to show their inflection tables.
 \subsection{Simple cardinals beyond twenty}
 \label{sec:simple-cardinals-beyond-twenty}
 
-Every simple cardinal $20$ and above inflects like any Danetian noun. They're
+Every simple cardinal 20 and above inflects like any Danetian noun. They're
 all inherently plural, so the noun phrase that they govern must also be in the
 plural. However, they may not necessarily agree in case; the case agreement
 rules are discussed in section \ref{sec:case-agreement-for-simple-cardinals}.
@@ -1273,7 +1311,7 @@ rules are discussed in section \ref{sec:case-agreement-for-simple-cardinals}.
 \end{itemize}
 \end{multicols}
 
-The simple cardinals between $20$ and $90$ inflect like a consonantal-stem
+The simple cardinals between 20 and 90 inflect like a consonantal-stem
 noun, with the caveat that they're always in the singular.
 The numerals \lan{satón} and \lan{tusontis} inflect like a consonantal-stem and
 \lan{i}-stem noun, respectively, and they can be either singular or plural.
@@ -1282,11 +1320,11 @@ The numerals \lan{satón} and \lan{tusontis} inflect like a consonantal-stem and
 \label{sec:case-agreement-for-simple-cardinals}
 
 As we saw in sections \ref{sec:one} and \ref{sec:two-three-and-four}, the
-cardinals $1-4$ must agree with the gender, number, and case of the noun phrase
-that they govern. Of course, the numerals $2-4$ are inherently plural, so the
+cardinals 1-4 must agree with the gender, number, and case of the noun phrase
+that they govern. Of course, the numerals 2-4 are inherently plural, so the
 noun phrase must be cast into the plural.
 
-However, the simple cardinals greater than or equal to $5$ follow a slightly
+However, the simple cardinals greater than or equal to 5 follow a slightly
 more complicated set of rules:
 \begin{enumerate}[i]
 	\item The case of the cardinal determines the case of the entire
@@ -1641,7 +1679,8 @@ Verbs inflect according to the following categories:
 \end{itemize}
 
 The starting point for analyzing the morphology of Danetian verbs is the
-stem. The endings appended at the end of the verb stem mark the different
+stem. The different endings appended at the end of the
+verb stem mark the different
 inflections of the verb. If the endings are appended directly after a
 consonant, as in \lan{vepti}, then the verb is called \textit{athematic}. But
 if an intervening vowel is placed between the stem and the ending, as in
@@ -1652,6 +1691,9 @@ person singular, continuing the tradition of Proto-Indo-European.
 
 \section{Thematic verbs}
 \label{sec:thematic-verbs}
+
+Thematic verbs are divided into three inflectional
+classes for convenience: T1, T2, and T3.
 
 \subsection{Class T1}
 
@@ -1748,6 +1790,9 @@ The conjugation of class T3 verbs is exemplified in the table below.
 
 
 \section{Athematic verbs}
+
+Athematic verbs are divided into two inflectional classes for convenience:
+A1 and A2.
 
 \subsection{Class A1}
 
@@ -1858,45 +1903,119 @@ Several tables of irregular verbs are provided as reference.
 \label{sec:copula-omission}
 
 The copula can be optionally omitted if it is in the present tense.
-\begin{itemize}
-	\item \lan{Aicaterina en Gallí.}
-		(Catherine [is] in France).
-	\item \lan{Petros mechaniskos insjenier.}
-		(Peter [is] a mechanical engineer).
-	\item \lan{Nestor i Antonios physicoi.}
-		(Nestor and Anthony [are] physicists).
-	\item \lan{Benjamín viros, de Alexandra bena.}
-		(Benjamin [is] a man, and Alexandra [is] a woman).
-\end{itemize}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Aicaterína}
+	\lan{en}
+	\lan{Gallí}. \\
+	Catherine in France-{\Loc} \\
+	\glt Catherine is in France.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Petros}
+	\lan{mechaniskos}
+	\lan{insjenier}. \\
+	Peter mechanical engineer \\
+	\glt Peter is a mechanical engineer.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Nestor}
+	\lan{i}
+	\lan{Antonios}
+	\lan{physicoi}. \\
+	Nestor and Anthony physicists \\
+	\glt Nestor and Anthony are physicists.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Benjamín}
+	\lan{viros}
+	\lan{de}
+	\lan{Alexandra}
+	\lan{bena}. \\
+	Benjamin man and Alexandra woman \\
+	\glt Benjamin is a man, and Alexandra is a woman.
+\end{exe}
 
 If it's not in the present tense, then the copula can still be omitted,
-provided that it was used in the same tense in a previous sentence. This way,
-the tense of the copula is understood from context.
-\begin{itemize}
-	\item \lan{En prameni but Verdom, da Verdom opi Divosjo, da Divos
-		Verdom.}
-		(In the beginning was the Word, and the Word [was] with God,
-		and the Word [was] God).
-\end{itemize}
+provided that it was used in the previous sentence. This way,
+the tense of the omitted copula is inferred from the copula in the previous
+sentence.
 
-
+\begin{exe}
+	\ex
+	\gll
+	\lan{En}
+	\lan{prameni}
+	\lan{but}
+	\lan{Verdom},
+	\lan{da}
+	\lan{Verdom}
+	\lan{opi}
+	\lan{Divosjo},
+	\lan{da}
+	\lan{Divos}
+	\lan{Verdom}. \\
+	in beginning-{\Loc} was word and word next-to God-{\Gen} and
+	God word \\
+	\glt In the beginning was the Word, and the Word was with God, and the
+	Word was God.
+\end{exe}
 
 \section{Possession}
 
 Unlike most European languages, Danetian does not typically use a verb
 \textit{to have} to express possession. Rather, it uses a grammatical
 construction: Possessor-{\Dat} copula object-{\Nom}.
-\begin{itemize}
-	\item Medjo iti estin rufra automobilis.
-		(I will have a red car).
-	\item Petroi i Nestorei esti bibliom physicas.
-		(Peter and Nestor have a physics book).
-	\item Aicaterinai bunt tres bles.
-		(Catherine had three apples).
-\end{itemize}
 
-Of course, the copula can also be omitted according to the rules in section
-\ref{sec:copula-omission}.
+\begin{exe}
+	\ex
+	\gll
+	\lan{Medjo}
+	\lan{iti}
+	\lan{sonts}
+	\lan{rufros}
+	\lan{automobilis}. \\
+	me-{\Dat} it-goes being-{\M} red-{\M} automobile-{\M} \\
+	\glt I will have a red car.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Petroi}
+	\lan{i}
+	\lan{Nestorei}
+	\lan{esti}
+	\lan{bibliom}
+	\lan{physicas}. \\
+	Peter-{\Dat} and Nestor-{\Dat} is book physics-{\Gen}. \\
+	\glt Peter and Nestor have a physics book.
+\end{exe}
+
+\begin{exe}
+	\ex
+	\gll
+	\lan{Aicaterínai}
+	\lan{bunt}
+	\lan{tres}
+	\lan{bles}. \\
+	Catherine-{\Dat} had three apples \\
+	\glt Catherine had three apples.
+\end{exe}
+
+Of course, the copula can be omitted according to the
+rules in section \ref{sec:copula-omission}.
 
 \chapter{Time expressions}
 

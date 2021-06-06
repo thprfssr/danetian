@@ -2,11 +2,11 @@ all:
 	make tables
 	make grammar.pdf
 
-compiled/%.table: verbs/%.yaml
+compiled/%.table: verbs/%.yaml parse.py template.latex.liquid
 	python parse.py $< template.latex.liquid > $@
 
 .PHONY: tables
-tables: parse.py
+tables:
 	make compiled/bideti.table
 	make compiled/bloti.table
 	make compiled/denati.table
@@ -17,7 +17,10 @@ tables: parse.py
 	make compiled/iti.table
 	make compiled/jekti.table
 	make compiled/linepti.table
+	make compiled/lufjeti.table
 	make compiled/merti.table
+	make compiled/stati.table
+	make compiled/sontieti.table
 	make compiled/vepti.table
 	make compiled/vopeti.table
 

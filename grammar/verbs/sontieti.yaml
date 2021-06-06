@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - sontío
+      - sontíesi
+      - sontíeti
+      - sontíomos
+      - sontíete
+      - sontíonti
+    imperfect:
+      - sontíom
+      - sontíes
+      - sontíet
+      - sontíome
+      - sontíete
+      - sontíont
+    perfect:
+      - sesontíom
+      - sesontíes
+      - sesontíet
+      - sesontíome
+      - sesontíete
+      - sesontíont
+  subjunctive:
+    present:
+      - sontím
+      - sontís
+      - sontít
+      - sontíme
+      - sontíte
+      - sontínt
+    perfect:
+      - sesontím
+      - sesontís
+      - sesontít
+      - sesontíme
+      - sesontíte
+      - sesontít
+  imperative:
+    present:
+      - sontíe
+      - sontíete
+    perfect:
+      - sesontíe
+      - sesontíete
+  participle:
+    present: sontíonts
+    perfect: sesontivés
+  infinitive:
+    present: sontíetin
+    perfect: sesontíetin
+mediopassive:
+  indicative:
+    present:
+      - sontíar
+      - sontíetar
+      - sontíetor
+      - sontímosda
+      - sontídave
+      - sontíontor
+    imperfect:
+      - sontía
+      - sontíeta
+      - sontíeto
+      - sontímeda
+      - sontídave
+      - sontíonto
+    perfect:
+      - sesontía
+      - sesontíeta
+      - sesontíeto
+      - sesontímeda
+      - sesontídave
+      - sesontínto
+  subjunctive:
+    present:
+      - sontí
+      - sontíta
+      - sontíto
+      - sontímeda
+      - sontídave
+      - sontínto
+    perfect:
+      - sesontí
+      - sesontíta
+      - sesontíto
+      - sesontímeda
+      - sesontídave
+      - sesontínto
+  imperative:
+    present:
+      - sontíeso
+      - sontídave
+    perfect:
+      - sesontíeso
+      - sesontídave
+  participle:
+    present: sontíomnos
+    perfect: sesontíomnos
+  infinitive:
+    present: sontíemin
+    perfect: sesontíemin

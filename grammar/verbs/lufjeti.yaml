@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - lufjo
+      - lufjesi
+      - lufjeti
+      - lufjomos
+      - lufjete
+      - lufjonti
+    imperfect:
+      - lufjom
+      - lufjes
+      - lufjet
+      - lufjome
+      - lufjete
+      - lufjont
+    perfect:
+      - lelufjom
+      - lelufjes
+      - lelufjet
+      - lelufjome
+      - lelufjete
+      - lelufjont
+  subjunctive:
+    present:
+      - lufím
+      - lufís
+      - lufít
+      - lufíme
+      - lufíte
+      - lufínt
+    perfect:
+      - lelufím
+      - lelufís
+      - lelufít
+      - lelufíme
+      - lelufíte
+      - lelufínt
+  imperative:
+    present:
+      - lufje
+      - lufjete
+    perfect:
+      - lelufje
+      - lelufjete
+  participle:
+    present: lufjonts
+    perfect: lelufjovés
+  infinitive:
+    present: lufjetin
+    perfect: lelufjetin
+mediopassive:
+  indicative:
+    present:
+      - lúfjar
+      - lúfjetar
+      - lúfjetor
+      - lufjomosda
+      - lufjedave
+      - lúfjontor
+    imperfect:
+      - lufja
+      - lufjeta
+      - lufjeto
+      - lufjomeda
+      - lufjedave
+      - lufjonto
+    perfect:
+      - lelufja
+      - lelufjeta
+      - lelufjeto
+      - lelufjomeda
+      - lelufjedave
+      - lelufjonto
+  subjunctive:
+    present:
+      - lufí
+      - lufíta
+      - lufíto
+      - lufímeda
+      - lufídave
+      - lufínto
+    perfect:
+      - lelufí
+      - lelufíta
+      - lelufíto
+      - lelufímeda
+      - lelufídave
+      - lelufínto
+  imperative:
+    present:
+      - lufjeso
+      - lufjedave
+    perfect:
+      - lelufjeso
+      - lelufjedave
+  participle:
+    present: lufjomnos
+    perfect: lelufjomnos
+  infinitive:
+    present: lufjemin
+    perfect: lelufjemin

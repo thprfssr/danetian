@@ -50,7 +50,8 @@
 \newleipzig{Uni}{uni}{universal}
 \newleipzig{Exist}{exist}{existential}
 \newleipzig{Impf}{impf}{imperfect}
-
+\newleipzig{Plup}{plup}{pluperfect}
+\newleipzig{V}{v}{verb}
 
 \begin{document}
 \frontmatter
@@ -58,9 +59,6 @@
 \tableofcontents
 \printglossaries
 \mainmatter
-
-
-
 
 \chapter*{Introduction}
 
@@ -1594,186 +1592,196 @@ Verbs inflect according to the following categories:
 	\item \textbf{person}: first, second, third
 	\item \textbf{number}: singular, plural
 	\item \textbf{mood}: indicative, subjunctive, imperative
-	\item \textbf{voice}: active, passive
+	\item \textbf{voice}: active, mediopassive
 	\item \textbf{aspect}: perfective, imperfective
 \end{itemize}
 
-\section{Copula}
+The starting point for analyzing the morphology of Danetian verbs is the
+stem. The endings appended at the end of the verb stem mark the different
+inflections of the verb. If the endings are appended directly after a
+consonant, as in \lan{vepti}, then the verb is called \textit{athematic}. But
+if an intervening vowel is placed between the stem and the ending, as in
+\lan{vopeti}, then the verb is called \textit{thematic}.
 
-The copula (the verb \qt{to be}) can be omitted in the present tense.
-Its conjugation is shown in the table below.
-
-\INCOMPLETE
-
-\input{compiled/esti-be.table}
+In the dictionary, verbs are placed in the active indicative present third
+person singular, continuing the tradition of Proto-Indo-European.
 
 \section{Thematic verbs}
+\label{sec:thematic-verbs}
 
-\INCOMPLETE
+\subsection{Class T1}
 
+The following are examples of class T1 verbs.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{anapreseti} (\V): to pray
+	\item \lan{anasedeti} (\V): to be victorious over
+	\item \lan{bereti} (\V): to carry
+	\item \lan{drageti} (\V): to drag
+	\item \lan{flugeti} (\V): to fly
+	\item \lan{lekseti} (\V): to protect
+	\item \lan{preseti} (\V): to ask, to question
+	\item \lan{somjugeti} (\V): to unite, to gather
+	\item \lan{sugeti} (\V): to sow
+	\item \lan{tendeti} (\V): to stretch, to extend
+	\item \lan{trosbereti} (\V): to finish, to complete
+	\item \lan{verteti} (\V): to turn over; to spin
+	\item \lan{vopeti} (\V): to call
+\end{itemize}
+\end{multicols}
+
+We choose \lan{vopeti} as a model verb for the inflection table below.
 \input{compiled/vopeti.table}
+
+\subsection{Class T2}
+
+The following are examples of class T2 verbs.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{gladjeti} (\V): to make happy, to satisfy
+	\item \lan{lufjeti} (\V): to love
+	\item \lan{numenjeti} (\V): to breathe
+	\item \lan{opigladjeti} (\V): to comfort, to console
+	\item \lan{opisagjeti} (\V): to celebrate
+	\item \lan{pekaputjeti} (\V): to lead
+	\item \lan{pemanjeti} (\V): to remind; to remember
+	\item \lan{pisjeti} (\V): to write
+	\item \lan{protislabjeti} (\V): to understand
+	\item \lan{sagjeti} (\V): to mark, to signify
+	\item \lan{satjeti} (\V): to place down
+	\item \lan{slabjeti} (\V): to take
+	\item \lan{vardjeti} (\V): to work
+	\item \lan{vedenjeti} (\V): to water (plants)
+	\item \lan{vojasjeti} (\V): to travel
+\end{itemize}
+\end{multicols}
+
+The inflection table for class T2 verbs is shown below.
+\input{compiled/lufjeti.table}
+
+\textit{Note:} There are four sounds that are prone to yod-coalescence:
+\begin{itemize}
+	\item \lan{k + j = cj}
+	\item \lan{g + j = gj}
+	\item \lan{n + j = nj}
+	\item \lan{s + j = sj}
+\end{itemize}
+
+In verbs whose stems end in one of these four palatal sounds, when an ending
+such as \lan{-íte} is appended, the palatal sound remains. For example,
+contrast the following two examples:
+\begin{itemize}
+	\item \lan{lufj- + -íte = lufíte}
+	\item \lan{sagj- + -íte = sagjíte}
+\end{itemize}
+Notice that the orthographic \lan{j} is preserved in the second example, but
+not the first.
+
+
+\subsection{Class T3}
+
+Below are some examples of class T3 verbs.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{anapelvíeti} (\V): to multiply
+	\item \lan{artíeti} (\V): to taunt, to provoke
+	\item \lan{atifestríeti} (\V): to shape
+	\item \lan{augíeti} (\V): to show, to display
+	\item \lan{bredíeti} (\V): to roam, to wander freely
+	\item \lan{donfíeti} (\V): to count
+	\item \lan{garaidíeti} (\V): to prepare, to make ready
+	\item \lan{opisvomíeti} (\V): to set free
+	\item \lan{pleníeti} (\V): to fill
+	\item \lan{potíeti} (\V): to govern
+	\item \lan{sontíeti} (\V): to send
+	\item \lan{svenjíeti} (\V): to sanctify
+	\item \lan{vesverdíeti} (\V): to bless
+\end{itemize}
+\end{multicols}
+
+The conjugation of class T3 verbs is exemplified in the table below.
+\input{compiled/sontieti.table}
+
 
 \section{Athematic verbs}
 
-\INCOMPLETE
+\subsection{Class A1}
+
+Class A1 encompasses thematic verbs that end in \lan{-mi} in the
+first person present, like \lan{denati}. These verbs are grouped with athematic
+verbs because the endings are identical to athematic verbs, and distinct from
+all the thematic verbs discussed in section \ref{sec:thematic-verbs}. Some
+examples of A1 verbs are:
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{airáti} (\V): to protect
+	\item \lan{andjóti} (\V): to end, to finish
+	\item \lan{armáti} (\V): to pity
+	\item \lan{arnóti} (\V): to harvest, to reap
+	\item \lan{badóti} (\V): to frighten
+	\item \lan{bloti} (\V): to bloom
+	\item \lan{futi} (\V): to run
+	\item \lan{groti} (\V): to grow
+	\item \lan{opistanati} (\V): to remain
+	\item \lan{piboti} (\V): to drink
+	\item \lan{pluti} (\V): to rain
+	\item \lan{stati} (\V): to stand
+	\item \lan{trostanati} (\V): to persevere
+\end{itemize}
+\end{multicols}
+
+The inflection table for these verbs is shown below.
+\input{compiled/stati.table}
+
+\textit{Note:} For verbs in this class, the stress \textit{always} falls on the
+stem whenever reduplication happens. For example, we say \lan{fefút} instead of
+\lan{fefut}; \lan{gegróme} instead of \lan{gegrome}; \lan{sestáte} instead of
+\lan{sestate}; and so on.
+
+
+\subsection{Class A2}
+
+This class includes regular athematic verbs, such as the ones below.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{dukti} (\V): to pull
+	\item \lan{fekti} (\V): to do; to put
+	\item \lan{merti} (\V): to die
+	\item \lan{vepti} (\V): to speak, to say
+\end{itemize}
+\end{multicols}
+
+As can be seen, this class is very small, and only includes relic verbs. The
+inflection table is shown below.
+\input{compiled/merti.table}
 
 \section{Irregular verbs}
 
-There are only a handful of irregular verbs in Danetian.
+All verbs discussed so far have been regular. Irregular verbs are classified
+separately, and must be memorized one by one. They are listed below.
+\begin{multicols}{2}
+\begin{itemize}
+	\item \lan{doti} (\V): to give
+	\item \lan{esti} (\V): to be
+	\item \lan{esti} (\V): to eat
+	\item \lan{iti} (\V): to go
+	\item \lan{linepti} (\V): to leave
+	\item \lan{opíti} (\V): to come
+	\item \lan{proíti} (\V): to occur, to pass
+	\item \lan{upoíti} (\V): to descend
+\end{itemize}
+\end{multicols}
 
-\INCOMPLETE
+The conjugations for \lan{opíti}, \lan{proíti}, and \lan{upoíti} are identical
+to that of \lan{iti}, because they are derived from it.
 
+Several tables of irregular verbs are provided as reference.
+
+\input{compiled/esti-be.table}
 \input{compiled/iti.table}
 \input{compiled/doti.table}
 \input{compiled/esti-eat.table}
-
-
-
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{veponts}} & \multicolumn{3}{c}{\lan{vepsei}} \\
-	Perfect & \multicolumn{3}{c}{\lan{ukvés}} & \multicolumn{3}{c}{\lan{uksei}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{vemmi} & \lan{vepsi} & \lan{vepti} & \lan{vemmos} & \lan{vepte} & \lan{vepanti} \\
-	Imperfect & \lan{vepam} & \lan{veps} & \lan{vept} & \lan{vemme} & \lan{vepte} & \lan{vepant} \\
-	Perfect & \lan{ukom} & \lan{ukes} & \lan{uket} & \lan{ukome} & \lan{ukete} & \lan{ukont} \\
-	\hline
-	Present & \lan{ucjém} & \lan{ucjés} & \lan{ucjét} & \lan{ukíme} & \lan{ukíte} & \lan{ukínt} \\
-	Perfect & \lan{ukojam} & \lan{ukois} & \lan{ukoit} & \lan{ukoime} & \lan{ukoite} & \lan{ukojant} \\
-	\hline
-	Present & - & \lan{vep} & - & - & \lan{vepte} & - \\
-	Perfect & - & \lan{uke} & - & - & \lan{ukete} & - \\
-	\hline\hline
-	\multicolumn{7}{c}{MEDIOPASSIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{vepamnos}} & \multicolumn{3}{c}{\lan{vemmenai}} \\
-	Perfect & \multicolumn{3}{c}{\lan{ukomnos}} & \multicolumn{3}{c}{\lan{ukomenai}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{vepar} & \lan{veptar} & \lan{veptor} & \lan{vemmosda} & \lan{veddave} & \lan{vepantor} \\
-	Imperfect & \lan{vepa} & \lan{vepta} & \lan{vepto} & \lan{vemmeda} & \lan{veddave} & \lan{vepanto} \\
-	Perfect & \lan{uka} & \lan{uketa} & \lan{uketo} & \lan{ukomeda} & \lan{ukedave} & \lan{ukonto} \\
-	\hline
-	Present & \lan{vepí} & \lan{vepíta} & \lan{vepíto} & \lan{vepímeda} & \lan{vepídave} & \lan{vepínto} \\
-	Perfect & \lan{ukoja} & \lan{ukoita} & \lan{ukoito} & \lan{ukoimeda} & \lan{ukoidave} & \lan{ukojanto} \\
-	\hline
-	Present & - & \lan{vepso} & - & - & \lan{veddave} & - \\
-	Perfect & - & \lan{ukeso} & - & - & \lan{ukedave} & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
-
-
-
-\begin{center}
-\footnotesize
-\begin{tabular}{l|llllll}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{vidonts}} & \multicolumn{3}{c}{\lan{vinsei}} \\
-	Perfect & \multicolumn{3}{c}{\lan{vidvés}} & \multicolumn{3}{c}{\lan{visei}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{voida} & \lan{voista} & \lan{voide} & \lan{vidme} & \lan{vide} & \lan{vider} \\
-	Imperfect & \lan{vinem} & \lan{vines} & \lan{vinet} & \lan{vinome} & \lan{vinete} & \lan{vinont} \\
-	Perfect & \lan{videm} & \lan{vides} & \lan{videt} & \lan{vidome} & \lan{videte} & \lan{vidont} \\
-	\hline
-	Present & \lan{vinjém} & \lan{vinjés} & \lan{vinjét} & \lan{viníme} & \lan{viníte} & \lan{vinínt} \\
-	Perfect & \lan{vidjém} & \lan{vidjés} & \lan{vidjét} & \lan{vidíme} & \lan{vidíte} & \lan{vidínt} \\
-	\hline
-	Present & - & \lan{vis} & - & - & \lan{viste} & - \\
-	Perfect & - & \lan{vid} & - & - & \lan{videte} & - \\
-	\hline\hline
-	\multicolumn{7}{c}{MEDIOPASSIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{vidamnos}} & \multicolumn{3}{c}{\lan{vinmenai}} \\
-	Perfect & \multicolumn{3}{c}{\lan{visamnos}} & \multicolumn{3}{c}{\lan{vismenai}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{vinar} & \lan{vintar} & \lan{vintor} & \lan{vinmosda} & \lan{vindave} & \lan{vinantor} \\
-	Imperfect & \lan{vina} & \lan{vinta} & \lan{vinto} & \lan{vinmeda} & \lan{vindave} & \lan{vinanto} \\
-	Perfect & \lan{visa} & \lan{vista} & \lan{visto} & \lan{vismeda} & \lan{visdave} & \lan{visanto} \\
-	\hline
-	Present & \lan{viní} & \lan{viníta} & \lan{viníto} & \lan{vinímeda} & \lan{vinídave} & \lan{vinínto} \\
-	Perfect & \lan{visí} & \lan{visíta} & \lan{visíto} & \lan{visímeda} & \lan{visídave} & \lan{visínto} \\
-	\hline
-	Present & - & \lan{vinso} & - & - & \lan{vindave} & - \\
-	Perfect & - & \lan{viso} & - & - & \lan{visdave} & - \\
-	\hline\hline
-\end{tabular}
-\end{center}
-
-
-
-\begin{center}
-\footnotesize
-\begin{tabularx}{\textwidth}{l|XXXXXX}
-	\hline\hline
-	\multicolumn{7}{c}{ACTIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{bidonts} & \multicolumn{3}{c}{bidesei} \\
-	Perfect & \multicolumn{3}{c}{befidés} & \multicolumn{3}{c}{befidesei} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{bido} & \lan{bidesi} & \lan{bideti} & \lan{bidomos} & \lan{bidete} & \lan{bidonti} \\
-	Imperfect & \lan{bidom} & \lan{bides} & \lan{bidet} & \lan{bidome} & \lan{bidete} & \lan{bidont} \\
-	Perfect & \lan{befidom} & \lan{befides} & \lan{befidet} & \lan{befidome} & \lan{befidete} & \lan{befidont} \\
-	\hline
-	Present & \lan{bidojam} & \lan{bidois} & \lan{bidoit} & \lan{bidoime} & \lan{bidoite} & \lan{bidojant} \\
-	Perfect & \lan{befidojam} & \lan{befidois} & \lan{befidoit} & \lan{befidoime} & \lan{befidoite} & \lan{befidojant} \\
-	\hline
-	Present & - & \lan{bide} & - & - & \lan{bidete} & - \\
-	Perfect & - & \lan{befide} & - & - & \lan{befidete} & - \\
-
-	\hline\hline
-	\multicolumn{7}{c}{MEDIOPASSIVE} \\
-	\hline\hline
-	~ & \multicolumn{3}{c}{Participle} & \multicolumn{3}{c}{Infinitive} \\
-	\hline
-	Present & \multicolumn{3}{c}{\lan{bidomnos}} & \multicolumn{3}{c}{\lan{bidomenai}} \\
-	Perfect & \multicolumn{3}{c}{\lan{befidomnos}} & \multicolumn{3}{c}{\lan{befidomenai}} \\
-	\hline\hline
-	~ & \lan{edo} & \lan{tu} & \lan{eno} & \lan{vi} & \lan{ju} & \lan{enoi} \\
-	\hline
-	Present & \lan{bidar} & \lan{bidetar} & \lan{bidetor} & \lan{bidomosda} & \lan{bidedave} & \lan{bidontor} \\
-	Imperfect & \lan{bida} & \lan{bideta} & \lan{bideto} & \lan{bidomeda} & \lan{bidedave} & \lan{bidonto} \\
-	Perfect & \lan{befida} & \lan{befideta} & \lan{befideto} & \lan{befidomeda} & \lan{befidedave} & \lan{befidonto} \\
-	\hline
-	Present & \lan{bidoja} & \lan{bidoita} & \lan{bidoito} & \lan{bidoimeda} & \lan{bidoidave} & \lan{bidojanto} \\
-	Perfect & \lan{befidoja} & \lan{befidoita} & \lan{befidoito} & \lan{befidoimeda} & \lan{befidoidave} & \lan{befidojanto} \\
-	\hline
-	Present & - & \lan{bideso} & - & - & \lan{bidedave} & - \\
-	Perfect & - & \lan{befideso} & - & - & \lan{befidedave} & - \\
-	\hline\hline
-\end{tabularx}
-\end{center}
-
-
-
-
-to throw: jek, jeks, jekt ime, ite, int
-
+\input{compiled/linepti.table}
 
 
 

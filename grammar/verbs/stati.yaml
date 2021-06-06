@@ -1,0 +1,102 @@
+active:
+  indicative:
+    present:
+      - stami
+      - stasi
+      - stati
+      - stamos
+      - state
+      - staanti
+    imperfect:
+      - stam
+      - stas
+      - stat
+      - stame
+      - state
+      - stant
+    perfect:
+      - sestám
+      - sestás
+      - sestát
+      - sestáme
+      - sestáte
+      - sestánt
+  subjunctive:
+    present:
+      - stajém
+      - stajés
+      - stajét
+      - staíme
+      - staíte
+      - staínt
+    perfect:
+      - sestajém
+      - sestajés
+      - sestajét
+      - sestaíme
+      - sestaíte
+      - sestaínt
+  imperative:
+    present:
+      - sta
+      - state
+    perfect:
+      - sesta
+      - sestate
+  participle:
+    present: stants
+    perfect: stavés
+  infinitive:
+    present: statin
+    perfect: sestatin
+mediopassive:
+  indicative:
+    present:
+      - star
+      - státar
+      - státor
+      - stamosda
+      - stadave
+      - stántor
+    imperfect:
+      - sta
+      - stata
+      - stato
+      - stameda
+      - stadave
+      - stanto
+    perfect:
+      - sestá
+      - sestáta
+      - sestáto
+      - sestameda
+      - sestadave
+      - sestánto
+  subjunctive:
+    present:
+      - staí
+      - staíta
+      - staíto
+      - staímeda
+      - staídave
+      - staínto
+    perfect:
+      - sestaí
+      - sestaíta
+      - sestaíto
+      - sestaímeda
+      - sestaídave
+      - sestaínto
+  imperative:
+    present:
+      - staso
+      - stadave
+    perfect:
+      - sestáso
+      - sestádave
+  participle:
+    present: stamanos
+    perfect: sestamanos
+  infinitive:
+    present: stamin
+    perfect: sestámin

@@ -1,24 +1,24 @@
 active:
   indicative:
     present:
-      - linemmi
+      - linemi
       - linepsi
       - linepti
-      - limmos
+      - limos
       - limpte
       - limpenti
     imperfect:
       - linepam
       - lineps
       - linept
-      - limme
+      - lime
       - limpte
       - limpent
     perfect:
       - lipam
       - lips
       - lipt
-      - limme
+      - lime
       - lipte
       - lipent
   subjunctive:
@@ -55,22 +55,22 @@ mediopassive:
       - límpar
       - límptar
       - límptor
-      - limmosda
-      - limpdave
+      - limosda
+      - lindave
       - límpantor
     imperfect:
       - limpa
       - limpta
       - limpto
-      - limmeda
-      - limpdave
+      - limeda
+      - lindave
       - limpanto
     perfect:
       - lipa
       - lipta
       - lipto
-      - limmeda
-      - lipdave
+      - limeda
+      - lidave
       - lipanto
   subjunctive:
     present:
@@ -90,13 +90,13 @@ mediopassive:
   imperative:
     present:
       - limpso
-      - limpdave
+      - lindave
     perfect:
       - lipso
-      - lipdave
+      - lidave
   participle:
-    present: limmanos
-    perfect: limmanos
+    present: limanos
+    perfect: limanos
   infinitive:
-    present: limmin
-    perfect: limmin
+    present: limin
+    perfect: limin

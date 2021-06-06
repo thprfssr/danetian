@@ -29,6 +29,16 @@
 	{%- for item in word.active.indicative.perfect -%}
 		& \mlan{ {{ item }} }
 	{%- endfor -%} \\\\
+	\Plup
+	& \multicolumn{6}{c}{
+	(active indicative perfect of \mlan{esti})
+	+ \mlan{ {{word.active.participle.perfect}} }
+	} \\\\
+	\Fut
+	& \multicolumn{6}{c}{
+	(active indicative present of \mlan{iti})
+	+ \mlan{ {{word.active.participle.present}} }
+	} \\\\
 	\midrule
 	\Prs
 	{%- for item in word.active.subjunctive.present -%}

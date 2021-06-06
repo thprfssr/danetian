@@ -15,8 +15,8 @@
 * II Redóm
 * III Redóm
 * IV Redóm
-* I Udmantimnóm
-* II Udmantimnóm
+* I Udlimanóm
+* II Udlimanóm
 * I Esdras
 * II Esdras
 * Tobia

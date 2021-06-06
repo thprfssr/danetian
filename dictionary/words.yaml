@@ -2479,8 +2479,14 @@
 - key: sonfis
   ety: From PIE \ipa{*som-dʰh₁-is}, from \ipa{*dʰeh₁-}
   content:
-    - typ: m
-      def: judge
+    - typ: f
+      def: destiny, fate, doom, fortune, predestination
+
+- key: sonfjos
+  ety: From Dan. \ipa{sonfis}
+  content:
+    - typ: f
+      def: fateful
 
 - key: posjolik
   ety: From a Turkic language; compare Uzbek \ipa{podsholik}
@@ -3369,7 +3375,7 @@
     - typ: m
       def: Thomas
 
-- key: Karlos
+- key: Carlos
   ety: From PG \ipa{*karlaz}
   cat: personal-names
   content:
@@ -4654,7 +4660,7 @@
     - typ: m
       def: Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
 
-- key: Joánna Karlos Frederik Gauss
+- key: Joánna Carlos Frederik Gauss
   cat: real-people
   content:
     - typ: m
@@ -7464,6 +7470,12 @@
     - typ: m
       def: Sunday
 
+- key: soliska
+  ety: From Dan. \ipa{din Soles}
+  content:
+    - typ: f
+      def: week
+
 - key: podi
   ety: From Dan. \ipa{po- + -di}. The suffix \ipa{-di} comes from PIE
     \ipa{*dʰi}
@@ -9287,6 +9299,12 @@
     - typ: f
       def: marriage, matrimony
 
+- key: damíeti
+  ety: From Dan. \ipa{damis}
+  content:
+    - typ: f
+      def: to marry
+
 - key: dambros
   ety: From PIE \ipa{*ǵm̥-rós}
   content:
@@ -9492,7 +9510,7 @@
     - typ: adj
       def: eighth
 
-- key: nevamos
+- key: nevanos
   content:
     - typ: adj
       def: ninth
@@ -9716,6 +9734,12 @@
     - typ: n
       def: beginning, start
 
+- key: pramenjeti
+  ety: From Dan. \ipa{praman}
+  content:
+    - typ: v
+      def: to start
+
 - key: espe
   ety: From PIE \ipa{*h₁éskʷe}
   content:
@@ -9733,3 +9757,10 @@
   content:
     - typ: conj
       def: but
+
+- key: spes
+  ety: From PIE \ipa{*spéh₁s}
+  inflection: III-C
+  content:
+    - typ: f
+      def: prosperity, success

@@ -1397,6 +1397,8 @@
   content:
     - typ: v
       def: to triumph, to be victorious over, to win
+  note: This verb is usually paired with \ipa{+ úper X}, to denote the
+    meaning of being victorious over something or someone.
 
 - key: seman
   parts: samens
@@ -2486,13 +2488,18 @@
     - typ: m
       def: kingdom
 
-- key: ullimmanos
+- key: udlimanos
   ety: From Dan. \ipa{linepti}
   content:
     - typ: adj
-      def: omitted; forgotten
+      def: omitted; left out
 
-- key: praisidents
+- key: linepti
+  content:
+    - typ: v
+      def: to leave
+
+- key: praisident
   ety: From Lat. \ipa{praesidēns}
   content:
     - typ: m
@@ -2721,7 +2728,7 @@
     - typ: prep
       def: (+abl) off, away, from
 
-- key: opiti
+- key: opíti
   ety: From Dan. \ipa{opi} and \ipa{iti}
   content:
     - typ: v
@@ -5870,8 +5877,8 @@
     - typ: f
       def: hair
 
-- key: pipoti
-  ety: From PIE \ipa{*píph₃eti}
+- key: piboti
+  ety: From PIE \ipa{*píph₃eti}, with dissimilation of the second \ipa{p}
   content:
     - typ: v
       def: to drink
@@ -8079,7 +8086,7 @@
     - typ: f
       def: song
 
-- key: proiti
+- key: proíti
   ety: From Dan. \ipa{pro- + iti}
   content:
     - typ: v
@@ -8127,7 +8134,7 @@
     - typ: f
       def: fight
 
-- key: upoiti
+- key: upoíti
   ety: From Dan. \ipa{upo- + iti}
   content:
     - typ: v
@@ -9378,7 +9385,7 @@
       def: older
 
 - key: anapelvíeti
-  ety: From Dan. \ipa{opi- + pelv- + -íeti}
+  ety: From Dan. \ipa{ana- + pelv- + -íeti}
   content:
     - typ: v
       def: to multiply
@@ -9421,7 +9428,7 @@
     - typ: m
       def: whale; cetacean
 
-- key: vesuverdíeti
+- key: vesverdíeti
   content:
     - typ: v
       def: to bless

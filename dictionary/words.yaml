@@ -1763,6 +1763,18 @@
     - typ: v
       def: to gather
 
+- key: jugeti
+  ety: From Dan. \ipa{jugos}
+  content:
+    - typ: v
+      def: to yoke
+
+- key: opjugeti
+  ety: From Dan. \ipa{opi + jugeti}
+  content:
+    - typ: v
+      def: to join together, to gather together
+
 - key: djolet
   ety: From a Turkic language; compare Uyghur \ipa{dölet} and Uzbek \ipa{davlat}
   content:
@@ -3094,6 +3106,13 @@
       def: to split
     - typ: v
       def: to separate, to divide
+
+- key: apobideti
+  parts: apobefideti
+  ety: From Dan. \ipa{apo + bideti}
+  content:
+    - typ: v
+      def: to divide, to separate
 
 - key: bideti²
   parts: befideti

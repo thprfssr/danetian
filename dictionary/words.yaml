@@ -3343,6 +3343,7 @@
   content:
     - typ: m
       def: Jacob, James, Jacques
+      tag: personal name
 
 - key: Joánna
   ety: From AG \gr{Ἰωάννης}
@@ -3350,6 +3351,7 @@
   content:
     - typ: m
       def: John
+      tag: personal name
 
 - key: Robértos
   ety: From Lat. \ipa{Robertus}
@@ -3357,6 +3359,7 @@
   content:
     - typ: m
       def: Robert
+      tag: personal name
 
 - key: Michael
   ety: From AG \gr{Μῐχᾱήλ}
@@ -3364,6 +3367,7 @@
   content:
     - typ: m
       def: Michael
+      tag: personal name
 
 - key: Vilmos
   ety: Ultimately from PG \ipa{*Wiljahelmaz}
@@ -3371,6 +3375,7 @@
   content:
     - typ: m
       def: William, Wilhelm, Guillermo, Guillaume
+      tag: personal name
 
 - key: David
   ety: From AG \gr{Δαυῑ́δ}
@@ -3378,6 +3383,7 @@
   content:
     - typ: m
       def: David
+      tag: personal name
 
 - key: Richardos
   ety: From Lat. \ipa{Richardus}
@@ -3385,6 +3391,7 @@
   content:
     - typ: m
       def: Richard, Ricardo
+      tag: personal name
 
 - key: Josephos
   ety: From Lat. \ipa{Iōsēphus}
@@ -3392,6 +3399,7 @@
   content:
     - typ: m
       def: Joseph, José
+      tag: personal name
 
 - key: Thoma
   ety: From AG \gr{Θωμᾶς}
@@ -3399,6 +3407,7 @@
   content:
     - typ: m
       def: Thomas
+      tag: personal name
 
 - key: Carlos
   ety: From PG \ipa{*karlaz}
@@ -3406,6 +3415,7 @@
   content:
     - typ: m
       def: Charles, Carlos
+      tag: personal name
 
 - key: Christophoros
   ety: From AG \gr{Χρῑστόφορος}
@@ -3413,6 +3423,7 @@
   content:
     - typ: m
       def: Christopher
+      tag: personal name
 
 - key: Daniel
   ety: From AG \gr{Δᾱνῑήλ}
@@ -3420,6 +3431,7 @@
   content:
     - typ: m
       def: Daniel
+      tag: personal name
 
 - key: Matthaios
   ety: From AG \gr{Ματθαῖος}
@@ -3427,6 +3439,7 @@
   content:
     - typ: m
       def: Matthew
+      tag: personal name
 
 - key: Antonios
   ety: From Lat. \ipa{Antonius}
@@ -3434,6 +3447,7 @@
   content:
     - typ: m
       def: Anthony
+      tag: personal name
 
 - key: Donald
   ety: From En. \ipa{Donald}
@@ -3441,6 +3455,7 @@
   content:
     - typ: m
       def: Donald
+      tag: personal name
 
 - key: Marcos
   ety: From Lat. \ipa{Marcus}
@@ -3448,6 +3463,7 @@
   content:
     - typ: m
       def: Mark
+      tag: personal name
 
 - key: Paulos
   ety: From Lat. \ipa{Paulus}
@@ -3455,6 +3471,7 @@
   content:
     - typ: m
       def: Paul
+      tag: personal name
 
 - key: Stephanos
   ety: From AG \gr{Στέφανος}
@@ -3462,6 +3479,7 @@
   content:
     - typ: m
       def: Steven, Stephen, Stephanus
+      tag: personal name
 
 - key: Andréa
   ety: From AG \gr{Ἀνδρέᾱς}
@@ -3469,8 +3487,10 @@
   content:
     - typ: m
       def: Andrew, André, Andrés
+      tag: personal name
     - typ: f
       def: Andrea
+      tag: personal name
 
 - key: Jesus
   ety: From AG \gr{Ἰησοῦς}
@@ -3478,6 +3498,7 @@
   content:
     - typ: m
       def: Jesus, Joshua
+      tag: personal name
 
 - key: Braján
   ety: From En. \ipa{Brian}
@@ -3485,6 +3506,7 @@
   content:
     - typ: m
       def: Brian, Bryan
+      tag: personal name
 
 - key: Georgios
   ety: From AG \gr{Γεώργῐος}
@@ -3492,6 +3514,7 @@
   content:
     - typ: m
       def: George, Jorge
+      tag: personal name
 
 - key: Edvardos
   ety: Ultimately from PG \ipa{*Audawarduz}
@@ -3499,6 +3522,7 @@
   content:
     - typ: m
       def: Edward, Eduardo
+      tag: personal name
 
 - key: Renvaldos
   ety: Ultimately from PG \ipa{*Raginawaldaz}
@@ -3506,6 +3530,7 @@
   content:
     - typ: m
       def: Ronald, Reginald, Reynold, Reinhold
+      tag: personal name
 
 - key: Timotheos
   ety: From AG \gr{Τῑμόθεος}
@@ -3513,6 +3538,7 @@
   content:
     - typ: m
       def: Timothy
+      tag: personal name
 
 - key: Jasón
   ety: From AG \gr{Ἰάσων}
@@ -3520,6 +3546,7 @@
   content:
     - typ: m
       def: Jason
+      tag: personal name
 
 - key: Jotfredos
   ety: Ultimately from PG \ipa{*Gautafriþuz}
@@ -3527,6 +3554,7 @@
   content:
     - typ: m
       def: Jeffrey, Geoffrey, Jauffre, Gaufredo, Gottfried
+      tag: personal name
 
 - key: Raján
   ety: From En. \ipa{Ryan}
@@ -3534,6 +3562,7 @@
   content:
     - typ: m
       def: Ryan
+      tag: personal name
 
 - key: Nicola
   ety: Ultimately from AG \gr{Νῑκόλᾱος}
@@ -3541,6 +3570,7 @@
   content:
     - typ: m
       def: Nicholas, Nikola, Nikolai
+      tag: personal name
 
 - key: Erik
   ety: Ultimately from PG \ipa{*Aizarīkijaz}
@@ -3548,6 +3578,7 @@
   content:
     - typ: m
       def: Eric, Erik
+      tag: personal name
 
 - key: Jonathán
   ety: From AG \gr{Ἰωνάθαν}
@@ -3555,6 +3586,7 @@
   content:
     - typ: m
       def: Jonathan
+      tag: personal name
 
 - key: Laurentios
   ety: From Lat. \ipa{Laurentius}
@@ -3562,6 +3594,7 @@
   content:
     - typ: m
       def: Lawrence, Laurence, Lorenzo, Laurent
+      tag: personal name
 
 - key: Justínos
   ety: From Lat. \ipa{Iūstīnus}
@@ -3569,6 +3602,7 @@
   content:
     - typ: m
       def: Justin
+      tag: personal name
 
 - key: Benjamín
   ety: From AG \gr{Βενιᾱμῑ́ν}
@@ -3576,6 +3610,7 @@
   content:
     - typ: m
       def: Benjamin
+      tag: personal name
 
 - key: Samuel
   ety: From AG \gr{Σαμουήλ}
@@ -3583,6 +3618,7 @@
   content:
     - typ: m
       def: Samuel
+      tag: personal name
 
 - key: Gregorios
   ety: From AG \gr{Γρηγόριος}
@@ -3590,6 +3626,7 @@
   content:
     - typ: m
       def: Gregory
+      tag: personal name
 
 - key: Raimondos
   ety: Equivalent to En. and Fr. \ipa{Raymond}
@@ -3597,6 +3634,7 @@
   content:
     - typ: m
       def: Raymond, Ramón
+      tag: personal name
 
 - key: Alexandros
   ety: From AG \gr{Ἀλέξανδρος}
@@ -3604,6 +3642,7 @@
   content:
     - typ: m
       def: Alexander, Alejandro
+      tag: personal name
 
 - key: Hendrik
   ety: Ultimately from PG \ipa{*Haimarīks}
@@ -3611,6 +3650,7 @@
   content:
     - typ: m
       def: Henry, Henrik, Henri, Heinrich, Enrique, Enrico
+      tag: personal name
 
 - key: Adám
   ety: From AG \gr{Ᾱ̓δᾱ́μ}
@@ -3618,6 +3658,7 @@
   content:
     - typ: m
       def: Adam
+      tag: personal name
 
 - key: Petros
   ety: From AG \gr{Πέτρος}
@@ -3625,6 +3666,7 @@
   content:
     - typ: m
       def: Peter, Pedro
+      tag: personal name
 
 - key: lufjeti
   ety: From PIE \ipa{*lewbʰ-}
@@ -4684,6 +4726,7 @@
   content:
     - typ: m
       def: Frederic, Frederick, Frederik, Friedrich, Federico, Frederico
+      tag: personal name
 
 - key: Joánna Carlos Frederik Gauss
   cat: real-people
@@ -4697,6 +4740,7 @@
   content:
     - typ: m
       def: Demetrius, Dimitri, Dmitri
+      tag: personal name
 
 - key: ainstainiom
   cat: elements
@@ -4739,6 +4783,7 @@
   content:
     - typ: m
       def: Ernesto, Ernst, Ernest
+      tag: personal name
 
 - key: Ernéstos Raderford
   cat: real-people
@@ -4766,6 +4811,7 @@
   content:
     - typ: m
       def: Glen, Glenn
+      tag: personal name
 
 - key: Theodoros
   ety: From AG \gr{Θεόδωρος}
@@ -4773,6 +4819,7 @@
   content:
     - typ: m
       def: Theodore
+      tag: personal name
 
 - key: Glen Theodoros Siborg
   cat: real-people
@@ -4793,6 +4840,7 @@
   content:
     - typ: m
       def: Niels
+      tag: personal name
 
 - key: Nils Bor
   cat: real-people
@@ -4841,6 +4889,7 @@
   content:
     - typ: m
       def: Conrad, Konrad
+      tag: personal name
 
 - key: Vilmos Condrados Rointgen
   cat: people
@@ -5345,6 +5394,7 @@
   content:
     - typ: m
       def: Werner, Warner
+      tag: personal name
 
 - key: Werner Haisemberg
   cat: real-people
@@ -5358,6 +5408,7 @@
   content:
     - typ: m
       def: Adrian, Hadrian
+      tag: personal name
 
 - key: Mauritios
   ety: From Lat. \ipa{Mauritius}
@@ -5365,6 +5416,7 @@
   content:
     - typ: m
       def: Maurice, Mauricio, Mauritius
+      tag: personal name
 
 - key: Paulos Hadriános Mauritios Dirac
   cat: real-people
@@ -5378,6 +5430,7 @@
   content:
     - typ: m
       def: Javier, Xavier, Saverio
+      tag: personal name
 
 - key: Xavier Castro
   cat: real-people
@@ -5391,6 +5444,7 @@
   content:
     - typ: m
       def: Philip, Felipe
+      tag: personal name
 
 - key: Richardos Philippos Fainman
   cat: real-people
@@ -6318,6 +6372,7 @@
   content:
     - typ: m
       def: Abraham
+      tag: personal name
 
 - key: Edém
   ety: From AG \gr{Εδέμ}

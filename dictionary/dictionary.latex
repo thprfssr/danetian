@@ -46,9 +46,4 @@
 
 \input{content.latex}
 
-\onecolumn
-\section*{Senti soi {{ dictionary | size }} verdóm!}
-
-Test $\blacklozenge$ dfdf
-
 \end{document}

@@ -1,6 +1,6 @@
 # Sol i Vents
 
-Sol i Vents apomanjonto peri poterosjo bolisosjo, joives vojasjer opibémt
+Sol i Vents apomanjonto peri poterosjo bolisosjo, joives opibémt vojasjer
 perislitos en tepi vesti. Somemanjonto jod pramos jo anasedoit en fektin
 vojasjer aposlabjetin enosjo vestim andomnos vopomnos bolise joti aljos.
 

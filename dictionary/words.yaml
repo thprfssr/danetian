@@ -110,6 +110,11 @@
     - typ: f
       def: act of giving
 
+- key: doti
+  content:
+    - typ: v
+      def: to give
+
 - key: dotor
   parts: datres
   ety: From PIE \ipa{*déh₃tōr}
@@ -1590,6 +1595,12 @@
     - typ: n
       def: boundary, end
 
+- key: tarmeni
+  ety: From Dan. \ipa{terman}
+  content:
+    - typ: adv
+      def: finally, at last; eventually, after a long time; in conclusion
+
 - key: tektón
   parts: taksnes, taksanmos
   ety: From PIE \ipa{*tétḱō}
@@ -2297,6 +2308,12 @@
     - typ: v
       def: to stop, to cease
 
+- key: atistatis
+  ety: From Dan. \ipa{atistati}
+  content:
+    - typ: f
+      def: delay, wait
+
 - key: senos
   ety: From PIE \ipa{*sénos}
   content:
@@ -2445,6 +2462,18 @@
   content:
     - typ: adj
       def: covered, sheltered
+
+- key: perislitos
+  ety: From Dan. \ipa{peri + slitos}
+  content:
+    - typ: adj
+      def: wrapped
+
+- key: perislíeti
+  ety: From Dan. \ipa{perislitos}
+  content:
+    - typ: v
+      def: to wrap
 
 - key: slutos
   ety: From PIE \ipa{*ḱlutós}
@@ -2746,6 +2775,14 @@
     - typ: prep
       def: (+gen) before (in the presence of)
 
+- key: protidoti
+  ety: From Dan. \ipa{proti + doti}
+  content:
+    - typ: v
+      def: to surrender something (active)
+    - typ: v
+      def: to give up, to surrender (passive)
+
 - key: apo
   ety: From PIE \ipa{*h₂epó}
   content:
@@ -2946,6 +2983,14 @@
   content:
     - typ: v
       def: to seize, to grasp, to take
+
+- key: aposlabjeti
+  ety: From Dan. \ipa{apo + slabjeti}
+  content:
+    - typ: v
+      def: to take away something
+    - typ: v
+      def: to take off something
 
 - key: protislabjeti
   ety: From Dan. \ipa{slabyeti}
@@ -7853,6 +7898,18 @@
     - typ: v
       def: to think about something (use the preposition about)
 
+- key: apománjetor
+  ety: From Dan. \ipa{apo + mánjetor}
+  content:
+    - typ: v
+      def: to dispute; to disagree; to argue
+
+- key: sománjetor
+  ety: From Dan. \ipa{som + mánjetor}
+  content:
+    - typ: v
+      def: to agree
+
 - key: pemanjeti
   ety: From Dan. \ipa{pe- + mánjetor}
   content:
@@ -9849,3 +9906,18 @@
   content:
     - typ: m
       def: paradise
+
+- key: blajeti
+  content:
+    - typ: v
+      def: to blow
+
+- key: moktis
+  content:
+    - typ: f
+      def: ability
+
+- key: danóti
+  content:
+    - typ: v
+      def: to recognize

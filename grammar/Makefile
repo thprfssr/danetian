@@ -13,7 +13,7 @@ tables:
 	make compiled/doti.table
 	make compiled/esti-be.table
 	make compiled/esti-eat.table
-	make compiled/fekmi.table
+	make compiled/fekti.table
 	make compiled/iti.table
 	make compiled/jekti.table
 	make compiled/linepti.table

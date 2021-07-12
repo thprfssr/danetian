@@ -1823,7 +1823,8 @@ The inflection table for these verbs is shown below.
 \input{compiled/stati.table}
 
 \textit{Note:} For verbs in this class, the stress \textit{always} falls on the
-stem whenever reduplication happens. For example, we say \lan{fefút} instead of
+stem whenever reduplication or prefixation happens.
+For example, we say \lan{fefút} instead of
 \lan{fefut}; \lan{gegróme} instead of \lan{gegrome}; \lan{sestáte} instead of
 \lan{sestate}; and so on.
 

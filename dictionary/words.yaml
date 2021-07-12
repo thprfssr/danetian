@@ -924,6 +924,8 @@
   content:
     - typ: n
       def: fame
+    - typ: n
+      def: glory
 
 - key: uperslevos
   ety: From Dan. \ipa{uper- + slevos}
@@ -1013,6 +1015,12 @@
     - typ: m
       def: fight
 
+- key: katvíeti
+  ety: From Dan. \ipa{kotus}
+  content:
+    - typ: v
+      def: to fight
+
 - key: koksa
   ety: From PIE \ipa{*kóḱs-}
   content:
@@ -1063,6 +1071,20 @@
       def: following, track
     - typ: f
       def: (agriculture) furrow
+
+- key: posloiseti
+  ety: From Dan. \ipa{pos + loisa}
+  content:
+    - typ: v
+      def: to succeed (in terms of order), to go after
+    - typ: v
+      def: to inherit
+
+- key: posloiseman
+  ety: From Dan. \ipa{posloiseti}
+  content:
+    - typ: n
+      def: inheritance
 
 - key: mens¹
   ety: From PIE \ipa{*mḗh₁n̥s}
@@ -2117,6 +2139,8 @@
   content:
     - typ: adj
       def: straightened, right, upright
+    - typ: adj
+      def: correct
 
 - key: onostos
   ety: From PIE \ipa{*h₃enh₂ostos}
@@ -8642,6 +8666,12 @@
     - typ: elem
       def: diminutive suffix
 
+- key: protinjos
+  ety: From Dan. \ipa{proti}
+  content:
+    - typ: m
+      def: adversary, opponent
+
 - key: aitrom
   ety: From PG \ipa{*aitrą}
   content:
@@ -8870,6 +8900,8 @@
       def: narrowness, tightness
     - typ: f
       def: fear, anxiety
+    - typ: f
+      def: concern, anxiety, worry
 
 - key: angla
   ety: From PG \ipa{*angulō}
@@ -9571,7 +9603,7 @@
       def: therefore, thus, hence
 
 - key: psycha
-  ety: From AG \ipa{ψῡχή}
+  ety: From AG \gr{ψῡχή}
   content:
     - typ: f
       def: soul
@@ -9921,3 +9953,36 @@
   content:
     - typ: v
       def: to recognize
+
+- key: pasti
+  content:
+    - typ: v
+      def: to guard, to protect
+    - typ: v
+      def: to shepherd
+
+- key: sompasti
+  ety: From Dan. \ipa{pasti}
+  content:
+    - typ: v
+      def: to save
+
+- key: stauros
+  ety: From AG \gr{σταυρός}
+  content:
+    - typ: m
+      def: cross
+
+- key: berheti
+  ety: From PIE \ipa{*bʰérgʰ-(e)-ti}
+  content:
+    - typ: v
+      def: to guard, to protect
+    - typ: v
+      def: to preserve
+
+- key: prostos
+  ety: From PIE \ipa{*pro-steh₂-}
+  content:
+    - typ: adj
+      def: simple, basic, ordinary

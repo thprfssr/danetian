@@ -1,0 +1,51 @@
+I:
+  sg:
+    nom: a
+    acc: am
+    gen: as
+    abl: as
+    dat: ai
+    loc: i
+    ins: e
+  pl:
+    nom: ai
+    acc: ans
+    gen: om
+    abl: amos
+    dat: amos
+    loc: asu
+    ins: abi
+II-A:
+  sg:
+    nom: os
+    acc: om
+    gen: osjo
+    abl: ad
+    dat: oi
+    loc: i
+    ins: e
+  pl:
+    nom: oi
+    acc: ons
+    gen: om
+    abl: omos
+    dat: omos
+    loc: oisu
+    ins: ois
+II-N:
+  sg:
+    nom: om
+    acc: om
+    gen: osjo
+    abl: ad
+    dat: oi
+    loc: i
+    ins: e
+  pl:
+    nom: a
+    acc: a
+    gen: om
+    abl: omos
+    dat: omos
+    loc: oisu
+    ins: ois

@@ -394,7 +394,7 @@
 - key: dívi
   ety: PIE {*déywih₂}
   typ: noun
-  class: U
+  class: III-ya
   inflection:
     singular:
       nom: dívi
@@ -612,7 +612,7 @@
 - key: détis
   ety: PIE {*dʰéh₁tis}
   typ: noun
-  class: U
+  class: III-i
   inflection:
     singular:
       nom: détis
@@ -684,7 +684,7 @@
 - key: dráks
   ety: PIE {*dʰrā́ks}
   typ: noun
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: dráks
@@ -874,7 +874,7 @@
 - key: dénatri
   ety: PIE {*ǵénh₁trih₂}
   typ: noun
-  class: U
+  class: III-ya
   inflection:
     singular:
       nom: dénatri
@@ -1030,7 +1030,7 @@
 - key: dér
   ety: PIE {*ǵʰḗr}
   typ: noun
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: dér
@@ -1055,7 +1055,7 @@
 - key: désor
   ety: PIE {*ǵʰésōr}
   typ: noun
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: désor
@@ -1099,7 +1099,7 @@
 - key: dáns
   ety: PIE {*ǵʰh₂éns}
   typ: noun
-  class: U
+  class: III-C
   inflection:
     singular:
       nom: dáns
@@ -1124,7 +1124,7 @@
 - key: damó
   ety: PIE {*ǵʰmṓ}
   typ: noun
-  class: U
+  class: III-on
   inflection:
     singular:
       nom: damó
@@ -1159,7 +1159,7 @@
 - key: gerán
   ety: PIE {*gerh₂ḗn}
   typ: noun
-  class: U
+  class: III-C
   inflection:
     singular:
       nom: gerán
@@ -1288,7 +1288,7 @@
 - key: brávo
   ety: PIE {*gʷréh₂wō}
   typ: noun
-  class: U
+  class: III-on
   inflection:
     singular:
       nom: brávo
@@ -1401,7 +1401,7 @@
 - key: ésar
   ety: PIE {*h₁ésh₂r̥}
   typ: noun
-  class: U
+  class: III-an
   inflection:
     singular:
       nom: ésar
@@ -1426,7 +1426,7 @@
 - key: ítar
   ety: PIE {*h₁éytr̥}
   typ: noun
-  class: U
+  class: III-n
   inflection:
     singular:
       nom: ítar
@@ -1552,7 +1552,7 @@
 - key: ómbol
   ety: PIE {*h₁óngʷl̥}
   typ: noun
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: ómbol
@@ -1577,7 +1577,7 @@
 - key: údar
   ety: PIE {*h₁ówHdʰr̥}
   typ: noun
-  class: U
+  class: III-n
   inflection:
     singular:
       nom: údar
@@ -1643,7 +1643,7 @@
 - key: ábol
   ety: PIE {*h₂ébōl}
   typ: noun
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: ábol
@@ -1708,7 +1708,7 @@
 - key: ásmo
   ety: PIE {*h₂éḱmō}
   typ: noun
-  class: U
+  class: III-on
   inflection:
     singular:
       nom: ásmo
@@ -1733,7 +1733,7 @@
 - key: álbit
   ety: PIE {*h₂élbʰit}
   typ: noun
-  class: U
+  class: III-C
   inflection:
     singular:
       nom: álbit
@@ -1798,7 +1798,7 @@
 - key: ánats
   ety: PIE {*h₂enh₁mos}
   typ: noun
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: ánats
@@ -1884,7 +1884,7 @@
 - key: áusos
   ety: PIE {*h₂éwsōs}
   typ: noun
-  class: U
+  class: III-C
   inflection:
     singular:
       nom: áusos
@@ -1927,7 +1927,7 @@
 - key: nér
   ety: PIE {*h₂nḗr}
   typ: noun
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: nér
@@ -1954,7 +1954,7 @@
 - key: ósets
   ety: PIE {*h₂óḱets}
   typ: noun
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: ósets
@@ -2006,7 +2006,7 @@
 - key: óms
   ety: PIE {*h₂ṓms}
   typ: noun
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: óms
@@ -2039,7 +2039,7 @@
 - key: óst
   ety: PIE {*h₂óst}
   typ: noun
-  class: U
+  class: III-C
   inflection:
     singular:
       nom: óst
@@ -2122,7 +2122,7 @@
 - key: óyu
   ety: PIE {*h₂óyu}
   typ: noun
-  class: U
+  class: III-u
   inflection:
     singular:
       nom: óyu
@@ -2246,7 +2246,7 @@
 
 - key: dónts
   ety: PIE {*h₃dónts}
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: dónts
@@ -2317,7 +2317,7 @@
 
 - key: óro
   ety: PIE {*h₃érō}
-  class: U
+  class: III-on
   inflection:
     singular:
       nom: óro
@@ -2348,7 +2348,7 @@
 
 - key: nóbol
   ety: PIE {*h₃nóbʰōl}
-  class: U
+  class: III-L
   inflection:
     singular:
       nom: nóbol
@@ -2372,7 +2372,7 @@
 
 - key: nógs
   ety: PIE {*h₃nṓgʰs}
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: nógs
@@ -2396,7 +2396,7 @@
 
 - key: óps
   ety: PIE {*h₃ókʷs}
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: óps
@@ -2428,7 +2428,7 @@
 
 - key: rédni
   ety: PIE {*h₃rḗǵnih₂}
-  class: U
+  class: III-ya
   inflection:
     singular:
       nom: rédni
@@ -2452,7 +2452,7 @@
 
 - key: régs
   ety: PIE {*h₃rḗǵs}
-  class: U
+  class: III-S
   inflection:
     singular:
       nom: régs

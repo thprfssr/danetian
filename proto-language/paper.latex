@@ -1,0 +1,41 @@
+\documentclass[twocolumn]{article}
+\title{Danetian nominal inflection}
+\author{Javier Castro}
+\date{\today}
+
+
+% GENERAL SETUP %
+\usepackage{multicol} % For multi-column in-text
+\usepackage{booktabs} % For tabular horizontal lines
+\usepackage{multirow} % For multi-column within the tabular environment
+\usepackage{tabularx} % For fixed width tables
+\usepackage{enumerate} % For Roman-numeral enumerated lists
+\usepackage{microtype} % Supposedly improves spacing
+\usepackage{hyperref} % For in-document hyperlinks
+\usepackage[font={small,it}]{caption} % For a small, italic font for captions
+\usepackage{float} % To force tables into one place with [H]
+
+% BIBLIOGRAPHY %
+\usepackage[backend=biber, style=phys]{biblatex}
+\addbibresource{ref.bib}
+
+% MATHEMATICS %
+\usepackage{amsmath} % For the align and align* environments
+\usepackage{mathtools} % For define-equal signs with \coloneqq
+\usepackage{physics} % For neat parentheses with the \qty command, and \dd
+\usepackage{braket} % For Quantum Mechanics bra-ket notation
+\usepackage{siunitx} % For SI units
+\usepackage{algorithmic} % For typesetting pseudocode
+
+
+% FINANCE %
+\usepackage{fcolumn} % To format financial tables
+
+
+\begin{document}
+\maketitle
+
+\input{test.latex}
+
+\printbibliography
+\end{document}

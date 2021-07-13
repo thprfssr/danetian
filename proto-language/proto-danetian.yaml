@@ -1701,6 +1701,812 @@
 
 - key: milós
   ety: PIE {*m(e)ilH-lo}
-  typ: adj
+  typ: adjective
   content:
     - def: good
+
+- key: ásmo
+  ety: PIE {*h₂éḱmō}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ásmo
+      acc: ásmonam
+      gen: samnés
+      abl: samnés
+      dat: samní
+      loc: sméni
+      ins: samné
+    plural:
+      nom: ásmones
+      acc: ásmonans
+      gen: samnóm
+      abl: smanmós
+      dat: smanmós
+      loc: smansú
+      ins: smanbí
+  content:
+    - gen: m
+      def: stone
+
+- key: álbit
+  ety: PIE {*h₂élbʰit}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: álbit
+      acc: álbit
+      gen: albités
+      abl: albités
+      dat: albití
+      loc: álbiti
+      ins: albité
+    plural:
+      nom: álbita
+      acc: álbita
+      gen: albitóm
+      abl: albitmós
+      dat: albitmós
+      loc: albitsú
+      ins: albitbí
+  content:
+    - gen: n
+      def: barley
+
+- key: álisa
+  ety: PIE {*h₂élis-eh₂}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: alder
+
+- key: álutom
+  ety: PIE {*h₂elut-om}
+  typ: noun
+  class: II
+  content:
+    - gen: n
+      def: beer
+
+- key: ándos
+  ety: PIE {*h₂éndʰos}
+  typ: noun
+  class: III-s
+  content:
+    - gen: n
+      def: bloom
+
+- key: ámbis
+  ety: PIE {*h₂éngʷʰis}
+  typ: noun
+  class: III-i
+  content:
+    - gen: m
+      def: snake
+
+- key: ánamos
+  ety: PIE {*h₂enh₁mos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: breath
+
+- key: ánats
+  ety: PIE {*h₂enh₁mos}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ánats
+      acc: ánatam
+      gen: anatés
+      abl: anatés
+      dat: anatí
+      loc: ánati
+      ins: anaté
+    plural:
+      nom: ánates
+      acc: ánatans
+      gen: anatóm
+      abl: anatmós
+      dat: anatmós
+      loc: anatsú
+      ins: anatbí
+  content:
+    - gen: f
+      def: duck
+
+- key: ánkos
+  ety: PIE {*h₂énkos}
+  typ: noun
+  class: III-s
+  content:
+    - gen: n
+      def: curve, bend
+
+- key: antíos
+  ety: PIE {*h₂entíos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: front
+    - gen: m
+      def: forehead
+
+- key: áratrom
+  ety: PIE {*h₂érh₃trom}
+  typ: noun
+  class: II
+  content:
+    - gen: n
+      def: plough, ard
+
+- key: ávos
+  ety: PIE {*h₂éwh₂os}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: maternal grandfather
+    - gen: m
+      def: maternal uncle
+
+- key: avis
+  ety: PIE {*h₂éwis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: ávis
+      acc: ávim
+      gen: uyés
+      abl: uyés
+      dat: uyéi
+      loc: ávi
+      ins: uyé
+    plural:
+      nom: ávies
+      acc: ávins
+      gen: uyóm
+      abl: vimós
+      dat: vimós
+      loc: visú
+      ins: vibí
+  content:
+    - gen: f
+      def: bird
+
+- key: áusos
+  ety: PIE {*h₂éwsōs}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: áusos
+      acc: áusosam
+      gen: usés
+      abl: usés
+      dat: uséi
+      loc: usési
+      ins: usé
+    plural:
+      nom: áusoses
+      acc: áusoses
+      gen: usóm
+      abl: usmós
+      dat: usmós
+      loc: usú
+      ins: usbí
+  content:
+    - gen: f
+      def: dawn
+    - gen: f
+      def: goddess of dawn, bringer of light
+
+- key: áidos
+  ety: PIE {*h₂eyǵ-os}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: oak
+
+- key: áyos
+  ety: PIE {*h₂éyos}
+  typ: noun
+  class: III-s
+  content:
+    - gen: n
+      def: a metal, copper, bronze
+
+- key: nér
+  ety: PIE {*h₂nḗr}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: nér
+      acc: néram
+      gen: andrés
+      abl: andrés
+      dat: andréi
+      loc: néri
+      ins: andré
+    plural:
+      nom: néres
+      acc: nérans
+      gen: andróm
+      abl: narmós
+      dat: narmós
+      loc: narsú
+      ins: narbí
+  content:
+    - gen: m
+      def: man
+    - gen: m
+      def: power, force, virtal energy
+
+- key: ósets
+  ety: PIE {*h₂óḱets}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ósets
+      acc: ósetam
+      gen: ásets
+      abl: ásets
+      dat: áseti
+      loc: áseti
+      ins: áseta
+    plural:
+      nom: ósetes
+      acc: ósetes
+      gen: ásetom
+      abl: ásetmos
+      dat: ásetmos
+      loc: ásetsu
+      ins: ásetbi
+  content:
+    - gen: f
+      def: harrow
+
+- key: óstris
+  ety: PIE {*h₂óḱris}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: óstris
+      acc: óstrim
+      gen: ástris
+      abl: ástris
+      dat: ástri
+      loc: ástri
+      ins: ástri
+    plural:
+      nom: óstries
+      acc: óstrins
+      gen: ástaryom
+      abl: ástrimos
+      dat: ástrimos
+      loc: ástrisu
+      ins: ástribi
+  content:
+    - gen: f
+      def: top, protrusion
+    - gen: f
+      def: sharp edge, corner
+
+- key: óms
+  ety: PIE {*h₂ṓms}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: óms
+      acc: óm
+      gen: amés
+      abl: amés
+      dat: amí
+      loc: ámi
+      ins: amé
+    plural:
+      nom: ómes
+      acc: ómans
+      gen: amóm
+      abl: ammós
+      dat: ammós
+      loc: amsú
+      ins: ambí
+  content:
+    - gen: m
+      def: shoulder
+
+- key: ónkos
+  ety: PIE {*h₂ónkos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: bend, turn
+
+- key: óst
+  ety: PIE {*h₂óst}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: óst
+      acc: óst
+      gen: ástsos
+      abl: ástsos
+      dat: ástsi
+      loc: ástsi
+      ins: ástsa
+    plural:
+      nom: ástsos
+      acc: ástsos
+      gen: astsés
+      abl: astsés
+      dat: astsí
+      loc: ástsi
+      ins: astsé
+  content:
+    - gen: n
+      def: bone
+
+- key: óvis
+  ety: PIE {*h₂ówis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: óvis
+      acc: óvim
+      gen: ávis
+      abl: ávis
+      dat: ávi
+      loc: ávi
+      ins: ávi
+    plural:
+      nom: óvies
+      acc: óvins
+      gen: áviom
+      abl: ávimos
+      dat: ávimos
+      loc: ávisu
+      ins: ávibi
+  content:
+    - gen: f
+      def: sheep
+
+- key: ús
+  ety: PIE {*h₂ṓws}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ús
+      acc: ús
+      gen: áusos
+      abl: áusos
+      dat: áusi
+      loc: áusi
+      ins: áusa
+    plural:
+      nom: áusos
+      acc: áusos
+      gen: usés
+      abl: usés
+      dat: usí
+      loc: áusi
+      ins: usé
+  content:
+    - gen: n
+      def: ear
+
+- key: uyóm
+  ety: PIE {*h₂ōwyóm}
+  typ: noun
+  class: II
+  content:
+    - gen: n
+      def: egg
+
+- key: óyu
+  ety: PIE {*h₂óyu}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: óyu
+      acc: óyu
+      gen: yús
+      abl: yús
+      dat: yévi
+      loc: yévi
+      ins: yú
+    plural:
+      nom: óyu
+      acc: óyu
+      gen: yévom
+      abl: yúmos
+      dat: yúmos
+      loc: yúsu
+      ins: yúbi
+  content:
+    - gen: n
+      def: long time, lifetime
+
+- key: ardantóm
+  ety: PIE {*h₂r̥ǵn̥tóm}
+  class: II
+  content:
+    - gen: n
+      def: silver
+
+- key: árstos
+  ety: PIE {*h₂ŕ̥tḱos}
+  class: II
+  content:
+    - gen: m
+      def: bear
+
+- key: stér
+  ety: PIE {*h₂stḗr}
+  class: III-L
+  inflection:
+    singular:
+      nom: stér
+      acc: stéram
+      gen: strés
+      abl: strés
+      dat: stréi
+      loc: stéri
+      ins: stré
+    plural:
+      nom: stéres
+      acc: stérans
+      gen: stróm
+      abl: starmós
+      dat: starmós
+      loc: starsú
+      ins: starbí
+  content:
+    - gen: m
+      def: star
+
+- key: válana
+  ety: PIE {*h₂wĺ̥h₁neh₂}
+  class: I
+  content:
+    - gen: f
+      def: wool
+
+- key: vóstu
+  ety: PIE {*h₂wóstu}
+  class: III-u
+  inflection:
+    singular:
+      nom: vóstu
+      acc: vóstu
+      gen: vóstus
+      abl: vóstus
+      dat: vóstvi
+      loc: vóstvi
+      ins: vóstu
+    plural:
+      nom: vóstu
+      acc: vóstu
+      gen: vóstvom
+      abl: vóstumos
+      dat: vóstumos
+      loc: vóstusu
+      ins: vóstubi
+  content:
+    - gen: n
+      def: home, dwelling
+
+- key: yuntá
+  ety: PIE {*h₂yuh₁n̥téh₂}
+  class: I
+  content:
+    - gen: f
+      def: youth
+
+- key: brús
+  ety: PIE {*h₃bʰrúHs}
+  class: U
+  inflection:
+    singular:
+      nom: brús
+      acc: brévam
+      gen: brués
+      abl: brués
+      dat: bruí
+      loc: brévi
+      ins: brué
+    plural:
+      nom: bréves
+      acc: brévans
+      gen: bruóm
+      abl: brumós
+      dat: brumós
+      loc: brusú
+      ins: brubí
+  content:
+    - gen: f
+      def: eyebrows
+
+- key: dónts
+  ety: PIE {*h₃dónts}
+  class: U
+  inflection:
+    singular:
+      nom: dónts
+      acc: dóntam
+      gen: dantés
+      abl: dantés
+      dat: dantí
+      loc: dónti
+      ins: danté
+    plural:
+      nom: dóntes
+      acc: dóntans
+      gen: dantóm
+      abl: dantmós
+      dat: dantmós
+      loc: dantsú
+      ins: dantbí
+  content:
+    - gen: m
+      def: tooth
+
+- key: odés
+  ety: PIE {*h₃edʰḗs}
+  class: U
+  content:
+    - gen: m
+      def: adze
+
+- key: ómban
+  ety: PIE {*h₃éngʷn̥}
+  class: III-n
+  inflection:
+    singular:
+      nom: ómban
+      acc: ómban
+      gen: ambéns
+      abl: ambéns
+      dat: ambéni
+      loc: ambéni
+      ins: ambéna
+  content:
+    - gen: n
+      def: fat, butter
+
+- key: ónos
+  ety: PIE {*h₃énh₂os}
+  class: III-s
+  inflection:
+    singular:
+      nom: ónos
+      acc: ónos
+      gen: ónasos
+      abl: ónasos
+      dat: ónasi
+      loc: ónasi
+      ins: ónasa
+    plural:
+      nom: ónos
+      acc: ónos
+      gen: ónasom
+      abl: ónasmos
+      dat: ónasmos
+      loc: ónasu
+      ins: ónasbi
+  content:
+    - gen: n
+      def: load; burden
+
+- key: óro
+  ety: PIE {*h₃érō}
+  class: U
+  inflection:
+    singular:
+      nom: óro
+      acc: óronam
+      gen: arnés
+      abl: arnés
+      dat: arní
+      loc: réni
+      ins: arné
+    plural:
+      nom: órones
+      acc: óronans
+      gen: arnóm
+      abl: ranmós
+      dat: ranmós
+      loc: ransú
+      ins: ranbí
+  content:
+    - gen: m
+      def: eagle
+
+- key: mígla
+  ety: PIE {*h₃mígʰleh₂}
+  class: I
+  content:
+    - gen: f
+      def: mist, cloud
+
+- key: nóbol
+  ety: PIE {*h₃nóbʰōl}
+  class: U
+  inflection:
+    singular:
+      nom: nóbol
+      acc: nóbolam
+      gen: amblés
+      abl: amblés
+      dat: amblí
+      loc: ambéli
+      ins: amblé
+    plural:
+      nom: nóboles
+      acc: nóbolans
+      gen: amblóm
+      abl: ambalmós
+      dat: ambalmós
+      loc: ambalsú
+      ins: ambalbí
+  content:
+    - gen: m
+      def: navel
+
+- key: nógs
+  ety: PIE {*h₃nṓgʰs}
+  class: U
+  inflection:
+    singular:
+      nom: nógs
+      acc: nógam
+      gen: negés
+      abl: negés
+      dat: negí
+      loc: négi
+      ins: negé
+    plural:
+      nom: nóges
+      acc: nógans
+      gen: negóm
+      abl: negmós
+      dat: negmós
+      loc: negsú
+      ins: negbí
+  content:
+    - gen: m
+      def: nail (of the finger or toe)
+
+- key: óps
+  ety: PIE {*h₃ókʷs}
+  class: U
+  inflection:
+    singular:
+      nom: óps
+      acc: óps
+      gen: óps
+      abl: óps
+      dat: ópi
+      loc: ópi
+      ins: ópa
+  content:
+    - gen: n
+      def: eye
+
+- key: órbos
+  ety: PIE {*h₃órbʰos}
+  class: II
+  content:
+    - gen: m
+      def: orphan
+    - gen: m
+      def: servant, slave, worker
+
+- key: ósdos
+  ety: PIE {*h₃ósdos}
+  class: II
+  content:
+    - gen: m
+      def: branch
+
+- key: rédni
+  ety: PIE {*h₃rḗǵnih₂}
+  class: U
+  inflection:
+    singular:
+      nom: rédni
+      acc: rédnim
+      gen: rédanyas
+      abl: rédanyas
+      dat: rédanyai
+      loc: rédanyai
+      ins: rédanya
+    plural:
+      nom: rédnis
+      acc: rédnins
+      gen: rédanyom
+      abl: rédanyamos
+      dat: rédanyamos
+      loc: rédanyasu
+      ins: rédanyabi
+  content:
+    - gen: f
+      def: queen
+
+- key: régs
+  ety: PIE {*h₃rḗǵs}
+  class: U
+  inflection:
+    singular:
+      nom: régs
+      acc: rédam
+      gen: régs
+      abl: régs
+      dat: rédi
+      loc: rédi
+      ins: réda
+    plural:
+      nom: rédes
+      acc: rédans
+      gen: rédom
+      abl: rédmos
+      dat: rédmos
+      loc: régsu
+      ins: rédbi
+  content:
+    - gen: m
+      def: king, ruler
+
+- key: ísus
+  ety: PIE {*(H)ísus}
+  class: U
+  content:
+    - gen: m
+      def: arrow
+
+- key: rugís
+  ety: PIE {*Hrugʰís}
+  class: III-i
+  inflection:
+    singular:
+      nom: rugís
+      acc: rugím
+      gen: rugís
+      abl: rugís
+      dat: rugí
+      loc: rugí
+      ins: rugí
+    plural:
+      nom: rugíes
+      acc: rugíns
+      gen: rugíom
+      abl: rugímos
+      dat: rugímos
+      loc: rugísu
+      ins: rugíbi
+  content:
+    - gen: m
+      def: rye
+
+- key: órdis
+  ety: PIE {*h₄órǵʰis}
+  content:
+    - gen: m
+      def: testicle

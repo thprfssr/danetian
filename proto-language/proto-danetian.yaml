@@ -1,0 +1,1706 @@
+- key: bardá
+  ety: PIE {*bʰardʰéh₂}
+  typ: noun
+  class: I
+  inflection:
+    singular:
+      nom: bardá
+      acc: bardám
+      gen: bardás
+      abl: bardás
+      dat: bardái
+      loc: bardí
+      ins: bardé
+    plural:
+      nom: bardái
+      acc: bardáns
+      gen: bardóm
+      abl: bardámos
+      dat: bardámos
+      loc: bardásu
+      ins: bardábi
+  content:
+    - gen: f
+      def: beard
+
+- key: bébrus
+  ety: PIE {*bʰébʰrus}
+  typ: noun
+  class: III-u
+  content:
+    - gen: m
+      def: beaver
+
+- key: bádos
+  ety: PIE {*bʰeh₂ǵos}
+  typ: noun
+  class: II
+  inflection:
+    singular:
+      nom: bádos
+      acc: bádom
+      gen: bádosyo
+      abl: bádad
+      dat: bádoi
+      loc: bádi
+      ins: báde
+    plural:
+      nom: bádoi
+      acc: bádons
+      gen: bádom
+      abl: bádomos
+      dat: bádomos
+      loc: bádoisu
+      ins: bádois
+  content:
+    - gen: f
+      def: beech
+
+- key: badús
+  ety: PIE {*bʰeh₂ǵʰús}
+  typ: noun
+  class: III-u
+  content:
+    - gen: m
+      def: arm
+
+- key: beradós
+  ety: PIE {*bʰerHǵós}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: birch
+
+- key: bértis
+  ety: PIE {*bʰértis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: bértis
+      acc: bértim
+      gen: bartís
+      abl: bartís
+      dat: bartí
+      loc: bartí
+      ins: bartí
+    plural:
+      nom: bérties
+      acc: bértins
+      gen: bartíom
+      abl: bartímos
+      dat: bartímos
+      loc: bartísu
+      ins: bartíbi
+  content:
+    - gen: f
+      def: the act of carrying, bearing
+
+- key: bór
+  ety: PIE {*bʰṓr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: bór
+      acc: bóram
+      gen: brés
+      abl: brés
+      dat: bréi
+      loc: bóri
+      ins: bré
+    plural:
+      nom: bóres
+      acc: bórans
+      gen: bróm
+      abl: barmós
+      dat: barmós
+      loc: barsú
+      ins: barbí
+  content:
+    - gen: m
+      def: thief
+
+- key: brévar
+  ety: PIE {*bʰréh₁wr̥}
+  typ: noun
+  class: III-n
+  inflection:
+    singular:
+      nom: brévar
+      acc: brévar
+      gen: bravéns
+      abl: bravéns
+      dat: bravéni
+      loc: bravéni
+      ins: bravéna
+    plural:
+      nom: brévor
+      acc: brévor
+      gen: brunés
+      abl: brunés
+      dat: bruní
+      loc: bravéni
+      ins: bruné
+  content:
+    - gen: n
+      def: well, spring, source
+
+- key: bráter
+  ety: PIE {*bʰréh₂tēr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: bráter
+      acc: bráteram
+      gen: brátars
+      abl: brátars
+      dat: brátri
+      loc: brátri
+      ins: brátra
+    plural:
+      nom: bráteres
+      acc: bráterans
+      gen: brátrom
+      abl: brátarmos
+      dat: brátarmos
+      loc: brátarsu
+      ins: brátarbi
+  content:
+    - gen: m
+      def: brother
+
+- key: budmén
+  ety: PIE {*bʰudʰmḗn}
+  typ: noun
+  class: III-C
+  inflection:
+    singular:
+      nom: budmén
+      acc: budménam
+      gen: budnés
+      abl: budnés
+      dat: budní
+      loc: budméni
+      ins: budné
+    plural:
+      nom: budménes
+      acc: budménans
+      gen: budnóm
+      abl: budanmós
+      dat: budanmós
+      loc: budansú
+      ins: budanbí
+  content:
+    - gen: m
+      def: bottom
+
+- key: búdos
+  ety: PIE {*bʰuHǵ-o-s}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: buck, he-goat
+
+- key: bugá
+  ety: PIE {*bʰugéh₂}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: flight, escape
+
+- key: dastru
+  ety: PIE {*dáḱru}
+  typ: noun
+  class: III-u
+  content:
+    - gen: n
+      def: tear (in the eyes)
+
+- key: dayavér
+  ety: PIE {*dayh₂wḗr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: dayavér
+      acc: dayavéram
+      gen: dayurés
+      abl: dayurés
+      dat: dayurí
+      loc: dayavéri
+      ins: dayuré
+    plural:
+      nom: dayavéres
+      acc: dayavérans
+      gen: dayuróm
+      abl: dayurmós
+      dat: dayurmós
+      loc: dayursú
+      ins: dayurbí
+  content:
+    - gen: m
+      def: brother-in-law, husband's brother
+
+- key: dáitis
+  ety: PIE {*déh₂itis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: dáitis
+      acc: dáitim
+      gen: ditís
+      abl: ditís
+      dat: dití
+      loc: dití
+      ins: dití
+    plural:
+      nom: dáities
+      acc: dáitins
+      gen: ditíom
+      abl: ditímos
+      dat: ditímos
+      loc: ditísu
+      ins: ditíbi
+  content:
+    - gen: f
+      def: interval, period of time
+
+- key: dánu
+  ety: PIE {*déh₂nu}
+  typ: noun
+  class: III-u
+  inflection:
+    singular:
+      nom: dánu
+      acc: dánu
+      gen: danvés
+      abl: danvés
+      dat: danví
+      loc: dánvi
+      ins: danvé
+    plural:
+      nom: dánu
+      acc: dánu
+      gen: danvóm
+      abl: danumós
+      dat: danumós
+      loc: danusú
+      ins: danubí
+  content:
+    - gen: n
+      def: river goddess
+    - gen: n
+      def: river
+
+- key: dónom
+  ety: PIE {*déh₃nom}
+  typ: noun
+  class: II
+  inflection:
+    singular:
+      nom: dónom
+      acc: dónom
+      gen: dónosyo
+      abl: dónad
+      dat: dónoi
+      loc: dóni
+      ins: dóne
+    plural:
+      nom: dóna
+      acc: dóna
+      gen: dónom
+      abl: dónomos
+      dat: dónomos
+      loc: dónoisu
+      ins: dónois
+  content:
+    - gen: n
+      def: gift
+
+- key: dórom
+  ety: PIE {*déh₃rom}
+  typ: noun
+  class: II
+  content:
+    - gen: n
+      def: gift
+
+- key: dótor
+  ety: PIE {*déh₃tōr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: dótor
+      acc: dótoram
+      gen: datrés
+      abl: datrés
+      dat: datrí
+      loc: datéri
+      ins: datré
+    plural:
+      nom: dótores
+      acc: dótorans
+      gen: datróm
+      abl: datarmós
+      dat: datarmós
+      loc: datarsú
+      ins: datarbí
+  content:
+    - gen: m
+      def: giver
+
+- key: désos
+  ety: PIE {*déḱos}
+  typ: noun
+  class: III-s
+  inflection:
+    singular:
+      nom: désos
+      acc: désos
+      gen: désesos
+      abl: désesos
+      dat: désesi
+      loc: désesi
+      ins: désesa
+    plural:
+      nom: désos
+      acc: désos
+      gen: désesom
+      abl: désesmos
+      dat: désesmos
+      loc: désesu
+      ins: désesbi
+  content:
+    - gen: n
+      def: that which is proper
+    - gen: n
+      def: honor, pride
+
+- key: denspótis
+  ety: PIE {*déms pótis}
+  typ: noun
+  class: III-i
+  content:
+    - gen: m
+      def: master of the house
+
+- key: dívi
+  ety: PIE {*déywih₂}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dívi
+      acc: dívim
+      gen: divyás
+      abl: divyás
+      dat: divyái
+      loc: divyái
+      ins: divyá
+    plural:
+      nom: dívis
+      acc: dívins
+      gen: divyóm
+      abl: divyámos
+      dat: divyámos
+      loc: divyásu
+      ins: divyábi
+  content:
+    - gen: f
+      def: goddess
+
+- key: divós
+  ety: PIE {*deywós}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: god
+
+- key: dandvá
+  ety: PIE {*dn̥ǵʰwéh₂s}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: tongue
+    - gen: f
+      def: language
+
+- key: dóm
+  ety: PIE {*dṓm}
+  typ: noun
+  class: III-C
+  inflection:
+    singular:
+      nom: dóm
+      acc: dóm
+      gen: déms
+      abl: déms
+      dat: démi
+      loc: démi
+      ins: déma
+    plural:
+      nom: dómes
+      acc: dómans
+      gen: démom
+      abl: démmos
+      dat: démmos
+      loc: démsu
+      ins: démbi
+  content:
+    - gen: f
+      def: home
+    - gen: f
+      def: house
+
+- key: dóru
+  ety: PIE {*dóru}
+  typ: noun
+  class: III-u
+  inflection:
+    singular:
+      nom: dóru
+      acc: dóru
+      gen: drús
+      abl: drús
+      dat: drévi
+      loc: drévi
+      ins: drú
+    plural:
+      nom: dóru
+      acc: dóru
+      gen: drévom
+      abl: drúmos
+      dat: drúmos
+      loc: drúsu
+      ins: drúbi
+  content:
+    - gen: n
+      def: tree
+    - gen: n
+      def: wood
+
+- key: dús
+  ety: PIE {*dóws}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dús
+      acc: dús
+      gen: dúsos
+      abl: dúsos
+      dat: dúsi
+      loc: dúsi
+      ins: dúsa
+    plural:
+      nom: dúsos
+      acc: dúsos
+      gen: dúses
+      abl: dúses
+      dat: dúsi
+      loc: dúsi
+      ins: dusé
+  content:
+    - gen: f
+      def: arm
+
+- key: dyús
+  ety: PIE {*dyḗws}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dyús
+      acc: dyém
+      gen: divés
+      abl: divés
+      dat: diví
+      loc: dyévi
+      ins: divé
+    plural:
+      nom: dyús
+      acc: dyúns
+      gen: divóm
+      abl: divmós
+      dat: divmós
+      loc: divsú
+      ins: divbí
+  content:
+    - gen: m
+      def: sky, heaven
+    - gen: m
+      def: sky god
+
+- key: dédom
+  ety: PIE {*dʰéǵʰōm}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dédom
+      acc: dédom
+      gen: damés
+      abl: damés
+      dat: damí
+      loc: démi
+      ins: damé
+  content:
+    - gen: f
+      def: earth
+
+- key: déman
+  ety: PIE {*dʰéh₁mn̥}
+  typ: noun
+  class: III-n
+  inflection:
+    singular:
+      nom: déman
+      acc: déman
+      gen: daméns
+      abl: daméns
+      dat: daméni
+      loc: daméni
+      ins: daména
+    plural:
+      nom: démo
+      acc: démo
+      gen: damnés
+      abl: damnés
+      dat: damní
+      loc: daméni
+      ins: damné
+  content:
+    - gen: n
+      def: that which is established, house, home
+
+- key: dés
+  ety: PIE {*dʰéh₁s}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dés
+      acc: désam
+      gen: dasés
+      abl: dasés
+      dat: dasí
+      loc: dési
+      ins: dasé
+    plural:
+      nom: déses
+      acc: désans
+      gen: dasóm
+      abl: dasmós
+      dat: dasmós
+      loc: dasú
+      ins: dasbí
+  content:
+    - gen: m
+      def: god, godhead, deity
+    - gen: m
+      def: sacred place
+
+- key: détis
+  ety: PIE {*dʰéh₁tis}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: détis
+      acc: détim
+      gen: datís
+      abl: datís
+      dat: datí
+      loc: datí
+      ins: datí
+    plural:
+      nom: déties
+      acc: détins
+      gen: datíom
+      abl: datímos
+      dat: datímos
+      loc: datísu
+      ins: datíbi
+  content:
+    - gen: f
+      def: act of putting, placement
+
+- key: bítis
+  ety: PIE {*dʰgʷʰéytis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: bítis
+      acc: bítim
+      gen: bitís
+      abl: bitís
+      dat: bití
+      loc: bití
+      ins: bití
+    plural:
+      nom: bíties
+      acc: bítins
+      gen: bitíom
+      abl: bitímos
+      dat: bitímos
+      loc: bitísu
+      ins: bitíbi
+  content:
+    - gen: f
+      def: decay, destruction
+
+- key: dómos
+  ety: PIE {*dʰóh₁mos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: that which is put, placed
+    - gen: m
+      def: heap
+    - gen: m
+      def: judgement
+
+- key: doná
+  ety: PIE {*dʰoHnéh₂}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: grain
+    - gen: f
+      def: bread
+
+- key: dráks
+  ety: PIE {*dʰrā́ks}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dráks
+      acc: drágam
+      gen: dragés
+      abl: dragés
+      dat: dragí
+      loc: drági
+      ins: dragé
+    plural:
+      nom: dráges
+      acc: drágans
+      gen: dragóm
+      abl: dragmós
+      dat: dragmós
+      loc: dragsú
+      ins: dragbí
+  content:
+    - gen: m
+      def: dregs, sediment (of wine, oil, fat)
+
+- key: drúgos
+  ety: PIE {*dʰrówgʰos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: a deception, falsehood, lie
+
+- key: dugatér
+  ety: PIE {*dʰugh₂tḗr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: dugatér
+      acc: dugatéram
+      gen: dugtrés
+      abl: dugtrés
+      dat: dugtrí
+      loc: dugatéri
+      ins: dugtré
+    plural:
+      nom: dugatéres
+      acc: dugatérans
+      gen: dugtróm
+      abl: dugtarmós
+      dat: dugtarmós
+      loc: dugtarsú
+      ins: dugtarbí
+  content:
+    - gen: f
+      def: daughter
+
+- key: dumós
+  ety: PIE {*dʰuh₂mós}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: smoke
+
+- key: dvór
+  ety: PIE {*dʰwṓr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: dvór
+      acc: dvóram
+      gen: durés
+      abl: durés
+      dat: durí
+      loc: dvóri
+      ins: duré
+    plural:
+      nom: dvóres
+      acc: dvórans
+      gen: duróm
+      abl: dvarmós
+      dat: dvarmós
+      loc: dvarsú
+      ins: dvarbí
+  content:
+    - gen: m
+      def: door
+
+- key: dénaman
+  ety: PIE {*ǵénh₁mn̥}
+  typ: noun
+  class: III-n
+  inflection:
+    singular:
+      nom: dénaman
+      acc: dénaman
+      gen: danaméns
+      abl: danaméns
+      dat: danaméni
+      loc: danaméni
+      ins: danaména
+    plural:
+      nom: dénamo
+      acc: dénamo
+      gen: danamnés
+      abl: danamnés
+      dat: danamní
+      loc: danaméni
+      ins: danamné
+
+- key: dénos
+  ety: PIE {*ǵénh₁os}
+  typ: noun
+  class: III-s
+  inflection:
+    singular:
+      nom: dénos
+      acc: dénos
+      gen: dénesos
+      abl: dénesos
+      dat: dénesi
+      loc: dénesi
+      ins: dénesa
+    plural:
+      nom: dénos
+      acc: dénos
+      gen: dénesom
+      abl: dénesmos
+      dat: dénesmos
+      loc: dénesu
+      ins: dénesbi
+  content:
+    - gen: n
+      def: race, lineage
+
+- key: dénatis
+  ety: PIE {*ǵénh₁tis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: dénatis
+      acc: dénatim
+      gen: danatís
+      abl: danatís
+      dat: danatí
+      loc: danatí
+      ins: danatí
+    plural:
+      nom: dénaties
+      acc: dénatins
+      gen: danatíom
+      abl: danatímos
+      dat: danatímos
+      loc: danatísu
+      ins: danatíbi
+  content:
+    - gen: f
+      def: birth, production
+
+- key: dénator
+  ety: PIE {*ǵénh₁tōr}
+  typ: noun
+  class: III-L
+  inflection:
+    singular:
+      nom: dénator
+      acc: dénatoram
+      gen: danatrés
+      abl: danatrés
+      dat: danatrí
+      loc: danatéri
+      ins: danatré
+    plural:
+      nom: dénatores
+      acc: dénatores
+      gen: danatróm
+      abl: danatarmós
+      dat: danatarmós
+      loc: danatarsú
+      ins: danatarbí
+  content:
+    - gen: m
+      def: one who begets, produces
+    - gen: m
+      def: parent
+
+- key: dénatri
+  ety: PIE {*ǵénh₁trih₂}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dénatri
+      acc: dénatrim
+      gen: danatryás
+      abl: danatryás
+      dat: danatryái
+      loc: danatryái
+      ins: danatryá
+    plural:
+      nom: dénatris
+      acc: dénatrins
+      gen: danatryóm
+      abl: danatryámos
+      dat: danatryámos
+      loc: danatryásu
+      ins: danatryábi
+  content:
+    - gen: f
+      def: female parent; mother
+
+- key: dénus
+  ety: PIE {*ǵénus}
+  typ: noun
+  class: III-u
+  inflection:
+    singular:
+      nom: dénus
+      acc: dénum
+      gen: danvés
+      abl: danvés
+      dat: danví
+      loc: dnévi
+      ins: danvé
+    plural:
+      nom: dénus
+      acc: dénuns
+      gen: danvóm
+      abl: dnumós
+      dat: dnumós
+      loc: dnusú
+      ins: dnubí
+  content:
+    - gen: f
+      def: cheek
+    - gen: f
+      def: jaw
+    - gen: f
+      def: chin
+
+- key: dústus
+  ety: PIE {*ǵéwstus}
+  typ: noun
+  class: III-u
+  inflection:
+    singular:
+      nom: dústus
+      acc: dústum
+      gen: dustús
+      abl: dustús
+      dat: dustévi
+      loc: dustévi
+      ins: dustú
+    plural:
+      nom: dústus
+      acc: dústuns
+      gen: dustévom
+      abl: dustúmos
+      dat: dustúmos
+      loc: dustúsu
+      ins: dustúbi
+  content:
+    - gen: m
+      def: taste
+
+- key: dalús
+  ety: PIE {*ǵéwstus}
+  typ: noun
+  class: U
+  content:
+    - gen: f
+      def: sister-in-law, brother's wife
+
+- key: dómbos
+  ety: PIE {*ǵómbʰos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: tooth
+    - gen: m
+      def: row of teeth
+    - gen: m
+      def: peg
+    - gen: m
+      def: number
+    - gen: m
+      def: calculation, reckoning
+
+- key: dónos
+  ety: PIE {*ǵónh₁os}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: birth
+    - gen: m
+      def: offspring
+
+- key: dónu
+  ety: PIE {*ǵónu}
+  typ: noun
+  class: III-u
+  inflection:
+    singular:
+      nom: dónu
+      acc: dónu
+      gen: dnús
+      abl: dnús
+      dat: dnévi
+      loc: dnévi
+      ins: dnú
+    plural:
+      nom: dónu
+      acc: dónu
+      gen: dnévom
+      abl: dnúmos
+      dat: dnúmos
+      loc: dnúsu
+      ins: dnúbi
+  content:
+    - gen: n
+      def: knee
+
+- key: dranóm
+  ety: PIE {*ǵr̥h₂nóm}
+  typ: noun
+  class: II
+  content:
+    - gen: n
+      def: grain
+
+- key: déros
+  ety: PIE {*ǵʰeh₁ro-}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: derelict; an abandoned or forsaken person
+    - gen: m
+      def: heir
+
+- key: dér
+  ety: PIE {*ǵʰḗr}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dér
+      acc: déram
+      gen: drés
+      abl: drés
+      dat: drí
+      loc: déri
+      ins: dré
+    plural:
+      nom: déres
+      acc: dérans
+      gen: dróm
+      abl: darmós
+      dat: darmós
+      loc: darsú
+      ins: darbí
+  content:
+    - gen: m
+      def: hedgehog
+
+- key: désor
+  ety: PIE {*ǵʰésōr}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: désor
+      acc: désoram
+      gen: dastrés
+      abl: dastrés
+      dat: dastrí
+      loc: daséri
+      ins: dastré
+    plural:
+      nom: désores
+      acc: désorans
+      gen: dastróm
+      abl: dasarmós
+      dat: dasarmós
+      loc: dasarsú
+      ins: dasarbí
+  content:
+    - gen: f
+      def: hand
+
+- key: déyom
+  ety: PIE {*ǵʰéyōm}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: déyom
+      acc: déyom
+      gen: dimés
+      abl: dimés
+      dat: dimí
+      loc: dyémi
+      ins: dimé
+  content:
+    - gen: f
+      def: winter
+    - gen: f
+      def: frost, snow
+
+- key: dáns
+  ety: PIE {*ǵʰh₂éns}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: dáns
+      acc: dánsam
+      gen: dansés
+      abl: dansés
+      dat: dansí
+      loc: dánsi
+      ins: dansé
+    plural:
+      nom: dánses
+      acc: dánsans
+      gen: dansóm
+      abl: dansmós
+      dat: dansmós
+      loc: dansú
+      ins: dansbí
+  content:
+    - gen: f
+      def: goose
+
+- key: damó
+  ety: PIE {*ǵʰmṓ}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: damó
+      acc: damónam
+      gen: damnés
+      abl: damnés
+      dat: damní
+      loc: daméni
+      ins: damné
+    plural:
+      nom: damónes
+      acc: damónans
+      gen: damnóm
+      abl: damanmós
+      dat: damanmós
+      loc: damansú
+      ins: damanbí
+  content:
+    - gen: m
+      def: earthling
+
+- key: dórtos
+  ety: PIE {*ǵʰórtos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: enclosure
+    - gen: m
+      def: garden
+
+- key: gerán
+  ety: PIE {*gerh₂ḗn}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: gerán
+      acc: geránam
+      gen: granés
+      abl: granés
+      dat: graní
+      loc: geráni
+      ins: grané
+    plural:
+      nom: geránes
+      acc: geránans
+      gen: granóm
+      abl: granmós
+      dat: granmós
+      loc: gransú
+      ins: granbí
+  content:
+    - gen: m
+      def: crane, heron
+
+- key: glís
+  ety: PIE {*gl̥h₁éys}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: glís
+      acc: glém
+      gen: glayés
+      abl: glayés
+      dat: glayí
+      loc: glí
+      ins: glayé
+    plural:
+      nom: glís
+      acc: glíns
+      gen: glayóm
+      abl: glimós
+      dat: glimós
+      loc: glisú
+      ins: glibí
+  content:
+    - gen: m
+      def: mouse, dormouse
+    - gen: m
+      def: weasel
+
+- key: góstis
+  ety: PIE {*gʰóstis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: góstis
+      acc: góstim
+      gen: gostís
+      abl: gostís
+      dat: gostí
+      loc: gostí
+      ins: gostí
+    plural:
+      nom: gósties
+      acc: góstins
+      gen: gostíom
+      abl: gostímos
+      dat: gostímos
+      loc: gostísu
+      ins: gostíbi
+  content:
+    - gen: m
+      def: guest
+    - gen: m
+      def: stranger
+
+- key: béntis
+  ety: PIE {*gʷémtis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: béntis
+      acc: béntim
+      gen: bantís
+      abl: bantís
+      dat: bantí
+      loc: bantí
+      ins: bantí
+    plural:
+      nom: bénties
+      acc: béntins
+      gen: bantíom
+      abl: bantímos
+      dat: bantímos
+      loc: bantísu
+      ins: bantíbi
+  content:
+    - gen: f
+      def: step, act of walking
+
+- key: bús
+  ety: PIE {*gʷṓws}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: bús
+      acc: bóm
+      gen: bús
+      abl: bús
+      dat: bévi
+      loc: bévi
+      ins: béva
+    plural:
+      nom: bóves
+      acc: bóvans
+      gen: bévom
+      abl: búmos
+      dat: búmos
+      loc: búsu
+      ins: búbi
+  content:
+    - gen: m, f
+      def: cattle
+
+- key: brávo
+  ety: PIE {*gʷréh₂wō}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: brávo
+      acc: brávonam
+      gen: brunés
+      abl: brunés
+      dat: bruní
+      loc: bravéni
+      ins: bruné
+    plural:
+      nom: brávones
+      acc: brávonans
+      gen: brunóm
+      abl: bravanmós
+      dat: bravanmós
+      loc: bravansú
+      ins: bravanbí
+  content:
+    - gen: m
+      def: quern, mill-stone
+
+- key: brivá
+  ety: PIE {*gʷriHwéh₂}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: mane, nape
+    - gen: f
+      def: neck, throat
+    - gen: f
+      def: estuary, mouth of an inlet
+
+- key: béntis
+  ety: PIE {*gʷʰéntis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: béntis
+      acc: béntim
+      gen: bantís
+      abl: bantís
+      dat: bantí
+      loc: bantí
+      ins: bantí
+    plural:
+      nom: bénties
+      acc: béntins
+      gen: bantíom
+      abl: bantímos
+      dat: bantímos
+      loc: bantísu
+      ins: bantíbi
+  content:
+    - gen: f
+      def: striking, killing
+
+- key: béros
+  ety: PIE {*gʷʰéros}
+  typ: noun
+  class: III-s
+  inflection:
+    singular:
+      nom: béros
+      acc: béros
+      gen: béresos
+      abl: béresos
+      dat: béresi
+      loc: béresi
+      ins: béresa
+    plural:
+      nom: béros
+      acc: béros
+      gen: béresom
+      abl: béresmos
+      dat: béresmos
+      loc: béresu
+      ins: béresbi
+  content:
+    - gen: n
+      def: heat
+    - gen: n
+      def: warm weather
+
+- key: ésvos
+  ety: PIE {*h₁éḱwos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: stallion, horse
+
+- key: élem
+  ety: PIE {*h₁élem}
+  typ: noun
+  class: U
+  content:
+    - gen: m
+      def: mountain elm
+
+- key: esós
+  ety: PIE {*h₁esh₂ós}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: master
+
+- key: ésar
+  ety: PIE {*h₁ésh₂r̥}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ésar
+      acc: ésar
+      gen: sáns
+      abl: sáns
+      dat: sáni
+      loc: sáni
+      ins: sána
+    plural:
+      nom: ésor
+      acc: ésor
+      gen: sanés
+      abl: sanés
+      dat: saní
+      loc: sáni
+      ins: sané
+  content:
+    - gen: n
+      def: (flowing) blood
+
+- key: ítar
+  ety: PIE {*h₁éytr̥}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ítar
+      acc: ítar
+      gen: iténs
+      abl: iténs
+      dat: iténi
+      loc: iténi
+      ins: iténa
+    plural:
+      nom: itór
+      acc: itór
+      gen: itnés
+      abl: itnés
+      dat: itní
+      loc: iténi
+      ins: itné
+  content:
+    - gen: n
+      def: way, course
+    - gen: n
+      def: journey
+
+- key: lúdis
+  ety: PIE {*h₁léwdʰis}
+  typ: noun
+  class: III-i
+  content:
+    - gen: m
+      def: people
+
+- key: agnís
+  ety: PIE {*h₁n̥gʷnís}
+  typ: noun
+  class: III-i
+  content:
+    - gen: m
+      def: fire
+
+- key: nóman
+  ety: PIE {*h₁nómn̥}
+  typ: noun
+  class: III-n
+  inflection:
+    singular:
+      nom: nóman
+      acc: nóman
+      gen: némans
+      abl: némans
+      dat: némni
+      loc: némni
+      ins: némana
+    plural:
+      nom: némo
+      acc: némo
+      gen: namnés
+      abl: namnés
+      dat: namní
+      loc: naméni
+      ins: namné
+  content:
+    - gen: n
+      def: name
+
+- key: óbis
+  ety: PIE {*h₁ógʷʰis}
+  typ: noun
+  class: III-i
+  inflection:
+    singular:
+      nom: óbis
+      acc: óbim
+      gen: ébis
+      abl: ébis
+      dat: ébi
+      loc: ébi
+      ins: ébi
+    plural:
+      nom: óbies
+      acc: óbins
+      gen: ébyom
+      abl: ébimos
+      dat: ébimos
+      loc: ébisu
+      ins: ébibi
+  content:
+    - gen: m
+      def: snake
+
+- key: ós
+  ety: PIE {*h₁óh₃s}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ós
+      acc: ós
+      gen: asés
+      abl: asés
+      dat: así
+      loc: ósi
+      ins: asé
+    plural:
+      nom: ósa
+      acc: ósa
+      gen: asóm
+      abl: asmós
+      dat: asmós
+      loc: asú
+      ins: asbí
+  content:
+    - gen: n
+      def: mouth
+
+- key: ólos
+  ety: PIE {*h₁ólos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: awl
+
+- key: ómbol
+  ety: PIE {*h₁óngʷl̥}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ómbol
+      acc: ómbolam
+      gen: amblés
+      abl: amblés
+      dat: amblí
+      loc: ambéli
+      ins: amblé
+    plural:
+      nom: ómboles
+      acc: ómbolans
+      gen: amblóm
+      abl: ambalmós
+      dat: ambalmós
+      loc: ambalsú
+      ins: ambalbí
+  content:
+    - gen: m
+      def: charcoal
+
+- key: údar
+  ety: PIE {*h₁ówHdʰr̥}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: údar
+      acc: údar
+      gen: udéns
+      abl: udéns
+      dat: udéni
+      loc: udéni
+      ins: udéna
+  content:
+    - gen: n
+      def: udder
+
+- key: óytos
+  ety: PIE {*h₁óytos}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: oath
+
+- key: rébos
+  ety: PIE {*h₁régʷos}
+  typ: noun
+  class: III-s
+  inflection:
+    singular:
+      nom: rébos
+      acc: rébos
+      gen: rébesos
+      abl: rébesos
+      dat: rébesi
+      loc: rébesi
+      ins: rébesa
+    plural:
+      nom: rébos
+      acc: rébos
+      gen: rébesom
+      abl: rébesmos
+      dat: rébesmos
+      loc: rébesu
+      ins: rébesbi
+  content:
+    - gen: n
+      def: darkness
+
+- key: vidéva
+  ety: PIE {*h₁widʰéwh₂}
+  typ: noun
+  class: I
+  content:
+    - gen: f
+      def: widow
+
+- key: yenáter
+  ety: PIE {*h₁yenh₂tēr}
+  typ: noun
+  class: U
+  content:
+    - gen: f
+      def: co-sister-in-law
+
+- key: ábol
+  ety: PIE {*h₂ébōl}
+  typ: noun
+  class: U
+  inflection:
+    singular:
+      nom: ábol
+      acc: ábolam
+      gen: ablés
+      abl: ablés
+      dat: ablí
+      loc: abéli
+      ins: ablé
+    plural:
+      nom: áboles
+      acc: ábolans
+      gen: ablóm
+      abl: abalmós
+      dat: abalmós
+      loc: abalsú
+      ins: abalbí
+  content:
+    - gen: m
+      def: apple
+
+- key: ádros
+  ety: PIE {*h₂éǵros}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: field
+    - gen: m
+      def: field, pasturage
+
+- key: ágos
+  ety: PIE {*h₂égʰos}
+  typ: noun
+  class: III-s
+  content:
+    - gen: n
+      def: (emotional) distress
+
+- key: agnós
+  ety: PIE {*h₂egʷnós}
+  typ: noun
+  class: II
+  content:
+    - gen: m
+      def: lamb
+
+- key: ómar
+  ety: PIE {*h₂éh₃mr̥}
+  typ: noun
+  class: U
+  content:
+    - gen: n
+      def: heat
+
+- key: milós
+  ety: PIE {*m(e)ilH-lo}
+  typ: adj
+  content:
+    - def: good

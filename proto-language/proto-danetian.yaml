@@ -2510,3 +2510,26 @@
   content:
     - gen: m
       def: testicle
+
+- key: sér
+  ety: PIE {*ḱḗr}
+  inflection:
+    singular:
+      nom: sér
+      acc: sér
+      gen: sardés
+      abl: sardés
+      dat: sardí
+      loc: sérdi
+      ins: sardé
+    plural:
+      nom: sérda
+      acc: sérda
+      gen: sardóm
+      abl: sardmós
+      dat: sardmós
+      loc: sardsú
+      ins: sardbí
+  content:
+    - gen: n
+      def: heart

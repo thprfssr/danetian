@@ -3,7 +3,7 @@
   typ: noun
   class: I
   inflection:
-    singular:
+    sg:
       nom: bardá
       acc: bardám
       gen: bardás
@@ -11,7 +11,7 @@
       dat: bardái
       loc: bardí
       ins: bardé
-    plural:
+    pl:
       nom: bardái
       acc: bardáns
       gen: bardóm
@@ -36,7 +36,7 @@
   typ: noun
   class: II
   inflection:
-    singular:
+    sg:
       nom: bádos
       acc: bádom
       gen: bádosyo
@@ -44,7 +44,7 @@
       dat: bádoi
       loc: bádi
       ins: báde
-    plural:
+    pl:
       nom: bádoi
       acc: bádons
       gen: bádom
@@ -77,7 +77,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: bértis
       acc: bértim
       gen: bartís
@@ -85,7 +85,7 @@
       dat: bartí
       loc: bartí
       ins: bartí
-    plural:
+    pl:
       nom: bérties
       acc: bértins
       gen: bartíom
@@ -102,7 +102,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: bór
       acc: bóram
       gen: brés
@@ -110,7 +110,7 @@
       dat: bréi
       loc: bóri
       ins: bré
-    plural:
+    pl:
       nom: bóres
       acc: bórans
       gen: bróm
@@ -127,7 +127,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: brévar
       acc: brévar
       gen: bravéns
@@ -135,7 +135,7 @@
       dat: bravéni
       loc: bravéni
       ins: bravéna
-    plural:
+    pl:
       nom: brévor
       acc: brévor
       gen: brunés
@@ -152,7 +152,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: bráter
       acc: bráteram
       gen: brátars
@@ -160,7 +160,7 @@
       dat: brátri
       loc: brátri
       ins: brátra
-    plural:
+    pl:
       nom: bráteres
       acc: bráterans
       gen: brátrom
@@ -177,7 +177,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: budmén
       acc: budménam
       gen: budnés
@@ -185,7 +185,7 @@
       dat: budní
       loc: budméni
       ins: budné
-    plural:
+    pl:
       nom: budménes
       acc: budménans
       gen: budnóm
@@ -226,7 +226,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dayavér
       acc: dayavéram
       gen: dayurés
@@ -234,7 +234,7 @@
       dat: dayurí
       loc: dayavéri
       ins: dayuré
-    plural:
+    pl:
       nom: dayavéres
       acc: dayavérans
       gen: dayuróm
@@ -251,7 +251,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: dáitis
       acc: dáitim
       gen: ditís
@@ -259,7 +259,7 @@
       dat: dití
       loc: dití
       ins: dití
-    plural:
+    pl:
       nom: dáities
       acc: dáitins
       gen: ditíom
@@ -276,7 +276,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: dánu
       acc: dánu
       gen: danvés
@@ -284,7 +284,7 @@
       dat: danví
       loc: dánvi
       ins: danvé
-    plural:
+    pl:
       nom: dánu
       acc: dánu
       gen: danvóm
@@ -303,7 +303,7 @@
   typ: noun
   class: II
   inflection:
-    singular:
+    sg:
       nom: dónom
       acc: dónom
       gen: dónosyo
@@ -311,7 +311,7 @@
       dat: dónoi
       loc: dóni
       ins: dóne
-    plural:
+    pl:
       nom: dóna
       acc: dóna
       gen: dónom
@@ -336,7 +336,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dótor
       acc: dótoram
       gen: datrés
@@ -344,7 +344,7 @@
       dat: datrí
       loc: datéri
       ins: datré
-    plural:
+    pl:
       nom: dótores
       acc: dótorans
       gen: datróm
@@ -361,7 +361,7 @@
   typ: noun
   class: III-s
   inflection:
-    singular:
+    sg:
       nom: désos
       acc: désos
       gen: désesos
@@ -369,7 +369,7 @@
       dat: désesi
       loc: désesi
       ins: désesa
-    plural:
+    pl:
       nom: désos
       acc: désos
       gen: désesom
@@ -396,7 +396,7 @@
   typ: noun
   class: III-ya
   inflection:
-    singular:
+    sg:
       nom: dívi
       acc: dívim
       gen: divyás
@@ -404,7 +404,7 @@
       dat: divyái
       loc: divyái
       ins: divyá
-    plural:
+    pl:
       nom: dívis
       acc: dívins
       gen: divyóm
@@ -439,7 +439,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: dóm
       acc: dóm
       gen: déms
@@ -447,7 +447,7 @@
       dat: démi
       loc: démi
       ins: déma
-    plural:
+    pl:
       nom: dómes
       acc: dómans
       gen: démom
@@ -466,7 +466,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: dóru
       acc: dóru
       gen: drús
@@ -474,7 +474,7 @@
       dat: drévi
       loc: drévi
       ins: drú
-    plural:
+    pl:
       nom: dóru
       acc: dóru
       gen: drévom
@@ -493,7 +493,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: dús
       acc: dús
       gen: dúsos
@@ -501,7 +501,7 @@
       dat: dúsi
       loc: dúsi
       ins: dúsa
-    plural:
+    pl:
       nom: dúsos
       acc: dúsos
       gen: dúses
@@ -518,7 +518,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: dyús
       acc: dyém
       gen: divés
@@ -526,7 +526,7 @@
       dat: diví
       loc: dyévi
       ins: divé
-    plural:
+    pl:
       nom: dyús
       acc: dyúns
       gen: divóm
@@ -545,7 +545,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: dédom
       acc: dédom
       gen: damés
@@ -562,7 +562,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: déman
       acc: déman
       gen: daméns
@@ -570,7 +570,7 @@
       dat: daméni
       loc: daméni
       ins: daména
-    plural:
+    pl:
       nom: démo
       acc: démo
       gen: damnés
@@ -587,7 +587,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: dés
       acc: désam
       gen: dasés
@@ -595,7 +595,7 @@
       dat: dasí
       loc: dési
       ins: dasé
-    plural:
+    pl:
       nom: déses
       acc: désans
       gen: dasóm
@@ -614,7 +614,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: détis
       acc: détim
       gen: datís
@@ -622,7 +622,7 @@
       dat: datí
       loc: datí
       ins: datí
-    plural:
+    pl:
       nom: déties
       acc: détins
       gen: datíom
@@ -639,7 +639,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: bítis
       acc: bítim
       gen: bitís
@@ -647,7 +647,7 @@
       dat: bití
       loc: bití
       ins: bití
-    plural:
+    pl:
       nom: bíties
       acc: bítins
       gen: bitíom
@@ -686,7 +686,7 @@
   typ: noun
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: dráks
       acc: drágam
       gen: dragés
@@ -694,7 +694,7 @@
       dat: dragí
       loc: drági
       ins: dragé
-    plural:
+    pl:
       nom: dráges
       acc: drágans
       gen: dragóm
@@ -719,7 +719,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dugatér
       acc: dugatéram
       gen: dugtrés
@@ -727,7 +727,7 @@
       dat: dugtrí
       loc: dugatéri
       ins: dugtré
-    plural:
+    pl:
       nom: dugatéres
       acc: dugatérans
       gen: dugtróm
@@ -752,7 +752,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dvór
       acc: dvóram
       gen: durés
@@ -760,7 +760,7 @@
       dat: durí
       loc: dvóri
       ins: duré
-    plural:
+    pl:
       nom: dvóres
       acc: dvórans
       gen: duróm
@@ -777,7 +777,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: dénaman
       acc: dénaman
       gen: danaméns
@@ -785,7 +785,7 @@
       dat: danaméni
       loc: danaméni
       ins: danaména
-    plural:
+    pl:
       nom: dénamo
       acc: dénamo
       gen: danamnés
@@ -799,7 +799,7 @@
   typ: noun
   class: III-s
   inflection:
-    singular:
+    sg:
       nom: dénos
       acc: dénos
       gen: dénesos
@@ -807,7 +807,7 @@
       dat: dénesi
       loc: dénesi
       ins: dénesa
-    plural:
+    pl:
       nom: dénos
       acc: dénos
       gen: dénesom
@@ -824,7 +824,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: dénatis
       acc: dénatim
       gen: danatís
@@ -832,7 +832,7 @@
       dat: danatí
       loc: danatí
       ins: danatí
-    plural:
+    pl:
       nom: dénaties
       acc: dénatins
       gen: danatíom
@@ -849,7 +849,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dénator
       acc: dénatoram
       gen: danatrés
@@ -857,7 +857,7 @@
       dat: danatrí
       loc: danatéri
       ins: danatré
-    plural:
+    pl:
       nom: dénatores
       acc: dénatores
       gen: danatróm
@@ -876,7 +876,7 @@
   typ: noun
   class: III-ya
   inflection:
-    singular:
+    sg:
       nom: dénatri
       acc: dénatrim
       gen: danatryás
@@ -884,7 +884,7 @@
       dat: danatryái
       loc: danatryái
       ins: danatryá
-    plural:
+    pl:
       nom: dénatris
       acc: dénatrins
       gen: danatryóm
@@ -901,7 +901,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: dénus
       acc: dénum
       gen: danvés
@@ -909,7 +909,7 @@
       dat: danví
       loc: dnévi
       ins: danvé
-    plural:
+    pl:
       nom: dénus
       acc: dénuns
       gen: danvóm
@@ -930,7 +930,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: dústus
       acc: dústum
       gen: dustús
@@ -938,7 +938,7 @@
       dat: dustévi
       loc: dustévi
       ins: dustú
-    plural:
+    pl:
       nom: dústus
       acc: dústuns
       gen: dustévom
@@ -989,7 +989,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: dónu
       acc: dónu
       gen: dnús
@@ -997,7 +997,7 @@
       dat: dnévi
       loc: dnévi
       ins: dnú
-    plural:
+    pl:
       nom: dónu
       acc: dónu
       gen: dnévom
@@ -1032,7 +1032,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: dér
       acc: déram
       gen: drés
@@ -1040,7 +1040,7 @@
       dat: drí
       loc: déri
       ins: dré
-    plural:
+    pl:
       nom: déres
       acc: dérans
       gen: dróm
@@ -1057,7 +1057,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: désor
       acc: désoram
       gen: dastrés
@@ -1065,7 +1065,7 @@
       dat: dastrí
       loc: daséri
       ins: dastré
-    plural:
+    pl:
       nom: désores
       acc: désorans
       gen: dastróm
@@ -1082,7 +1082,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: déyom
       acc: déyom
       gen: dimés
@@ -1101,7 +1101,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: dáns
       acc: dánsam
       gen: dansés
@@ -1109,7 +1109,7 @@
       dat: dansí
       loc: dánsi
       ins: dansé
-    plural:
+    pl:
       nom: dánses
       acc: dánsans
       gen: dansóm
@@ -1126,7 +1126,7 @@
   typ: noun
   class: III-on
   inflection:
-    singular:
+    sg:
       nom: damó
       acc: damónam
       gen: damnés
@@ -1134,7 +1134,7 @@
       dat: damní
       loc: daméni
       ins: damné
-    plural:
+    pl:
       nom: damónes
       acc: damónans
       gen: damnóm
@@ -1161,7 +1161,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: gerán
       acc: geránam
       gen: granés
@@ -1169,7 +1169,7 @@
       dat: graní
       loc: geráni
       ins: grané
-    plural:
+    pl:
       nom: geránes
       acc: geránans
       gen: granóm
@@ -1186,7 +1186,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: glís
       acc: glém
       gen: glayés
@@ -1194,7 +1194,7 @@
       dat: glayí
       loc: glí
       ins: glayé
-    plural:
+    pl:
       nom: glís
       acc: glíns
       gen: glayóm
@@ -1213,7 +1213,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: góstis
       acc: góstim
       gen: gostís
@@ -1221,7 +1221,7 @@
       dat: gostí
       loc: gostí
       ins: gostí
-    plural:
+    pl:
       nom: gósties
       acc: góstins
       gen: gostíom
@@ -1240,7 +1240,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: béntis
       acc: béntim
       gen: bantís
@@ -1248,7 +1248,7 @@
       dat: bantí
       loc: bantí
       ins: bantí
-    plural:
+    pl:
       nom: bénties
       acc: béntins
       gen: bantíom
@@ -1265,7 +1265,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: bús
       acc: bóm
       gen: bús
@@ -1273,7 +1273,7 @@
       dat: bévi
       loc: bévi
       ins: béva
-    plural:
+    pl:
       nom: bóves
       acc: bóvans
       gen: bévom
@@ -1290,7 +1290,7 @@
   typ: noun
   class: III-on
   inflection:
-    singular:
+    sg:
       nom: brávo
       acc: brávonam
       gen: brunés
@@ -1298,7 +1298,7 @@
       dat: bruní
       loc: bravéni
       ins: bruné
-    plural:
+    pl:
       nom: brávones
       acc: brávonans
       gen: brunóm
@@ -1327,7 +1327,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: béntis
       acc: béntim
       gen: bantís
@@ -1335,7 +1335,7 @@
       dat: bantí
       loc: bantí
       ins: bantí
-    plural:
+    pl:
       nom: bénties
       acc: béntins
       gen: bantíom
@@ -1352,7 +1352,7 @@
   typ: noun
   class: III-s
   inflection:
-    singular:
+    sg:
       nom: béros
       acc: béros
       gen: béresos
@@ -1360,7 +1360,7 @@
       dat: béresi
       loc: béresi
       ins: béresa
-    plural:
+    pl:
       nom: béros
       acc: béros
       gen: béresom
@@ -1403,7 +1403,7 @@
   typ: noun
   class: III-an
   inflection:
-    singular:
+    sg:
       nom: ésar
       acc: ésar
       gen: sáns
@@ -1411,7 +1411,7 @@
       dat: sáni
       loc: sáni
       ins: sána
-    plural:
+    pl:
       nom: ésor
       acc: ésor
       gen: sanés
@@ -1428,7 +1428,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: ítar
       acc: ítar
       gen: iténs
@@ -1436,7 +1436,7 @@
       dat: iténi
       loc: iténi
       ins: iténa
-    plural:
+    pl:
       nom: itór
       acc: itór
       gen: itnés
@@ -1471,7 +1471,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: nóman
       acc: nóman
       gen: némans
@@ -1479,7 +1479,7 @@
       dat: némni
       loc: némni
       ins: némana
-    plural:
+    pl:
       nom: némo
       acc: némo
       gen: namnés
@@ -1496,7 +1496,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: óbis
       acc: óbim
       gen: ébis
@@ -1504,7 +1504,7 @@
       dat: ébi
       loc: ébi
       ins: ébi
-    plural:
+    pl:
       nom: óbies
       acc: óbins
       gen: ébyom
@@ -1521,7 +1521,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: ós
       acc: ós
       gen: asés
@@ -1529,7 +1529,7 @@
       dat: así
       loc: ósi
       ins: asé
-    plural:
+    pl:
       nom: ósa
       acc: ósa
       gen: asóm
@@ -1554,7 +1554,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: ómbol
       acc: ómbolam
       gen: amblés
@@ -1562,7 +1562,7 @@
       dat: amblí
       loc: ambéli
       ins: amblé
-    plural:
+    pl:
       nom: ómboles
       acc: ómbolans
       gen: amblóm
@@ -1579,7 +1579,7 @@
   typ: noun
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: údar
       acc: údar
       gen: udéns
@@ -1604,7 +1604,7 @@
   typ: noun
   class: III-s
   inflection:
-    singular:
+    sg:
       nom: rébos
       acc: rébos
       gen: rébesos
@@ -1612,7 +1612,7 @@
       dat: rébesi
       loc: rébesi
       ins: rébesa
-    plural:
+    pl:
       nom: rébos
       acc: rébos
       gen: rébesom
@@ -1645,7 +1645,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: ábol
       acc: ábolam
       gen: ablés
@@ -1653,7 +1653,7 @@
       dat: ablí
       loc: abéli
       ins: ablé
-    plural:
+    pl:
       nom: áboles
       acc: ábolans
       gen: ablóm
@@ -1710,7 +1710,7 @@
   typ: noun
   class: III-on
   inflection:
-    singular:
+    sg:
       nom: ásmo
       acc: ásmonam
       gen: samnés
@@ -1718,7 +1718,7 @@
       dat: samní
       loc: sméni
       ins: samné
-    plural:
+    pl:
       nom: ásmones
       acc: ásmonans
       gen: samnóm
@@ -1735,7 +1735,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: álbit
       acc: álbit
       gen: albités
@@ -1743,7 +1743,7 @@
       dat: albití
       loc: álbiti
       ins: albité
-    plural:
+    pl:
       nom: álbita
       acc: álbita
       gen: albitóm
@@ -1800,7 +1800,7 @@
   typ: noun
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: ánats
       acc: ánatam
       gen: anatés
@@ -1808,7 +1808,7 @@
       dat: anatí
       loc: ánati
       ins: anaté
-    plural:
+    pl:
       nom: ánates
       acc: ánatans
       gen: anatóm
@@ -1861,7 +1861,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: ávis
       acc: ávim
       gen: uyés
@@ -1869,7 +1869,7 @@
       dat: uyéi
       loc: ávi
       ins: uyé
-    plural:
+    pl:
       nom: ávies
       acc: ávins
       gen: uyóm
@@ -1886,7 +1886,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: áusos
       acc: áusosam
       gen: usés
@@ -1894,7 +1894,7 @@
       dat: uséi
       loc: usési
       ins: usé
-    plural:
+    pl:
       nom: áusoses
       acc: áusoses
       gen: usóm
@@ -1929,7 +1929,7 @@
   typ: noun
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: nér
       acc: néram
       gen: andrés
@@ -1937,7 +1937,7 @@
       dat: andréi
       loc: néri
       ins: andré
-    plural:
+    pl:
       nom: néres
       acc: nérans
       gen: andróm
@@ -1956,7 +1956,7 @@
   typ: noun
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: ósets
       acc: ósetam
       gen: ásets
@@ -1964,7 +1964,7 @@
       dat: áseti
       loc: áseti
       ins: áseta
-    plural:
+    pl:
       nom: ósetes
       acc: ósetes
       gen: ásetom
@@ -1981,7 +1981,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: óstris
       acc: óstrim
       gen: ástris
@@ -1989,7 +1989,7 @@
       dat: ástri
       loc: ástri
       ins: ástri
-    plural:
+    pl:
       nom: óstries
       acc: óstrins
       gen: ástaryom
@@ -2008,7 +2008,7 @@
   typ: noun
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: óms
       acc: óm
       gen: amés
@@ -2016,7 +2016,7 @@
       dat: amí
       loc: ámi
       ins: amé
-    plural:
+    pl:
       nom: ómes
       acc: ómans
       gen: amóm
@@ -2041,7 +2041,7 @@
   typ: noun
   class: III-C
   inflection:
-    singular:
+    sg:
       nom: óst
       acc: óst
       gen: ástsos
@@ -2049,7 +2049,7 @@
       dat: ástsi
       loc: ástsi
       ins: ástsa
-    plural:
+    pl:
       nom: ástsos
       acc: ástsos
       gen: astsés
@@ -2066,7 +2066,7 @@
   typ: noun
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: óvis
       acc: óvim
       gen: ávis
@@ -2074,7 +2074,7 @@
       dat: ávi
       loc: ávi
       ins: ávi
-    plural:
+    pl:
       nom: óvies
       acc: óvins
       gen: áviom
@@ -2091,7 +2091,7 @@
   typ: noun
   class: U
   inflection:
-    singular:
+    sg:
       nom: ús
       acc: ús
       gen: áusos
@@ -2099,7 +2099,7 @@
       dat: áusi
       loc: áusi
       ins: áusa
-    plural:
+    pl:
       nom: áusos
       acc: áusos
       gen: usés
@@ -2124,7 +2124,7 @@
   typ: noun
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: óyu
       acc: óyu
       gen: yús
@@ -2132,7 +2132,7 @@
       dat: yévi
       loc: yévi
       ins: yú
-    plural:
+    pl:
       nom: óyu
       acc: óyu
       gen: yévom
@@ -2162,7 +2162,7 @@
   ety: PIE {*h₂stḗr}
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: stér
       acc: stéram
       gen: strés
@@ -2170,7 +2170,7 @@
       dat: stréi
       loc: stéri
       ins: stré
-    plural:
+    pl:
       nom: stéres
       acc: stérans
       gen: stróm
@@ -2193,7 +2193,7 @@
   ety: PIE {*h₂wóstu}
   class: III-u
   inflection:
-    singular:
+    sg:
       nom: vóstu
       acc: vóstu
       gen: vóstus
@@ -2201,7 +2201,7 @@
       dat: vóstvi
       loc: vóstvi
       ins: vóstu
-    plural:
+    pl:
       nom: vóstu
       acc: vóstu
       gen: vóstvom
@@ -2224,7 +2224,7 @@
   ety: PIE {*h₃bʰrúHs}
   class: U
   inflection:
-    singular:
+    sg:
       nom: brús
       acc: brévam
       gen: brués
@@ -2232,7 +2232,7 @@
       dat: bruí
       loc: brévi
       ins: brué
-    plural:
+    pl:
       nom: bréves
       acc: brévans
       gen: bruóm
@@ -2248,7 +2248,7 @@
   ety: PIE {*h₃dónts}
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: dónts
       acc: dóntam
       gen: dantés
@@ -2256,7 +2256,7 @@
       dat: dantí
       loc: dónti
       ins: danté
-    plural:
+    pl:
       nom: dóntes
       acc: dóntans
       gen: dantóm
@@ -2279,7 +2279,7 @@
   ety: PIE {*h₃éngʷn̥}
   class: III-n
   inflection:
-    singular:
+    sg:
       nom: ómban
       acc: ómban
       gen: ambéns
@@ -2295,7 +2295,7 @@
   ety: PIE {*h₃énh₂os}
   class: III-s
   inflection:
-    singular:
+    sg:
       nom: ónos
       acc: ónos
       gen: ónasos
@@ -2303,7 +2303,7 @@
       dat: ónasi
       loc: ónasi
       ins: ónasa
-    plural:
+    pl:
       nom: ónos
       acc: ónos
       gen: ónasom
@@ -2319,7 +2319,7 @@
   ety: PIE {*h₃érō}
   class: III-on
   inflection:
-    singular:
+    sg:
       nom: óro
       acc: óronam
       gen: arnés
@@ -2327,7 +2327,7 @@
       dat: arní
       loc: réni
       ins: arné
-    plural:
+    pl:
       nom: órones
       acc: óronans
       gen: arnóm
@@ -2350,7 +2350,7 @@
   ety: PIE {*h₃nóbʰōl}
   class: III-L
   inflection:
-    singular:
+    sg:
       nom: nóbol
       acc: nóbolam
       gen: amblés
@@ -2358,7 +2358,7 @@
       dat: amblí
       loc: ambéli
       ins: amblé
-    plural:
+    pl:
       nom: nóboles
       acc: nóbolans
       gen: amblóm
@@ -2374,7 +2374,7 @@
   ety: PIE {*h₃nṓgʰs}
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: nógs
       acc: nógam
       gen: negés
@@ -2382,7 +2382,7 @@
       dat: negí
       loc: négi
       ins: negé
-    plural:
+    pl:
       nom: nóges
       acc: nógans
       gen: negóm
@@ -2398,7 +2398,7 @@
   ety: PIE {*h₃ókʷs}
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: óps
       acc: óps
       gen: óps
@@ -2430,7 +2430,7 @@
   ety: PIE {*h₃rḗǵnih₂}
   class: III-ya
   inflection:
-    singular:
+    sg:
       nom: rédni
       acc: rédnim
       gen: rédanyas
@@ -2438,7 +2438,7 @@
       dat: rédanyai
       loc: rédanyai
       ins: rédanya
-    plural:
+    pl:
       nom: rédnis
       acc: rédnins
       gen: rédanyom
@@ -2454,7 +2454,7 @@
   ety: PIE {*h₃rḗǵs}
   class: III-S
   inflection:
-    singular:
+    sg:
       nom: régs
       acc: rédam
       gen: régs
@@ -2462,7 +2462,7 @@
       dat: rédi
       loc: rédi
       ins: réda
-    plural:
+    pl:
       nom: rédes
       acc: rédans
       gen: rédom
@@ -2485,7 +2485,7 @@
   ety: PIE {*Hrugʰís}
   class: III-i
   inflection:
-    singular:
+    sg:
       nom: rugís
       acc: rugím
       gen: rugís
@@ -2493,7 +2493,7 @@
       dat: rugí
       loc: rugí
       ins: rugí
-    plural:
+    pl:
       nom: rugíes
       acc: rugíns
       gen: rugíom
@@ -2514,7 +2514,7 @@
 - key: sér
   ety: PIE {*ḱḗr}
   inflection:
-    singular:
+    sg:
       nom: sér
       acc: sér
       gen: sardés
@@ -2522,7 +2522,7 @@
       dat: sardí
       loc: sérdi
       ins: sardé
-    plural:
+    pl:
       nom: sérda
       acc: sérda
       gen: sardóm
@@ -2533,3 +2533,544 @@
   content:
     - gen: n
       def: heart
+
+- key: sérso
+  ety: PIE {*ḱérh₂sō}
+  inflection:
+    sg:
+      nom: séraso
+      acc: sérasonam
+      gen: sarasnés
+      abl: sarasnés
+      dat: sarasní
+      loc: saraséni
+      ins: sarasné
+    pl:
+      nom: sérasones
+      acc: sérasonans
+      gen: sarasnóm
+      abl: sarasanmós
+      dat: sarasanmós
+      loc: sarasansú
+      ins: sarasanbí
+  content:
+    - gen: m
+      def: head, skull
+
+- key: slévos
+  ety: PIE {*ḱléwos}
+  class: III-s
+  content:
+    - gen: n
+      def: fame
+
+- key: slíta
+  ety: PIE {*ḱléyteh₂}
+  class: I
+  content:
+    - gen: f
+      def: something leaning, sloped, inclined
+
+- key: slítra
+  ety: PIE {*ḱléytreh₂}
+  class: I
+  content:
+    - gen: f
+      def: shelter, covering
+
+- key: slúnis
+  ety: PIE {*ḱlównis}
+  class: III-i
+  content:
+    - gen: f
+      def: buttocks, hip
+
+- key: snída
+  ety: PIE {*ḱ(o)nid-a}
+  class: I
+  content:
+    - gen: f
+      def: nit, louse egg
+
+- key: sopós
+  ety: PIE {*ḱoph₂ós}
+  class: II
+  content:
+    - gen: m
+      def: hoof
+
+- key: sarsós
+  ety: PIE {*ḱr̥sós}
+  class: II
+  content:
+    - gen: m
+      def: vehicle
+
+- key: svó
+  ety: PIE {*ḱwṓ}
+  inflection:
+    sg:
+      nom: svó
+      acc: svónam
+      gen: sunés
+      abl: sunés
+      dat: suní
+      loc: svéni
+      ins: suné
+    pl:
+      nom: svónes
+      acc: svónans
+      gen: sunóm
+      abl: svanmós
+      dat: svanmós
+      loc: svansú
+      ins: svanbí
+  content:
+    - gen: m
+      def: dog
+
+- key: kagyóm
+  ety: PIE {*kagʰyóm}
+  class: II
+  content:
+    - gen: n
+      def: enclosure, hedge
+
+- key: kápros
+  ety: PIE {*kápros}
+  class: II
+  content:
+    - gen: m
+      def: he-goat, billy goat
+
+- key: káput
+  ety: PIE {káput}
+  inflection:
+    sg:
+      nom: káput
+      acc: káput
+      gen: kapwéts
+      abl: kapwéts
+      dat: kapwéti
+      loc: kapwéti
+      ins: kapwéta
+  content:
+    - gen: n
+      def: head
+
+- key: kótus
+  ety: PIE {*kéh₃tus}
+  class: III-u
+  inflection:
+    sg:
+      nom: kótus
+      acc: kótum
+      gen: katús
+      abl: katús
+      dat: katévi
+      loc: katévi
+      ins: katú
+    pl:
+      nom: kótves
+      acc: kótuns
+      gen: katvóm
+      abl: katúmos
+      dat: katúmos
+      loc: katúsu
+      ins: katúbi
+  content:
+    - gen: m
+      def: fight
+
+- key: kóksa
+  ety: PIE {*kóḱs-eh₂}
+  class: I
+  content:
+    - gen: f
+      def: (anatomy) joint
+    - gen: f
+      def: hip
+    - gen: f
+      def: armpit
+
+- key: kóslos
+  ety: PIE {*kóslos}
+  class: II
+  content:
+    - gen: m
+      def: hazel
+
+- key: krovyós
+  ety: PIE {*krow-yós}
+  class: II
+  content:
+    - gen: m
+      def: blood (dead, raw, cold)
+
+- key: péplos
+  ety: PIE {*kʷékʷlos }
+  class: II
+  content:
+    - gen: m
+      def: wheel
+    - gen: m
+      def: circle
+
+- key: poiná
+  ety: PIE {*kʷoynéh₂}
+  class: I
+  content:
+    - gen: f
+      def: payment
+    - gen: f
+      def: punishment, vengeance
+
+- key: pármis
+  ety: PIE {*kʷŕ̥mis}
+  class: III-i
+  content:
+    - gen: m
+      def: worm
+
+- key: límo
+  ety: PIE {*léymō}
+  inflection:
+    sg:
+      nom: límo
+      acc: límonam
+      gen: alyamnés
+      abl: alyamnés
+      dat: alyamní
+      loc: liméni
+      ins: alyamné
+    pl:
+      nom: límones
+      acc: límones
+      gen: alyamnón
+      abl: limanmós
+      dat: limanmós
+      loc: limansú
+      ins: limanbí
+  content:
+    - gen: m
+      def: lake
+
+- key: lókus
+  ety: PIE {*lókus}
+  inflection:
+    sg:
+      nom: lókus
+      acc: lókum
+      gen: alkvés
+      abl: alkvés
+      dat: alkví
+      loc: lókvi
+      ins: alkvé
+    pl:
+      nom: lókves
+      acc: lókves
+      gen: lókuns
+      abl: alkumós
+      dat: alkumós
+      loc: alkusú
+      ins: alkubí
+  content:
+    - gen: m
+      def: pond, pool
+
+- key: lúksna
+  ety: PIE {*lówksneh₂}
+  class: I
+  content:
+    - gen: f
+      def: moon
+
+- key: lóisa
+  ety: PIE {*lóyseh₂}
+  class: I
+  content:
+    - gen: f
+      def: following, track
+    - gen: f
+      def: (agriculture) furrow
+
+- key: médu
+  ety: PIE {*médʰu}
+  class: III-u
+  inflection:
+    sg:
+      nom: médu
+      acc: médu
+      gen: andús
+      abl: andús
+      dat: andévi
+      loc: andévi
+      ins: andú
+    pl:
+      nom: médu
+      acc: médu
+      gen: andévom
+      abl: andúmos
+      dat: andúmos
+      loc: andúsu
+      ins: andúbi
+  content:
+    - gen: n
+      def: honey, mead
+
+- key: méns
+  ety: PIE {*mḗh₁n̥s}
+  inflection:
+    sg:
+      nom: méns
+      acc: ménsam
+      gen: ménsos
+      abl: ménsos
+      dat: ménsi
+      loc: ménsi
+      ins: ménsa
+    pl:
+      nom: ménses
+      acc: ménsans
+      gen: ménsom
+      abl: ménsmos
+      dat: ménsmos
+      loc: ménsu
+      ins: ménsbi
+  content:
+    - gen: m
+      def: moon
+    - gen: m
+      def: month
+
+- key: máter
+  ety: PIE {*méh₂tēr}
+  inflection:
+    sg:
+      nom: máter
+      acc: máteram
+      gen: mátars
+      abl: mátars
+      dat: mátri
+      loc: mátri
+      ins: mátra
+    pl:
+      nom: máteres
+      acc: máterans
+      gen: mátrom
+      abl: mátarmos
+      dat: mátarmos
+      loc: mátarsu
+      ins: mátarbi
+  content:
+    - gen: f
+      def: mother
+
+- key: méms
+  ety: PIE {*mḗms}
+  inflection:
+    sg:
+      nom: méms
+      acc: méms
+      gen: mémsos
+      abl: mémsos
+      dat: mémsi
+      loc: mémsi
+      ins: mémsa
+  content:
+    - gen: n
+      def: flesh, meat
+
+- key: ménos
+  ety: PIE {*ménos}
+  class: III-s
+  content:
+    - gen: n
+      def: mind, thought
+
+- key: méntis
+  ety: PIE {*méntis}
+  class: III-i
+  inflection:
+    sg:
+      nom: méntis
+      acc: méntim
+      gen: mantís
+      abl: mantís
+      dat: mantí
+      loc: mantí
+      ins: mantí
+    pl:
+      nom: ménties
+      acc: méntins
+      gen: mantíom
+      abl: mantímos
+      dat: mantímos
+      loc: mantísu
+      ins: mantíbi
+  content:
+    - gen: f
+      def: thought
+
+- key: mértis
+  ety: PIE {*mértis}
+  inflection:
+    sg:
+      nom: mértis
+      acc: mértim
+      gen: martís
+      abl: martís
+      dat: martí
+      loc: martí
+      ins: martí
+    pl:
+      nom: márties
+      acc: mártins
+      gen: martíom
+      abl: martímos
+      dat: martímos
+      loc: martísu
+      ins: martíbi
+  content:
+    - gen: f
+      def: death
+
+- key: misdós
+  ety: PIE {*misdʰós}
+  class: II
+  content:
+    - gen: m
+      def: reward, prize
+    - gen: m
+      def: wages, payment
+
+- key: móri
+  ety: PIE {*móri}
+  inflection:
+    sg:
+      nom: móri
+      acc: móri
+      gen: ambrís
+      abl: ambrís
+      dat: ambrí
+      loc: ambrí
+      ins: ambrí
+    pl:
+      nom: móri
+      acc: móri
+      gen: ambríom
+      abl: ambrímos
+      dat: ambrímos
+      loc: ambrísu
+      ins: ambríbi
+
+- key: morvyós
+  ety: PIE {*morwi-os}
+  class: II
+  content:
+    - gen: m
+      def: ant
+
+- key: mosgós
+  ety: PIE {*mosgʰós}
+  class: II
+  content:
+    - gen: m
+      def: marrow
+    - gen: m
+      def: brain
+
+- key: moisós
+  ety: PIE {*moysós}
+  class: II
+  content:
+    - gen: m
+      def: ram, sheep
+    - gen: m
+      def: fleece, skin
+
+- key: mús
+  ety: PIE {*múh₂s}
+  inflection:
+    sg:
+      nom: mús
+      acc: músam
+      gen: musés
+      abl: musés
+      dat: musí
+      loc: músi
+      ins: musé
+    pl:
+      nom: múses
+      acc: músans
+      gen: musóm
+      abl: musmós
+      dat: musmós
+      loc: musú
+      ins: musbí
+  content:
+    - gen: m
+      def: mouse
+
+- key: lús
+  ety: PIE {*lúH-s}
+  content:
+    - gen: m
+      def: louse
+
+- key: mútrom
+  ety: PIE {*múHtrom}
+  class: II
+  content:
+    - gen: n
+      def: excrement, urine
+    - gen: n
+      def: filth, sediment
+
+- key: ambrós
+  ety: PIE {*n̥bʰrós}
+  class: II
+  content:
+    - gen: m
+      def: rain-cloud, with semantic narrowing to rain, cloud
+
+- key: nébos
+  ety: PIE {*nébʰos}
+  class: III-s
+  content:
+    - gen: n
+      def: cloud
+    - gen: n
+      def: mist, moisture
+
+- key: nebrós
+  ety: PIE {*negʷʰrós}
+  class: II
+  content:
+    - gen: m
+      def: kidney
+
+- key: nás
+  ety: PIE {*néh₂s}
+  inflection:
+    sg:
+      nom: nás
+      acc: násam
+      gen: nasés
+      abl: nasés
+      dat: nasí
+      loc: nási
+      ins: nasé
+    pl:
+      nom: náses
+      acc: násans
+      gen: nasóm
+      abl: nasmós
+      dat: nasmós
+      loc: nasú
+      ins: nasbí
+  content:
+    - gen: f
+      def: nose
+
+
